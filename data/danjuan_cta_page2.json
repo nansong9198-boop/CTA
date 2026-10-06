@@ -1,0 +1,1975 @@
+{
+  "data": {
+    "module_type": 2,
+    "total_count": 39,
+    "total_page_count": 2,
+    "weight": 0,
+    "fund_datas": [
+      {
+        "symbol": "P001054",
+        "optional_flag": 2,
+        "fund_index_type": "105",
+        "establish_over_one_year_flag": false,
+        "fund_type": 2,
+        "invest_type": 1,
+        "fund_index_info": {
+          "data_list": [
+            {
+              "percent": "-0.03338769"
+            },
+            {
+              "percent": "0.00060117"
+            },
+            {
+              "percent": "0.06737556"
+            },
+            {
+              "percent": "0.02086843"
+            },
+            {
+              "percent": "0.13971843"
+            },
+            {
+              "percent": "0.03545003"
+            },
+            {
+              "percent": "0.12680438"
+            },
+            {
+              "percent": "-0.04230723"
+            },
+            {
+              "percent": "0.01364734"
+            },
+            {
+              "percent": "-0.05479452"
+            },
+            {
+              "percent": "0.03546099"
+            },
+            {
+              "percent": "0.07224335"
+            },
+            {
+              "percent": "-0.03308824"
+            },
+            {
+              "percent": "-0.14733542"
+            },
+            {
+              "percent": "-0.04586241"
+            },
+            {
+              "percent": "-0.10923623"
+            },
+            {
+              "percent": "-0.06322795"
+            },
+            {
+              "percent": "0.20200000"
+            },
+            {
+              "percent": "-0.02777778"
+            },
+            {
+              "percent": "0.15200000"
+            },
+            {
+              "percent": "0.04712042"
+            },
+            {
+              "percent": "-0.04500000"
+            },
+            {
+              "percent": "0.12169312"
+            },
+            {
+              "percent": "0.09169675"
+            },
+            {
+              "percent": "0.04292169"
+            },
+            {
+              "percent": "0.20547945"
+            },
+            {
+              "percent": "0.11784288"
+            },
+            {
+              "percent": "0.01349528"
+            },
+            {
+              "percent": "0.23913043"
+            },
+            {
+              "percent": "0.18181818"
+            },
+            {
+              "percent": "0.03160041"
+            },
+            {
+              "percent": "-0.01900000"
+            }
+          ],
+          "sub_title": {
+            "content": "成立 32 个季度， &&21个季度&& 正收益，占比 &&66%&&"
+          },
+          "title": {
+            "content": ""
+          }
+        },
+        "fund_name": "量道CTA精选1号",
+        "fund_code": "P001054",
+        "pass_key": false,
+        "force_key": false,
+        "ta_private_fund_code": "SEE186",
+        "done_key": false,
+        "fund_summary_info": {
+          "first_summary_desc": "近5年年化",
+          "first_summary_mark_info": {
+            "color_key": "Red010"
+          },
+          "first_format_value": "+3.11%"
+        },
+        "fund_card_type": 2
+      },
+      {
+        "symbol": "P001482",
+        "optional_flag": 2,
+        "fund_index_type": "105",
+        "establish_over_one_year_flag": false,
+        "fund_type": 2,
+        "invest_type": 1,
+        "fund_index_info": {
+          "data_list": [
+            {
+              "percent": "0.13558484"
+            },
+            {
+              "percent": "0.06315739"
+            },
+            {
+              "percent": "0.04355635"
+            },
+            {
+              "percent": "0.22887799"
+            },
+            {
+              "percent": "0.05532190"
+            },
+            {
+              "percent": "0.00566111"
+            },
+            {
+              "percent": "0.06485588"
+            },
+            {
+              "percent": "0.20962199"
+            },
+            {
+              "percent": "-0.04939845"
+            },
+            {
+              "percent": "-0.06286866"
+            },
+            {
+              "percent": "0.00434946"
+            },
+            {
+              "percent": "-0.00766483"
+            },
+            {
+              "percent": "0.06086682"
+            },
+            {
+              "percent": "0.07193027"
+            },
+            {
+              "percent": "0.07583758"
+            },
+            {
+              "percent": "-0.02390474"
+            },
+            {
+              "percent": "0.02142144"
+            },
+            {
+              "percent": "-0.03874008"
+            },
+            {
+              "percent": "0.14587083"
+            },
+            {
+              "percent": "0.00020000"
+            }
+          ],
+          "sub_title": {
+            "content": "成立 20 个季度， &&15个季度&& 正收益，占比 &&75%&&"
+          },
+          "title": {
+            "content": ""
+          }
+        },
+        "fund_name": "量派聚核20号",
+        "fund_code": "P001482",
+        "pass_key": false,
+        "force_key": false,
+        "ta_private_fund_code": "SSS088",
+        "done_key": false,
+        "fund_summary_info": {
+          "first_summary_desc": "近5年年化",
+          "first_summary_mark_info": {
+            "color_key": "Red010"
+          },
+          "first_format_value": "+17.16%"
+        },
+        "fund_card_type": 2
+      },
+      {
+        "symbol": "P001547",
+        "optional_flag": 2,
+        "fund_index_type": "105",
+        "establish_over_one_year_flag": false,
+        "fund_type": 2,
+        "invest_type": 1,
+        "fund_index_info": {
+          "data_list": [
+            {
+              "percent": "0.02140673"
+            },
+            {
+              "percent": "0.05309661"
+            },
+            {
+              "percent": "0.04468599"
+            },
+            {
+              "percent": "-0.01912337"
+            },
+            {
+              "percent": "0.04732364"
+            },
+            {
+              "percent": "-0.01372258"
+            },
+            {
+              "percent": "0.01706818"
+            },
+            {
+              "percent": "0.10773018"
+            },
+            {
+              "percent": "-0.01023392"
+            }
+          ],
+          "sub_title": {
+            "content": "成立 9 个季度， &&6个季度&& 正收益，占比 &&67%&&"
+          },
+          "title": {
+            "content": ""
+          }
+        },
+        "fund_name": "量派CTA八号C",
+        "fund_code": "P001547",
+        "pass_key": false,
+        "force_key": false,
+        "ta_private_fund_code": "AGZ17C",
+        "done_key": false,
+        "fund_summary_info": {
+          "first_summary_desc": "近1年收益",
+          "first_summary_mark_info": {
+            "color_key": "Red010"
+          },
+          "first_format_value": "+11.72%"
+        },
+        "fund_card_type": 2
+      },
+      {
+        "symbol": "P001025",
+        "optional_flag": 2,
+        "fund_index_type": "105",
+        "establish_over_one_year_flag": false,
+        "fund_type": 2,
+        "invest_type": 1,
+        "fund_index_info": {
+          "data_list": [
+            {
+              "percent": "0.15224777"
+            },
+            {
+              "percent": "0.03212917"
+            },
+            {
+              "percent": "0.04209274"
+            },
+            {
+              "percent": "0.27016622"
+            },
+            {
+              "percent": "0.04445530"
+            },
+            {
+              "percent": "0.03139413"
+            },
+            {
+              "percent": "0.08943124"
+            },
+            {
+              "percent": "0.25194270"
+            },
+            {
+              "percent": "-0.08714954"
+            },
+            {
+              "percent": "-0.09284714"
+            },
+            {
+              "percent": "-0.02534346"
+            },
+            {
+              "percent": "-0.00344402"
+            },
+            {
+              "percent": "-0.04475854"
+            },
+            {
+              "percent": "0.06732270"
+            },
+            {
+              "percent": "0.02206469"
+            },
+            {
+              "percent": "-0.12414141"
+            },
+            {
+              "percent": "-0.00247745"
+            },
+            {
+              "percent": "-0.02317931"
+            },
+            {
+              "percent": "-0.00582685"
+            },
+            {
+              "percent": "0.14991570"
+            },
+            {
+              "percent": "0.19101066"
+            },
+            {
+              "percent": "0.01669807"
+            },
+            {
+              "percent": "0.07494936"
+            },
+            {
+              "percent": "0.12140333"
+            },
+            {
+              "percent": "0.18640515"
+            },
+            {
+              "percent": "0.01744230"
+            },
+            {
+              "percent": "0.09875303"
+            },
+            {
+              "percent": "-0.00607220"
+            },
+            {
+              "percent": "-0.02474244"
+            },
+            {
+              "percent": "0.29580574"
+            },
+            {
+              "percent": "-0.04879512"
+            }
+          ],
+          "sub_title": {
+            "content": "成立 31 个季度， &&19个季度&& 正收益，占比 &&61%&&"
+          },
+          "title": {
+            "content": ""
+          }
+        },
+        "fund_name": "千象卓越3号中证500指数增强A",
+        "fund_code": "P001025",
+        "pass_key": false,
+        "force_key": false,
+        "ta_private_fund_code": "ES717A",
+        "done_key": false,
+        "fund_summary_info": {
+          "first_summary_desc": "近5年年化",
+          "first_summary_mark_info": {
+            "color_key": "Red010"
+          },
+          "first_format_value": "+7.41%"
+        },
+        "fund_card_type": 2
+      },
+      {
+        "symbol": "P001987",
+        "optional_flag": 2,
+        "fund_index_type": "101",
+        "establish_over_one_year_flag": false,
+        "fund_type": 2,
+        "invest_type": 1,
+        "fund_index_info": {
+          "data_list": [
+            {
+              "fund_point": "0.00000000"
+            },
+            {
+              "fund_point": "-0.00898600"
+            },
+            {
+              "fund_point": "0.00028377"
+            },
+            {
+              "fund_point": "0.00066213"
+            },
+            {
+              "fund_point": "0.00510783"
+            },
+            {
+              "fund_point": "0.00170261"
+            },
+            {
+              "fund_point": "0.01172910"
+            },
+            {
+              "fund_point": "0.00728339"
+            },
+            {
+              "fund_point": "-0.00179720"
+            },
+            {
+              "fund_point": "0.00132425"
+            },
+            {
+              "fund_point": "-0.00368899"
+            },
+            {
+              "fund_point": "-0.02487703"
+            },
+            {
+              "fund_point": "-0.00444571"
+            },
+            {
+              "fund_point": "0.00312145"
+            },
+            {
+              "fund_point": "0.00312145"
+            },
+            {
+              "fund_point": "-0.01570185"
+            },
+            {
+              "fund_point": "-0.02402573"
+            },
+            {
+              "fund_point": "-0.01021566"
+            },
+            {
+              "fund_point": "-0.00917518"
+            },
+            {
+              "fund_point": "-0.01674234"
+            },
+            {
+              "fund_point": "-0.01958002"
+            },
+            {
+              "fund_point": "-0.01428301"
+            },
+            {
+              "fund_point": "-0.01891790"
+            },
+            {
+              "fund_point": "-0.00652667"
+            },
+            {
+              "fund_point": "-0.00416194"
+            },
+            {
+              "fund_point": "0.00501324"
+            },
+            {
+              "fund_point": "0.00321604"
+            },
+            {
+              "fund_point": "0.00009459"
+            },
+            {
+              "fund_point": "0.00510783"
+            }
+          ],
+          "percent_list": [
+            "0.51",
+            "0.00"
+          ],
+          "chart_mark_data": {
+            "label_stock_info": "无",
+            "label_fund_info": "本基金",
+            "label_date_info": "2026.03.27 以来"
+          }
+        },
+        "fund_name": "悬铃尊享稳健CTA5号",
+        "fund_code": "P001987",
+        "pass_key": false,
+        "force_key": false,
+        "ta_private_fund_code": "SZF450",
+        "done_key": false,
+        "fund_summary_info": {
+          "first_summary_desc": "近6个月收益",
+          "first_summary_mark_info": {
+            "color_key": "Red010"
+          },
+          "first_format_value": "+0.51%"
+        },
+        "fund_card_type": 2
+      },
+      {
+        "symbol": "P001497",
+        "optional_flag": 2,
+        "fund_index_type": "105",
+        "establish_over_one_year_flag": false,
+        "fund_type": 2,
+        "invest_type": 1,
+        "fund_index_info": {
+          "data_list": [
+            {
+              "percent": "0.01379548"
+            },
+            {
+              "percent": "0.04832781"
+            },
+            {
+              "percent": "0.03900576"
+            },
+            {
+              "percent": "-0.01994232"
+            },
+            {
+              "percent": "0.04461252"
+            },
+            {
+              "percent": "-0.01328189"
+            },
+            {
+              "percent": "0.04376815"
+            },
+            {
+              "percent": "0.18761270"
+            },
+            {
+              "percent": "-0.00654257"
+            },
+            {
+              "percent": "0.05653390"
+            },
+            {
+              "percent": "0.09675090"
+            },
+            {
+              "percent": "0.02916589"
+            },
+            {
+              "percent": "0.03389993"
+            }
+          ],
+          "sub_title": {
+            "content": "成立 13 个季度， &&10个季度&& 正收益，占比 &&77%&&"
+          },
+          "title": {
+            "content": ""
+          }
+        },
+        "fund_name": "量派CTA七号C",
+        "fund_code": "P001497",
+        "pass_key": false,
+        "force_key": false,
+        "ta_private_fund_code": "ZC678C",
+        "done_key": false,
+        "fund_summary_info": {
+          "first_summary_desc": "近3年年化",
+          "first_summary_mark_info": {
+            "color_key": "Red010"
+          },
+          "first_format_value": "+16.16%"
+        },
+        "fund_card_type": 2
+      },
+      {
+        "symbol": "P001147",
+        "optional_flag": 2,
+        "fund_index_type": "105",
+        "establish_over_one_year_flag": false,
+        "fund_type": 2,
+        "invest_type": 1,
+        "fund_index_info": {
+          "data_list": [
+            {
+              "percent": "0.02956944"
+            },
+            {
+              "percent": "0.03082635"
+            },
+            {
+              "percent": "0.02568417"
+            },
+            {
+              "percent": "0.05198919"
+            },
+            {
+              "percent": "0.10209190"
+            },
+            {
+              "percent": "0.02173913"
+            },
+            {
+              "percent": "0.05208534"
+            },
+            {
+              "percent": "0.12899954"
+            },
+            {
+              "percent": "-0.02700520"
+            },
+            {
+              "percent": "0.06426048"
+            },
+            {
+              "percent": "0.01580989"
+            },
+            {
+              "percent": "-0.07016595"
+            },
+            {
+              "percent": "-0.00991160"
+            },
+            {
+              "percent": "-0.00462181"
+            },
+            {
+              "percent": "0.01068990"
+            },
+            {
+              "percent": "-0.04207899"
+            },
+            {
+              "percent": "-0.01123118"
+            },
+            {
+              "percent": "-0.01409278"
+            },
+            {
+              "percent": "-0.06589876"
+            },
+            {
+              "percent": "0.03621306"
+            },
+            {
+              "percent": "0.05925862"
+            },
+            {
+              "percent": "-0.00623932"
+            },
+            {
+              "percent": "0.17987664"
+            },
+            {
+              "percent": "0.13453464"
+            },
+            {
+              "percent": "0.07111403"
+            }
+          ],
+          "sub_title": {
+            "content": "成立 25 个季度， &&16个季度&& 正收益，占比 &&64%&&"
+          },
+          "title": {
+            "content": ""
+          }
+        },
+        "fund_name": "瑞达期货-瑞智进取共赢5号集合资产管理计划",
+        "fund_code": "P001147",
+        "pass_key": false,
+        "force_key": false,
+        "ta_private_fund_code": "SJK472",
+        "done_key": false,
+        "fund_summary_info": {
+          "first_summary_desc": "近5年年化",
+          "first_summary_mark_info": {
+            "color_key": "Red010"
+          },
+          "first_format_value": "+3.97%"
+        },
+        "fund_card_type": 2
+      },
+      {
+        "symbol": "P001585",
+        "optional_flag": 2,
+        "fund_index_type": "105",
+        "establish_over_one_year_flag": false,
+        "fund_type": 2,
+        "invest_type": 1,
+        "fund_index_info": {
+          "data_list": [
+            {
+              "percent": "0.02715655"
+            },
+            {
+              "percent": "-0.02492212"
+            },
+            {
+              "percent": "-0.04888889"
+            },
+            {
+              "percent": "0.02427921"
+            },
+            {
+              "percent": "0.00151976"
+            },
+            {
+              "percent": "0.00765697"
+            },
+            {
+              "percent": "0.01161890"
+            },
+            {
+              "percent": "-0.01450382"
+            },
+            {
+              "percent": "-0.07616361"
+            },
+            {
+              "percent": "0.04341428"
+            },
+            {
+              "percent": "0.07698229"
+            },
+            {
+              "percent": "0.10365336"
+            },
+            {
+              "percent": "0.00512383"
+            },
+            {
+              "percent": "-0.01926298"
+            },
+            {
+              "percent": "0.00000000"
+            },
+            {
+              "percent": "-0.01485149"
+            },
+            {
+              "percent": "-0.01857585"
+            },
+            {
+              "percent": "0.12937063"
+            },
+            {
+              "percent": "-0.01927913"
+            },
+            {
+              "percent": "0.08751139"
+            },
+            {
+              "percent": "-0.03687445"
+            },
+            {
+              "percent": "0.06150979"
+            },
+            {
+              "percent": "0.12818406"
+            },
+            {
+              "percent": "0.06102877"
+            },
+            {
+              "percent": "0.06007394"
+            },
+            {
+              "percent": "0.12008282"
+            },
+            {
+              "percent": "-0.00821355"
+            },
+            {
+              "percent": "-0.02600000"
+            }
+          ],
+          "sub_title": {
+            "content": "成立 28 个季度， &&16个季度&& 正收益，占比 &&57%&&"
+          },
+          "title": {
+            "content": ""
+          }
+        },
+        "fund_name": "佑维CTA平衡一号",
+        "fund_code": "P001585",
+        "pass_key": false,
+        "force_key": false,
+        "ta_private_fund_code": "SGW076",
+        "done_key": false,
+        "fund_summary_info": {
+          "first_summary_desc": "近5年年化",
+          "first_summary_mark_info": {
+            "color_key": "Red010"
+          },
+          "first_format_value": "+6.07%"
+        },
+        "fund_card_type": 2
+      },
+      {
+        "symbol": "P001697",
+        "optional_flag": 2,
+        "fund_index_type": "105",
+        "establish_over_one_year_flag": false,
+        "fund_type": 2,
+        "invest_type": 1,
+        "fund_index_info": {
+          "data_list": [
+            {
+              "percent": "-0.02357019"
+            },
+            {
+              "percent": "0.01561741"
+            },
+            {
+              "percent": "0.04322954"
+            },
+            {
+              "percent": "-0.00367939"
+            },
+            {
+              "percent": "0.04832854"
+            },
+            {
+              "percent": "-0.01427027"
+            },
+            {
+              "percent": "0.10127788"
+            },
+            {
+              "percent": "0.03034020"
+            },
+            {
+              "percent": "0.05459250"
+            },
+            {
+              "percent": "0.04846731"
+            },
+            {
+              "percent": "0.07896996"
+            },
+            {
+              "percent": "0.08137376"
+            },
+            {
+              "percent": "-0.01961577"
+            },
+            {
+              "percent": "-0.01100000"
+            }
+          ],
+          "sub_title": {
+            "content": "成立 14 个季度， &&9个季度&& 正收益，占比 &&64%&&"
+          },
+          "title": {
+            "content": ""
+          }
+        },
+        "fund_name": "安贤CTA量化一号",
+        "fund_code": "P001697",
+        "pass_key": false,
+        "force_key": false,
+        "ta_private_fund_code": "SZB647",
+        "done_key": false,
+        "fund_summary_info": {
+          "first_summary_desc": "近3年年化",
+          "first_summary_mark_info": {
+            "color_key": "Red010"
+          },
+          "first_format_value": "+13.56%"
+        },
+        "fund_card_type": 2
+      },
+      {
+        "symbol": "P001012",
+        "optional_flag": 2,
+        "fund_index_type": "105",
+        "establish_over_one_year_flag": false,
+        "fund_type": 2,
+        "invest_type": 1,
+        "fund_index_info": {
+          "data_list": [
+            {
+              "percent": "-0.02935077"
+            },
+            {
+              "percent": "0.02533963"
+            },
+            {
+              "percent": "0.02980535"
+            },
+            {
+              "percent": "0.05216000"
+            },
+            {
+              "percent": "-0.01044965"
+            },
+            {
+              "percent": "0.02933507"
+            },
+            {
+              "percent": "0.02711751"
+            },
+            {
+              "percent": "0.04185560"
+            },
+            {
+              "percent": "0.00174703"
+            },
+            {
+              "percent": "0.01345609"
+            },
+            {
+              "percent": "-0.03088538"
+            },
+            {
+              "percent": "0.00760719"
+            },
+            {
+              "percent": "-0.01364256"
+            },
+            {
+              "percent": "-0.03837324"
+            },
+            {
+              "percent": "-0.01198963"
+            },
+            {
+              "percent": "-0.06513178"
+            },
+            {
+              "percent": "-0.06274844"
+            },
+            {
+              "percent": "0.12776177"
+            },
+            {
+              "percent": "-0.02891791"
+            },
+            {
+              "percent": "0.04755700"
+            },
+            {
+              "percent": "-0.00130124"
+            },
+            {
+              "percent": "0.01318392"
+            },
+            {
+              "percent": "0.07856381"
+            },
+            {
+              "percent": "0.11273734"
+            },
+            {
+              "percent": "0.00158479"
+            },
+            {
+              "percent": "0.22227603"
+            },
+            {
+              "percent": "0.12779902"
+            },
+            {
+              "percent": "0.01892042"
+            },
+            {
+              "percent": "0.56125109"
+            },
+            {
+              "percent": "0.02767857"
+            },
+            {
+              "percent": "-0.00444444"
+            },
+            {
+              "percent": "0.07244995"
+            },
+            {
+              "percent": "0.02944063"
+            },
+            {
+              "percent": "0.03556911"
+            },
+            {
+              "percent": "-0.04558681"
+            },
+            {
+              "percent": "0.03514056"
+            }
+          ],
+          "sub_title": {
+            "content": "成立 36 个季度， &&24个季度&& 正收益，占比 &&67%&&"
+          },
+          "title": {
+            "content": ""
+          }
+        },
+        "fund_name": "博孚利CTA5号",
+        "fund_code": "P001012",
+        "pass_key": false,
+        "force_key": false,
+        "ta_private_fund_code": "SM2753",
+        "done_key": false,
+        "fund_summary_info": {
+          "first_summary_desc": "近5年年化",
+          "first_summary_mark_info": {
+            "color_key": "Red010"
+          },
+          "first_format_value": "+1.63%"
+        },
+        "fund_card_type": 2
+      },
+      {
+        "symbol": "P001595",
+        "optional_flag": 2,
+        "fund_index_type": "105",
+        "establish_over_one_year_flag": false,
+        "fund_type": 2,
+        "invest_type": 1,
+        "fund_index_info": {
+          "data_list": [
+            {
+              "percent": "0.03206360"
+            },
+            {
+              "percent": "-0.01969853"
+            },
+            {
+              "percent": "0.03756924"
+            },
+            {
+              "percent": "0.09966455"
+            },
+            {
+              "percent": "0.00404754"
+            },
+            {
+              "percent": "0.01459152"
+            },
+            {
+              "percent": "0.06237100"
+            },
+            {
+              "percent": "0.06438055"
+            },
+            {
+              "percent": "-0.02680082"
+            },
+            {
+              "percent": "0.07350411"
+            },
+            {
+              "percent": "0.00340807"
+            },
+            {
+              "percent": "0.07677451"
+            },
+            {
+              "percent": "0.01489758"
+            },
+            {
+              "percent": "0.01270471"
+            },
+            {
+              "percent": "0.00850851"
+            },
+            {
+              "percent": "-0.00100000"
+            }
+          ],
+          "sub_title": {
+            "content": "成立 16 个季度， &&13个季度&& 正收益，占比 &&81%&&"
+          },
+          "title": {
+            "content": ""
+          }
+        },
+        "fund_name": "因诺CTA2号B",
+        "fund_code": "P001595",
+        "pass_key": false,
+        "force_key": false,
+        "ta_private_fund_code": "XJ080B",
+        "done_key": false,
+        "fund_summary_info": {
+          "first_summary_desc": "近3年年化",
+          "first_summary_mark_info": {
+            "color_key": "Red010"
+          },
+          "first_format_value": "+9.93%"
+        },
+        "fund_card_type": 2
+      },
+      {
+        "symbol": "P001282",
+        "optional_flag": 2,
+        "fund_index_type": "105",
+        "establish_over_one_year_flag": false,
+        "fund_type": 2,
+        "invest_type": 1,
+        "fund_index_info": {
+          "data_list": [
+            {
+              "percent": "0.00086655"
+            },
+            {
+              "percent": "0.02214349"
+            },
+            {
+              "percent": "-0.01483421"
+            },
+            {
+              "percent": "0.00526316"
+            },
+            {
+              "percent": "0.01785714"
+            },
+            {
+              "percent": "0.00628931"
+            },
+            {
+              "percent": "-0.02282704"
+            },
+            {
+              "percent": "-0.00175285"
+            },
+            {
+              "percent": "0.03164557"
+            },
+            {
+              "percent": "-0.00628931"
+            },
+            {
+              "percent": "0.00000000"
+            },
+            {
+              "percent": "-0.00802139"
+            },
+            {
+              "percent": "-0.00551809"
+            },
+            {
+              "percent": "-0.01271186"
+            },
+            {
+              "percent": "0.04623179"
+            },
+            {
+              "percent": "-0.01619938"
+            },
+            {
+              "percent": "0.02950609"
+            },
+            {
+              "percent": "0.02296588"
+            },
+            {
+              "percent": "0.11485004"
+            },
+            {
+              "percent": "0.19597550"
+            },
+            {
+              "percent": "0.02053571"
+            },
+            {
+              "percent": "0.06768351"
+            },
+            {
+              "percent": "0.00191022"
+            },
+            {
+              "percent": "0.06510682"
+            },
+            {
+              "percent": "0.05246253"
+            },
+            {
+              "percent": "0.01411509"
+            },
+            {
+              "percent": "0.01431718"
+            },
+            {
+              "percent": "-0.10276680"
+            },
+            {
+              "percent": "0.01200000"
+            }
+          ],
+          "sub_title": {
+            "content": "成立 29 个季度， &&19个季度&& 正收益，占比 &&66%&&"
+          },
+          "title": {
+            "content": ""
+          }
+        },
+        "fund_name": "远澜云杉2号",
+        "fund_code": "P001282",
+        "pass_key": false,
+        "force_key": false,
+        "ta_private_fund_code": "XY1006",
+        "done_key": false,
+        "fund_summary_info": {
+          "first_summary_desc": "近5年年化",
+          "first_summary_mark_info": {
+            "color_key": "Red010"
+          },
+          "first_format_value": "+2.76%"
+        },
+        "fund_card_type": 2
+      },
+      {
+        "symbol": "P001266",
+        "optional_flag": 2,
+        "fund_index_type": "105",
+        "establish_over_one_year_flag": false,
+        "fund_type": 2,
+        "invest_type": 1,
+        "fund_index_info": {
+          "data_list": [
+            {
+              "percent": "-0.00087184"
+            },
+            {
+              "percent": "-0.02216539"
+            },
+            {
+              "percent": "0.01792382"
+            },
+            {
+              "percent": "0.04527713"
+            },
+            {
+              "percent": "0.02562050"
+            },
+            {
+              "percent": "-0.03253292"
+            },
+            {
+              "percent": "-0.03295880"
+            },
+            {
+              "percent": "-0.05520170"
+            },
+            {
+              "percent": "0.04126750"
+            },
+            {
+              "percent": "0.08041401"
+            },
+            {
+              "percent": "0.00641026"
+            },
+            {
+              "percent": "0.01052632"
+            },
+            {
+              "percent": "0.00145138"
+            },
+            {
+              "percent": "0.01998520"
+            },
+            {
+              "percent": "0.01350338"
+            },
+            {
+              "percent": "0.04467085"
+            },
+            {
+              "percent": "0.02820306"
+            },
+            {
+              "percent": "0.15664557"
+            },
+            {
+              "percent": "0.00158479"
+            },
+            {
+              "percent": "0.11978705"
+            },
+            {
+              "percent": "0.04651163"
+            },
+            {
+              "percent": "0.02870813"
+            },
+            {
+              "percent": "0.02786885"
+            },
+            {
+              "percent": "0.01921470"
+            },
+            {
+              "percent": "0.00927487"
+            },
+            {
+              "percent": "0.03580786"
+            },
+            {
+              "percent": "0.00174978"
+            },
+            {
+              "percent": "0.11186770"
+            },
+            {
+              "percent": "0.13253012"
+            },
+            {
+              "percent": "0.01529052"
+            },
+            {
+              "percent": "-0.01900000"
+            }
+          ],
+          "sub_title": {
+            "content": "成立 31 个季度， &&25个季度&& 正收益，占比 &&81%&&"
+          },
+          "title": {
+            "content": ""
+          }
+        },
+        "fund_name": "思瑞二号",
+        "fund_code": "P001266",
+        "pass_key": false,
+        "force_key": false,
+        "ta_private_fund_code": "SM2082",
+        "done_key": false,
+        "fund_summary_info": {
+          "first_summary_desc": "近5年年化",
+          "first_summary_mark_info": {
+            "color_key": "Red010"
+          },
+          "first_format_value": "+7.59%"
+        },
+        "fund_card_type": 2
+      },
+      {
+        "symbol": "P001701",
+        "optional_flag": 2,
+        "fund_index_type": "105",
+        "establish_over_one_year_flag": false,
+        "fund_type": 2,
+        "invest_type": 1,
+        "fund_index_info": {
+          "data_list": [
+            {
+              "percent": "0.02732240"
+            },
+            {
+              "percent": "0.01453171"
+            },
+            {
+              "percent": "0.01561167"
+            },
+            {
+              "percent": "0.01060436"
+            },
+            {
+              "percent": "0.00572271"
+            },
+            {
+              "percent": "0.04248396"
+            },
+            {
+              "percent": "0.07366071"
+            },
+            {
+              "percent": "-0.00164713"
+            },
+            {
+              "percent": "0.03210000"
+            },
+            {
+              "percent": "0.00000000"
+            }
+          ],
+          "sub_title": {
+            "content": "成立 10 个季度， &&8个季度&& 正收益，占比 &&80%&&"
+          },
+          "title": {
+            "content": ""
+          }
+        },
+        "fund_name": "黑翼中性多策略9号C",
+        "fund_code": "P001701",
+        "pass_key": false,
+        "force_key": false,
+        "ta_private_fund_code": "SAEJ50",
+        "done_key": false,
+        "fund_summary_info": {
+          "first_summary_desc": "近1年收益",
+          "first_summary_mark_info": {
+            "color_key": "Red010"
+          },
+          "first_format_value": "+2.40%"
+        },
+        "fund_card_type": 2
+      },
+      {
+        "symbol": "P001352",
+        "optional_flag": 2,
+        "fund_index_type": "105",
+        "establish_over_one_year_flag": false,
+        "fund_type": 2,
+        "invest_type": 1,
+        "fund_index_info": {
+          "data_list": [
+            {
+              "percent": "-0.00610376"
+            },
+            {
+              "percent": "-0.00304569"
+            },
+            {
+              "percent": "-0.01533101"
+            },
+            {
+              "percent": "0.05825959"
+            },
+            {
+              "percent": "0.05932865"
+            },
+            {
+              "percent": "0.01346002"
+            },
+            {
+              "percent": "-0.01405152"
+            },
+            {
+              "percent": "0.03140097"
+            },
+            {
+              "percent": "0.07161346"
+            },
+            {
+              "percent": "0.08014911"
+            },
+            {
+              "percent": "0.01996198"
+            },
+            {
+              "percent": "-0.01682243"
+            },
+            {
+              "percent": "0.00093545"
+            },
+            {
+              "percent": "-0.00834879"
+            },
+            {
+              "percent": "-0.01462523"
+            },
+            {
+              "percent": "0.01957130"
+            },
+            {
+              "percent": "0.00186741"
+            },
+            {
+              "percent": "0.07246377"
+            },
+            {
+              "percent": "0.06863469"
+            },
+            {
+              "percent": "0.38295788"
+            },
+            {
+              "percent": "0.02100000"
+            }
+          ],
+          "sub_title": {
+            "content": "成立 21 个季度， &&14个季度&& 正收益，占比 &&67%&&"
+          },
+          "title": {
+            "content": ""
+          }
+        },
+        "fund_name": "明睿骁云策略",
+        "fund_code": "P001352",
+        "pass_key": false,
+        "force_key": false,
+        "ta_private_fund_code": "SQE129",
+        "done_key": false,
+        "fund_summary_info": {
+          "first_summary_desc": "近5年年化",
+          "first_summary_mark_info": {
+            "color_key": "Red010"
+          },
+          "first_format_value": "+6.74%"
+        },
+        "fund_card_type": 2
+      },
+      {
+        "symbol": "P001148",
+        "optional_flag": 2,
+        "fund_index_type": "105",
+        "establish_over_one_year_flag": false,
+        "fund_type": 2,
+        "invest_type": 1,
+        "fund_index_info": {
+          "data_list": [
+            {
+              "percent": "0.01697656"
+            },
+            {
+              "percent": "-0.13977747"
+            },
+            {
+              "percent": "0.03968608"
+            },
+            {
+              "percent": "0.03613011"
+            },
+            {
+              "percent": "-0.03098138"
+            },
+            {
+              "percent": "0.16624896"
+            },
+            {
+              "percent": "0.05654145"
+            },
+            {
+              "percent": "0.07667494"
+            },
+            {
+              "percent": "0.14542871"
+            },
+            {
+              "percent": "0.00237417"
+            },
+            {
+              "percent": "0.11077406"
+            },
+            {
+              "percent": "-0.01827891"
+            },
+            {
+              "percent": "-0.03612788"
+            },
+            {
+              "percent": "0.05580520"
+            },
+            {
+              "percent": "0.06119375"
+            },
+            {
+              "percent": "-0.11254073"
+            },
+            {
+              "percent": "0.02597291"
+            },
+            {
+              "percent": "0.15780071"
+            },
+            {
+              "percent": "0.05605233"
+            },
+            {
+              "percent": "0.12249071"
+            },
+            {
+              "percent": "0.01365992"
+            },
+            {
+              "percent": "-0.02899744"
+            },
+            {
+              "percent": "0.21101751"
+            },
+            {
+              "percent": "0.12028127"
+            },
+            {
+              "percent": "0.04053143"
+            },
+            {
+              "percent": "-0.01236094"
+            },
+            {
+              "percent": "0.03754535"
+            },
+            {
+              "percent": "0.03485430"
+            },
+            {
+              "percent": "0.10250180"
+            },
+            {
+              "percent": "0.10997902"
+            }
+          ],
+          "sub_title": {
+            "content": "成立 30 个季度， &&23个季度&& 正收益，占比 &&77%&&"
+          },
+          "title": {
+            "content": ""
+          }
+        },
+        "fund_name": "润洲正行一号A",
+        "fund_code": "P001148",
+        "pass_key": false,
+        "force_key": false,
+        "ta_private_fund_code": "ER095A",
+        "done_key": false,
+        "fund_summary_info": {
+          "first_summary_desc": "近5年年化",
+          "first_summary_mark_info": {
+            "color_key": "Red010"
+          },
+          "first_format_value": "+9.91%"
+        },
+        "fund_card_type": 2
+      },
+      {
+        "symbol": "P001608",
+        "optional_flag": 2,
+        "fund_index_type": "105",
+        "establish_over_one_year_flag": false,
+        "fund_type": 2,
+        "invest_type": 1,
+        "fund_index_info": {
+          "data_list": [
+            {
+              "percent": "-0.07018260"
+            },
+            {
+              "percent": "-0.01496735"
+            },
+            {
+              "percent": "0.05735528"
+            },
+            {
+              "percent": "-0.00507239"
+            },
+            {
+              "percent": "-0.06482854"
+            },
+            {
+              "percent": "0.03621589"
+            },
+            {
+              "percent": "-0.01918725"
+            },
+            {
+              "percent": "0.01437269"
+            },
+            {
+              "percent": "0.00059922"
+            },
+            {
+              "percent": "0.04157753"
+            },
+            {
+              "percent": "-0.00204214"
+            },
+            {
+              "percent": "0.00918033"
+            },
+            {
+              "percent": "0.04034694"
+            },
+            {
+              "percent": "0.01665687"
+            },
+            {
+              "percent": "0.00760194"
+            },
+            {
+              "percent": "-0.00948562"
+            },
+            {
+              "percent": "0.03084677"
+            },
+            {
+              "percent": "-0.00217762"
+            },
+            {
+              "percent": "0.02553646"
+            },
+            {
+              "percent": "-0.00203488"
+            },
+            {
+              "percent": "0.02259215"
+            },
+            {
+              "percent": "0.03247610"
+            },
+            {
+              "percent": "0.05910083"
+            },
+            {
+              "percent": "0.08066038"
+            },
+            {
+              "percent": "0.06393657"
+            },
+            {
+              "percent": "0.06095859"
+            },
+            {
+              "percent": "-0.03563095"
+            },
+            {
+              "percent": "0.04639369"
+            },
+            {
+              "percent": "0.06469353"
+            },
+            {
+              "percent": "0.00000000"
+            }
+          ],
+          "sub_title": {
+            "content": "成立 30 个季度， &&19个季度&& 正收益，占比 &&63%&&"
+          },
+          "title": {
+            "content": ""
+          }
+        },
+        "fund_name": "信达诚睿进取1号集合资产管理计划",
+        "fund_code": "P001608",
+        "pass_key": false,
+        "force_key": false,
+        "ta_private_fund_code": "SM6758",
+        "done_key": false,
+        "fund_summary_info": {
+          "first_summary_desc": "近5年年化",
+          "first_summary_mark_info": {
+            "color_key": "Red010"
+          },
+          "first_format_value": "+1.73%"
+        },
+        "fund_card_type": 2
+      },
+      {
+        "symbol": "P001162",
+        "optional_flag": 2,
+        "fund_index_type": "105",
+        "establish_over_one_year_flag": false,
+        "fund_type": 2,
+        "invest_type": 1,
+        "fund_index_info": {
+          "data_list": [
+            {
+              "percent": "-0.11746350"
+            },
+            {
+              "percent": "0.01303980"
+            },
+            {
+              "percent": "0.01188096"
+            },
+            {
+              "percent": "0.01056338"
+            },
+            {
+              "percent": "0.05724399"
+            },
+            {
+              "percent": "0.11461805"
+            },
+            {
+              "percent": "0.08334562"
+            },
+            {
+              "percent": "0.03225316"
+            },
+            {
+              "percent": "0.02168338"
+            },
+            {
+              "percent": "-0.04213504"
+            },
+            {
+              "percent": "0.03298985"
+            },
+            {
+              "percent": "-0.04913717"
+            },
+            {
+              "percent": "-0.02724234"
+            },
+            {
+              "percent": "0.02883278"
+            },
+            {
+              "percent": "-0.05504460"
+            },
+            {
+              "percent": "-0.02237696"
+            },
+            {
+              "percent": "0.23215327"
+            },
+            {
+              "percent": "-0.01590294"
+            },
+            {
+              "percent": "0.10148984"
+            },
+            {
+              "percent": "0.05576740"
+            },
+            {
+              "percent": "-0.04253377"
+            },
+            {
+              "percent": "0.09549045"
+            }
+          ],
+          "sub_title": {
+            "content": "成立 22 个季度， &&14个季度&& 正收益，占比 &&64%&&"
+          },
+          "title": {
+            "content": ""
+          }
+        },
+        "fund_name": "文谛量化16号",
+        "fund_code": "P001162",
+        "pass_key": false,
+        "force_key": false,
+        "ta_private_fund_code": "SLU564",
+        "done_key": false,
+        "fund_summary_info": {
+          "first_summary_desc": "近5年年化",
+          "first_summary_mark_info": {
+            "color_key": "Red010"
+          },
+          "first_format_value": "+9.75%"
+        },
+        "fund_card_type": 2
+      },
+      {
+        "symbol": "P001710",
+        "optional_flag": 2,
+        "fund_index_type": "105",
+        "establish_over_one_year_flag": false,
+        "fund_type": 2,
+        "invest_type": 1,
+        "fund_index_info": {
+          "data_list": [
+            {
+              "percent": "0.00369155"
+            },
+            {
+              "percent": "-0.10997536"
+            },
+            {
+              "percent": "-0.00904404"
+            },
+            {
+              "percent": "0.10151425"
+            },
+            {
+              "percent": "-0.01679819"
+            },
+            {
+              "percent": "0.17099726"
+            },
+            {
+              "percent": "0.05440864"
+            },
+            {
+              "percent": "0.05121184"
+            },
+            {
+              "percent": "0.14070352"
+            },
+            {
+              "percent": "0.03428286"
+            },
+            {
+              "percent": "0.10235787"
+            },
+            {
+              "percent": "-0.04483267"
+            },
+            {
+              "percent": "-0.01431535"
+            },
+            {
+              "percent": "0.12893781"
+            },
+            {
+              "percent": "0.04542116"
+            },
+            {
+              "percent": "-0.13930453"
+            },
+            {
+              "percent": "-0.07161025"
+            },
+            {
+              "percent": "-0.01417687"
+            },
+            {
+              "percent": "0.05119627"
+            },
+            {
+              "percent": "-0.02008002"
+            },
+            {
+              "percent": "0.00874505"
+            },
+            {
+              "percent": "-0.00298085"
+            },
+            {
+              "percent": "0.24607670"
+            },
+            {
+              "percent": "0.07851778"
+            },
+            {
+              "percent": "-0.00150000"
+            }
+          ],
+          "sub_title": {
+            "content": "成立 25 个季度， &&14个季度&& 正收益，占比 &&56%&&"
+          },
+          "title": {
+            "content": ""
+          }
+        },
+        "fund_name": "润洲复利一号A",
+        "fund_code": "P001710",
+        "pass_key": false,
+        "force_key": false,
+        "ta_private_fund_code": "JY158A",
+        "done_key": false,
+        "fund_summary_info": {
+          "first_summary_desc": "近5年年化",
+          "first_summary_mark_info": {
+            "color_key": "Red010"
+          },
+          "first_format_value": "+7.70%"
+        },
+        "fund_card_type": 2
+      }
+    ]
+  },
+  "result_code": 0
+}

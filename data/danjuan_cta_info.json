@@ -1,0 +1,282 @@
+[
+ {
+  "name": "黑翼中性多策略9号C",
+  "symbol": "P001701",
+  "found": "2024-02-08",
+  "subscribe": "0",
+  "keeper": "上海黑翼资产管理有限公司",
+  "min": ""
+ },
+ {
+  "name": "量派CTA七号C",
+  "symbol": "P001497",
+  "found": "2023-01-06",
+  "subscribe": "0",
+  "keeper": "上海量派投资管理有限公司",
+  "min": ""
+ },
+ {
+  "name": "因诺CTA2号B",
+  "symbol": "P001595",
+  "found": "2022-09-20",
+  "subscribe": "0",
+  "keeper": "因诺（上海）资产管理有限",
+  "min": ""
+ },
+ {
+  "name": "量派CTA八号C",
+  "symbol": "P001547",
+  "found": "2024-02-22",
+  "subscribe": "0",
+  "keeper": "上海量派投资管理有限公司",
+  "min": ""
+ },
+ {
+  "name": "博衍九溪CTA2号A",
+  "symbol": "P001734",
+  "found": "2024-10-23",
+  "subscribe": "0",
+  "keeper": "杭州博衍私募基金管理合伙",
+  "min": ""
+ },
+ {
+  "name": "量派聚核20号",
+  "symbol": "P001482",
+  "found": "",
+  "subscribe": "",
+  "keeper": "",
+  "min": ""
+ },
+ {
+  "name": "安贤CTA量化一号",
+  "symbol": "P001697",
+  "found": "",
+  "subscribe": "",
+  "keeper": "",
+  "min": ""
+ },
+ {
+  "name": "思瑞二号",
+  "symbol": "P001266",
+  "found": "",
+  "subscribe": "",
+  "keeper": "",
+  "min": ""
+ },
+ {
+  "name": "明睿骁云策略",
+  "symbol": "P001352",
+  "found": "2021-04-14",
+  "subscribe": "0",
+  "keeper": "明睿（北京）私募基金管理",
+  "min": ""
+ },
+ {
+  "name": "宏锡量化CTA7号",
+  "symbol": "P001481",
+  "found": "",
+  "subscribe": "0",
+  "keeper": "华泰证券外包业务",
+  "min": ""
+ },
+ {
+  "name": "博衍九溪CTA1号",
+  "symbol": "P001728",
+  "found": "",
+  "subscribe": "",
+  "keeper": "",
+  "min": ""
+ },
+ {
+  "name": "远澜银杏1号",
+  "symbol": "P001285",
+  "found": "2017-04-10",
+  "subscribe": "0",
+  "keeper": "上海远澜私募基金管理有限",
+  "min": ""
+ },
+ {
+  "name": "润洲正行一号A",
+  "symbol": "P001148",
+  "found": "2018-12-03",
+  "subscribe": "0",
+  "keeper": "杭州润洲私募基金管理有限",
+  "min": ""
+ },
+ {
+  "name": "会世元丰CTA1号",
+  "symbol": "P001097",
+  "found": "",
+  "subscribe": "0",
+  "keeper": "华泰证券外包业务",
+  "min": ""
+ },
+ {
+  "name": "旭诺CTA一号",
+  "symbol": "P001609",
+  "found": "2017-08-23",
+  "subscribe": "0",
+  "keeper": "上海旭诺资产管理有限公司",
+  "min": ""
+ },
+ {
+  "name": "洛书裕和延平",
+  "symbol": "P001018",
+  "found": "",
+  "subscribe": "",
+  "keeper": "",
+  "min": ""
+ },
+ {
+  "name": "均成CTA增强5号",
+  "symbol": "P001155",
+  "found": "2021-04-19",
+  "subscribe": "0",
+  "keeper": "广东横琴均成私募基金管理",
+  "min": ""
+ },
+ {
+  "name": "会世元丰CTA2号",
+  "symbol": "P000936",
+  "found": "2019-09-04",
+  "subscribe": "0",
+  "keeper": "上海会世私募基金管理有限",
+  "min": ""
+ },
+ {
+  "name": "博孚利CTA5号",
+  "symbol": "P001012",
+  "found": "",
+  "subscribe": "",
+  "keeper": "",
+  "min": ""
+ },
+ {
+  "name": "宏锡量化CTA7号二期",
+  "symbol": "P001289",
+  "found": "2021-05-25",
+  "subscribe": "0",
+  "keeper": "广东宏锡基金管理有限公司",
+  "min": ""
+ },
+ {
+  "name": "远澜云杉2号",
+  "symbol": "P001282",
+  "found": "2017-08-24",
+  "subscribe": "0",
+  "keeper": "上海远澜私募基金管理有限",
+  "min": ""
+ },
+ {
+  "name": "瑞达期货-瑞智进取共赢5号集合资产管理计划",
+  "symbol": "P001147",
+  "found": "2020-01-20",
+  "subscribe": "0",
+  "keeper": "瑞达期货股份有限公司",
+  "min": ""
+ },
+ {
+  "name": "千象卓越3号中证500指数增强A",
+  "symbol": "P001025",
+  "found": "2018-11-16",
+  "subscribe": "0",
+  "keeper": "上海千象资产管理有限公司",
+  "min": ""
+ },
+ {
+  "name": "均成CTA增强25号1期",
+  "symbol": "P001515",
+  "found": "2023-04-06",
+  "subscribe": "0",
+  "keeper": "广东横琴均成私募基金管理",
+  "min": ""
+ },
+ {
+  "name": "富善投资-沣时1号致远CTA1期",
+  "symbol": "P000934",
+  "found": "2019-03-08",
+  "subscribe": "0",
+  "keeper": "上海富善投资有限公司",
+  "min": ""
+ },
+ {
+  "name": "佑维CTA平衡一号",
+  "symbol": "P001585",
+  "found": "",
+  "subscribe": "0",
+  "keeper": "北京佑维投资管理有限公司",
+  "min": ""
+ },
+ {
+  "name": "洛书裕和建安",
+  "symbol": "P666017",
+  "found": "2020-12-28",
+  "subscribe": "0",
+  "keeper": "上海洛书投资管理有限公司",
+  "min": ""
+ },
+ {
+  "name": "信达诚睿进取1号集合资产管理计划",
+  "symbol": "P001608",
+  "found": "2019-06-21",
+  "subscribe": "0",
+  "keeper": "信达期货有限公司",
+  "min": ""
+ },
+ {
+  "name": "远澜红枫私享12号A",
+  "symbol": "P001286",
+  "found": "2021-04-01",
+  "subscribe": "0",
+  "keeper": "上海远澜私募基金管理有限",
+  "min": ""
+ },
+ {
+  "name": "量道CTA精选1号",
+  "symbol": "P001054",
+  "found": "",
+  "subscribe": "0",
+  "keeper": "深圳量道投资管理有限公司",
+  "min": ""
+ },
+ {
+  "name": "文谛量化16号",
+  "symbol": "P001162",
+  "found": "2020-10-09",
+  "subscribe": "0",
+  "keeper": "上海文谛资产管理有限公司",
+  "min": ""
+ },
+ {
+  "name": "洛书管理期货拾壹号",
+  "symbol": "P001391",
+  "found": "2022-01-27",
+  "subscribe": "0",
+  "keeper": "上海洛书投资管理有限公司",
+  "min": ""
+ },
+ {
+  "name": "润洲复利一号A",
+  "symbol": "P001710",
+  "found": "2020-05-14",
+  "subscribe": "0",
+  "keeper": "杭州润洲私募基金管理有限",
+  "min": ""
+ },
+ {
+  "name": "悬铃尊享稳健CTA5号",
+  "symbol": "P001987",
+  "found": "",
+  "subscribe": "",
+  "keeper": "",
+  "min": ""
+ },
+ {
+  "name": "南华商品指数集合资产管理计划",
+  "symbol": "P001876",
+  "found": "2024-05-31",
+  "subscribe": "0",
+  "keeper": "南华期货股份有限公司",
+  "min": ""
+ }
+]
