@@ -30,6 +30,12 @@ MIN_CRISIS_N = 4   # 危机季度样本门槛: 不足则危机指标按中性0.5
 MGR_MIN_AGE = 5    # 管理人成立不足5年剔除
 MGR_MIN_AUM = 10   # 管理规模不足10亿剔除(亿元)
 MAX_MIN_INV = 200  # 起购金额上限(万元, 2026-10-07用户拍板; 量派CTA七号C 500万起购触发此约束)
+# 用户股票类持仓(非CTA候选), 不进入本评估池
+NON_CTA_HOLDINGS = {"国源拾金3号", "龙旗红利科技轮动平衡5号",
+                    "龙旗X计划12号1期", "龙旗红利科技轮动平衡5号1期"}
+# 同策略验证对(货架外候选 vs 已验证基准产品): 重叠窗口周频相关性>0.9视为同策略实锤
+SAME_STRATEGY_PAIRS = [("量派CTA十号2期", "量派CTA七号C"),
+                       ("量派CTA十号2期C类份额", "量派CTA十号2期")]
 
 
 def load_danjuan_symbols():
@@ -351,6 +357,8 @@ def generate_report(pool, excluded, siblings_note):
                 L.append("- 风险点: " + "；".join(cons))
             if r.get("sibling_ref"):
                 L.append(f"- 同系长样本参照: {r['sibling_ref']}")
+            if r.get("same_strategy_note"):
+                L.append(f"- 同策略验证: {r['same_strategy_note']}")
             L.append("")
     L.append("## 排除名单（不参与评分）\n")
     for name, sym, reason in excluded:
@@ -419,9 +427,13 @@ def main():
         ci = detail.get("companyInfo") or {}
         symbol = match_symbol(name, name2symbol)
         if not symbol:
-            # 非蛋卷CTA货架产品(如用户股票类持仓国源/龙旗), 不属于本评估池
-            print(f"[跳过] {name}: 非蛋卷CTA货架产品，不参与CTA评估")
-            continue
+            if name in NON_CTA_HOLDINGS:
+                # 用户股票类持仓, 不属于CTA评估池
+                print(f"[跳过] {name}: 非蛋卷CTA货架产品（股票类持仓），不参与CTA评估")
+                continue
+            # 货架外CTA候选(如量派CTA十号2期): 用排排网fund_id作代码纳入评估
+            symbol = (detail.get("baseInfo") or {}).get("fund_id") or ""
+            print(f"[货架外候选] {name}: 不在蛋卷货架，以排排网ID {symbol} 纳入评估")
         # 现任基金经理任职信息(无论净值是否可用都提取)
         cur_mgrs = [m for m in (detail.get("relationManager") or [])
                     if m.get("management_end_date") is None]
@@ -523,6 +535,49 @@ def main():
             if refs:
                 m["sibling_ref"] = "；".join(refs)
         rows.append(m)
+
+    # 同策略验证: 货架外候选 vs 已验证基准产品(重叠窗口周频收益相关性>0.9为实锤)
+    def _weekly_points(prod):
+        d = json.load(open(f"data/simuwang/{prod}.json", encoding="utf-8"))
+        ns = sorted((date.fromisoformat(x["date"]), float(x["cum_nav"]))
+                    for x in (d.get("nav_series") or []))
+        return resample_weekly(ns)
+
+    by_name = {r["name"]: r for r in rows}
+    for a, b in SAME_STRATEGY_PAIRS:
+        try:
+            wa, wb = _weekly_points(a), _weekly_points(b)
+        except FileNotFoundError:
+            continue
+        if len(wa) < 9 or len(wb) < 9:
+            continue
+        ra = {(w[0].isocalendar()[0], w[0].isocalendar()[1]): wa[i][1] / wa[i - 1][1] - 1
+              for i, w in enumerate(wa) if i > 0}
+        rb = {(w[0].isocalendar()[0], w[0].isocalendar()[1]): wb[i][1] / wb[i - 1][1] - 1
+              for i, w in enumerate(wb) if i > 0}
+        common = sorted(set(ra) & set(rb))
+        if len(common) < 8:
+            continue
+        fa = [ra[k] for k in common]; fb = [rb[k] for k in common]
+        ma_, mb_ = statistics.mean(fa), statistics.mean(fb)
+        sd = statistics.pstdev(fa) * statistics.pstdev(fb)
+        c = sum((x - ma_) * (y - mb_) for x, y in zip(fa, fb)) / len(fa) / sd if sd else float("nan")
+        verdict = "同策略实锤（>0.9）" if c > 0.9 else "相关性不足0.9，非同策略或仓位/杠杆不同"
+        note = f"与{b}重叠{len(common)}周的周频收益相关性 {c:+.2f} → {verdict}"
+        # 同窗口指标对照(排除成立窗口差异的干扰)
+        if c > 0.9:
+            lo = max(wa[0][0], wb[0][0])
+            ca = [(d, v) for d, v in wa if d >= lo]
+            cb = [(d, v) for d, v in wb if d >= lo]
+            ma2, mb2 = metrics(ca), metrics(cb)
+            if ma2 and mb2:
+                std_ratio = statistics.pstdev(fa) / statistics.pstdev(fb) if statistics.pstdev(fb) else float("nan")
+                note += (f"；同窗口（{ca[0][0]}起{ma2['n']}周）对照: 本产品夏普{ma2['sharpe']:.2f}/"
+                         f"回撤{ma2['mdd']*100:.1f}% vs {b}夏普{mb2['sharpe']:.2f}/回撤{mb2['mdd']*100:.1f}%，"
+                         f"周收益std比{std_ratio:.2f}（≈1为同杠杆）")
+        print(f"[同策略验证] {a} vs {b}: {c:+.3f} ({len(common)}周) {verdict}")
+        if a in by_name:
+            by_name[a]["same_strategy_note"] = note
 
     # ===== 优化方案 v3: 门槛 + 加权 + 可靠性折扣(权重同 analyze_cta.py) =====
     IDX_CN = {"hs300": "沪深300", "zz500": "中证500", "zz1000": "中证1000", "cyb": "创业板指"}
