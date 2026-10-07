@@ -1,40 +1,40 @@
-# CTA 私募评估体系
+# CTA Private Fund Evaluation System
 
-蛋卷基金「管理期货(CTA)」私募货架产品的量化筛选与评估工具。
+A quantitative screening and evaluation toolkit for CTA (managed futures) private funds listed on Danjuan Funds (Xueqiu).
 
-## 功能
+## Features
 
-- 从蛋卷基金货架接口拉取 CTA 私募产品列表及季度收益序列
-- 计算全量指标：年化收益、最大回撤、夏普、索提诺、卡玛、胜率、盈亏比、新高占比、危机阿尔法（三指数并集）、回撤形态（水下时长/连亏）、股票敞口相关性
-- 三层评估：硬门槛（假CTA/股票敞口/样本不足）→ 指标加权 → 短样本可靠性折扣
-- 自动生成逐只产品的评估报告（推荐/备选/观察/不推荐 + 理由）
-- 独立审计脚本：数据一致性检查 + 得分构成复核
+- Pulls the CTA private fund shelf list and quarterly return series from the Danjuan API
+- Computes full metrics: annualized return, max drawdown, Sharpe, Sortino, Calmar, win rate, profit/loss ratio, new-high ratio, crisis alpha (union of three equity indices), drawdown shape (time under water / losing streaks), equity exposure correlation
+- Three-layer evaluation: hard gates (non-pure-CTA / excessive equity exposure / insufficient history) → weighted scoring → small-sample reliability shrinkage
+- Auto-generates a per-fund evaluation report (Recommended / Alternative / Watchlist / Not Recommended, with reasons)
+- Independent audit script: data consistency checks + score composition verification
 
-## 用法
+## Usage
 
 ```bash
 cd ~/work/cta_eval
-python3 scripts/extract_danjuan_cta.py '<蛋卷Cookie>'   # 1. 拉取货架数据
-python3 scripts/analyze_cta.py                          # 2. 评估并生成 docs/danjuan_cta_report.md
-python3 scripts/audit_cta.py                            # 3. 独立审计复核
+python3 scripts/extract_danjuan_cta.py '<danjuan cookie>'   # 1. Pull shelf data
+python3 scripts/analyze_cta.py                              # 2. Evaluate & generate docs/danjuan_cta_report.md
+python3 scripts/audit_cta.py                                # 3. Independent audit
 ```
 
-Cookie 获取：浏览器登录 danjuanfunds.com → F12 → Network → 任一 djapi 请求 → 复制 Request Headers 的 Cookie 整段。
+Cookie: log in at danjuanfunds.com → F12 → Network → any `djapi` request → copy the full Cookie request header.
 
-## 目录结构
+## Repository Layout
 
 ```
 ├── scripts/   extract_danjuan_cta.py / analyze_cta.py / audit_cta.py
-├── docs/      cta_evaluation_plan.md(方案) / cta_evaluation_review.md(专业审查) / danjuan_cta_report.md(自动报告)
-└── data/      原始json、各层指标csv、指数基准缓存
+├── docs/      cta_evaluation_plan.md (methodology) / cta_evaluation_review.md (institutional-grade review) / danjuan_cta_report.md (auto-generated report)
+└── data/      raw JSON, metric CSVs, index benchmark caches
 ```
 
-## 依赖
+## Dependencies
 
-仅 `requests`（`pip install requests`），其余为标准库。Python 3.10+。
+Only `requests` (`pip install requests`); everything else is stdlib. Python 3.10+.
 
-## 重要说明
+## Important Notes
 
-- 数据源为销售平台展示数据，最终投资决策前需用托管估值/排排网高频净值复核（见 docs/cta_evaluation_review.md）
-- 季度口径的最大回撤/卡玛低估真实值约 2~4 倍
-- Cookie 等凭证通过命令行参数传入，**严禁写入代码或提交**
+- The data source is a sales-platform display API, not official custodian valuations. Verify top candidates with weekly NAV from official sources before investing (see docs/cta_evaluation_review.md).
+- Quarterly-frequency max drawdown / Calmar understate true values by roughly 2–4x.
+- Credentials (cookies) are passed via command-line arguments only. **Never hardcode or commit them.**
