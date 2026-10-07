@@ -12,6 +12,7 @@
 import csv
 import json
 import math
+import os
 import statistics
 from datetime import date
 
@@ -101,7 +102,7 @@ def crisis_metrics(rets, qkeys, crisis_set):
 
 
 def _reasons(r):
-    """根据指标自动生成推荐理由(pros)与风险点(cons)"""
+    """根据指标自动生成适配理由(pros)与风险点(cons)"""
     pros, cons = [], []
     if r["_v3_sortino"] >= 0.8:
         pros.append(f"索提诺 {r['sortino']:.1f}（池内前20%），下行偏差仅 {r.get('dd_ann', 0)*100:.1f}%" if r.get("dd_ann") else f"索提诺 {r['sortino']:.1f}（池内前20%）")
@@ -137,14 +138,15 @@ def _reasons(r):
 
 
 def generate_report(pool, excluded):
-    """每次评估自动生成报告: 每只产品的推荐/排除理由"""
-    L = ["# CTA 私募评估报告",
+    """每次评估自动生成报告: 每只产品的适配/排除理由(适配度框架, 不作买卖建议)"""
+    L = ["# CTA 私募适配度评估报告",
          f"> 生成时间: {date.today()} | 数据窗口: 截至2026Q2 | 评分池 {len(pool)} 只 / 排除 {len(excluded)} 只",
          "> 方法见 cta_evaluation_plan.md（v3: 门槛过滤 + 指标加权 + 短样本可靠性折扣）",
+         "> 分层为适配度评级（与投资者画像的匹配程度），不构成投资建议",
          "> 注意: 最终首选以排排网同窗口高频验证为准（量派CTA七号C，见方案文档第五节）", ""]
-    tiers = [("推荐（核心候选）", 0.70, 99), ("备选", 0.62, 0.70),
-             ("观察", 0.50, 0.62), ("不推荐", -1, 0.50)]
-    # F3整改: 推荐层需同时过绝对阈值线, 避免纯相对排名失真
+    tiers = [("高适配（核心候选）", 0.70, 99), ("中适配（备选）", 0.62, 0.70),
+             ("观察", 0.50, 0.62), ("低适配", -1, 0.50)]
+    # F3整改: 高适配层需同时过绝对阈值线, 避免纯相对排名失真
     def pass_absolute(r):
         if r["sharpe"] <= 1.0:
             return False, f"夏普{r['sharpe']:.2f}未达1.0"
@@ -158,28 +160,30 @@ def generate_report(pool, excluded):
         for r in pool:
             if not (lo <= r["score_v3"] < hi):
                 continue
-            if title.startswith("推荐"):
+            if title.startswith("高适配"):
                 ok, why = pass_absolute(r)
                 if not ok:
                     r["_demoted"] = why
                     continue
             grp.append(r)
-        if title.startswith("备选"):
+        if title.startswith("中适配"):
             grp += [r for r in pool if r.get("_demoted") and r["score_v3"] >= 0.70]
         if not grp:
             continue
         L.append(f"## {title}（{len(grp)}只）\n")
         for i, r in enumerate(grp, 1):
             pros, cons = _reasons(r)
-            L.append(f"### {r['name']}（{r['symbol']}，{r['age']}年，得分{r['score_v3']:.2f}）")
+            L.append(f"### {r['name']}（{r['symbol']}，{r['age']}年，适配度得分{r['score_v3']:.2f}）")
             L.append(f"- 年化{r['ann_ret']*100:+.1f}% / 回撤{r['mdd']*100:.1f}%* / 夏普{r['sharpe']:.2f} / "
                      f"索提诺{r['sortino']:.2f} / 胜率{r['win']*100:.0f}% / 盈亏比{r['pl_ratio']:.2f} / "
                      f"新高{r['new_high']*100:.0f}% / 危机均季{r.get('crisis_avg', float('nan'))*100:+.1f}% / "
                      f"危机胜率{r.get('crisis_win', float('nan'))*100:.0f}% / 最长水下{r['uw_max']}季 / "
                      f"与沪深300相关性{r.get('mkt_corr', 0):+.2f}")
+            if r.get("pm_start"):
+                L.append(f"- 指标统计区间: 现任基金经理 {r.get('pm', '?')} 任职期（{r['pm_start']} 起，{r['n']}个季度）")
             if r.get("_demoted"):
-                L.append(f"- ⚠ 分数达推荐线但未过绝对阈值（{r['_demoted']}），降级备选")
-            L.append("- 推荐理由: " + "；".join(pros))
+                L.append(f"- ⚠ 得分达高适配线但未过绝对阈值（{r['_demoted']}），列入备选")
+            L.append("- 适配理由: " + "；".join(pros))
             if cons:
                 L.append("- 风险点: " + "；".join(cons))
             L.append("")
@@ -188,6 +192,12 @@ def generate_report(pool, excluded):
         L.append(f"- **{name}**（{sym}）：{reason}")
     L.append("")
     L.append("\\* 回撤为季度口径，真实最大回撤约为该值的2~4倍（排排网高频数据实证）")
+    L.append("")
+    L.append("---")
+    L.append("> 免责声明： 本报告仅作信息整理与适配度分析，不构成任何投资建议、要约或收益承诺。"
+             "私募证券基金过往业绩不预示未来表现，投资者应自行承担投资风险。"
+             "数据来源于蛋卷基金公开货架信息及第三方平台截图，可能存在口径偏差或滞后，"
+             "最终以基金管理人正式披露文件及基金合同为准。合格投资者认定与适当性匹配请以持牌销售机构流程为准。")
     with open("docs/danjuan_cta_report.md", "w", encoding="utf-8") as fp:
         fp.write("\n".join(L))
     print(f"\n报告已生成: danjuan_cta_report.md（{len(pool)}只评分 + {len(excluded)}只排除）")
@@ -197,6 +207,10 @@ def main():
     info = {i["symbol"]: i for i in json.load(open("data/danjuan_cta_info.json", encoding="utf-8"))}
     hs300 = json.load(open("data/hs300_quarterly.json", encoding="utf-8"))
     multi = json.load(open("data/idx_quarterly_multi.json", encoding="utf-8"))
+    # 现任基金经理任职区间(who-is-the-best-manager 借鉴: 只统计在任期间业绩)
+    # data/pm_tenure.json 格式: {"代码": {"pm": "姓名", "pm_start": "YYYY-MM-DD"}}
+    pm_tenure = json.load(open("data/pm_tenure.json", encoding="utf-8")) \
+        if os.path.exists("data/pm_tenure.json") else {}
     # 危机季度: 沪深300/中证500/创业板指 任一个当季下跌
     crisis_set = {k for k, v in hs300.items() if v < -0.03}
     for idx in multi.values():
@@ -223,6 +237,20 @@ def main():
             excluded.append((f["fund_name"], f["symbol"], reason))
             continue
         rets = [float(x["percent"]) for x in dl]
+        qkeys = all_q[-len(rets):]
+        # 任职区间过滤: 有PM任职起点时, 仅统计其任职后的季度
+        ten = pm_tenure.get(f["symbol"])
+        if ten and ten.get("pm_start"):
+            y, mo = map(int, ten["pm_start"].split("-")[:2])
+            start_q = f"{y}Q{(mo - 1) // 3 + 1}"
+            pairs = [(k, r) for k, r in zip(qkeys, rets) if k >= start_q]
+            if len(pairs) < 4:
+                excluded.append((f["fund_name"], f["symbol"],
+                                 f"现任基金经理({ten.get('pm', '?')}){ten['pm_start']}任职以来仅"
+                                 f"{len(pairs)}个季度(<4), 任职期样本不足"))
+                continue
+            qkeys = [k for k, _ in pairs]
+            rets = [r for _, r in pairs]
         m = metrics(rets)
         if not m:
             excluded.append((f["fund_name"], f["symbol"],
@@ -243,8 +271,9 @@ def main():
         if c:
             m.update(c_ann=c["ann_ret"], c_mdd=c["mdd"], c_sharpe=c["sharpe"],
                      c_win=c["win"], c_new_high=c["new_high"])
-        # 危机阿尔法: 与沪深300逐季对齐
-        qkeys = all_q[-len(rets):]
+        # 危机阿尔法: 与指数季度序列逐季对齐(qkeys 已在任职区间过滤时确定)
+        if ten and ten.get("pm_start"):
+            m.update(pm=ten.get("pm", ""), pm_start=ten["pm_start"])
         m.update(crisis_metrics(rets, qkeys, crisis_set))
         # 股票敞口检测: 与沪深300/中证500/中证1000/创业板指 季度收益相关系数取最大(S3整改)
         corrs = {}
