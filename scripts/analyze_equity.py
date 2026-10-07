@@ -52,10 +52,12 @@ PRODUCTS = [
          bench={"hs300": 0.6, "gold518880": 0.4},
          bench_name="沪深300×60% + 黄金ETF(518880)×40%",
          holding_wan=149.7, pnl_pct=+18.65),
-    dict(name="龙旗红利科技轮动平衡5号", ptype="量化多头（红利↔科技指增哑铃，满仓无择时）",
+    dict(name="龙旗红利科技轮动平衡5号1期", ptype="量化多头（红利↔科技指增哑铃，满仓无择时）",
          bench={"cndiv": 0.5, "cyb": 0.5},
          bench_name="中证红利×50% + 创业板指×50%（哑铃代理）",
-         holding_wan=91.2, pnl_pct=-8.77),
+         holding_wan=91.2, pnl_pct=-8.77,
+         note="用户实际持有份额为本产品（1期，HF0000DQTQ，2026-06-09成立，与用户持仓截图-8.77%精确吻合）；"
+              "同策略的'龙旗红利科技轮动平衡5号'（HF0000DKPD）净值被门控，保留数据但不参与评估"),
     dict(name="龙旗X计划12号1期", ptype="量化多头（中性+择时+量选轮动，动态仓位）",
          bench={"hs300": 0.5},  # 其余50%为现金(周收益0), 混合=中性+股指代理
          bench_name="沪深300×50% + 现金×50%（中性+股指混合代理）",
@@ -478,6 +480,8 @@ def generate_report(pool, gated, excluded, idx_wk):
             L.append(f"- 管理人: {r['company']}（{r['company_size']}）"
                      + (f"；manager_info: {r['mgr_info'].get('aum_text', '')}"
                         if r.get("mgr_info") else "（manager_info.json 未收录）"))
+            if r.get("note"):
+                L.append(f"- 份额说明: {r['note']}")
             L.append(f"- 费率: {r['fees']}")
             # 回撤形态四指标(回撤看分布, 用户2026-10-07拍板)
             shape = (f"前5大回撤均值{r['top5_mdd']*100:.1f}%（{r['n_episodes']}个独立episode"
@@ -588,8 +592,8 @@ def portfolio_section(pool, gated):
     if beta_gy is None or beta_gy != beta_gy:
         beta_gy = 0.37  # 缺数据时回退排排网官方披露beta
     L = ["## 组合视角（粗算，仅供压力感参考）\n",
-         "持仓（排排账户截图口径）: 国源拾金3号 149.7万 / 龙旗红利科技轮动平衡5号 91.2万 / "
-         "龙旗X计划12号1期 89.6万 / 现金宝 248.0万，合计 578.5万\n",
+         "持仓（排排账户截图口径）: 国源拾金3号 149.7万 / 龙旗红利科技轮动平衡5号1期 91.2万 / "
+         "龙旗X计划12号1期 89.6万 / 现金宝 248.0万，合计 578.5万（三只产品均有净值数据）\n",
          f"- 国源权益敞口估算: 对沪深300周频beta≈{beta_gy:.2f}"
          f"（权益等效敞口≈beta×持仓≈{beta_gy * 149.7:.0f}万；"
          "黄金部分按与股市零相关粗算，不贡献权益敞口）",
@@ -602,7 +606,7 @@ def portfolio_section(pool, gated):
     lo, hi = guoyuan_loss + hl_loss + x_loss_lo, guoyuan_loss + hl_loss + x_loss_hi
     L.append("**情景: 沪深300单季-10%**（粗算，假设beta稳定、黄金持平、X计划仓位6-7成至满仓）\n")
     L.append(f"- 国源拾金3号: beta×-10%×149.7万 ≈ -{guoyuan_loss:.1f}万")
-    L.append(f"- 龙旗红利科技轮动平衡5号: 满仓权益 ×-10% ≈ -{hl_loss:.1f}万")
+    L.append(f"- 龙旗红利科技轮动平衡5号1期: 满仓权益beta≈1 ×-10% ≈ -{hl_loss:.1f}万")
     L.append(f"- 龙旗X计划12号1期: -{x_loss_lo:.1f}~-{x_loss_hi:.1f}万（动态仓位）")
     L.append("- 现金宝: ≈0")
     L.append(f"- **组合合计约 -{lo:.0f}~-{hi:.0f}万，占账户总额578.5万的 {lo/578.5*100:.1f}%~{hi/578.5*100:.1f}%**")
@@ -612,11 +616,30 @@ def portfolio_section(pool, gated):
 
 
 def longqi_homogeneity(by, gated):
-    x = by.get("龙旗X计划12号1期")
-    if any(r["name"] == "龙旗红利科技轮动平衡5号" for r in gated):
-        return ("红利科技轮动平衡5号净值被门控，无法计算两只龙旗的周频相关性；"
-                "待数据可得后复算（>0.9 警告'重复持有同一赌注'）")
-    return "数据不足"
+    """两只龙旗(用户实际持有份额)周频相关性; 重叠窗口短则标注低置信度, >0.9警告重复赌注"""
+    try:
+        _, ns1 = load_nav("龙旗X计划12号1期")
+        _, ns2 = load_nav("龙旗红利科技轮动平衡5号1期")
+    except FileNotFoundError:
+        return "数据不足"
+    if len(ns1) < 5 or len(ns2) < 5:
+        return "红利科技轮动平衡5号1期净值数据不足，无法计算；待数据可得后复算（>0.9 警告'重复持有同一赌注'）"
+
+    def wk_ret(ns):
+        w = resample_weekly(ns)  # [(date, nav)]
+        return {(w[i][0].isocalendar()[0], w[i][0].isocalendar()[1]):
+                w[i][1] / w[i - 1][1] - 1 for i in range(1, len(w))}
+
+    r1 = wk_ret(ns1)
+    r2 = wk_ret(ns2)
+    common = sorted(set(r1) & set(r2))
+    if len(common) < 4:
+        return f"重叠窗口仅{len(common)}周(<4)，无法计算相关性"
+    c = corr([r1[k] for k in common], [r2[k] for k in common])
+    conf = "，样本短低置信度" if len(common) < 26 else ""
+    warn = "；⚠ >0.9，警告：重复持有同一赌注" if c > 0.9 else ""
+    return (f"龙旗X计划12号1期 vs 红利科技轮动平衡5号1期 周频收益相关性 {c:+.2f}"
+            f"（重叠{len(common)}周{conf}）{warn}")
 
 
 def appendix_peer_section():
