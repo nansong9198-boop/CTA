@@ -1,3 +1,4 @@
 requests>=2.28
 cryptography>=41  # fetch_simuwang.py 解密排排网 AES 响应
 
+akshare>=1.14  # fetch_index_weekly.py 指数/ETF日K(新浪源)

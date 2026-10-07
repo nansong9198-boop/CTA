@@ -23,6 +23,8 @@ python3 scripts/fetch_simuwang.py                           # 4. Pull Simuwang w
 python3 scripts/fetch_simuwang_extra.py --companies         # 5. Company AUM/founding details
 python3 scripts/analyze_weekly.py                           # 6. Weekly-frequency evaluation (authoritative) -> docs/simuwang_weekly_report.md
 python3 scripts/compare_simuwang.py                         # 7. Cross-validation -> docs/cross_validation.md
+python3 scripts/fetch_index_weekly.py                       # 8. Index/ETF daily data for equity sleeve (akshare/Sina)
+python3 scripts/analyze_equity.py                           # 9. Equity-fund evaluation -> docs/equity_evaluation_report.md
 ```
 
 Cookies: log in at the respective site → F12 → Network → any API request → copy the full Cookie request header. Cookie files are gitignored.
@@ -31,10 +33,12 @@ Cookies: log in at the respective site → F12 → Network → any API request �
 
 ```
 ├── scripts/   extract_danjuan_cta.py / analyze_cta.py / audit_cta.py /
-│              fetch_simuwang.py / fetch_simuwang_extra.py / analyze_weekly.py / compare_simuwang.py
+│              fetch_simuwang.py / fetch_simuwang_extra.py / analyze_weekly.py / compare_simuwang.py /
+│              fetch_index_weekly.py / analyze_equity.py (equity sleeve, separate methodology)
 ├── docs/      cta_evaluation_plan.md (methodology) / cta_evaluation_review.md (institutional-grade review) /
 │              danjuan_cta_report.md (quarterly) / simuwang_weekly_report.md (weekly, authoritative) /
-│              cross_validation.md (dual-source comparison)
+│              cross_validation.md (dual-source comparison) /
+│              equity_evaluation_plan.md + equity_evaluation_report.md (equity sleeve)
 └── data/      raw JSON, metric CSVs, index benchmark caches, simuwang/ (per-fund weekly data),
                manager_info.json (company gate), pm_tenure.json (PM tenure)
 ```

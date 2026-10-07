@@ -1,0 +1,237 @@
+{
+ "company_id": "CO00000JPU",
+ "baseInfo_raw": {
+  "data": {
+   "encode": 4,
+   "data": "UUV2VXMxZkFueFJIVWIzKy9oYVorZDUyNlJ4NG5Ed29XU0pUdGJkY013ck5SZGt1ZjAzL2cyN1RmUTJSLzBod2drTjlGMnpKVVBFUXdvNG80ckNOWUJoTnMvUFR6bEJnOWNCK2xoajJxZGNGbG1DZjZVMDU1TXA3OHZWSzYvQnlyT05nNmJPM200TUJrd1N0c2NVOSt6V1A1dXZTeExrNldNemFTajVQZzdWTjZoWTFmemJkVDREY1FmZzR1SFY1S0J0bzZhV3lDSmVvbmdCT1pFaytDY2UvT1ZlV2tWdytGcm5ndFl5STFhZTlhRmRPYlQ2dVBOMG1OYTNMaEZXOStNeHF5eUVIYzV0MWs4SVJncEdyRG5vU05ScDFCSGlJNUpXbVA2R3kvNVRaYXNFNnVvK0M1K01jTjZQZC9Bd3NwZTdpOW1hcWlWNzZsTENVY2tmQU4zaEtuNVBBWDcxWDFjRUlvdytVVmZqSDBTUDlPVm9Ea3Zhb0tWVmZYaUpzcGVqS0hrVS96N1BlYVhJZUFENWpFSHpEdFRtVWdZR01IMDdCVmgxTjhRTjI4bnlBbnk0d3V6MFl1bXVJSlY0Y2NqNkZvdXovaVduWTc3OEZYOUNoZG55L2I5dTV3cnBvdTVQYUdBd1R2M05wdEpLMElHRFhsQy9aMUNSMmpjRk9ScHREb2g2WElxUDBwd0hyejhCS3UvdTlpQ0pkc3NKUnMwVm9KdEErYjNUQW40bVdUVlo2dVQ5S0xIRU5ZK1R1RHRxZnZhRFdlNDkrTVY4Z1h2OVVjdUVPUVl3WmdSTjJYVkJPRlZtQU54Y08xMGpXcXp2ZVFuTjJ4a0ZGVkMzd0tEUHRsS0ZWb2dKaEhRK0RFcmRqSEJtOXVYMjFhRHArYTlUVloycEJMRDR6cXV2RkRkYXVySEpDN0JiTHd2ejdqa1ZmMTNvdjE1eVJQNWQrYURJRUkrUnkyUTdqbXhTOG82bHpXbWRSc2FwbGZzNjVlWUFBY1RyL3JyL0Nici9QZUhHTlVOeitDUS91MTZoVmUwT2ZGcVd3S0t2WFY0SUZiUnk2aHppK0FhSjc3cG53c2VXNGNzdkFrR1k3OE9UbHFPKytFNytMSnNxQ2ZqR2NFZnNrQytvZXlQbkZSa0tYd0FJTkV0QTRBSjdHZjBSOTFBQzNUbXdpMjIwZW1rNENkMHlPUjNtcXo5SWtxdWgwTUlzK1NlMDkrUTRsKzBWNkZDVVQ2RmJWekFoU1JTMUZhRHBqc3NHSlBGeVJhcjl5cU1zNkNlOEFxSFBnVnV3c3VHcE9NNjIwbFVVdTFmejdaT29TVWxnWmU4RjcxMmNFd1VqTmlLRVdFV2dTcXVYQm5Ndzl6ZEhVOWN3WUFtNEFqTFJkVHFDN1RybnNLcGVOYk85V295WWlFNVViVzI1QUtHV2dGTHZlUitQV1Y2UnFwTkE1bzV5dUJyMHhBdlhyNXgzWjNoQnJtMVY0azBDYWc4bHhSbFd1SjZXTmhXeDN1Z0trdXo5R0lxcUo3QkxDK1ZBdzMyVzR0UzNoNU1pdU1QZFdJaGFOQ2ZmR0xlWDVaZkJjeFFnLzRMRlN4M1FzS2lJN3FPZXExOTYxeWhuS2RKeHB1SDZHcDVCRTlHOGczMXRhaWVPZWZMSC90Qm1KTUNBMzJGcU0wL3NwSU5XOE9uZFZ6d2RiQ09rbHoyem5CMUtUTUdCSTVxMFFxUC9PVTJMUkVVd2ovU3RzaHF6WCtoeW45VGg2NXpxSWh5cDRKOVZuZ0E5cUZjc1J1TTEwNm1kU0FaRzFoWjFKWnlqSU9sK05GNlIzbXBPSjRzMk42TXYvOUtXL0s4RjJIM21GallDTDNJQmsrRnlsd0hvQ0FuSkFlUDZ3b1JzOUtwbkVDMkQ2WnFnK2YrQTdPR0ZRekJ2YjhCeGpZbWFONWhCRERIVHhEYXc2ZTl1MUZ6VlZMVlluMkNVMGlTZHZBcjJKNmhDR2EzR216OFdINDczNHFpS0NrOWx1RU1NMXRsMjM4M2lmNGI2cTRuT01vMi8rSy9tcnUxQWlEMXgxZmozZVZFL0F0QyszQ01MT0VsQlBSMGxQZ2ltUWpWdDNuOGtlY2pER3hhQmw3YlowWEFHN0NNTzE1cXpSZURaTm9mTmxZWlBmcHZ5a04rSWZWbG1ocGlZM0tZa01MUWtqTlVMcjdONStLcWo4bHRiYVJNQm9BVGl6K2FGZitiVWxIQTNCRVZGaHhHK0M4NkdKcmo0K1RCSi9nd24xbDdBOTdZK0l6V2I0VVlYNTEwYnpDNXhhWEtzU1E5YVBvTkx0M3Bmc3Z6QnJIUHMzNjZISlpkbGhFTUNoY3BnYkRPYW94RjRVVjJ3V2FuMVBkVHhJKzBvR1c1eGpWcnpzZkFmanludWIwMTZOTlU2RlAxeEpYMHJSN3IzcjBzbmgxdHNKM0FsL3ZoWDFQRTgxOHpscXE4a1k2cEVHQmpIaVE1S1hFR3NVSlpkV1o5QjlJNDVwSnZpcTU2OUJWSktZd0dhRGd1emEvcmlGVmZFcmoySFJKWEc2SGwxRjhUUEo0SkU3QXJnbzdXVWVHSEJKeDlvd2E4b0RPenk1djc2NDg2cVl2TklURFYxQ1NwZmpXdUdobE9GUmlmWjhkcGFnVk9xeDd1YVN6V1VXZXVmVW9maFlOWWtCZW9GYUNycWhEcEE5VXhjK0JyZWg3a1FCUHQwekhNVFBsS0pKaTRNSFAvWGloVU1aMFBxN2F5UkptT3NyY1hhdGtrN1JhMk50cFRKd1dkZnkvUytQdWRLN250Qm5saC90NkJvSDJDS2o5TGNPT012bDFjMEp0ek80dmhlOEtjYUdUMGNuaUt1SWREOEJUclc3b2FBK2NsdDZ6S1dpQVZXTVNBWFRCS2lXSUpOYkVoRTNnODF5NEt3eXE0Y29BeklxZ3RDMzNIcGFhRzFFRis1UFk3WCtlNTg0NHl0RzV4amxzVnlBb3VZSjNRbW1ma0VWc0ZpQ2M3VlZsNnRyTUdvSWZBNlJzT2RuMkFDQWFjOUkrMGJVWjdaK2tjS1lDNWpRYVVkRmVCV2ZnTldzQmkwZ25Xa3gweGllRHhsVTdaNWZkYmo5bjUra0plQ3VHUXpYeDl1VGlINVFRRnlyejBleHJPR21nZjhIVXhwOFQvWUhSVjlMWHpoQUJMWGFPWTVMQW1yWjNLUTVxL3ZPUjhCNk1wQzdMb0VPRG5QNy9KQStRaU9DWmlwTjYxekZZOWpyK05DcDEyV290TEJya3NKUTdNTWtKdzk1aGNPTE5kVmc5eWVleVA4SlF5aXVsTW5wcnlZZytpZTVpa3ZNYzQ5aWZPNHJnSEZRdjliZi9JWHpiKytoU0l5Qi95Q2EzWGR2M25FdmxIeHVCZnhubWZUKzI4cXVUZGg0SXRROU5lK3dVNVBDa3NyREpySXpXaFhDQmptVHBmZzE5YzQwY285ait2dys1S0x4ODVQYmpmVGZMS0RnNXR4aitRaEVrTUVVczl6NGRDNkFCQWN5SllRS0lKUDhrbXhYWmtLR2hDSnUzcjUyZ0p1TkcvenQ1Sk1HTFQxaU9aeEZERzlUUkw5VHJSMisyZU9Lb1JwclZTZGN6UTc0Y01UZVZ3VWhNKy9SWlpwN1lDK0diY0dwbC9CSEI3WllzNXAyZEh5NkR4V09wSW93MUw4QjEvcU1OS3BxUU1zN3gzbWlEYVE5d0p5bnVkMlQzZDB4NWpFSnFQVVo4bTAzOEhndXl1ZCtFeGErQ21hU1o5bFhHWGtjU1ZHRlBaNkpaK1doQ2VTZURDajlvYTR6dFQwR3B2eHlOMnRUN3RXUzlUMFhsNGg3Y0lMKy9nZWpsb2RBVkVVTnhqbXBNb1pzSUtRVjltb3ZnMVlHQzFnWmUvWlM4NlVBWHhtSEF5eDRqczZWMXJEVUxQcjlFalFjWk1Mb0JEN3hMSlAvZEdFTHFYZ0dxbzdOMk93c0p2NkZoNnlyNTF0Yys1NU5GOE5wcHkydE5nM3h2NThVbzVaWEVHbEM5Wi8wb2docUY5a0xGRk9PUnN4ZFFmNWt1ZEljY2pUYzhKdGoyeEZKT3hKM2xCYlMrWmhvekl4d1l6Y2lhRGJYUE50L2U5Rk8vUk0yRHlIUE9pWjQyUGpFNnJCUEw5RDcxN2szb0tXNzRiSlRDaHpqQ2xPYnMrSFlaVXJFYVNhNWRjUlRNaTZJdmZ3Y1o2YytqdDZMaVE5MFVQdEErYWd4VlU5RGZVT1YyelovSHAvVkJGbWJtbDZ3Qlo4cGVINGdGcWIvc0h0Q1RSb01GTTNyNHhqUWpqaXJrTmV4ejk5cTdHRktmN0xuUHprT0lwNVErZG1VVm9ha3N3d1h0VExUSWV1ZHlZejYzRklDNWFOQjQvWk84NEs4N21HRW00QUJXb01UWDMvVmVpUVIzdUZoa3dUWmNCSXBxL2lqMlVCcWdFMFNKd09zc3U5RDhRMlZlM1BaUzVEUVVBN2hDVG03UCs5MUxBa3hTc096eTJLaGYxdlZzT1dqQy90dHQzd3dSYXExbVRic21pb0pJbzJzRW4rY0c3M2RneDhkbGpqLzBUSzlJQ2Fpc3FCU3hHN2JsWkNNYStoeGk4cG9HMWJEajVkSHZnbHNHS2tsUDVBVUQ4NTdMNHlNZEhHTTNkREFCbFhXem5NSzRpK2JZNUJBYUFJclluYmpUZm9NcCtyRkV2RTZmZkZhcS9DT2N0Z0gvRmZld0FIRXNack41UGJQbVRCS2NQUmtobWRnOVYzY3Nwa0wxTDBYRzVXZUdhSHBVUHZFcGYwRzhuam1TZVp2MEViNUExZ2xRL3c4WUIxTmJyV2N3enR2S1lMTml4S25PU2VKRFIxczJ5UjQrWVJveHNocFcvbkd3Vk8ydk5yNVkxaWlLZGVoMGd6QjdWaldtdVh2aUtQWVIvVW1mSi9McWlDSWhvZDcwNFpqRlF6d09MMzZoTVc5NzVOcEswZlJ3WXBuVmhEQXhaKzM5WGdoRHZzSUJUb0MyNGRWaVU5K3dhcG5zclQvSTBodG5KV0pzUWpmMkJaclZWZzVKeDFCMDBmVk1UbE1jTCttSGpza24ybjgwSWJscmZheUJ1MEo0ckt4OFQwZFRTMndhdTg2YmlwVVZTZ281d3hlTWZNV3VoaUY1TGZDQVA3T3lxOG9DdlZQc1FlTW5VWndIQnZzcFgwMDVZb1lPdG94QmZ3aGxjZXBqZGIxSWdvZXNIczhJZzR6NVhKT0RCNC95dFMyWlpUNmxROTVPZTlDcEVEN3ZnUU1PekRwcUVlelptYXh0ejRPT1A2Ym1aSm9tbzcvZ29FOVhGUTB5VU1vbDNVTnhyVHo4a3lkNWlhUC95czFzR0Jsc0pqcmZzOXdXWDhWRHJzN0NQeGdjSWdkaktSRWlhZFEvcS95UWxFQjJpdUV5MU5qZGFIK3pnTW5YTkZzYlBvb3NiK0g1bVFPWkJpYU52ckZhTTZHVDV2WFp6b2xUN0tWRml3UWJOcTVidXdOQXZRaUQvOUdUMVJ3bGJZOFdOc25xQTlXSXB0QUJjQ2FNV0pNdjJGUVg2YmhkUWlZaGQxVlNBZitaTjZ3OVZIMm9oL05BTk9FZ3g0L1VTa3ZYS21FMkJmdlF0a1l3Rnh3M1VESTBXVTBuckkvSE56N0tDQ05qa1VxaFQ1Z3JHTVRzQWQrdEt1bUo2cGNGZ0FrSDRsVWp4VVZ2TmdMZWgyWHJlU1M5OVZUT1NVUEF2MExTc1J0ZVpicXFIN204Nm5HbWsrSmNvYVNQR0N0SmlZMVByaTBaMFRqeUo4M1lPYkFKODhXOXBvOTdkNWlObEdoSDBLVkpRVFpjYk9xK3drWnBvVUFGVjhXdUxiWWRCeER0THdQbk1FbnNRa3NkUTJ5YkhVcDUvSkZza1B0ZEptQkl6enR3c3gyc3FPVEdCT3NudEdoaFBxcE1KVVpxaEpGMVdsTVJzeGdOdE80aGZFS2xGeENYV0Q5SFFlK1JyL3RrVkRGb0dSQ1pYSTBqSHVyZmFQc2RoTnVYSXRBU0ZBTXdNaXQwK0pvbTRUOFNaek8zRjVvNmsvUXFvb3E1eXNveExiZDNTaks1Z0tRcEtTTGVOK0JsbGpNQzgxbG5KY3B3V2Raays4eE1mZlBtT0JQcDVUdmEvR2dwTS9KTzRWM0lVUjh4VWZlc1VlandISHFEeVFaVmpQa3N6dFhSRERWODMwLys4NFFnVjJPcE5VMi9vOFRaN0RTZWdEZXNlTFNSUW9vSTBqMFJhb3NaejVJYTRMazFtSDFPMjRpUUt4Wk13RlFPTGZCaXBOYzF1UW5TekV1dzYrTUpKeDZ4WFk5c0RzUm1yUkF3L0Y2RUtzNEtuRFNKT2xud3NERkFneDlLd2QxSWpHY2ZLcVZUOHpidElQaWNsNHcvT2MrKzJQQ0pZZlVvdndRbnV1VFJMc1h5V0paaUxITk5jZThsb2FpNG5qaEd6TUVsMDRkaEU5aGJWU3EvQ0U3RndWc2ZQckxnTnM9",
+   "key": "var _0xc13e=[\"\",\"split\",\"0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ+/\",\"slice\",\"indexOf\",\"\",\"\",\".\",\"pow\",\"reduce\",\"reverse\",\"0\"];function _0xe16c(d,e,f){var g=_0xc13e[2][_0xc13e[1]](_0xc13e[0]);var h=g[_0xc13e[3]](0,e);var i=g[_0xc13e[3]](0,f);var j=d[_0xc13e[1]](_0xc13e[0])[_0xc13e[10]]()[_0xc13e[9]](function(a,b,c){if(h[_0xc13e[4]](b)!==-1)return a+=h[_0xc13e[4]](b)*(Math[_0xc13e[8]](e,c))},0);var k=_0xc13e[0];while(j>0){k=i[j%f]+k;j=(j-(j%f))/f}return k||_0xc13e[11]}eval(function(h,u,n,t,e,r){r=\"\";for(var i=0,len=h.length;i<len;i++){var s=\"\";while(h[i]!==n[e]){s+=h[i];i++}for(var j=0;j<n.length;j++)s=s.replace(new RegExp(n[j],\"g\"),j);r+=String.fromCharCode(_0xe16c(s,e,10)-t)}return decodeURIComponent(escape(r))}(\"ayaPxfaPxvCPxBfPxvxPayaPCByPxvaPCBaPCfxPCfBPCBaPCBfPCfyPCfBPCfaPCBvPCfxPCfaPCfaPCBxPCBaPCfyPCfBPCBvPCfCPCfCPCvCPCxxPxfaPxfvPCBaPCfaPxBvPCfxPCfaPxBBPCxxP\",8,\"yCxaBfvPX\",31,7,1))",
+   "id": "p1791359847880159466"
+  },
+  "extra": [],
+  "msg": "获取成功",
+  "status": 1
+ },
+ "baseInfo": {
+  "company_id": "CO00000JPU",
+  "logo": "https://static.simuwang.com/Uploads/foreign/logopic/20250805/thumb_50974fb74febf67554debb2fc4c6c484.png",
+  "company_name": "深圳国源信达资本管理有限公司",
+  "company_short_name": "国源信达",
+  "register_number": "P1061199",
+  "company_asset_size": "50~100亿",
+  "company_type": 1,
+  "registered_capital": "5000.000000",
+  "establish_date": "2015-12-31",
+  "register_status": 2,
+  "cancel_type": null,
+  "company_profile": "深圳国源信达资本管理有限公司（“国源信达资本”）是经过中国基金业协会备案的私募基金管理公司（P1061199），公司成立于2015年，注册资本5000万元，现为中国证券业协会观察会员。 ",
+  "base_currency_crc": 1,
+  "company_english_name": null,
+  "company_address": "广东省深圳市福田区福田街道福安社区福华三路168号国际商会中心3809-3810",
+  "company_address2": "广东省深圳市福田区福田街道福安社区福华三路168号国际商会中心3809-3810",
+  "employee_cnts": 25,
+  "fund_practitioners_count": 25,
+  "nature_business_type": 3,
+  "business_type": "私募证券投资基金,私募证券投资类FOF基金",
+  "has_consulting_qualification": 1,
+  "register_date": "2017-01-25",
+  "organization_number": "35972933-2",
+  "paid_capital": "2000.000000",
+  "capital_paid_rate": "40.000000",
+  "credit_code": "91440300359729332F",
+  "company_class": 1,
+  "key_figure_id": "PL00000LSJ,PL00003WHB,PL000044Z4,PL00003VVS",
+  "key_figure_name": "史江辉,阳来军,陈思杨,徐云飞",
+  "amac_link": "https://gs.amac.org.cn/amac-infodisc/res/pof/manager/1609080127100537.html",
+  "cnt": 87,
+  "registered_city": "深圳",
+  "city": "深圳",
+  "rating_1y": 4,
+  "total_fund_nv": null,
+  "company_class_text": "私募",
+  "company_asset_size_text": "50~100亿",
+  "core_strategy": [],
+  "risk_warning": "A-",
+  "ret_1y": "--",
+  "ret_incep": "--",
+  "ret_incep_a": "--",
+  "ret_ytd": "--",
+  "is_link": 1,
+  "is_direct_sale_config": 1,
+  "is_super": 1,
+  "super_mode": 0,
+  "link_manager_list": [
+   {
+    "company_id": "CO00000JPU",
+    "direct_type": "2",
+    "type": "6",
+    "personnel_id": "",
+    "position": "营销总监",
+    "personnel_name": "徐珊珊",
+    "link_name": "pp003292563",
+    "chat_num": "0",
+    "official_user_id": "GzA4Pa61agOQeKn30XzwL6gn2W8XLZwm0vfj",
+    "avatar": "https://static.ppwfund.com/Uploads/MarketOperate/Direct_link/2026/05/202605496a0ecccd0568a.png",
+    "link_id": "GvAZP965aYO8eyn90LzDLggL2V8ELPmivjqi"
+   }
+  ],
+  "link_config": {
+   "company_id": "CO00000JPU",
+   "direct_type": 2,
+   "user_id_sort_set": null,
+   "auto_group_method": 1
+  },
+  "manage_fund_list": [],
+  "is_both": 0,
+  "public_opinion_risk": "",
+  "has_onsale_fund": 1,
+  "xcx_share_image": "",
+  "xcx_share_text": "",
+  "delegateList": [
+   {
+    "fund_id": "HF0000CK4V",
+    "fund_short_name": "国源拾金8号A类份额",
+    "raise_type": 1,
+    "strategy_id": 100403,
+    "strategy": "复合策略",
+    "first_strategy_id": 1004,
+    "second_strategy_id": 100403,
+    "third_strategy_id": -1,
+    "inception_date": "2022-01-19",
+    "price_date": "2026-09-28",
+    "special_tips": null,
+    "is_link_set": 0,
+    "primary_benchmark_id": "IN00000008",
+    "performance_start_date": null,
+    "is_show_index": 1,
+    "is_wealth": 1,
+    "subscription_fee_conf": "100",
+    "is_nav_missing": 0
+   }
+  ],
+  "integrityList": {
+   "integrity_list": [],
+   "integrity_string": ""
+  }
+ },
+ "profile_raw": {
+  "data": {
+   "company_profile": "深圳国源信达资本管理有限公司（“国源信达资本”）是经过中国基金业协会备案的私募基金管理公司（P1061199），公司成立于2015年，注册资本5000万元，现为中国证券业协会观察会员。 ",
+   "company_name": "深圳国源信达资本管理有限公司",
+   "company_short_name": "国源信达",
+   "establish_date": "2015-12-31",
+   "registered_capital": "5000.000000",
+   "is_member": 1,
+   "member_type": 3,
+   "join_date": "2017-12-28",
+   "philosopy": "◆多空并行 穿越牛熊<br/>公司以价值与估值回归为基础核心思想，以多空并行的投资策略为主体，挖掘金融市场运行的隐含规律，结合国内外宏观经济环境研究、基本面分析、事件驱动来指导投资，在有效控制风险的前提下，为投资者获取较稳的超额收益。<br/><br/>◆汇聚精英 厚积薄发<br/>公司核心团队成员均毕业于北京大学等顶尖学府，学术背景以数学、计算机、金融学硕士和博士为主，投资经理曾任职于鹏华基金、高毅、国泰君安等机构，平均从业年限超过10年，具备丰富的金融行业从业经验和投资管理经验。公司的长期远景是成为顶尖的投资平台，为投资人创造卓越较稳的回报。",
+   "base_currency_crc": 1,
+   "company_type": 1,
+   "manager_list": [
+    [
+     "PL00000LSJ",
+     "史江辉"
+    ],
+    [
+     "PL00003WHB",
+     "阳来军"
+    ],
+    [
+     "PL000044Z4",
+     "陈思杨"
+    ],
+    [
+     "PL00003VVS",
+     "徐云飞"
+    ]
+   ],
+   "capital_paid": "2000.00",
+   "honer_list": [
+    "2025-中国基金报-第十届证券私募英华示范案例-成长示范机构",
+    "2025-中国基金报-英华奖-成长示范机构"
+   ],
+   "delegate": [
+    {
+     "fund_id": "HF0000CK4V",
+     "fund_short_name": "国源拾金8号A类份额",
+     "raise_type": 1,
+     "strategy_id": 100403,
+     "strategy": "复合策略",
+     "first_strategy_id": 1004,
+     "second_strategy_id": 100403,
+     "third_strategy_id": -1,
+     "inception_date": "2022-01-19",
+     "price_date": "2026-09-28",
+     "special_tips": null,
+     "is_link_set": 0,
+     "primary_benchmark_id": "IN00000008",
+     "performance_start_date": null,
+     "is_show_index": 1,
+     "is_wealth": 1,
+     "subscription_fee_conf": "100",
+     "is_nav_missing": 0
+    }
+   ]
+  },
+  "extra": [],
+  "msg": "获取成功",
+  "status": 1
+ },
+ "profile": {
+  "company_profile": "深圳国源信达资本管理有限公司（“国源信达资本”）是经过中国基金业协会备案的私募基金管理公司（P1061199），公司成立于2015年，注册资本5000万元，现为中国证券业协会观察会员。 ",
+  "company_name": "深圳国源信达资本管理有限公司",
+  "company_short_name": "国源信达",
+  "establish_date": "2015-12-31",
+  "registered_capital": "5000.000000",
+  "is_member": 1,
+  "member_type": 3,
+  "join_date": "2017-12-28",
+  "philosopy": "◆多空并行 穿越牛熊<br/>公司以价值与估值回归为基础核心思想，以多空并行的投资策略为主体，挖掘金融市场运行的隐含规律，结合国内外宏观经济环境研究、基本面分析、事件驱动来指导投资，在有效控制风险的前提下，为投资者获取较稳的超额收益。<br/><br/>◆汇聚精英 厚积薄发<br/>公司核心团队成员均毕业于北京大学等顶尖学府，学术背景以数学、计算机、金融学硕士和博士为主，投资经理曾任职于鹏华基金、高毅、国泰君安等机构，平均从业年限超过10年，具备丰富的金融行业从业经验和投资管理经验。公司的长期远景是成为顶尖的投资平台，为投资人创造卓越较稳的回报。",
+  "base_currency_crc": 1,
+  "company_type": 1,
+  "manager_list": [
+   [
+    "PL00000LSJ",
+    "史江辉"
+   ],
+   [
+    "PL00003WHB",
+    "阳来军"
+   ],
+   [
+    "PL000044Z4",
+    "陈思杨"
+   ],
+   [
+    "PL00003VVS",
+    "徐云飞"
+   ]
+  ],
+  "capital_paid": "2000.00",
+  "honer_list": [
+   "2025-中国基金报-第十届证券私募英华示范案例-成长示范机构",
+   "2025-中国基金报-英华奖-成长示范机构"
+  ],
+  "delegate": [
+   {
+    "fund_id": "HF0000CK4V",
+    "fund_short_name": "国源拾金8号A类份额",
+    "raise_type": 1,
+    "strategy_id": 100403,
+    "strategy": "复合策略",
+    "first_strategy_id": 1004,
+    "second_strategy_id": 100403,
+    "third_strategy_id": -1,
+    "inception_date": "2022-01-19",
+    "price_date": "2026-09-28",
+    "special_tips": null,
+    "is_link_set": 0,
+    "primary_benchmark_id": "IN00000008",
+    "performance_start_date": null,
+    "is_show_index": 1,
+    "is_wealth": 1,
+    "subscription_fee_conf": "100",
+    "is_nav_missing": 0
+   }
+  ]
+ }
+}
