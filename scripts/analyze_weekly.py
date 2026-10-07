@@ -34,7 +34,7 @@ FULL_RELIABILITY_WEEKS = 312  # 6年满信度(对应 analyze_cta.py 的24季)
 CORR_LIMIT = 0.30  # 与股票指数最大相关性≥0.30 视为股票敞口过高
 MIN_CRISIS_N = 4   # 危机季度样本门槛: 不足则危机指标按中性0.5处理
 MGR_MIN_AGE = 5    # 管理人成立不足5年剔除
-MGR_MIN_AUM = 10   # 管理规模不足10亿剔除(亿元)
+MGR_MIN_AUM = 20   # 管理规模不足20亿剔除(亿元, 2026-10-07用户拍板由10亿上调; 明睿约10亿被剔)
 MAX_MIN_INV = 200  # 起购金额上限(万元, 2026-10-07用户拍板; 量派CTA七号C 500万起购触发此约束)
 # 用户股票类持仓(非CTA候选), 不进入本评估池
 NON_CTA_HOLDINGS = {"国源拾金3号", "龙旗红利科技轮动平衡5号",
@@ -514,7 +514,8 @@ def main():
             if mi.get("aum_yi") is not None and mi["aum_yi"] < MGR_MIN_AUM:
                 excluded.append((name, symbol,
                                  f"管理人门槛: {mgr_name} 管理规模约{mi['aum_yi']}亿, "
-                                 f"低于{MGR_MIN_AUM}亿, 抗风险能力与运营稳定性不足"))
+                                 f"低于{MGR_MIN_AUM}亿（2026-10-07 用户拍板门槛）, "
+                                 f"抗风险能力与运营稳定性不足"))
                 continue
         # 起购金额门槛(2026-10-07用户拍板): >200万剔除; 认证可见/空缺保留但标注待确认
         min_inv = parse_min_inv(detail)
