@@ -17,8 +17,9 @@
 - 危机相对表现 = 基准季度收益 < -10% 的季度里基金的超额(股票类不要求危机赚钱, 要求少跌)
 - 权重(用户拍板): 信息比率25% 超额回撤(逆)15% 下行捕获比(逆)15% 索提诺15% alpha10% 卡玛10% 最长水下(逆)10%
 - 指增(龙旗)与主观多资产(国源)分类型标注不混排; 类型内样本=1时分位数退化为0.5, 评分仅供参考
-- 硬阈值(不达标->观察档): 费后年化>=10%, 真实回撤>=-20%, 夏普>=1.0, 信息比率>=0.5
-  (排排网披露净值为费后口径, 业绩报酬已在净值中扣除)
+- 硬阈值(不达标->观察档): 费后年化>=10%, 前5大回撤均值>=-20%, 夏普>=1.0, 信息比率>=0.5
+  (回撤看分布不看单次最大值——单次回撤只是尾部事件, 风控能力看分布; 用户2026-10-07拍板;
+  排排网披露净值为费后口径, 业绩报酬已在净值中扣除)
 - 软指标(扣分不否决): 最长水下>12个月 -> 得分-0.05
 - 营销诚信度: 宣传口径 vs 实际净值偏差>2倍 -> 得分-0.10 并标注
   (典型: 龙旗X计划宣传最大回撤2.8% vs 实际-22.0%, 偏差近8倍)
@@ -44,7 +45,7 @@ MGR_MIN_AUM = 10              # 规模不足10亿剔除(亿元)
 UW_SOFT_DAYS = 365            # 最长水下>12个月: 软指标扣分
 UW_SOFT_PENALTY = 0.05
 MARKETING_PENALTY = 0.10      # 宣传与实际偏差>2倍
-HARD = dict(ann_ret=0.10, mdd=-0.20, sharpe=1.0, ir=0.5)  # 硬阈值
+HARD = dict(ann_ret=0.10, top5_mdd=-0.20, sharpe=1.0, ir=0.5)  # 硬阈值(回撤看前5大episode均值)
 
 PRODUCTS = [
     dict(name="国源拾金3号", ptype="主观多资产（股票+黄金）",
@@ -114,6 +115,67 @@ def drawdown(curve):
     return mdd
 
 
+def drawdown_episodes(dates, curve):
+    """净值曲线 -> 独立回撤episode列表(峰值->谷底->修复创新高)。
+
+    每episode: depth(谷底/峰-1), peak_date/trough_date/recovery_date,
+    repair_weeks(谷底->创新高, 周), repaired(未修复=当前仍水下)
+    """
+    eps = []
+    peak, peak_date = curve[0], dates[0]
+    in_dd = False
+    ep = None
+    for d, v in zip(dates[1:], curve[1:]):
+        if v >= peak:
+            if in_dd:
+                ep["recovery_date"] = d
+                ep["repair_weeks"] = round((d - ep["trough_date"]).days / 7, 1)
+                ep["repaired"] = True
+                eps.append(ep)
+                in_dd = False
+            peak, peak_date = v, d
+        else:
+            if not in_dd:
+                in_dd = True
+                ep = dict(peak_date=peak_date, peak=peak,
+                          trough_date=d, trough=v, repaired=False)
+            if v < ep["trough"]:
+                ep["trough"], ep["trough_date"] = v, d
+    if in_dd:  # 未修复: 损失是现实的而非历史的
+        ep["depth"] = ep["trough"] / ep["peak"] - 1
+        eps.append(ep)
+    for ep in eps:
+        ep.setdefault("depth", ep["trough"] / ep["peak"] - 1)
+    return eps
+
+
+def drawdown_shape(dates, curve):
+    """回撤形态四指标(用户2026-10-07拍板: 回撤看分布, 不只看单次最大值)"""
+    eps = drawdown_episodes(dates, curve)
+    if not eps:
+        return dict(top5_mdd=0.0, dd_concentration=float("nan"), n_deep=0,
+                    avg_repair_weeks=None, n_episodes=0, n_unrepaired=0,
+                    dd_low_conf=True, top5=[])
+    by_depth = sorted(eps, key=lambda e: e["depth"])
+    top5 = by_depth[:5]
+    top5_mean = statistics.mean(e["depth"] for e in top5)
+    mdd = by_depth[0]["depth"]
+    repaired = [e for e in eps if e["repaired"]]
+    # 平均修复时间只统计实质回撤(谷底<-5%), 避免微小波动一周修复拉低均值
+    repaired_deep = [e for e in repaired if e["depth"] < -0.05]
+    return dict(
+        top5_mdd=top5_mean,                      # 前5大回撤均值
+        dd_concentration=mdd / top5_mean if top5_mean else float("nan"),  # ≈1: 深度回撤是常态
+        n_deep=sum(1 for e in eps if e["depth"] < -0.10),  # 深度回撤次数(谷底跌超-10%)
+        avg_repair_weeks=(round(statistics.mean(e["repair_weeks"] for e in repaired_deep), 1)
+                          if repaired_deep else None),
+        n_episodes=len(eps),
+        n_unrepaired=sum(1 for e in eps if not e["repaired"]),
+        dd_low_conf=len(eps) < 5,                # episode不足5个: 均值低置信度
+        top5=top5,
+    )
+
+
 def uw_stats(dates, curve):
     """最长水下: 周数 + 自然日天数"""
     uw, uw_max = 0, 0
@@ -162,6 +224,7 @@ def metrics(dates, fr, br, fnav, bnav):
     win = sum(1 for r in fr if r > 0) / n
     new_high = sum(1 for i, v in enumerate(fnav) if v >= max(fnav[:i + 1])) / n
     uw_max, uw_days = uw_stats(dates, fnav)
+    shape = drawdown_shape(dates, fnav)
     # 上行/下行捕获比
     up = [(a, b) for a, b in zip(fr, br) if b > 0]
     dn = [(a, b) for a, b in zip(fr, br) if b < 0]
@@ -171,7 +234,7 @@ def metrics(dates, fr, br, fnav, bnav):
                 ir=ir, beta=beta, alpha_ann=alpha_ann, mdd=mdd, excess_mdd=excess_mdd,
                 ann_vol=ann_vol, sharpe=sharpe, sortino=sortino, calmar=calmar,
                 win=win, new_high=new_high, uw_max=uw_max, uw_days_max=uw_days,
-                up_cap=up_cap, down_cap=down_cap)
+                up_cap=up_cap, down_cap=down_cap, **shape)
 
 
 def quarterly_from_weekly(dates, curve):
@@ -247,8 +310,8 @@ def hard_fails(r):
     fails = []
     if r["ann_ret"] < HARD["ann_ret"]:
         fails.append(f"费后年化{r['ann_ret']*100:+.1f}%未达10%")
-    if r["mdd"] < HARD["mdd"]:
-        fails.append(f"真实回撤{r['mdd']*100:.1f}%超-20%")
+    if r["top5_mdd"] < HARD["top5_mdd"]:
+        fails.append(f"前5大回撤均值{r['top5_mdd']*100:.1f}%超-20%")
     if r["sharpe"] < HARD["sharpe"]:
         fails.append(f"夏普{r['sharpe']:.2f}未达1.0")
     if r["ir"] != r["ir"] or r["ir"] < HARD["ir"]:
@@ -389,7 +452,7 @@ def generate_report(pool, gated, excluded, idx_wk):
          f"> 生成时间: {date.today()} | 范围: 用户持有3只股票类私募 | 方法见 equity_evaluation_plan.md（v1.0 已对齐）",
          "> 分层为适配度评级（与投资者画像的匹配程度），不构成投资建议",
          "> 口径: 周频净值（年化 n/52, RF=1.5%）；基准各自定制；净值为费后口径",
-         "> 注意: 各类型内样本量=1，分位数评分退化，分层以硬阈值（费后年化≥10%/真实回撤≥-20%/夏普≥1.0/IR≥0.5）为主",
+         "> 注意: 各类型内样本量=1，分位数评分退化，分层以硬阈值（费后年化≥10%/前5大回撤均值≥-20%/夏普≥1.0/IR≥0.5）为主",
          ""]
     tiers = ["高适配（核心候选）", "中适配（备选）", "观察", "低适配"]
     for t in tiers:
@@ -416,6 +479,23 @@ def generate_report(pool, gated, excluded, idx_wk):
                      + (f"；manager_info: {r['mgr_info'].get('aum_text', '')}"
                         if r.get("mgr_info") else "（manager_info.json 未收录）"))
             L.append(f"- 费率: {r['fees']}")
+            # 回撤形态四指标(回撤看分布, 用户2026-10-07拍板)
+            shape = (f"前5大回撤均值{r['top5_mdd']*100:.1f}%（{r['n_episodes']}个独立episode"
+                     f"{'，不足5个低置信度' if r['dd_low_conf'] else ''}） / "
+                     f"回撤集中度{r['dd_concentration']:.2f} / "
+                     f"深度回撤(谷底<-10%)次数{r['n_deep']} / "
+                     f"实质回撤(<-5%)平均修复{r['avg_repair_weeks']:.0f}周" if r.get("avg_repair_weeks") is not None else
+                     f"前5大回撤均值{r['top5_mdd']*100:.1f}%（{r['n_episodes']}个独立episode"
+                     f"{'，不足5个低置信度' if r['dd_low_conf'] else ''}） / "
+                     f"回撤集中度{r['dd_concentration']:.2f} / "
+                     f"深度回撤(谷底<-10%)次数{r['n_deep']} / 实质回撤(<-5%)均无已修复样本")
+            L.append(f"- 回撤形态: {shape}")
+            if r.get("n_unrepaired"):
+                cur = next((e for e in r["top5"] if not e["repaired"]), None)
+                L.append(f"- ⚠ 未修复回撤: {r['n_unrepaired']}个episode仍在水下"
+                         + (f"（当前回撤最深{cur['depth']*100:.1f}%，始于{cur['peak_date']}，"
+                            f"谷底{cur['trough_date']}）——未修复意味着损失是现实的而非历史的"
+                            if cur else ""))
             if r["crisis_rel"]:
                 txt = "；".join(f"{q} 基准{bq*100:.1f}%/基金{fq_*100:+.1f}%/超额{eq_*100:+.1f}%"
                                 for q, fq_, bq, eq_ in r["crisis_rel"])
@@ -469,14 +549,23 @@ def reasons(r):
         pros.append(f"超额年化{r['excess_ann']*100:+.1f}%，跑赢定制基准")
     if r["down_cap"] == r["down_cap"] and r["down_cap"] < 1.0:
         pros.append(f"下行捕获{r['down_cap']*100:.0f}%，跌时比基准少跌")
-    if r["mdd"] > -0.20:
-        pros.append(f"真实回撤{r['mdd']*100:.1f}%在用户容忍度（-20%）内")
+    if r["top5_mdd"] > -0.20 and not r["dd_low_conf"]:
+        pros.append(f"前5大回撤均值{r['top5_mdd']*100:.1f}%在用户容忍度（-20%）内")
+    if r.get("dd_concentration") == r.get("dd_concentration") and r["dd_concentration"] > 1.5 \
+       and r["top5_mdd"] > -0.20 and not r["dd_low_conf"]:
+        pros.append(f"回撤集中度{r['dd_concentration']:.1f}，最深回撤为单次尾部事件而非常态")
     if r.get("alpha_ann", 0) > 0.03 and r["n"] >= MIN_SAMPLE_WEEKS:
         pros.append(f"周频回归alpha年化{r['alpha_ann']*100:+.1f}%")
     if r["ann_ret"] < HARD["ann_ret"]:
         cons.append(f"费后年化{r['ann_ret']*100:+.1f}%低于10%目标")
-    if r["mdd"] < HARD["mdd"]:
-        cons.append(f"真实回撤{r['mdd']*100:.1f}%超-20%容忍线")
+    if r["top5_mdd"] < HARD["top5_mdd"]:
+        cons.append(f"前5大回撤均值{r['top5_mdd']*100:.1f}%超-20%容忍线"
+                    + ("（episode不足5个，低置信度）" if r["dd_low_conf"] else ""))
+    if r.get("dd_concentration") == r.get("dd_concentration") and r["dd_concentration"] <= 1.2 \
+       and r["n_episodes"] >= 5:
+        cons.append(f"回撤集中度{r['dd_concentration']:.2f}≈1，深度回撤是常态，风控系统性偏弱")
+    if r.get("n_unrepaired"):
+        cons.append(f"当前仍有{r['n_unrepaired']}个回撤episode未修复，损失是现实的而非历史的")
     if r["excess_mdd"] < -0.10:
         cons.append(f"超额回撤{r['excess_mdd']*100:.1f}%，曾大幅跑输基准")
     if r["down_cap"] == r["down_cap"] and r["down_cap"] >= 1.0:
