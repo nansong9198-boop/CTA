@@ -1,0 +1,977 @@
+{
+ "company_id": "CO000001HJ",
+ "company_short_name": "千象资产",
+ "n_funds": 97,
+ "funds": [
+  {
+   "fund_id": "HF0000125K",
+   "name": "千象6期",
+   "inception_date": "2015-09-18",
+   "strategy": "期货及衍生品策略",
+   "register_number": "S66679",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00002FIX",
+   "name": "千象12期合世家专享",
+   "inception_date": "2017-01-25",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SR6767",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00002G1L",
+   "name": "千象12期",
+   "inception_date": "2017-02-09",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SR5087",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BN8E",
+   "name": "千象12期A类份额",
+   "inception_date": "2017-02-09",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00003HBI",
+   "name": "千象15期",
+   "inception_date": "2017-05-15",
+   "strategy": "期货及衍生品策略",
+   "register_number": "ST4277",
+   "ret_incep": "1.2181",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000044Z8",
+   "name": "千象资产-江苏量化混合策略子8号",
+   "inception_date": "2017-11-10",
+   "strategy": "多资产策略",
+   "register_number": "SX9788",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00004CVN",
+   "name": "恒天千象一期",
+   "inception_date": "2017-12-27",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SY0761",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00004IHC",
+   "name": "千象盛世量化选股1号",
+   "inception_date": "2018-03-16",
+   "strategy": "股票策略",
+   "register_number": "SCN160",
+   "ret_incep": "2.2234",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00004NEP",
+   "name": "民生千象1号",
+   "inception_date": "2018-04-13",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SCL751",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00004S1P",
+   "name": "千象卓越2号中证500指数增强",
+   "inception_date": "2018-06-19",
+   "strategy": "股票策略",
+   "register_number": "SEA491",
+   "ret_incep": "2.491851",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CG0K",
+   "name": "千象卓越2号中证500指数增强A类份额",
+   "inception_date": "2018-06-19",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00004TR7",
+   "name": "千象磐石31号",
+   "inception_date": "2018-07-16",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SEE646",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00004VDI",
+   "name": "千象量化CTA1号",
+   "inception_date": "2018-07-24",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SCY930",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006BZ1",
+   "name": "千象卓越3号中证500指数增强A类份额",
+   "inception_date": "2018-11-16",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "2.792821",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000057CH",
+   "name": "千象卓越3号中证500指数增强",
+   "inception_date": "2018-11-16",
+   "strategy": "多资产策略",
+   "register_number": "SES717",
+   "ret_incep": "2.917708",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005B7P",
+   "name": "国元千象2号",
+   "inception_date": "2019-01-22",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SEN708",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005CUE",
+   "name": "信淮千象灵活配置精选1号",
+   "inception_date": "2019-03-18",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SGC033",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009183",
+   "name": "千象22期A类份额",
+   "inception_date": "2019-04-25",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005FPB",
+   "name": "千象22期",
+   "inception_date": "2019-04-25",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SGM549",
+   "ret_incep": "1.059928",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005G70",
+   "name": "千象22期A期",
+   "inception_date": "2019-05-06",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SGD595",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005KKB",
+   "name": "中信期货信智千象全景22号",
+   "inception_date": "2019-06-24",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SGR918",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005K3S",
+   "name": "千象磐石34号",
+   "inception_date": "2019-07-05",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SGV070",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005K8J",
+   "name": "信淮千象灵活配置精选11号",
+   "inception_date": "2019-07-10",
+   "strategy": "多资产策略",
+   "register_number": "SGS795",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005NHC",
+   "name": "国投安信期货千象私享1号",
+   "inception_date": "2019-08-19",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SGS401",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005NV0",
+   "name": "中信期货信智千象全景25号",
+   "inception_date": "2019-08-28",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SGX407",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005P56",
+   "name": "恒天千象二期",
+   "inception_date": "2019-09-26",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SJD019",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005TYB",
+   "name": "信智千象全景26号",
+   "inception_date": "2019-11-25",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SJG549",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006BZ0",
+   "name": "千象12期B类份额",
+   "inception_date": "2020-05-11",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000071RV",
+   "name": "千象成长亚洲6号A类份额",
+   "inception_date": "2020-05-22",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "1.634951",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000656P",
+   "name": "千象成长亚洲6号",
+   "inception_date": "2020-05-22",
+   "strategy": "多资产策略",
+   "register_number": "SLC715",
+   "ret_incep": "1.641322",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000067FO",
+   "name": "信泰千象成长2号",
+   "inception_date": "2020-06-15",
+   "strategy": "多资产策略",
+   "register_number": "SJX729",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006AE4",
+   "name": "长江期货-千象精选1号",
+   "inception_date": "2020-07-20",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SLK924",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006GIF",
+   "name": "千象成长9号",
+   "inception_date": "2020-09-21",
+   "strategy": "多资产策略",
+   "register_number": "SLS585",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000A6LE",
+   "name": "恒天千象二期B类份额",
+   "inception_date": "2020-09-29",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000088EM",
+   "name": "千象22期B类份额",
+   "inception_date": "2020-09-30",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "0.215047",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000078SV",
+   "name": "千象成长21号",
+   "inception_date": "2021-05-20",
+   "strategy": "多资产策略",
+   "register_number": "SNW396",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007K5O",
+   "name": "千象申选灵活配置精选21号",
+   "inception_date": "2021-08-06",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SSG712",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007LBW",
+   "name": "千象申选灵活配置精选21号1期",
+   "inception_date": "2021-08-17",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SSG719",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007Q3J",
+   "name": "千象成长19号",
+   "inception_date": "2021-09-23",
+   "strategy": "多资产策略",
+   "register_number": "SNK897",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000ANLZ",
+   "name": "千象卓越5号B类份额",
+   "inception_date": "2021-10-11",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "0.759524",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007SCU",
+   "name": "千象卓越5号",
+   "inception_date": "2021-10-11",
+   "strategy": "股票策略",
+   "register_number": "SSW952",
+   "ret_incep": "0.758124",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007P8V",
+   "name": "千象卓越3号B期中证500指数增强",
+   "inception_date": "2021-10-19",
+   "strategy": "多资产策略",
+   "register_number": "SSX480",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007WZ0",
+   "name": "千象成长25号",
+   "inception_date": "2021-11-05",
+   "strategy": "多资产策略",
+   "register_number": "STD114",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007ZQZ",
+   "name": "千象磐石42号",
+   "inception_date": "2021-11-26",
+   "strategy": "多资产策略",
+   "register_number": "STB661",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00008ZBO",
+   "name": "信淮千象灵活配置精选1号B类份额",
+   "inception_date": "2022-02-22",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00008A3K",
+   "name": "千象成长29号",
+   "inception_date": "2022-03-29",
+   "strategy": "多资产策略",
+   "register_number": "SVH299",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00008YH5",
+   "name": "千象卓越16号多策略",
+   "inception_date": "2022-04-01",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SVE045",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00008ZUH",
+   "name": "千象26期A期",
+   "inception_date": "2022-04-13",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SVH452",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00008ZTL",
+   "name": "千象成长50号",
+   "inception_date": "2022-04-13",
+   "strategy": "多资产策略",
+   "register_number": "STS456",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000090LJ",
+   "name": "千象成长增强53号",
+   "inception_date": "2022-04-22",
+   "strategy": "多资产策略",
+   "register_number": "SVK353",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000974E",
+   "name": "信淮千象灵活配置精选1号3期",
+   "inception_date": "2022-06-29",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SVT823",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009CMC",
+   "name": "千象磐石45号",
+   "inception_date": "2022-07-25",
+   "strategy": "期货及衍生品策略",
+   "register_number": "STY443",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009K48",
+   "name": "千象股票中性1号",
+   "inception_date": "2022-09-16",
+   "strategy": "股票策略",
+   "register_number": "SXF751",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BN8M",
+   "name": "千象股票中性1号A类份额",
+   "inception_date": "2022-09-16",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009LF1",
+   "name": "千象灵活配置精选29号",
+   "inception_date": "2022-09-27",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SXF206",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AH4C",
+   "name": "千象盛世量化选股10号1期",
+   "inception_date": "2023-04-12",
+   "strategy": "股票策略",
+   "register_number": "SZQ316",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DR8S",
+   "name": "千象盛世量化选股10号B类份额",
+   "inception_date": "2023-04-19",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "0.5472",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AJFL",
+   "name": "千象盛世量化选股10号",
+   "inception_date": "2023-04-19",
+   "strategy": "股票策略",
+   "register_number": "SZQ874",
+   "ret_incep": "0.5158",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AMD9",
+   "name": "千象成长69号",
+   "inception_date": "2023-05-04",
+   "strategy": "多资产策略",
+   "register_number": "SZP403",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AMUZ",
+   "name": "千象量化选股择时对冲8号1期",
+   "inception_date": "2023-05-08",
+   "strategy": "股票策略",
+   "register_number": "SZY712",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AVWX",
+   "name": "千象股票中性1号B类份额",
+   "inception_date": "2023-07-05",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BLTV",
+   "name": "千象全景多元量化1号B类份额",
+   "inception_date": "2023-07-31",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "0.440668",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AYAG",
+   "name": "千象全景多元量化1号",
+   "inception_date": "2023-07-31",
+   "strategy": "多资产策略",
+   "register_number": "SB7719",
+   "ret_incep": "0.4145",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BN8Q",
+   "name": "千象全景多元量化1号A类份额",
+   "inception_date": "2023-07-31",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B4XW",
+   "name": "千象盛世量化选股19号",
+   "inception_date": "2023-11-08",
+   "strategy": "股票策略",
+   "register_number": "SAAE60",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B9PO",
+   "name": "千象盛世量化选股21号",
+   "inception_date": "2024-01-16",
+   "strategy": "股票策略",
+   "register_number": "SAEX48",
+   "ret_incep": "0.957304",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BH4F",
+   "name": "千象商品期货指数增强1号B类份额",
+   "inception_date": "2024-07-24",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "0.148652",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BH4E",
+   "name": "千象商品期货指数增强1号",
+   "inception_date": "2024-07-24",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAMQ76",
+   "ret_incep": "0.4249",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BN8N",
+   "name": "千象商品期货指数增强1号A类份额",
+   "inception_date": "2024-07-24",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CPZM",
+   "name": "千象全景多元量化均衡1号B类份额",
+   "inception_date": "2024-10-17",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "0.1182",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BME4",
+   "name": "千象全景多元量化均衡1号",
+   "inception_date": "2024-10-17",
+   "strategy": "多资产策略",
+   "register_number": "SALJ54",
+   "ret_incep": "0.1087",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CKV5",
+   "name": "千象全景成长亚洲99号A类份额",
+   "inception_date": "2025-01-03",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "0.3654",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000C9PP",
+   "name": "千象全景成长亚洲99号",
+   "inception_date": "2025-01-03",
+   "strategy": "多资产策略",
+   "register_number": "SARV36",
+   "ret_incep": "0.3705",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CHSG",
+   "name": "千象全景多元量化1号C类份额",
+   "inception_date": "2025-04-23",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "0.105454",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DR8Q",
+   "name": "千象鑫享全景多元量化9号B类份额",
+   "inception_date": "2025-04-23",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "0.1252",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CG2R",
+   "name": "千象鑫享全景多元量化9号",
+   "inception_date": "2025-04-23",
+   "strategy": "多资产策略",
+   "register_number": "SAVW59",
+   "ret_incep": "0.1148",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CG0L",
+   "name": "千象卓越2号中证500指数增强B类份额",
+   "inception_date": "2025-04-25",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "0.414479",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CGWL",
+   "name": "千象灵活配置精选42号",
+   "inception_date": "2025-05-08",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAYD30",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CI8T",
+   "name": "千象信淮全景多元量化12号",
+   "inception_date": "2025-05-28",
+   "strategy": "多资产策略",
+   "register_number": "SAYE42",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DWF7",
+   "name": "千象全景多元量化3号B类份额",
+   "inception_date": "2025-06-06",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "0.1165",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DR8P",
+   "name": "千象全景多元量化3号A类份额",
+   "inception_date": "2025-06-06",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CIZI",
+   "name": "千象全景多元量化3号",
+   "inception_date": "2025-06-06",
+   "strategy": "多资产策略",
+   "register_number": "SATX71",
+   "ret_incep": "0.113",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CJ7T",
+   "name": "千象全景多元量化3号1期",
+   "inception_date": "2025-06-06",
+   "strategy": "多资产策略",
+   "register_number": "SATX72",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CLIW",
+   "name": "千象信享全景成长10号2期",
+   "inception_date": "2025-07-11",
+   "strategy": "多资产策略",
+   "register_number": "SAZZ26",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DR8O",
+   "name": "千象信享全景成长10号A类份额",
+   "inception_date": "2025-07-18",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "0.2241",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CM0H",
+   "name": "千象信享全景成长10号",
+   "inception_date": "2025-07-18",
+   "strategy": "多资产策略",
+   "register_number": "SAZZ23",
+   "ret_incep": "0.224",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DR8R",
+   "name": "千象全景多元量化23号A类份额",
+   "inception_date": "2025-10-10",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "0.0567",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000D97B",
+   "name": "千象全景多元量化23号",
+   "inception_date": "2025-10-10",
+   "strategy": "多资产策略",
+   "register_number": "SBEQ54",
+   "ret_incep": "0.0516",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DAH9",
+   "name": "千象汇源全景多元量化1期",
+   "inception_date": "2025-10-31",
+   "strategy": "多资产策略",
+   "register_number": "SBHX81",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DR8T",
+   "name": "千象卓越26号中证500指数增强A类份额",
+   "inception_date": "2025-12-03",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "0.078",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DCTZ",
+   "name": "千象卓越26号中证500指数增强",
+   "inception_date": "2025-12-03",
+   "strategy": "股票策略",
+   "register_number": "SBJD87",
+   "ret_incep": "0.078",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DD2Q",
+   "name": "千象成长56号",
+   "inception_date": "2025-12-11",
+   "strategy": "多资产策略",
+   "register_number": "SVG391",
+   "ret_incep": "0.0407",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DD33",
+   "name": "千象航富卓越23号中证1000指数增强",
+   "inception_date": "2025-12-12",
+   "strategy": "股票策略",
+   "register_number": "SBFX31",
+   "ret_incep": "0.0658",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DE65",
+   "name": "千象全景成长29号",
+   "inception_date": "2025-12-22",
+   "strategy": "多资产策略",
+   "register_number": "SBLE71",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DP9F",
+   "name": "千象信享全景成长10号7期",
+   "inception_date": "2026-04-24",
+   "strategy": "多资产策略",
+   "register_number": "SBUY99",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DQD6",
+   "name": "千象全景多元量化35号2期",
+   "inception_date": "2026-05-08",
+   "strategy": "多资产策略",
+   "register_number": "SABY42",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DVQS",
+   "name": "千象资产-朝熠锐进1号",
+   "inception_date": "2026-06-11",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAUT99",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  }
+ ]
+}

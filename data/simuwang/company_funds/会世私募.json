@@ -1,0 +1,1187 @@
+{
+ "company_id": "CO00002913",
+ "company_short_name": "会世私募",
+ "n_funds": 118,
+ "funds": [
+  {
+   "fund_id": "HF00004VEL",
+   "name": "会世元丰CTA1号",
+   "inception_date": "2018-07-30",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SEC905",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BK7I",
+   "name": "会世元启CTA1号A类份额",
+   "inception_date": "2019-02-25",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005DRV",
+   "name": "会世元启CTA1号",
+   "inception_date": "2019-02-25",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SGJ000",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005CG8",
+   "name": "会世泰和CTA1号",
+   "inception_date": "2019-02-28",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SGA623",
+   "ret_incep": "1.6551",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005I16",
+   "name": "会世五达CTA1号",
+   "inception_date": "2019-05-29",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SGR383",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005MZQ",
+   "name": "会世CTA优选1号",
+   "inception_date": "2019-08-13",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SGX032",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005NX1",
+   "name": "会世元丰CTA2号",
+   "inception_date": "2019-09-04",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SGY945",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005RQ6",
+   "name": "会世泰和CTA2号",
+   "inception_date": "2019-11-14",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SJA241",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005TC8",
+   "name": "会世元熙CTA1号",
+   "inception_date": "2019-11-28",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SJG425",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000060ST",
+   "name": "会世元启CTA2号",
+   "inception_date": "2020-03-16",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SJU454",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000062WF",
+   "name": "会世商品套利1期",
+   "inception_date": "2020-04-09",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SJY073",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006GJW",
+   "name": "会世元启CTA3号",
+   "inception_date": "2020-09-18",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SLX645",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006KO8",
+   "name": "会世元启CTA5号",
+   "inception_date": "2020-11-09",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SNF156",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006N6K",
+   "name": "会世红塔CTA1号",
+   "inception_date": "2020-12-01",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SLX853",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006O7B",
+   "name": "会世套利A",
+   "inception_date": "2020-12-08",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SNK877",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006P8K",
+   "name": "会世套利B",
+   "inception_date": "2020-12-15",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SNM414",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006PNC",
+   "name": "会世元驰3号",
+   "inception_date": "2020-12-22",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SNN519",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006R5W",
+   "name": "会世拓展CTA1号",
+   "inception_date": "2021-01-04",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SNR239",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006SF0",
+   "name": "会世元启CTA8号",
+   "inception_date": "2021-01-11",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SNS695",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006STE",
+   "name": "会世元丰CTA5号",
+   "inception_date": "2021-01-15",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SNT503",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006TDD",
+   "name": "会世元启CTA9号",
+   "inception_date": "2021-01-19",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SNQ256",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006TC0",
+   "name": "会世资产-招享量化CTA1号",
+   "inception_date": "2021-01-20",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SNU749",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006VCG",
+   "name": "会世元启优孚CTA6号",
+   "inception_date": "2021-02-02",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SNX515",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000076NV",
+   "name": "会世趋势CTA1号A类份额",
+   "inception_date": "2021-02-03",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006VMY",
+   "name": "会世趋势CTA1号",
+   "inception_date": "2021-02-03",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SNS119",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BR83",
+   "name": "会世趋势CTA1号B类份额",
+   "inception_date": "2021-02-03",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006VWO",
+   "name": "会世元启CTA7号",
+   "inception_date": "2021-02-05",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SNP892",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006WES",
+   "name": "会世元丰CTA8号",
+   "inception_date": "2021-02-09",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SNT289",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006X5I",
+   "name": "会世元丰CTA7号",
+   "inception_date": "2021-02-24",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SNW226",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006XCH",
+   "name": "会世元启CTA10号",
+   "inception_date": "2021-02-24",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SNV383",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006YL2",
+   "name": "会世元启CTA11号",
+   "inception_date": "2021-03-08",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQC600",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006Z21",
+   "name": "会世金选CTA进取1号",
+   "inception_date": "2021-03-12",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SNW771",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000731I",
+   "name": "会世元驰1号",
+   "inception_date": "2021-03-31",
+   "strategy": "多资产策略",
+   "register_number": "SNC791",
+   "ret_incep": "0.5224",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000074FA",
+   "name": "会世元启CTA12号",
+   "inception_date": "2021-04-15",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQH019",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000794Q",
+   "name": "会世私享CTA1号",
+   "inception_date": "2021-05-26",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQK677",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000079QJ",
+   "name": "会世元丰CTA9号",
+   "inception_date": "2021-06-01",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQR114",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007C45",
+   "name": "会世量化对冲1号",
+   "inception_date": "2021-06-17",
+   "strategy": "股票策略",
+   "register_number": "SQD307",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007BH8",
+   "name": "会世-汇升元启CTA15号",
+   "inception_date": "2021-06-17",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQV936",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007CEL",
+   "name": "会世金选CTA进取2号",
+   "inception_date": "2021-06-24",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQV205",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007DE8",
+   "name": "会世恒享CTA1号",
+   "inception_date": "2021-07-01",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQT507",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007MRU",
+   "name": "会世元丰CTA11号",
+   "inception_date": "2021-08-24",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SSM995",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AYUZ",
+   "name": "会世元驰1000指增1号B类份额",
+   "inception_date": "2021-09-14",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007PSC",
+   "name": "会世元驰1000指增1号",
+   "inception_date": "2021-09-14",
+   "strategy": "股票策略",
+   "register_number": "SST400",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AYIS",
+   "name": "会世元驰1000指增1号A类份额",
+   "inception_date": "2021-09-14",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007QCG",
+   "name": "会世套利G",
+   "inception_date": "2021-09-15",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SSM282",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BHD4",
+   "name": "会世元驰500指增1号A类份额",
+   "inception_date": "2021-11-25",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007YU5",
+   "name": "会世元驰500指增1号",
+   "inception_date": "2021-11-25",
+   "strategy": "股票策略",
+   "register_number": "STH161",
+   "ret_incep": "0.8584",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BR7J",
+   "name": "会世元驰500指增1号B类份额",
+   "inception_date": "2021-11-25",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BKCN",
+   "name": "会世元驰500指增1号C类份额",
+   "inception_date": "2021-11-25",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000082GH",
+   "name": "会世元驰2号A期",
+   "inception_date": "2021-12-20",
+   "strategy": "期货及衍生品策略",
+   "register_number": "STN819",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000082GM",
+   "name": "会世铂选CTA1号",
+   "inception_date": "2021-12-21",
+   "strategy": "期货及衍生品策略",
+   "register_number": "STP080",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000839Y",
+   "name": "会世元驰2号",
+   "inception_date": "2021-12-23",
+   "strategy": "期货及衍生品策略",
+   "register_number": "STJ477",
+   "ret_incep": "0.395",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000084LR",
+   "name": "会世元丰13号",
+   "inception_date": "2022-01-06",
+   "strategy": "期货及衍生品策略",
+   "register_number": "STF677",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000085FV",
+   "name": "会世金选CTA1号",
+   "inception_date": "2022-01-11",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQV218",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000086MM",
+   "name": "会世元启17号",
+   "inception_date": "2022-01-19",
+   "strategy": "期货及衍生品策略",
+   "register_number": "STP125",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000086PB",
+   "name": "会世丰盈2号",
+   "inception_date": "2022-01-21",
+   "strategy": "多资产策略",
+   "register_number": "STV281",
+   "ret_incep": "0.4164",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000E6RP",
+   "name": "会世丰盈2号C类份额",
+   "inception_date": "2022-01-21",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00008854",
+   "name": "会世资产-招享锐进1号",
+   "inception_date": "2022-02-08",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SVA271",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000089XO",
+   "name": "会世元丰12号",
+   "inception_date": "2022-02-23",
+   "strategy": "期货及衍生品策略",
+   "register_number": "STG250",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00008AXN",
+   "name": "会世元熙2号",
+   "inception_date": "2022-03-02",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SVD622",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000089II",
+   "name": "会世元丰8号",
+   "inception_date": "2022-03-22",
+   "strategy": "期货及衍生品策略",
+   "register_number": "STJ098",
+   "ret_incep": "0.3434",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00008CBN",
+   "name": "会世元丰17号",
+   "inception_date": "2022-03-22",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SVH900",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00008Y88",
+   "name": "会世元丰海盈宜选一号",
+   "inception_date": "2022-03-29",
+   "strategy": "期货及衍生品策略",
+   "register_number": "STK190",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00008YAH",
+   "name": "会世元丰20号",
+   "inception_date": "2022-03-29",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SVJ694",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00008ZNO",
+   "name": "会世元丰陆享CTA1号",
+   "inception_date": "2022-04-11",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SVJ785",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000091YT",
+   "name": "会世元丰嘉选CTA26号",
+   "inception_date": "2022-04-29",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SVN526",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000092YE",
+   "name": "会世金享1号",
+   "inception_date": "2022-05-17",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SVL954",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000931L",
+   "name": "会世元丰18号",
+   "inception_date": "2022-05-19",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SVE583",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009524",
+   "name": "会世元丰22号",
+   "inception_date": "2022-06-10",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SVL419",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009BKK",
+   "name": "会世元丰信会15号A期",
+   "inception_date": "2022-07-13",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SVY059",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009BMS",
+   "name": "会世元丰CTA28号",
+   "inception_date": "2022-07-18",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SVQ650",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009BSU",
+   "name": "会世元丰植享30号",
+   "inception_date": "2022-07-19",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SVW031",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009C93",
+   "name": "会世元丰信会15号",
+   "inception_date": "2022-07-22",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SVY057",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009CHM",
+   "name": "会世元丰信会15号C期",
+   "inception_date": "2022-07-26",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SVX032",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009FJ8",
+   "name": "会世陆享CTA8号",
+   "inception_date": "2022-08-16",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SVU959",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BHD3",
+   "name": "会世丰盈多策略1号A类份额",
+   "inception_date": "2022-10-26",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "0.33859",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009NQY",
+   "name": "会世丰盈多策略1号",
+   "inception_date": "2022-10-26",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SXP674",
+   "ret_incep": "0.6426",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000C7PR",
+   "name": "会世丰盈多策略1号C类份额",
+   "inception_date": "2022-10-26",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000A2Y7",
+   "name": "会世元丰臻选23号",
+   "inception_date": "2023-01-17",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SZE664",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000A2WC",
+   "name": "会世元丰29号1期",
+   "inception_date": "2023-01-19",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SVP574",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000C7PS",
+   "name": "会世元丰29号1期B类份额",
+   "inception_date": "2023-01-19",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BMHI",
+   "name": "会世元丰29号B类份额",
+   "inception_date": "2023-01-31",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000A3EO",
+   "name": "会世元丰29号",
+   "inception_date": "2023-01-31",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SVP573",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000C7PE",
+   "name": "会世元丰29号A类份额",
+   "inception_date": "2023-01-31",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BMHJ",
+   "name": "会世元驰1000指增复合1号A类份额",
+   "inception_date": "2023-09-14",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B2HS",
+   "name": "会世元驰1000指增复合1号",
+   "inception_date": "2023-09-14",
+   "strategy": "股票策略",
+   "register_number": "SABB74",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000C7PF",
+   "name": "会世元驰1000指增复合1号C类份额",
+   "inception_date": "2023-09-14",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BGEP",
+   "name": "会世丰盈2号B类份额",
+   "inception_date": "2023-11-28",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BDH3",
+   "name": "会世丰盈5号",
+   "inception_date": "2024-03-28",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAJH60",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BMAK",
+   "name": "会世元启CTA1号B类份额",
+   "inception_date": "2024-06-25",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BMHH",
+   "name": "会世元丰29号1期A类份额",
+   "inception_date": "2024-09-30",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DC3O",
+   "name": "会世元驰1号B类份额",
+   "inception_date": "2024-10-25",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "0.5155",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000C6GH",
+   "name": "会世元丰36号",
+   "inception_date": "2024-11-12",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAQS18",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000C7Z7",
+   "name": "会世元启15号",
+   "inception_date": "2024-12-09",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SARC98",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CCCG",
+   "name": "省心享会世元丰32号",
+   "inception_date": "2025-03-03",
+   "strategy": "期货及衍生品策略",
+   "register_number": "STY701",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CGSB",
+   "name": "会世元丰31号",
+   "inception_date": "2025-05-07",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAXT03",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DAAD",
+   "name": "会世宏观量化1号A类份额",
+   "inception_date": "2025-05-12",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "0.017405",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CH22",
+   "name": "会世宏观量化1号",
+   "inception_date": "2025-05-12",
+   "strategy": "多资产策略",
+   "register_number": "SAXE88",
+   "ret_incep": "0.2243",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CLK0",
+   "name": "会世元丰38号",
+   "inception_date": "2025-07-11",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBBQ49",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CQ0A",
+   "name": "会世元丰42号",
+   "inception_date": "2025-08-22",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBDM10",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CPS4",
+   "name": "会世元丰39号",
+   "inception_date": "2025-08-27",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBAC97",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CROF",
+   "name": "会世金选CTA2号",
+   "inception_date": "2025-09-09",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBFH25",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CS1D",
+   "name": "会世元丰CTA37号",
+   "inception_date": "2025-09-12",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBCR63",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CSSW",
+   "name": "会世金选CTA3号",
+   "inception_date": "2025-09-23",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBFZ33",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CT5X",
+   "name": "会世元启16号",
+   "inception_date": "2025-09-26",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBGJ39",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CT65",
+   "name": "会世元丰广远19号",
+   "inception_date": "2025-09-29",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBGN99",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DB15",
+   "name": "会世金选CTA5号",
+   "inception_date": "2025-11-11",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBJL67",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DGK5",
+   "name": "会世元驰5号",
+   "inception_date": "2026-01-15",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBNX72",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DGMS",
+   "name": "会世元驰春晓6号",
+   "inception_date": "2026-01-16",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBNE76",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DHW7",
+   "name": "会世元驰8号",
+   "inception_date": "2026-01-22",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBNZ23",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DL8F",
+   "name": "会世元驰9号",
+   "inception_date": "2026-03-13",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBQJ00",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DLHN",
+   "name": "会世元驰10号",
+   "inception_date": "2026-03-18",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBQJ19",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DOLI",
+   "name": "会世丰盈8号",
+   "inception_date": "2026-04-15",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBRM04",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DPKV",
+   "name": "会世丰盈永泰7号",
+   "inception_date": "2026-04-28",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBSP56",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DPR6",
+   "name": "会世宏观量化2号",
+   "inception_date": "2026-04-29",
+   "strategy": "多资产策略",
+   "register_number": "SBUA17",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DQ4D",
+   "name": "会世省心享丰盈6号",
+   "inception_date": "2026-05-06",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBRC88",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DZZZ",
+   "name": "会世君盈丰盈10号1期",
+   "inception_date": "2026-07-24",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAFR99",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000E07S",
+   "name": "会世君盈丰盈10号",
+   "inception_date": "2026-07-24",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAML01",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  }
+ ]
+}

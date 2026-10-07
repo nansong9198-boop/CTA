@@ -1,0 +1,1527 @@
+{
+ "company_id": "CO00000HWR",
+ "company_short_name": "思勰投资",
+ "n_funds": 152,
+ "funds": [
+  {
+   "fund_id": "HF00009I9H",
+   "name": "思勰投资创金指数增强18号",
+   "inception_date": "",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000057ZU",
+   "name": "思勰市场中性旗舰产品",
+   "inception_date": "2013-06-18",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00002GIV",
+   "name": "思勰投资正好股票中性30号",
+   "inception_date": "2017-02-23",
+   "strategy": "股票策略",
+   "register_number": "SR9391",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00003HXQ",
+   "name": "思勰投资思新稳健CTA15号",
+   "inception_date": "2017-05-22",
+   "strategy": "期货及衍生品策略",
+   "register_number": "ST1836",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00003X4T",
+   "name": "思协十号CTA",
+   "inception_date": "2017-08-04",
+   "strategy": "多资产策略",
+   "register_number": "SW4946",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00003ZFR",
+   "name": "思勰投资思凝17号",
+   "inception_date": "2017-09-04",
+   "strategy": "股票策略",
+   "register_number": "SW6842",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00003Z9F",
+   "name": "思勰投资思艺北交所精选37号",
+   "inception_date": "2017-09-04",
+   "strategy": "多资产策略",
+   "register_number": "SX0481",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000044MV",
+   "name": "思勰投资思恋38号",
+   "inception_date": "2017-11-06",
+   "strategy": "股票策略",
+   "register_number": "SY0222",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000044UW",
+   "name": "思勰投资思伊五十号",
+   "inception_date": "2017-11-07",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SY0232",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000460D",
+   "name": "思勰投资正好混合中性39号",
+   "inception_date": "2017-11-17",
+   "strategy": "多资产策略",
+   "register_number": "SY3208",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00004EMS",
+   "name": "思勰投资思怀40号",
+   "inception_date": "2018-01-26",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SCF331",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00004IGT",
+   "name": "思勰投资思凝11号",
+   "inception_date": "2018-03-19",
+   "strategy": "股票策略",
+   "register_number": "SCM369",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00004JGG",
+   "name": "思勰投资正好混合中性6号",
+   "inception_date": "2018-03-23",
+   "strategy": "股票策略",
+   "register_number": "SCK285",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00004LAH",
+   "name": "思勰投资思聚二十七号",
+   "inception_date": "2018-04-04",
+   "strategy": "多资产策略",
+   "register_number": "SX1240",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00004M1M",
+   "name": "思勰投资思新稳健CTA51号",
+   "inception_date": "2018-04-23",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SY0196",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00004YNA",
+   "name": "思勰投资趋势CTA一号",
+   "inception_date": "2018-09-03",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SEL399",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00004YNB",
+   "name": "思勰投资正瑞一号股票策略",
+   "inception_date": "2018-09-03",
+   "strategy": "股票策略",
+   "register_number": "SEL403",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005I07",
+   "name": "思勰投资-思铭专享四十六号",
+   "inception_date": "2019-04-18",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SGL083",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005LK0",
+   "name": "思勰投资思新稳健CTA47号",
+   "inception_date": "2019-07-29",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SGW629",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005M9B",
+   "name": "思勰投资正海八号股票策略",
+   "inception_date": "2019-08-06",
+   "strategy": "多资产策略",
+   "register_number": "SGT938",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005O8G",
+   "name": "思勰投资-思勰金选CTA1号",
+   "inception_date": "2019-09-03",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SGX083",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005O3I",
+   "name": "思勰投资正好混合中性4号",
+   "inception_date": "2019-09-05",
+   "strategy": "股票策略",
+   "register_number": "SJA338",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005S5Z",
+   "name": "思勰投资思凝10号",
+   "inception_date": "2019-11-20",
+   "strategy": "多资产策略",
+   "register_number": "SJG027",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000614R",
+   "name": "思勰投资思家五十七号",
+   "inception_date": "2020-03-18",
+   "strategy": "股票策略",
+   "register_number": "SJD304",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000617K",
+   "name": "思勰投资思帮六号",
+   "inception_date": "2020-03-19",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SJU493",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000061VI",
+   "name": "思勰投资思凝15号",
+   "inception_date": "2020-03-25",
+   "strategy": "多资产策略",
+   "register_number": "SJT419",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BHCS",
+   "name": "思勰投资-中证500指数增强1号C类份额",
+   "inception_date": "2020-03-26",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000625P",
+   "name": "思勰投资-中证500指数增强1号",
+   "inception_date": "2020-03-26",
+   "strategy": "股票策略",
+   "register_number": "SJU280",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000062AB",
+   "name": "思勰投资启航8号",
+   "inception_date": "2020-03-30",
+   "strategy": "多资产策略",
+   "register_number": "SJX568",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000062G7",
+   "name": "思勰投资思新稳健CTA7号",
+   "inception_date": "2020-03-31",
+   "strategy": "多资产策略",
+   "register_number": "SJX684",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000062I1",
+   "name": "思勰投资思源中证1000指数增强2号",
+   "inception_date": "2020-03-31",
+   "strategy": "股票策略",
+   "register_number": "SJX768",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000062O4",
+   "name": "思勰投资思学五十三号",
+   "inception_date": "2020-04-07",
+   "strategy": "股票策略",
+   "register_number": "SJX856",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000063OY",
+   "name": "思勰投资正好混合中性10号",
+   "inception_date": "2020-04-24",
+   "strategy": "多资产策略",
+   "register_number": "SJY803",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BHCI",
+   "name": "思勰投资子张十号B类份额",
+   "inception_date": "2020-04-24",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000664M",
+   "name": "思勰投资大数据选股一期",
+   "inception_date": "2020-06-03",
+   "strategy": "股票策略",
+   "register_number": "SLC491",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BHCE",
+   "name": "思勰投资大数据选股一期B类份额",
+   "inception_date": "2020-06-03",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000066MI",
+   "name": "思勰投资天弘量化九号",
+   "inception_date": "2020-06-12",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SLF128",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006887",
+   "name": "思勰投资金兴一号",
+   "inception_date": "2020-06-24",
+   "strategy": "多资产策略",
+   "register_number": "SLG770",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000068VX",
+   "name": "思勰投资金选正好混合中性1号",
+   "inception_date": "2020-07-06",
+   "strategy": "多资产策略",
+   "register_number": "SLE096",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006BBQ",
+   "name": "思勰投资金选量化宪问1号1期",
+   "inception_date": "2020-07-21",
+   "strategy": "多资产策略",
+   "register_number": "SLG012",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006BP5",
+   "name": "思勰投资-汇升十七号",
+   "inception_date": "2020-08-04",
+   "strategy": "多资产策略",
+   "register_number": "SLP276",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006DHU",
+   "name": "思勰投资稳进六十九号",
+   "inception_date": "2020-08-21",
+   "strategy": "多资产策略",
+   "register_number": "SLS140",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006E8J",
+   "name": "思勰投资思凝16号",
+   "inception_date": "2020-08-28",
+   "strategy": "股票策略",
+   "register_number": "SJZ934",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006EAM",
+   "name": "思勰投资-指数增强3号",
+   "inception_date": "2020-08-31",
+   "strategy": "股票策略",
+   "register_number": "SLS805",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006EXF",
+   "name": "思勰投资-指数增强5号",
+   "inception_date": "2020-09-02",
+   "strategy": "股票策略",
+   "register_number": "SLU485",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006GF0",
+   "name": "思勰投资-指数增强6号",
+   "inception_date": "2020-09-18",
+   "strategy": "股票策略",
+   "register_number": "SLX006",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006IBU",
+   "name": "思勰投资思瑞混合多策略2号2期A类份额",
+   "inception_date": "2020-10-12",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "0.582172",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006HNF",
+   "name": "思勰投资思瑞混合多策略2号2期",
+   "inception_date": "2020-10-12",
+   "strategy": "多资产策略",
+   "register_number": "SLJ517",
+   "ret_incep": "0.586102",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006KFK",
+   "name": "思勰投资金选正好混合中性2号",
+   "inception_date": "2020-11-06",
+   "strategy": "多资产策略",
+   "register_number": "SNB695",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006KOC",
+   "name": "思勰投资正好混合中性9号",
+   "inception_date": "2020-11-12",
+   "strategy": "股票策略",
+   "register_number": "SNF703",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006L18",
+   "name": "思勰投资-中证500指数增强9号",
+   "inception_date": "2020-11-16",
+   "strategy": "股票策略",
+   "register_number": "SNE611",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006M73",
+   "name": "思勰投资思凝三号",
+   "inception_date": "2020-11-26",
+   "strategy": "股票策略",
+   "register_number": "SNH078",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006O0I",
+   "name": "思勰投资新享15号",
+   "inception_date": "2020-12-07",
+   "strategy": "多资产策略",
+   "register_number": "SNK419",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006QCM",
+   "name": "思勰投资源丰一号指数增强",
+   "inception_date": "2020-12-30",
+   "strategy": "股票策略",
+   "register_number": "SNC737",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006S53",
+   "name": "思勰投资金选中证500指数增强IC版",
+   "inception_date": "2021-01-11",
+   "strategy": "股票策略",
+   "register_number": "SNM370",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006SW2",
+   "name": "思勰投资源丰一号一期指数增强",
+   "inception_date": "2021-01-19",
+   "strategy": "股票策略",
+   "register_number": "SNK690",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000072WI",
+   "name": "思勰投资股票量化精选6期",
+   "inception_date": "2021-03-30",
+   "strategy": "多资产策略",
+   "register_number": "SQG659",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007DNG",
+   "name": "思勰投资海盈宜选一号",
+   "inception_date": "2021-06-30",
+   "strategy": "多资产策略",
+   "register_number": "SQY428",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007FIL",
+   "name": "思勰金泽C6号",
+   "inception_date": "2021-07-13",
+   "strategy": "多资产策略",
+   "register_number": "SQS422",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007FEH",
+   "name": "思勰投资股票量化精选2期",
+   "inception_date": "2021-07-14",
+   "strategy": "股票策略",
+   "register_number": "SQX987",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007G1N",
+   "name": "思勰投资金选沪深300指数增强IF版",
+   "inception_date": "2021-07-21",
+   "strategy": "股票策略",
+   "register_number": "SQZ273",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007GJV",
+   "name": "思勰投资思凝五号",
+   "inception_date": "2021-07-22",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SSA342",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007GUM",
+   "name": "思勰投资安益二号",
+   "inception_date": "2021-07-27",
+   "strategy": "股票策略",
+   "register_number": "SSD067",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007JFC",
+   "name": "思勰投资思凝12号",
+   "inception_date": "2021-08-02",
+   "strategy": "股票策略",
+   "register_number": "SSG801",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007JYZ",
+   "name": "思勰金泽C8号",
+   "inception_date": "2021-08-05",
+   "strategy": "多资产策略",
+   "register_number": "SSD408",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007MPY",
+   "name": "思勰投资趋势CTA二号",
+   "inception_date": "2021-08-24",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SSH787",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007NUV",
+   "name": "思勰金泽C9号",
+   "inception_date": "2021-08-31",
+   "strategy": "股票策略",
+   "register_number": "SSD420",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007PNF",
+   "name": "思勰投资思尚中证500指数增强10号",
+   "inception_date": "2021-09-16",
+   "strategy": "股票策略",
+   "register_number": "SST595",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007YOI",
+   "name": "思勰金泽C13号",
+   "inception_date": "2021-11-19",
+   "strategy": "多资产策略",
+   "register_number": "STC635",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BHCF",
+   "name": "思勰投资股票多空配置2号A类份额",
+   "inception_date": "2021-12-08",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00008514",
+   "name": "思勰投资安益三号",
+   "inception_date": "2022-01-05",
+   "strategy": "股票策略",
+   "register_number": "STL802",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CQ6X",
+   "name": "思勰投资-中证500指数增强1号A类份额",
+   "inception_date": "2022-01-07",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000878Y",
+   "name": "思勰投资东益十号",
+   "inception_date": "2022-01-25",
+   "strategy": "股票策略",
+   "register_number": "STS483",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000878X",
+   "name": "思勰投资长量十号",
+   "inception_date": "2022-01-25",
+   "strategy": "多资产策略",
+   "register_number": "STS481",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000089Y6",
+   "name": "思勰投资金选中证1000指数增强IM版",
+   "inception_date": "2022-03-01",
+   "strategy": "多资产策略",
+   "register_number": "STT827",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00008Y5M",
+   "name": "思勰投资安盈一号",
+   "inception_date": "2022-03-29",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SVH637",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00008YI9",
+   "name": "思勰投资安盈二号",
+   "inception_date": "2022-03-30",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SVH638",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00008ZQV",
+   "name": "思勰投资信淮1号",
+   "inception_date": "2022-04-08",
+   "strategy": "多资产策略",
+   "register_number": "SVH661",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000905R",
+   "name": "思勰投资股票多空配置5号",
+   "inception_date": "2022-04-18",
+   "strategy": "股票策略",
+   "register_number": "SVB951",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000094PL",
+   "name": "思勰投资安欣六号",
+   "inception_date": "2022-05-31",
+   "strategy": "多资产策略",
+   "register_number": "SVT365",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000094O9",
+   "name": "思勰投资思凝13号",
+   "inception_date": "2022-06-01",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SVQ868",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000094PM",
+   "name": "思勰投资安欣八号",
+   "inception_date": "2022-06-01",
+   "strategy": "多资产策略",
+   "register_number": "SVT366",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000095FQ",
+   "name": "思勰投资思文六号",
+   "inception_date": "2022-06-09",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SVS493",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000095RF",
+   "name": "思勰投资安欣六号一期",
+   "inception_date": "2022-06-15",
+   "strategy": "多资产策略",
+   "register_number": "SVV193",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000095SL",
+   "name": "思勰投资思尚中证500指数增强8号",
+   "inception_date": "2022-06-16",
+   "strategy": "股票策略",
+   "register_number": "SVR069",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000098HB",
+   "name": "思勰投资思凝7号",
+   "inception_date": "2022-07-04",
+   "strategy": "多资产策略",
+   "register_number": "SVY088",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009CTT",
+   "name": "思勰投资启航7号",
+   "inception_date": "2022-07-28",
+   "strategy": "多资产策略",
+   "register_number": "STZ268",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009FIX",
+   "name": "思勰投资思尚中证500指数增强17号",
+   "inception_date": "2022-08-16",
+   "strategy": "股票策略",
+   "register_number": "SVG146",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009FWO",
+   "name": "思勰投资正好混合中性20号",
+   "inception_date": "2022-08-16",
+   "strategy": "多资产策略",
+   "register_number": "SVG136",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009GDD",
+   "name": "思勰投资思尚中证500指数增强23C号",
+   "inception_date": "2022-08-23",
+   "strategy": "股票策略",
+   "register_number": "SVY635",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009H9L",
+   "name": "思勰投资星愿",
+   "inception_date": "2022-08-25",
+   "strategy": "多资产策略",
+   "register_number": "SXE316",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009H7U",
+   "name": "思勰投资思源1号",
+   "inception_date": "2022-08-29",
+   "strategy": "多资产策略",
+   "register_number": "SVY349",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009HHW",
+   "name": "思勰投资正好混合中性5号",
+   "inception_date": "2022-08-30",
+   "strategy": "多资产策略",
+   "register_number": "SXB081",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009HPM",
+   "name": "思勰投资中证500指数增强23号1期",
+   "inception_date": "2022-08-31",
+   "strategy": "股票策略",
+   "register_number": "SVY637",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009HL9",
+   "name": "思勰投资混合策略20号1期",
+   "inception_date": "2022-08-31",
+   "strategy": "多资产策略",
+   "register_number": "SVG133",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009HLA",
+   "name": "思勰投资中证500指数增强17号1期",
+   "inception_date": "2022-08-31",
+   "strategy": "股票策略",
+   "register_number": "SVG144",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009HRK",
+   "name": "思勰投资信淮A期",
+   "inception_date": "2022-08-31",
+   "strategy": "股票策略",
+   "register_number": "SXF172",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009IF4",
+   "name": "思勰投资安欣九号",
+   "inception_date": "2022-09-07",
+   "strategy": "多资产策略",
+   "register_number": "SXG089",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009ISN",
+   "name": "思勰投资-招享锐进1号",
+   "inception_date": "2022-09-13",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SXH353",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009J17",
+   "name": "思勰投资安欣八号一期",
+   "inception_date": "2022-09-14",
+   "strategy": "多资产策略",
+   "register_number": "SXF981",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009J18",
+   "name": "思勰投资安欣九号一期",
+   "inception_date": "2022-09-15",
+   "strategy": "多资产策略",
+   "register_number": "SXG088",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009K9B",
+   "name": "思勰投资金选中证500指数增强IC版2号",
+   "inception_date": "2022-09-20",
+   "strategy": "期货及衍生品策略",
+   "register_number": "STZ132",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009KH0",
+   "name": "思勰投资信淮2号",
+   "inception_date": "2022-09-21",
+   "strategy": "股票策略",
+   "register_number": "SVJ397",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009LCJ",
+   "name": "思勰投资思瑞混合多策略6号",
+   "inception_date": "2022-09-26",
+   "strategy": "多资产策略",
+   "register_number": "SXL176",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009LJG",
+   "name": "思勰投资福兴一号中证500指数增强",
+   "inception_date": "2022-09-27",
+   "strategy": "多资产策略",
+   "register_number": "SXL139",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BHCH",
+   "name": "思勰投资思源中证1000指数增强1号A类份额",
+   "inception_date": "2022-10-17",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009N9G",
+   "name": "思勰投资思源中证1000指数增强1号",
+   "inception_date": "2022-10-17",
+   "strategy": "股票策略",
+   "register_number": "SXL640",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009N0S",
+   "name": "思勰投资思拓高频七号",
+   "inception_date": "2022-10-19",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SXM239",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009SZU",
+   "name": "思勰投资启富2号",
+   "inception_date": "2022-10-25",
+   "strategy": "股票策略",
+   "register_number": "STZ911",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009T1F",
+   "name": "思勰投资芳华二十六号",
+   "inception_date": "2022-10-26",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SXN713",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009T0V",
+   "name": "思勰投资思渊高频八号",
+   "inception_date": "2022-10-27",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SXM250",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009TV3",
+   "name": "思勰投资-指数增强16号",
+   "inception_date": "2022-11-02",
+   "strategy": "股票策略",
+   "register_number": "STV240",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009TKN",
+   "name": "思勰投资思谦高频九号",
+   "inception_date": "2022-11-02",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SXM254",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009U0D",
+   "name": "思勰投资梧桐一号",
+   "inception_date": "2022-11-07",
+   "strategy": "多资产策略",
+   "register_number": "SXL648",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009U34",
+   "name": "思勰投资安欣十二号",
+   "inception_date": "2022-11-07",
+   "strategy": "多资产策略",
+   "register_number": "SXS078",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009UL5",
+   "name": "思勰投资东益十五号",
+   "inception_date": "2022-11-10",
+   "strategy": "股票策略",
+   "register_number": "SXR228",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009WAB",
+   "name": "思勰投资东益十六号",
+   "inception_date": "2022-11-17",
+   "strategy": "股票策略",
+   "register_number": "SXR230",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009WAL",
+   "name": "省心享思勰兴泰进取1号",
+   "inception_date": "2022-11-17",
+   "strategy": "股票策略",
+   "register_number": "SXR870",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009W9I",
+   "name": "思勰投资指数增强28号",
+   "inception_date": "2022-11-18",
+   "strategy": "股票策略",
+   "register_number": "SXN037",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009YUB",
+   "name": "思勰投资金选思尚中证500指数增强1号",
+   "inception_date": "2022-12-13",
+   "strategy": "股票策略",
+   "register_number": "SXX556",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009ZQ6",
+   "name": "思勰投资跃享增强2号",
+   "inception_date": "2022-12-15",
+   "strategy": "多资产策略",
+   "register_number": "SXZ034",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009Z3G",
+   "name": "思勰投资-混合多策略3号",
+   "inception_date": "2022-12-15",
+   "strategy": "多资产策略",
+   "register_number": "SXT799",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009ZOH",
+   "name": "思勰投资思凝八号",
+   "inception_date": "2022-12-22",
+   "strategy": "多资产策略",
+   "register_number": "SXV364",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009ZWG",
+   "name": "思勰投资思卓专享1号",
+   "inception_date": "2022-12-23",
+   "strategy": "股票策略",
+   "register_number": "SZA539",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000A03J",
+   "name": "思勰投资-朝熠量化多头2号",
+   "inception_date": "2022-12-27",
+   "strategy": "股票策略",
+   "register_number": "SXX246",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000A0VD",
+   "name": "思勰投资正好股票中性2号",
+   "inception_date": "2023-01-05",
+   "strategy": "多资产策略",
+   "register_number": "SXW711",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000A3AW",
+   "name": "思勰投资-金选稳源11号",
+   "inception_date": "2023-01-13",
+   "strategy": "多资产策略",
+   "register_number": "SXV282",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000A3G0",
+   "name": "思勰投资兴锐增强1号",
+   "inception_date": "2023-01-17",
+   "strategy": "多资产策略",
+   "register_number": "SZD714",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000A2KU",
+   "name": "思勰投资瑶光二号",
+   "inception_date": "2023-01-18",
+   "strategy": "多资产策略",
+   "register_number": "SZD458",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000A4BI",
+   "name": "思勰投资兴锐增强1号1期",
+   "inception_date": "2023-02-08",
+   "strategy": "多资产策略",
+   "register_number": "SZE048",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000A7X8",
+   "name": "思勰投资思源5号",
+   "inception_date": "2023-03-06",
+   "strategy": "多资产策略",
+   "register_number": "SZE047",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000A827",
+   "name": "思勰投资宏利进取1号",
+   "inception_date": "2023-03-07",
+   "strategy": "多资产策略",
+   "register_number": "SZL918",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000A8HD",
+   "name": "思勰投资新享13号",
+   "inception_date": "2023-03-09",
+   "strategy": "多资产策略",
+   "register_number": "SZK713",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000A8XK",
+   "name": "思勰投资宏利进取1号1期",
+   "inception_date": "2023-03-13",
+   "strategy": "多资产策略",
+   "register_number": "SZL916",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000A8W0",
+   "name": "思勰投资安欣十七号",
+   "inception_date": "2023-03-14",
+   "strategy": "多资产策略",
+   "register_number": "SZB264",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AAJ8",
+   "name": "思勰投资思凝1号",
+   "inception_date": "2023-03-21",
+   "strategy": "多资产策略",
+   "register_number": "SZQ648",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AAHE",
+   "name": "思勰投资跃享增强1号",
+   "inception_date": "2023-03-28",
+   "strategy": "多资产策略",
+   "register_number": "SZD505",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AAVY",
+   "name": "思勰投资合利十二号",
+   "inception_date": "2023-03-29",
+   "strategy": "多资产策略",
+   "register_number": "SZT853",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AAX1",
+   "name": "思勰投资思源8号",
+   "inception_date": "2023-03-30",
+   "strategy": "多资产策略",
+   "register_number": "SZK714",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AXCW",
+   "name": "思勰投资-中证1000指数增强萌萌",
+   "inception_date": "2023-07-13",
+   "strategy": "股票策略",
+   "register_number": "SZR745",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B6SW",
+   "name": "思勰投资小市值量化精选3期A类份额",
+   "inception_date": "2023-09-15",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B4G4",
+   "name": "思勰投资常泰1号CTA",
+   "inception_date": "2023-11-02",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SACJ37",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BHCR",
+   "name": "思勰投资常泰QF1号中周期CTAA类份额",
+   "inception_date": "2023-11-02",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BCP2",
+   "name": "思勰投资-江海远山12期量化混合策略",
+   "inception_date": "2024-03-15",
+   "strategy": "多资产策略",
+   "register_number": "SAGS90",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BDUQ",
+   "name": "思勰投资思新稳健CTA1号",
+   "inception_date": "2024-04-09",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAHN13",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BHCG",
+   "name": "思勰投资股票量化精选2期A类份额",
+   "inception_date": "2024-05-10",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CFF7",
+   "name": "思勰投资桑榆中性组合2号",
+   "inception_date": "2025-04-11",
+   "strategy": "股票策略",
+   "register_number": "SAXE01",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CITU",
+   "name": "思勰投资思凝九号",
+   "inception_date": "2025-05-29",
+   "strategy": "多资产策略",
+   "register_number": "SAYL28",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DERS",
+   "name": "思勰投资中证500指数增强多策略信享1号",
+   "inception_date": "2025-12-24",
+   "strategy": "股票策略",
+   "register_number": "SBMQ85",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DH98",
+   "name": "思勰投资长金CTA1号",
+   "inception_date": "2026-01-16",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBLH54",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DL0P",
+   "name": "思勰投资思谦科技创新精选1号",
+   "inception_date": "2026-03-05",
+   "strategy": "股票策略",
+   "register_number": "SBQM95",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DSHF",
+   "name": "思勰投资思瑞三号混合多策略",
+   "inception_date": "2026-05-22",
+   "strategy": "多资产策略",
+   "register_number": "SBNE71",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  }
+ ]
+}

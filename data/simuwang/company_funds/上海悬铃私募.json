@@ -1,0 +1,377 @@
+{
+ "company_id": "CO00000UUZ",
+ "company_short_name": "上海悬铃私募",
+ "n_funds": 37,
+ "funds": [
+  {
+   "fund_id": "HF00004GH6",
+   "name": "悬铃A号",
+   "inception_date": "2018-02-02",
+   "strategy": "多资产策略",
+   "register_number": "SCH558",
+   "ret_incep": "2.917",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00004GPI",
+   "name": "悬铃尊享CTA6号",
+   "inception_date": "2018-02-14",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SCJ772",
+   "ret_incep": "3.398938",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000057AU",
+   "name": "悬铃C号",
+   "inception_date": "2018-11-19",
+   "strategy": "多资产策略",
+   "register_number": "SEK201",
+   "ret_incep": "1.461348",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BGES",
+   "name": "悬铃C号B类份额",
+   "inception_date": "2018-12-04",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "1.101057",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005D0O",
+   "name": "悬铃尊享CTA2号",
+   "inception_date": "2019-03-18",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SGA921",
+   "ret_incep": "1.647288",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005FJW",
+   "name": "悬铃宏观1号",
+   "inception_date": "2019-04-17",
+   "strategy": "多资产策略",
+   "register_number": "SGH126",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BGF1",
+   "name": "悬铃增强20号B类份额",
+   "inception_date": "2019-04-17",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005FNS",
+   "name": "悬铃A号2期",
+   "inception_date": "2019-04-24",
+   "strategy": "多资产策略",
+   "register_number": "SGH302",
+   "ret_incep": "1.364912",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005FNT",
+   "name": "悬铃C号2期",
+   "inception_date": "2019-04-24",
+   "strategy": "多资产策略",
+   "register_number": "SGH303",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000069PB",
+   "name": "悬铃C号2期B类份额",
+   "inception_date": "2020-02-27",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000069PC",
+   "name": "悬铃C号2期C类份额",
+   "inception_date": "2020-03-02",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000069OV",
+   "name": "悬铃A号2期B类份额",
+   "inception_date": "2020-03-06",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "0.832417",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006W7E",
+   "name": "悬铃C号6期",
+   "inception_date": "2021-02-08",
+   "strategy": "多资产策略",
+   "register_number": "SNY736",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BGEU",
+   "name": "悬铃C号6期B类份额",
+   "inception_date": "2021-03-03",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000777C",
+   "name": "悬铃华安量化一号",
+   "inception_date": "2021-05-06",
+   "strategy": "多资产策略",
+   "register_number": "SQE874",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000083CL",
+   "name": "悬铃成长1号",
+   "inception_date": "2021-12-29",
+   "strategy": "多资产策略",
+   "register_number": "STP551",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000088IJ",
+   "name": "悬铃稳健1号",
+   "inception_date": "2022-02-16",
+   "strategy": "多资产策略",
+   "register_number": "SVB806",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BGEZ",
+   "name": "悬铃可转债量化一号B类份额",
+   "inception_date": "2022-03-07",
+   "strategy": "债券策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DJPC",
+   "name": "悬铃尊享CTA8号B类份额",
+   "inception_date": "2022-03-11",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "0.161534",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00008BG2",
+   "name": "悬铃尊享CTA8号",
+   "inception_date": "2022-03-11",
+   "strategy": "期货及衍生品策略",
+   "register_number": "STW103",
+   "ret_incep": "0.161534",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BGEW",
+   "name": "悬铃C号9期B类份额",
+   "inception_date": "2022-04-20",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "0.351",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000090SG",
+   "name": "悬铃C号9期",
+   "inception_date": "2022-04-20",
+   "strategy": "多资产策略",
+   "register_number": "SVH343",
+   "ret_incep": "0.361",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DBKG",
+   "name": "悬铃尊享CTA2号B类份额",
+   "inception_date": "2022-06-06",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "0.256442",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009KJ1",
+   "name": "悬铃C号金享1期",
+   "inception_date": "2022-09-23",
+   "strategy": "多资产策略",
+   "register_number": "SXG898",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BEMF",
+   "name": "悬铃尊享CTA1号A类份额",
+   "inception_date": "2022-12-26",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "1.618362",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BGF0",
+   "name": "悬铃尊享CTA1号B类份额",
+   "inception_date": "2022-12-26",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "1.5538",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009ZN7",
+   "name": "悬铃尊享CTA1号",
+   "inception_date": "2022-12-26",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SZA312",
+   "ret_incep": "1.5579",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BGF2",
+   "name": "悬铃和鸣多策略1号B类份额",
+   "inception_date": "2023-01-09",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "0.935172",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000A0U9",
+   "name": "悬铃和鸣多策略1号",
+   "inception_date": "2023-01-09",
+   "strategy": "多资产策略",
+   "register_number": "SZD124",
+   "ret_incep": "0.951162",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DFIU",
+   "name": "悬铃尊享稳健CTA5号B类份额",
+   "inception_date": "2023-01-17",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "0.0626",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000A1ZI",
+   "name": "悬铃尊享稳健CTA5号",
+   "inception_date": "2023-01-17",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SZF450",
+   "ret_incep": "0.091508",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AH8M",
+   "name": "悬铃君享CTA2号",
+   "inception_date": "2023-04-18",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SZF199",
+   "ret_incep": "0.260818",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DP0J",
+   "name": "悬铃君享CTA1号B类份额",
+   "inception_date": "2023-05-15",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "0.0145",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AN9Y",
+   "name": "悬铃君享CTA1号",
+   "inception_date": "2023-05-15",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SZF196",
+   "ret_incep": "0.534687",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DFEI",
+   "name": "悬铃尊享CTA6号B类份额",
+   "inception_date": "2026-01-14",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "3.39894",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DP0K",
+   "name": "悬铃君享CTA2号B类份额",
+   "inception_date": "2026-04-23",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DWFO",
+   "name": "悬铃君享CTA5号",
+   "inception_date": "2026-06-22",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAFR16",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  }
+ ]
+}

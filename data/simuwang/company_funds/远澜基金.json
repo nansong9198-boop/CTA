@@ -1,0 +1,1477 @@
+{
+ "company_id": "CO00000C7L",
+ "company_short_name": "远澜基金",
+ "n_funds": 147,
+ "funds": [
+  {
+   "fund_id": "HF0000B8T5",
+   "name": "远澜香樟混合2号B类份额",
+   "inception_date": "",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B8T4",
+   "name": "远澜香樟混合2号",
+   "inception_date": "",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00001542",
+   "name": "远澜云杉多策略",
+   "inception_date": "2015-11-04",
+   "strategy": "期货及衍生品策略",
+   "register_number": "S83994",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CAUA",
+   "name": "远澜红松B类份额",
+   "inception_date": "2016-04-22",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DAFI",
+   "name": "远澜火松B类份额",
+   "inception_date": "2016-04-22",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005ZZ1",
+   "name": "远澜雪松B类份额",
+   "inception_date": "2016-04-22",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00001GVZ",
+   "name": "远澜乔松",
+   "inception_date": "2016-04-22",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SJ4367",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00001GP0",
+   "name": "远澜红松",
+   "inception_date": "2016-04-22",
+   "strategy": "多资产策略",
+   "register_number": "SJ4234",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CB9Q",
+   "name": "远澜红松A类份额",
+   "inception_date": "2016-04-22",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00001GCG",
+   "name": "远澜雪松",
+   "inception_date": "2016-04-22",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SJ4381",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00001GRB",
+   "name": "远澜火松",
+   "inception_date": "2016-04-22",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SJ4346",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00001J0T",
+   "name": "远澜红枫1号",
+   "inception_date": "2016-06-07",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SK2204",
+   "ret_incep": "6.469327",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00001NBY",
+   "name": "上海远澜硕桦1号",
+   "inception_date": "2016-07-25",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SL5922",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005TUG",
+   "name": "远澜红枫2号私募证券投资基金B",
+   "inception_date": "2016-08-18",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00002HMW",
+   "name": "远澜水杉1号",
+   "inception_date": "2017-03-14",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SS3567",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00002JJ2",
+   "name": "远澜银杏1号",
+   "inception_date": "2017-04-10",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SS2703",
+   "ret_incep": "1.810079",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00003YLQ",
+   "name": "远澜高道长青",
+   "inception_date": "2017-08-24",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SW2653",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000040KJ",
+   "name": "远澜苍松1号",
+   "inception_date": "2017-09-01",
+   "strategy": "股票策略",
+   "register_number": "ST5900",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000411Y",
+   "name": "远澜梧桐1号",
+   "inception_date": "2017-09-22",
+   "strategy": "股票策略",
+   "register_number": "SW5129",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000049P4",
+   "name": "远澜红枫3号",
+   "inception_date": "2017-12-01",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SX6540",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005S3I",
+   "name": "远澜银杏2号",
+   "inception_date": "2019-11-12",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SJD492",
+   "ret_incep": "1.704543",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005UST",
+   "name": "远澜月桂6号稳健增长",
+   "inception_date": "2019-12-12",
+   "strategy": "组合基金",
+   "register_number": "SJH927",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006485",
+   "name": "远澜橡树1号",
+   "inception_date": "2020-05-07",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SJV883",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000067IH",
+   "name": "远澜白桦500指数增强图灵1号",
+   "inception_date": "2020-06-16",
+   "strategy": "股票策略",
+   "register_number": "SLB403",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006DH9",
+   "name": "远澜橡树2号",
+   "inception_date": "2020-08-14",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SLR404",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006DO7",
+   "name": "远澜火松2号",
+   "inception_date": "2020-08-20",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SLR391",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00008BO0",
+   "name": "远澜银杏2号B类份额",
+   "inception_date": "2020-10-16",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "1.344121",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006KFB",
+   "name": "远澜火松3号",
+   "inception_date": "2020-11-03",
+   "strategy": "股票策略",
+   "register_number": "SNA949",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006LP2",
+   "name": "远澜梧桐量化选股择时1号",
+   "inception_date": "2020-11-18",
+   "strategy": "股票策略",
+   "register_number": "SNF884",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B0HS",
+   "name": "远澜梧桐中证500指数增强B类份额",
+   "inception_date": "2020-11-18",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006QLG",
+   "name": "远澜藤枫12号",
+   "inception_date": "2020-12-29",
+   "strategy": "多资产策略",
+   "register_number": "SNQ470",
+   "ret_incep": "0.3534",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006SJO",
+   "name": "远澜-招享量化CTA1号",
+   "inception_date": "2021-01-07",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SNR934",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006WY2",
+   "name": "远澜月桂混合策略1号",
+   "inception_date": "2021-02-19",
+   "strategy": "多资产策略",
+   "register_number": "SNY060",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000071Y3",
+   "name": "远澜红枫11号",
+   "inception_date": "2021-03-15",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SNW986",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00008AZK",
+   "name": "远澜红枫私享12号A",
+   "inception_date": "2021-04-01",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000732Q",
+   "name": "远澜红枫私享12号",
+   "inception_date": "2021-04-01",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQB632",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000075M1",
+   "name": "远澜红枫20号",
+   "inception_date": "2021-04-20",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQK658",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000D9OE",
+   "name": "远澜银杏恒享5号A类份额",
+   "inception_date": "2021-05-10",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000077C2",
+   "name": "远澜银杏恒享5号",
+   "inception_date": "2021-05-10",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQM416",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007B61",
+   "name": "远澜月桂混合策略5号",
+   "inception_date": "2021-06-11",
+   "strategy": "股票策略",
+   "register_number": "SQQ581",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007JOG",
+   "name": "远澜松柏1号",
+   "inception_date": "2021-07-29",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SSF372",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CT8M",
+   "name": "远澜藤松2号A类份额",
+   "inception_date": "2021-08-10",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "0.814738",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007LBR",
+   "name": "远澜藤松2号",
+   "inception_date": "2021-08-10",
+   "strategy": "多资产策略",
+   "register_number": "SSG166",
+   "ret_incep": "0.860691",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007L6A",
+   "name": "远澜红枫15号",
+   "inception_date": "2021-08-10",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SSF337",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AWKA",
+   "name": "远澜梧桐中证1000指数增强B类份额",
+   "inception_date": "2022-07-28",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009CN6",
+   "name": "远澜梧桐中证1000指数增强",
+   "inception_date": "2022-07-28",
+   "strategy": "股票策略",
+   "register_number": "STZ353",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000C7HX",
+   "name": "远澜梧桐中证1000指数增强A类份额",
+   "inception_date": "2022-07-28",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009DNR",
+   "name": "远澜红杉行业精选",
+   "inception_date": "2022-08-01",
+   "strategy": "股票策略",
+   "register_number": "STZ360",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BMLY",
+   "name": "远澜藤枫宏观量化1号B类份额",
+   "inception_date": "2023-01-18",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "0.71462",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000A2DD",
+   "name": "远澜藤枫宏观量化1号",
+   "inception_date": "2023-01-18",
+   "strategy": "多资产策略",
+   "register_number": "SZF854",
+   "ret_incep": "0.721506",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CA9R",
+   "name": "远澜藤枫宏观量化1号A类份额",
+   "inception_date": "2023-01-18",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AIZG",
+   "name": "远澜量化选股金枫1号",
+   "inception_date": "2023-04-19",
+   "strategy": "股票策略",
+   "register_number": "SZT580",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AJ8W",
+   "name": "远澜梧桐中证全指指数增强1号",
+   "inception_date": "2023-04-20",
+   "strategy": "股票策略",
+   "register_number": "SZR596",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DAFH",
+   "name": "远澜木棉指数增强A类份额",
+   "inception_date": "2023-04-24",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "0.846302",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AJDK",
+   "name": "远澜木棉指数增强",
+   "inception_date": "2023-04-24",
+   "strategy": "股票策略",
+   "register_number": "SZY339",
+   "ret_incep": "0.911963",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AJDN",
+   "name": "远澜藤枫宏观量化2号",
+   "inception_date": "2023-04-24",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SZY417",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AJH1",
+   "name": "远澜香樟混合金享1号",
+   "inception_date": "2023-04-25",
+   "strategy": "多资产策略",
+   "register_number": "SZV379",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AMUN",
+   "name": "远澜东方睿选红枫21号",
+   "inception_date": "2023-05-31",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SGB848",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AXBP",
+   "name": "远澜藤枫18号",
+   "inception_date": "2023-08-01",
+   "strategy": "多资产策略",
+   "register_number": "SB5210",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B0U4",
+   "name": "远澜信享银杏6号",
+   "inception_date": "2023-09-07",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAAD20",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B2FS",
+   "name": "远澜梧桐高波动中性5号",
+   "inception_date": "2023-09-27",
+   "strategy": "股票策略",
+   "register_number": "SAAV92",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B577",
+   "name": "远澜藤松5号",
+   "inception_date": "2023-11-15",
+   "strategy": "多资产策略",
+   "register_number": "SABA81",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B6FR",
+   "name": "远澜木桐期权1号",
+   "inception_date": "2023-12-04",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAEA00",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B9HH",
+   "name": "远澜云杉长远尊享9号",
+   "inception_date": "2024-01-18",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SZV355",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BDPQ",
+   "name": "远澜冬青跨境套利1号",
+   "inception_date": "2024-03-22",
+   "strategy": "多资产策略",
+   "register_number": "SAHU42",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BEI1",
+   "name": "远澜钻选CTA1号",
+   "inception_date": "2024-04-18",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAGQ30",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BFME",
+   "name": "远澜藤枫宏观量化3号",
+   "inception_date": "2024-05-10",
+   "strategy": "多资产策略",
+   "register_number": "SAKR50",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000C7O3",
+   "name": "远澜翠柏7号",
+   "inception_date": "2024-12-02",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SARG82",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000C7NL",
+   "name": "远澜红枫23号",
+   "inception_date": "2024-12-02",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAQV72",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000C8G6",
+   "name": "远澜HT翠柏8号",
+   "inception_date": "2024-12-16",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SARG83",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CAWH",
+   "name": "远澜藤枫宏观量化5号",
+   "inception_date": "2025-01-24",
+   "strategy": "多资产策略",
+   "register_number": "SATK09",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CBD0",
+   "name": "远澜红枫25号",
+   "inception_date": "2025-01-24",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SATQ01",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CBU5",
+   "name": "远澜如意街火松5号",
+   "inception_date": "2025-02-21",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SATV10",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CC6N",
+   "name": "远澜宏观藤松17号",
+   "inception_date": "2025-02-25",
+   "strategy": "多资产策略",
+   "register_number": "SAUD73",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CC8U",
+   "name": "远澜信享银杏7号",
+   "inception_date": "2025-02-26",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SASP58",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CB8G",
+   "name": "远澜藤枫宏观量化6号C类份额",
+   "inception_date": "2025-02-28",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "0.142642",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CB8E",
+   "name": "远澜藤枫宏观量化6号",
+   "inception_date": "2025-02-28",
+   "strategy": "多资产策略",
+   "register_number": "SATX15",
+   "ret_incep": "0.1401",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CCX2",
+   "name": "远澜藤枫宏观量化6号A类份额",
+   "inception_date": "2025-02-28",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CB8F",
+   "name": "远澜藤枫宏观量化6号B类份额",
+   "inception_date": "2025-02-28",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CD1W",
+   "name": "远澜翠柏15号",
+   "inception_date": "2025-03-07",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAUR33",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CDCN",
+   "name": "远澜翠柏16号",
+   "inception_date": "2025-03-13",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAUV08",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CDGW",
+   "name": "远澜紫檀1号",
+   "inception_date": "2025-03-14",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAVR01",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CDLQ",
+   "name": "远澜红枫26号",
+   "inception_date": "2025-03-17",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAUS16",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CGRJ",
+   "name": "远澜藤枫宏观量化7号",
+   "inception_date": "2025-04-15",
+   "strategy": "多资产策略",
+   "register_number": "SAWB71",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CGGS",
+   "name": "远澜翠柏21号",
+   "inception_date": "2025-04-28",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAVH99",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CGII",
+   "name": "远澜藤松宏观量化1号A类份额",
+   "inception_date": "2025-05-28",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CGIH",
+   "name": "远澜藤松宏观量化1号",
+   "inception_date": "2025-05-28",
+   "strategy": "多资产策略",
+   "register_number": "SAXU55",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CIF7",
+   "name": "远澜藤松宏观量化1号B类份额",
+   "inception_date": "2025-05-28",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CIZO",
+   "name": "远澜梧桐量化扶摇上行一号",
+   "inception_date": "2025-06-10",
+   "strategy": "股票策略",
+   "register_number": "SAXA69",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CKFV",
+   "name": "远澜翠柏22号",
+   "inception_date": "2025-06-27",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAZP35",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CMT3",
+   "name": "远澜藤枫8号",
+   "inception_date": "2025-07-21",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBCG09",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CTD4",
+   "name": "高道远澜进取",
+   "inception_date": "2025-08-25",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBEV27",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000D9GK",
+   "name": "远澜青枫1号",
+   "inception_date": "2025-09-17",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBEM55",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DAON",
+   "name": "远澜紫藤3号",
+   "inception_date": "2025-10-13",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBGS16",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DB7U",
+   "name": "远澜广享火松6号",
+   "inception_date": "2025-10-31",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBEU46",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DF9W",
+   "name": "远澜藤枫11号B类份额",
+   "inception_date": "2025-11-19",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "0.0049",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DBSU",
+   "name": "远澜藤枫11号",
+   "inception_date": "2025-11-19",
+   "strategy": "多资产策略",
+   "register_number": "SBGX83",
+   "ret_incep": "0.0049",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DDU1",
+   "name": "远澜藤松3号",
+   "inception_date": "2025-12-15",
+   "strategy": "多资产策略",
+   "register_number": "SBLH41",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DIU2",
+   "name": "远澜广享火松8号",
+   "inception_date": "2026-01-26",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBPA09",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DLZG",
+   "name": "远澜火松定制9号",
+   "inception_date": "2026-01-28",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBPM00",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DITK",
+   "name": "远澜藤枫15号",
+   "inception_date": "2026-01-28",
+   "strategy": "多资产策略",
+   "register_number": "SBMC86",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DJJ9",
+   "name": "远澜藤松8号",
+   "inception_date": "2026-02-03",
+   "strategy": "多资产策略",
+   "register_number": "SBQQ30",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DJIU",
+   "name": "远澜钻选CTA2号",
+   "inception_date": "2026-02-03",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBPT11",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DJVP",
+   "name": "远澜藤松6号",
+   "inception_date": "2026-02-06",
+   "strategy": "多资产策略",
+   "register_number": "SBMM63",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DJNW",
+   "name": "远澜藤松12号",
+   "inception_date": "2026-02-09",
+   "strategy": "多资产策略",
+   "register_number": "SBQY81",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DJ7V",
+   "name": "远澜藤松9号",
+   "inception_date": "2026-02-10",
+   "strategy": "多资产策略",
+   "register_number": "SBQQ44",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DGDB",
+   "name": "远澜藤松10号",
+   "inception_date": "2026-02-12",
+   "strategy": "多资产策略",
+   "register_number": "SBQS96",
+   "ret_incep": "-0.0274",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DFXO",
+   "name": "远澜鑫享火松7号A类份额",
+   "inception_date": "2026-02-24",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "0.0069",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DFXN",
+   "name": "远澜鑫享火松7号",
+   "inception_date": "2026-02-24",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBMN56",
+   "ret_incep": "0.0069",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DLTZ",
+   "name": "远澜广享火松10号",
+   "inception_date": "2026-03-19",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBRQ97",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DM8D",
+   "name": "远澜广享15号",
+   "inception_date": "2026-03-19",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBTN28",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DLQZ",
+   "name": "远澜火桐1号",
+   "inception_date": "2026-03-19",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBTB58",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DM5U",
+   "name": "远澜藤松7号",
+   "inception_date": "2026-03-19",
+   "strategy": "多资产策略",
+   "register_number": "SBQQ28",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DMXD",
+   "name": "远澜广享12号",
+   "inception_date": "2026-03-26",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBTN26",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DN85",
+   "name": "远澜藤松11号",
+   "inception_date": "2026-03-27",
+   "strategy": "多资产策略",
+   "register_number": "SBQS99",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DO6X",
+   "name": "远澜藤松2号1期",
+   "inception_date": "2026-04-15",
+   "strategy": "多资产策略",
+   "register_number": "SBUY67",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DOQX",
+   "name": "远澜藤枫1号2期",
+   "inception_date": "2026-04-16",
+   "strategy": "多资产策略",
+   "register_number": "SBVU30",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DP3K",
+   "name": "远澜藤松2号2期",
+   "inception_date": "2026-04-22",
+   "strategy": "多资产策略",
+   "register_number": "SBWG68",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DQ5E",
+   "name": "远澜红枫28号",
+   "inception_date": "2026-04-27",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBVR18",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DPWY",
+   "name": "远澜广远藤松19号",
+   "inception_date": "2026-04-28",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBWH57",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DPOE",
+   "name": "远澜陆享宏观1号",
+   "inception_date": "2026-04-29",
+   "strategy": "多资产策略",
+   "register_number": "SBVS28",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DRS6",
+   "name": "远澜藤枫16号",
+   "inception_date": "2026-05-20",
+   "strategy": "多资产策略",
+   "register_number": "SBVH00",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DTOJ",
+   "name": "远澜藤枫新势1号",
+   "inception_date": "2026-05-22",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBWJ27",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DSYX",
+   "name": "远澜藤枫1号1期",
+   "inception_date": "2026-05-25",
+   "strategy": "多资产策略",
+   "register_number": "SBVU23",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DTDX",
+   "name": "远澜红枫海享",
+   "inception_date": "2026-05-26",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SABE71",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DTDV",
+   "name": "远澜藤松2号3期",
+   "inception_date": "2026-05-27",
+   "strategy": "多资产策略",
+   "register_number": "SAAS09",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DT8R",
+   "name": "远澜藤松1号1期",
+   "inception_date": "2026-05-27",
+   "strategy": "多资产策略",
+   "register_number": "SAFH77",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DT9Q",
+   "name": "远澜宏观藤松17号1期",
+   "inception_date": "2026-05-29",
+   "strategy": "多资产策略",
+   "register_number": "SAJT08",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DUR3",
+   "name": "远澜红枫君盈CTA1号",
+   "inception_date": "2026-06-03",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SADG61",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DVCD",
+   "name": "远澜红枫君盈CTA1号1期",
+   "inception_date": "2026-06-03",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SADF56",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DVIV",
+   "name": "远澜藤枫1号3期",
+   "inception_date": "2026-06-16",
+   "strategy": "多资产策略",
+   "register_number": "SAJT39",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DWBT",
+   "name": "远澜火桐CTA2号",
+   "inception_date": "2026-06-24",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAVY40",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DYFP",
+   "name": "远澜红枫12号1期",
+   "inception_date": "2026-07-02",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAUB38",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DYP0",
+   "name": "远澜红枫盈享",
+   "inception_date": "2026-07-07",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SB7418",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000E1DI",
+   "name": "远澜红枫信享1号",
+   "inception_date": "2026-07-30",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SCC543",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000E206",
+   "name": "远澜红枫信享1号2期",
+   "inception_date": "2026-07-30",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SCL688",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000E0H4",
+   "name": "远澜红枫信享1号1期",
+   "inception_date": "2026-07-30",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SCC704",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000E0G8",
+   "name": "远澜CTA红枫27号1期",
+   "inception_date": "2026-07-31",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBAS38",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000E0U1",
+   "name": "远澜红枫融享CTA1号",
+   "inception_date": "2026-07-31",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SB7430",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000E3VO",
+   "name": "远澜金享多策略1号",
+   "inception_date": "2026-08-20",
+   "strategy": "多资产策略",
+   "register_number": "SCL054",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000E33M",
+   "name": "远澜混合CTA红枫16号",
+   "inception_date": "2026-08-21",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SCX538",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000E3OS",
+   "name": "远澜钻选CTA3号",
+   "inception_date": "2026-08-26",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SATQ33",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000E4UN",
+   "name": "远澜红枫长享CTA1号",
+   "inception_date": "2026-09-02",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SCY788",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000E52Q",
+   "name": "远澜松柏2号",
+   "inception_date": "2026-09-07",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SEP501",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000E603",
+   "name": "远澜龙泉藤松21号",
+   "inception_date": "2026-09-08",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SCW453",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000E5HM",
+   "name": "远澜藤枫臻选1号",
+   "inception_date": "2026-09-08",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SEU601",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000E6IU",
+   "name": "远澜红枫32号",
+   "inception_date": "2026-09-17",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SGC263",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  }
+ ]
+}

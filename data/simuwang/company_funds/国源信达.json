@@ -1,0 +1,27 @@
+{
+ "company_id": "CO00000JPU",
+ "company_short_name": "国源信达",
+ "n_funds": 2,
+ "funds": [
+  {
+   "fund_id": "HF0000E5BY",
+   "name": "国源信达黄金指数增强1号A类份额",
+   "inception_date": "2026-09-04",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000E4PY",
+   "name": "国源信达黄金指数增强1号",
+   "inception_date": "2026-09-04",
+   "strategy": "多资产策略",
+   "register_number": "SEN252",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  }
+ ]
+}

@@ -1,0 +1,467 @@
+{
+ "company_id": "CO00003N5C",
+ "company_short_name": "杭州博衍私募",
+ "n_funds": 46,
+ "funds": [
+  {
+   "fund_id": "HF0000A2Z5",
+   "name": "博衍春晓1号",
+   "inception_date": "2023-01-19",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SZG588",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BJ5T",
+   "name": "博衍留芳1号A类份额",
+   "inception_date": "2023-02-03",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "1.1733",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000A3Y0",
+   "name": "博衍留芳1号",
+   "inception_date": "2023-02-03",
+   "strategy": "多资产策略",
+   "register_number": "SZG868",
+   "ret_incep": "1.1799",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000A3Y2",
+   "name": "博衍梦泉1号",
+   "inception_date": "2023-02-03",
+   "strategy": "股票策略",
+   "register_number": "SZG899",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000A6ZF",
+   "name": "博衍闻莺1号",
+   "inception_date": "2023-02-22",
+   "strategy": "债券策略",
+   "register_number": "SZK158",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000A8NQ",
+   "name": "博衍富春2号",
+   "inception_date": "2023-03-07",
+   "strategy": "多资产策略",
+   "register_number": "SZM577",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AA4V",
+   "name": "博衍灵溪1号",
+   "inception_date": "2023-03-23",
+   "strategy": "股票策略",
+   "register_number": "SZR179",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AA53",
+   "name": "博衍吴淞1号",
+   "inception_date": "2023-03-23",
+   "strategy": "股票策略",
+   "register_number": "SZR452",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BJ5U",
+   "name": "博衍九溪CTA1号A类份额",
+   "inception_date": "2023-03-31",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "0.7281",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AB96",
+   "name": "博衍九溪CTA1号",
+   "inception_date": "2023-03-31",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SZT587",
+   "ret_incep": "0.7282",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BK2T",
+   "name": "博衍九溪宏观策略1号A类份额",
+   "inception_date": "2023-04-19",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AJ1A",
+   "name": "博衍九溪宏观策略1号",
+   "inception_date": "2023-04-19",
+   "strategy": "多资产策略",
+   "register_number": "SZW470",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AW1J",
+   "name": "博衍若溪1号",
+   "inception_date": "2023-07-03",
+   "strategy": "多资产策略",
+   "register_number": "SB4532",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BKSJ",
+   "name": "博衍联创1号",
+   "inception_date": "2024-08-12",
+   "strategy": "多资产策略",
+   "register_number": "SANB40",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CJ2I",
+   "name": "博衍医疗健康1号A类份额",
+   "inception_date": "2024-10-14",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "0.6223",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BM8Q",
+   "name": "博衍医疗健康1号",
+   "inception_date": "2024-10-14",
+   "strategy": "股票策略",
+   "register_number": "SANJ34",
+   "ret_incep": "0.6359",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BMZS",
+   "name": "博衍九溪CTA2号",
+   "inception_date": "2024-10-23",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAPX61",
+   "ret_incep": "0.6136",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000C6SS",
+   "name": "博衍深智1号",
+   "inception_date": "2024-11-18",
+   "strategy": "多资产策略",
+   "register_number": "SAQR50",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000C72E",
+   "name": "博衍九溪混合策略祥驰1号",
+   "inception_date": "2024-11-25",
+   "strategy": "多资产策略",
+   "register_number": "SAQF93",
+   "ret_incep": "0.331413",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CILU",
+   "name": "博衍九溪CTA2号A类份额",
+   "inception_date": "2025-03-26",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "0.43934",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CE9W",
+   "name": "博衍留芳3号",
+   "inception_date": "2025-03-28",
+   "strategy": "多资产策略",
+   "register_number": "SAVJ03",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CGGQ",
+   "name": "博衍多资产6号",
+   "inception_date": "2025-04-10",
+   "strategy": "多资产策略",
+   "register_number": "SAUT32",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CGW2",
+   "name": "博衍若溪医疗健康",
+   "inception_date": "2025-04-25",
+   "strategy": "多资产策略",
+   "register_number": "SAXS69",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DISK",
+   "name": "博衍九溪CTA6号A类份额",
+   "inception_date": "2025-06-13",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "0.2029",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CJG0",
+   "name": "博衍九溪CTA6号",
+   "inception_date": "2025-06-13",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAZU19",
+   "ret_incep": "0.2029",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CM65",
+   "name": "博衍九溪CTA7号",
+   "inception_date": "2025-07-17",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBBK16",
+   "ret_incep": "0.2509",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CMIR",
+   "name": "博衍若溪多策略",
+   "inception_date": "2025-07-24",
+   "strategy": "多资产策略",
+   "register_number": "SBCJ46",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DO55",
+   "name": "博衍留芳2号A类份额",
+   "inception_date": "2025-09-05",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "-0.0426",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CRAN",
+   "name": "博衍留芳2号",
+   "inception_date": "2025-09-05",
+   "strategy": "多资产策略",
+   "register_number": "SBEX01",
+   "ret_incep": "-0.0424",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DB3F",
+   "name": "博衍留芳金享1号",
+   "inception_date": "2025-10-31",
+   "strategy": "多资产策略",
+   "register_number": "SBHJ74",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DD8X",
+   "name": "博衍九溪CTA9号",
+   "inception_date": "2025-12-15",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBMC79",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DISL",
+   "name": "博衍九溪CTA5号A类份额",
+   "inception_date": "2026-01-07",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "0.0621",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DFUJ",
+   "name": "博衍九溪CTA5号",
+   "inception_date": "2026-01-07",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBNA95",
+   "ret_incep": "0.0622",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DGEF",
+   "name": "博衍留芳君怡1号",
+   "inception_date": "2026-01-12",
+   "strategy": "多资产策略",
+   "register_number": "SBNM78",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DHV5",
+   "name": "博衍九溪CTA8号",
+   "inception_date": "2026-01-26",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBNA93",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DI90",
+   "name": "博衍能源转型1号",
+   "inception_date": "2026-01-26",
+   "strategy": "多资产策略",
+   "register_number": "SBMX56",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DIY3",
+   "name": "博衍臻选CTA1号",
+   "inception_date": "2026-02-13",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBRS00",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DLP4",
+   "name": "博衍九溪CTA17号",
+   "inception_date": "2026-03-19",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBSQ77",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DMWY",
+   "name": "博衍留芳春晓1号",
+   "inception_date": "2026-04-01",
+   "strategy": "多资产策略",
+   "register_number": "SBSN69",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DO1A",
+   "name": "博衍闻莺2号",
+   "inception_date": "2026-04-08",
+   "strategy": "债券策略",
+   "register_number": "SBTL24",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DO77",
+   "name": "博衍九溪CTA16号",
+   "inception_date": "2026-04-15",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBVF80",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DQ4E",
+   "name": "博衍留芳招瑞1号",
+   "inception_date": "2026-04-30",
+   "strategy": "多资产策略",
+   "register_number": "SBRP26",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DQD8",
+   "name": "博衍春晓3号",
+   "inception_date": "2026-05-08",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SACK88",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DRLV",
+   "name": "博衍留芳灵活配置1期",
+   "inception_date": "2026-05-18",
+   "strategy": "多资产策略",
+   "register_number": "SBVV47",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DVEK",
+   "name": "博衍九溪留芳1号",
+   "inception_date": "2026-06-16",
+   "strategy": "多资产策略",
+   "register_number": "SBWD43",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000E26C",
+   "name": "博衍云栖9号",
+   "inception_date": "2026-08-11",
+   "strategy": "多资产策略",
+   "register_number": "SCZ713",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  }
+ ]
+}

@@ -1,0 +1,1507 @@
+{
+ "company_id": "CO00003KC1",
+ "company_short_name": "量派投资",
+ "n_funds": 150,
+ "funds": [
+  {
+   "fund_id": "HF00006JMJ",
+   "name": "量派对冲15号",
+   "inception_date": "2020-10-29",
+   "strategy": "股票策略",
+   "register_number": "SLZ473",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006JML",
+   "name": "量派鑫兴16号",
+   "inception_date": "2020-10-29",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SLZ579",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006JQS",
+   "name": "量派专享二号",
+   "inception_date": "2020-10-29",
+   "strategy": "股票策略",
+   "register_number": "SNA820",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006LFW",
+   "name": "量派300增强2号",
+   "inception_date": "2020-11-17",
+   "strategy": "股票策略",
+   "register_number": "SND172",
+   "ret_incep": "0.5189",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000C683",
+   "name": "量派300增强2号B类份额",
+   "inception_date": "2020-11-17",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006M7N",
+   "name": "量派私享八号",
+   "inception_date": "2020-11-26",
+   "strategy": "股票策略",
+   "register_number": "SNJ513",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006O1K",
+   "name": "量派对冲69号",
+   "inception_date": "2020-12-09",
+   "strategy": "股票策略",
+   "register_number": "SNL670",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006PNS",
+   "name": "量派对冲11号",
+   "inception_date": "2020-12-22",
+   "strategy": "股票策略",
+   "register_number": "SNP130",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006S1C",
+   "name": "量派金选中证500指数增强14号",
+   "inception_date": "2020-12-25",
+   "strategy": "股票策略",
+   "register_number": "SNK917",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006XJ6",
+   "name": "量派对冲17号",
+   "inception_date": "2021-02-24",
+   "strategy": "股票策略",
+   "register_number": "SNZ614",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006YAF",
+   "name": "量派专享三十号",
+   "inception_date": "2021-03-05",
+   "strategy": "股票策略",
+   "register_number": "SNZ588",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006YPY",
+   "name": "量派鑫兴68号一期",
+   "inception_date": "2021-03-08",
+   "strategy": "股票策略",
+   "register_number": "SNX497",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000074GE",
+   "name": "量派中证1000增强12号",
+   "inception_date": "2021-04-13",
+   "strategy": "股票策略",
+   "register_number": "SQJ816",
+   "ret_incep": "1.6989",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000C777",
+   "name": "量派中证1000增强12号B类份额",
+   "inception_date": "2021-04-13",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000077EB",
+   "name": "量派对冲25号",
+   "inception_date": "2021-05-11",
+   "strategy": "股票策略",
+   "register_number": "SQN898",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007GGZ",
+   "name": "量派均衡多策略1号",
+   "inception_date": "2021-07-23",
+   "strategy": "股票策略",
+   "register_number": "SSE285",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007JCR",
+   "name": "量派专享六号",
+   "inception_date": "2021-07-29",
+   "strategy": "股票策略",
+   "register_number": "SSA797",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007JS9",
+   "name": "量派专享七号",
+   "inception_date": "2021-08-04",
+   "strategy": "股票策略",
+   "register_number": "SSB962",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007QIC",
+   "name": "量派聚核20号",
+   "inception_date": "2021-09-22",
+   "strategy": "多资产策略",
+   "register_number": "SSS088",
+   "ret_incep": "1.1469",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000C7I7",
+   "name": "量派聚核20号A类份额",
+   "inception_date": "2021-09-22",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007X8W",
+   "name": "量派CTA二号",
+   "inception_date": "2021-11-16",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SSR250",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007XII",
+   "name": "量派专享十号",
+   "inception_date": "2021-11-17",
+   "strategy": "股票策略",
+   "register_number": "STF318",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CAU9",
+   "name": "量派中证1000指数增强19号C类份额",
+   "inception_date": "2021-12-06",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000809H",
+   "name": "量派中证1000指数增强19号",
+   "inception_date": "2021-12-06",
+   "strategy": "股票策略",
+   "register_number": "STG147",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000084SD",
+   "name": "量派专享十二号",
+   "inception_date": "2022-01-07",
+   "strategy": "股票策略",
+   "register_number": "STG525",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000086K9",
+   "name": "量派鑫兴68号",
+   "inception_date": "2022-01-20",
+   "strategy": "股票策略",
+   "register_number": "STU946",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009FEY",
+   "name": "量派国证2000增强28号",
+   "inception_date": "2022-08-15",
+   "strategy": "股票策略",
+   "register_number": "SVH784",
+   "ret_incep": "1.2893",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000C7HZ",
+   "name": "量派国证2000增强28号B类份额",
+   "inception_date": "2022-08-15",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000A15Z",
+   "name": "量派CTA七号",
+   "inception_date": "2023-01-06",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SZC678",
+   "ret_incep": "0.7882",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000C7I5",
+   "name": "量派CTA七号A类份额",
+   "inception_date": "2023-01-06",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000C7I6",
+   "name": "量派CTA七号B类份额",
+   "inception_date": "2023-01-06",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000A1EX",
+   "name": "量派3000均衡增强16号",
+   "inception_date": "2023-01-09",
+   "strategy": "股票策略",
+   "register_number": "SZD120",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AA7P",
+   "name": "量派专享十六号",
+   "inception_date": "2023-03-24",
+   "strategy": "股票策略",
+   "register_number": "SZE060",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AKFX",
+   "name": "量派聚核20号C类份额",
+   "inception_date": "2023-04-11",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "0.6524",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B16X",
+   "name": "量派国证2000增强28号C类份额",
+   "inception_date": "2023-04-14",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "0.934146",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AKFV",
+   "name": "量派300增强2号C类份额",
+   "inception_date": "2023-04-14",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "0.404706",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AKFZ",
+   "name": "量派中证1000增强12号C类份额",
+   "inception_date": "2023-04-14",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "0.862951",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AKFW",
+   "name": "量派CTA七号C类份额",
+   "inception_date": "2023-04-19",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "0.573014",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AVTL",
+   "name": "省心享量派中证500量化多头32号",
+   "inception_date": "2023-06-19",
+   "strategy": "股票策略",
+   "register_number": "SB2688",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AZQ1",
+   "name": "量派中证1000量化多头36号",
+   "inception_date": "2023-08-15",
+   "strategy": "股票策略",
+   "register_number": "SB3856",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BG6M",
+   "name": "量派对冲9号C类份额",
+   "inception_date": "2023-09-07",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B5YB",
+   "name": "量派聚核46号A类份额",
+   "inception_date": "2023-09-26",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "1.050284",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B2GQ",
+   "name": "量派聚核46号",
+   "inception_date": "2023-09-26",
+   "strategy": "股票策略",
+   "register_number": "SB4893",
+   "ret_incep": "1.051454",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B3OW",
+   "name": "量派专享十七号",
+   "inception_date": "2023-10-16",
+   "strategy": "股票策略",
+   "register_number": "SVD283",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B6OK",
+   "name": "量派专享二十一号",
+   "inception_date": "2023-12-01",
+   "strategy": "股票策略",
+   "register_number": "SVB511",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B8KE",
+   "name": "省心享量派量化选股73号",
+   "inception_date": "2023-12-26",
+   "strategy": "股票策略",
+   "register_number": "SAFD63",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B8Q2",
+   "name": "量派CTA一号C类份额",
+   "inception_date": "2024-01-03",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "0.39776",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B8Q3",
+   "name": "量派CTA一号",
+   "inception_date": "2024-01-03",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAET98",
+   "ret_incep": "0.394",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000C7I2",
+   "name": "量派CTA一号B类份额",
+   "inception_date": "2024-01-03",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BBJ1",
+   "name": "量派CTA八号C类份额",
+   "inception_date": "2024-02-22",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "0.267654",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BBBV",
+   "name": "量派CTA八号",
+   "inception_date": "2024-02-22",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAGZ17",
+   "ret_incep": "0.3243",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000C7I1",
+   "name": "量派CTA八号B类份额",
+   "inception_date": "2024-02-22",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000C7I0",
+   "name": "量派CTA八号A类份额",
+   "inception_date": "2024-02-22",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BF5I",
+   "name": "量派中证2000指数增强62号C类份额",
+   "inception_date": "2024-03-29",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "1.036002",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BDHI",
+   "name": "量派中证2000指数增强62号",
+   "inception_date": "2024-03-29",
+   "strategy": "股票策略",
+   "register_number": "SAJB21",
+   "ret_incep": "1.6788",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BDDM",
+   "name": "量派专享二十五号",
+   "inception_date": "2024-03-29",
+   "strategy": "股票策略",
+   "register_number": "SAGZ59",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000C8BP",
+   "name": "量派中证2000指数增强62号A类份额",
+   "inception_date": "2024-03-29",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BDKB",
+   "name": "量派信选CTA五号",
+   "inception_date": "2024-04-02",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAGN44",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BDMJ",
+   "name": "量派专享二十八号",
+   "inception_date": "2024-04-02",
+   "strategy": "股票策略",
+   "register_number": "SAJN69",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BH5B",
+   "name": "量派专享三十四号",
+   "inception_date": "2024-05-20",
+   "strategy": "股票策略",
+   "register_number": "SAKW89",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BGOR",
+   "name": "量派对冲25号C类份额",
+   "inception_date": "2024-06-06",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BHJR",
+   "name": "量派金选中证500指数增强Q版58号",
+   "inception_date": "2024-06-17",
+   "strategy": "股票策略",
+   "register_number": "SAHQ87",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BHMP",
+   "name": "量派贝泉1号",
+   "inception_date": "2024-06-24",
+   "strategy": "股票策略",
+   "register_number": "SAKA56",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BL9V",
+   "name": "量派财享CTA十六号",
+   "inception_date": "2024-09-12",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAPH04",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BL6W",
+   "name": "量派CTA二号C类份额",
+   "inception_date": "2024-09-13",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BLJ6",
+   "name": "量派财享量化选股8号",
+   "inception_date": "2024-09-13",
+   "strategy": "股票策略",
+   "register_number": "SANT95",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000C6SG",
+   "name": "量派对冲41号",
+   "inception_date": "2024-10-31",
+   "strategy": "股票策略",
+   "register_number": "SAPX27",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000C6D3",
+   "name": "量派专享五十八号",
+   "inception_date": "2024-11-11",
+   "strategy": "股票策略",
+   "register_number": "SAPL56",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000C6QX",
+   "name": "量派中证1000指数增强20号",
+   "inception_date": "2024-11-18",
+   "strategy": "股票策略",
+   "register_number": "SAQQ40",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BMNI",
+   "name": "量派CTA九号1期",
+   "inception_date": "2024-11-22",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAQT43",
+   "ret_incep": "0.0766",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BN1D",
+   "name": "量派CTA九号1期C类份额",
+   "inception_date": "2024-11-22",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "0.0733",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000C7F8",
+   "name": "量派通合对冲1号",
+   "inception_date": "2024-11-26",
+   "strategy": "股票策略",
+   "register_number": "SAPQ14",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000C82S",
+   "name": "量派专享六十二号",
+   "inception_date": "2024-12-02",
+   "strategy": "股票策略",
+   "register_number": "SAQM54",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DO9H",
+   "name": "量派财享平衡多策略1号A类份额",
+   "inception_date": "2024-12-11",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "-0.0498",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000C6UL",
+   "name": "量派CTA九号2期C类份额",
+   "inception_date": "2024-12-11",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "0.0717",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000C6UI",
+   "name": "量派CTA九号2期",
+   "inception_date": "2024-12-11",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SARM89",
+   "ret_incep": "0.0789",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000C88R",
+   "name": "量派财享平衡多策略1号",
+   "inception_date": "2024-12-11",
+   "strategy": "多资产策略",
+   "register_number": "SARX75",
+   "ret_incep": "-0.015661",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000C8MU",
+   "name": "量派信选对冲50号1期",
+   "inception_date": "2024-12-16",
+   "strategy": "股票策略",
+   "register_number": "SARM30",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000C8X9",
+   "name": "量派信选对冲50号2期",
+   "inception_date": "2024-12-17",
+   "strategy": "股票策略",
+   "register_number": "SARM31",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000C8U9",
+   "name": "量派专享六十八号",
+   "inception_date": "2024-12-20",
+   "strategy": "股票策略",
+   "register_number": "SASC53",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000C8XH",
+   "name": "量派信选中证A500指数增强70号1期",
+   "inception_date": "2024-12-23",
+   "strategy": "股票策略",
+   "register_number": "SARU90",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CSUV",
+   "name": "量派聚核42号1期A类份额",
+   "inception_date": "2024-12-26",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "0.4575",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000C9IT",
+   "name": "量派聚核42号1期",
+   "inception_date": "2024-12-26",
+   "strategy": "股票策略",
+   "register_number": "SARX73",
+   "ret_incep": "0.4575",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000D9FF",
+   "name": "量派聚核42号1期C类份额",
+   "inception_date": "2024-12-26",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000D9FE",
+   "name": "量派聚核42号1期B类份额",
+   "inception_date": "2024-12-26",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000C9PE",
+   "name": "量派信选中证A500指数增强70号",
+   "inception_date": "2025-01-07",
+   "strategy": "股票策略",
+   "register_number": "SARU89",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000C9TM",
+   "name": "量派信选中证A500指数增强70号2期",
+   "inception_date": "2025-01-08",
+   "strategy": "股票策略",
+   "register_number": "SARU92",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000C9TV",
+   "name": "量派CTA九号3期",
+   "inception_date": "2025-01-08",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SASF32",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CARV",
+   "name": "量派陆享CTA十号",
+   "inception_date": "2025-01-24",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SATJ70",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CAWF",
+   "name": "量派信选对冲55号1期",
+   "inception_date": "2025-01-27",
+   "strategy": "股票策略",
+   "register_number": "SATH44",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CAZO",
+   "name": "量派沪深300指数增强3号",
+   "inception_date": "2025-02-06",
+   "strategy": "股票策略",
+   "register_number": "SATG83",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CC8M",
+   "name": "量派金选量化对冲52号",
+   "inception_date": "2025-02-28",
+   "strategy": "股票策略",
+   "register_number": "SAQZ34",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CB7Z",
+   "name": "量派CTA十号2期C类份额",
+   "inception_date": "2025-03-05",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "0.095",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CB7W",
+   "name": "量派CTA十号2期",
+   "inception_date": "2025-03-05",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAUP32",
+   "ret_incep": "0.095",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CCLJ",
+   "name": "量派专享八十号",
+   "inception_date": "2025-03-06",
+   "strategy": "股票策略",
+   "register_number": "SAUH56",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CD57",
+   "name": "量派投资-朝熠守日锐进1号",
+   "inception_date": "2025-03-10",
+   "strategy": "股票策略",
+   "register_number": "SAVC50",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CCVC",
+   "name": "量派投资-朝熠可转债锐进1号",
+   "inception_date": "2025-03-10",
+   "strategy": "债券策略",
+   "register_number": "SAVC54",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CCSO",
+   "name": "量派投资-朝熠揽月锐进1号",
+   "inception_date": "2025-03-10",
+   "strategy": "股票策略",
+   "register_number": "SAVC57",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CCU6",
+   "name": "量派通合A500指数增强1号1期",
+   "inception_date": "2025-03-11",
+   "strategy": "股票策略",
+   "register_number": "SAQY60",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CDV3",
+   "name": "量派对冲56号2期",
+   "inception_date": "2025-03-13",
+   "strategy": "股票策略",
+   "register_number": "SATQ88",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CDUX",
+   "name": "量派对冲58号1期",
+   "inception_date": "2025-03-13",
+   "strategy": "股票策略",
+   "register_number": "SATQ83",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CDV4",
+   "name": "量派对冲58号3期",
+   "inception_date": "2025-03-13",
+   "strategy": "股票策略",
+   "register_number": "SATQ89",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CDDU",
+   "name": "量派通合A500指数增强1号",
+   "inception_date": "2025-03-18",
+   "strategy": "股票策略",
+   "register_number": "SAQY61",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CFZD",
+   "name": "量派对冲69号C类份额",
+   "inception_date": "2025-03-21",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CEJM",
+   "name": "量派广益对冲1号1期",
+   "inception_date": "2025-03-25",
+   "strategy": "股票策略",
+   "register_number": "SAVT76",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CEVF",
+   "name": "量派鑫享CTA十一号",
+   "inception_date": "2025-04-03",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAWK70",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CFNQ",
+   "name": "量派广派量化1号",
+   "inception_date": "2025-04-17",
+   "strategy": "股票策略",
+   "register_number": "SAXA24",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CGKD",
+   "name": "量派对冲61号1期",
+   "inception_date": "2025-04-30",
+   "strategy": "股票策略",
+   "register_number": "SAUL35",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CGYA",
+   "name": "量派中证2000指数增强1号2期",
+   "inception_date": "2025-05-08",
+   "strategy": "股票策略",
+   "register_number": "SAWM24",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CH1T",
+   "name": "量派对冲61号3期",
+   "inception_date": "2025-05-08",
+   "strategy": "股票策略",
+   "register_number": "SAWA91",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CGY8",
+   "name": "量派中证1000指数增强59号2期",
+   "inception_date": "2025-05-08",
+   "strategy": "股票策略",
+   "register_number": "SAWA93",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CH1I",
+   "name": "量派对冲61号",
+   "inception_date": "2025-05-12",
+   "strategy": "股票策略",
+   "register_number": "SAUL36",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CHPT",
+   "name": "量派信淮对冲67号1期",
+   "inception_date": "2025-05-21",
+   "strategy": "股票策略",
+   "register_number": "SAVQ98",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CIG1",
+   "name": "量派信选CTA十二号3期",
+   "inception_date": "2025-05-29",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAWM11",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CIBY",
+   "name": "量派信选CTA十二号2期",
+   "inception_date": "2025-05-29",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAWM10",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CIJB",
+   "name": "量派瑞泽CTA九号5期",
+   "inception_date": "2025-05-30",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAYV64",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CIU6",
+   "name": "量派信淮对冲67号八期",
+   "inception_date": "2025-06-03",
+   "strategy": "股票策略",
+   "register_number": "SAYY10",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CJFC",
+   "name": "量派专享五十四号",
+   "inception_date": "2025-06-16",
+   "strategy": "股票策略",
+   "register_number": "SAZF01",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CJJC",
+   "name": "量派对冲87号",
+   "inception_date": "2025-06-17",
+   "strategy": "股票策略",
+   "register_number": "SAZF02",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CK7U",
+   "name": "量派中证A500兴泰1号",
+   "inception_date": "2025-06-25",
+   "strategy": "股票策略",
+   "register_number": "SAZF98",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CKMP",
+   "name": "量派对冲63号",
+   "inception_date": "2025-06-27",
+   "strategy": "股票策略",
+   "register_number": "SAUZ62",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CKGX",
+   "name": "量派浙大专享七十六号",
+   "inception_date": "2025-06-27",
+   "strategy": "股票策略",
+   "register_number": "SBAT33",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CKNH",
+   "name": "量派对冲88号",
+   "inception_date": "2025-06-27",
+   "strategy": "股票策略",
+   "register_number": "SAZY53",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CKN0",
+   "name": "量派信淮对冲67号2期",
+   "inception_date": "2025-07-01",
+   "strategy": "股票策略",
+   "register_number": "SAYB18",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CKR9",
+   "name": "量派财晟对冲1号",
+   "inception_date": "2025-07-02",
+   "strategy": "股票策略",
+   "register_number": "SAWS81",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CLJ0",
+   "name": "量派财晟对冲1号1期",
+   "inception_date": "2025-07-02",
+   "strategy": "股票策略",
+   "register_number": "SBAE78",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CKWG",
+   "name": "量派陆享CTA十号1期",
+   "inception_date": "2025-07-03",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAZJ09",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000COSQ",
+   "name": "量派中证1000指数增强98号",
+   "inception_date": "2025-08-06",
+   "strategy": "股票策略",
+   "register_number": "SBCE07",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000COB5",
+   "name": "量派对冲63号3期",
+   "inception_date": "2025-08-12",
+   "strategy": "股票策略",
+   "register_number": "SBBZ94",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000COT4",
+   "name": "量派广胜量化选股1号",
+   "inception_date": "2025-08-12",
+   "strategy": "股票策略",
+   "register_number": "SBDT56",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CPOG",
+   "name": "量派通合对冲1号2期",
+   "inception_date": "2025-08-20",
+   "strategy": "股票策略",
+   "register_number": "SAZS34",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CR5L",
+   "name": "量派对冲63号5期",
+   "inception_date": "2025-09-03",
+   "strategy": "股票策略",
+   "register_number": "SBCL59",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CS1B",
+   "name": "量派通合对冲1号5期",
+   "inception_date": "2025-09-16",
+   "strategy": "股票策略",
+   "register_number": "SBBV34",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000D9CG",
+   "name": "量派量化选股96号",
+   "inception_date": "2025-10-17",
+   "strategy": "股票策略",
+   "register_number": "SBCC13",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000D9UN",
+   "name": "量派中证1000指数增强金享1号",
+   "inception_date": "2025-10-24",
+   "strategy": "股票策略",
+   "register_number": "SBHQ27",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DAP6",
+   "name": "量派对冲金享1号",
+   "inception_date": "2025-10-28",
+   "strategy": "股票策略",
+   "register_number": "SBHT57",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DAO8",
+   "name": "量派格享量化选股106号",
+   "inception_date": "2025-10-29",
+   "strategy": "股票策略",
+   "register_number": "SBGD90",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DBLJ",
+   "name": "量派信选量化选股105号",
+   "inception_date": "2025-11-14",
+   "strategy": "股票策略",
+   "register_number": "SBHH83",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DBP1",
+   "name": "量派信选量化选股106号",
+   "inception_date": "2025-11-14",
+   "strategy": "股票策略",
+   "register_number": "SBHH85",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DEGL",
+   "name": "量派对冲12号",
+   "inception_date": "2025-12-26",
+   "strategy": "股票策略",
+   "register_number": "SBMV85",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DI2I",
+   "name": "量派中证1000指数增强金享3号",
+   "inception_date": "2026-01-22",
+   "strategy": "股票策略",
+   "register_number": "SBNP85",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DI49",
+   "name": "量派专享十三号",
+   "inception_date": "2026-01-30",
+   "strategy": "股票策略",
+   "register_number": "SBPZ96",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DJVV",
+   "name": "量派博学一号",
+   "inception_date": "2026-03-03",
+   "strategy": "股票策略",
+   "register_number": "SBNZ10",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DMXX",
+   "name": "量派中证1000指数增强10号",
+   "inception_date": "2026-04-01",
+   "strategy": "股票策略",
+   "register_number": "SBUF44",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DMW3",
+   "name": "量派中证1000指数增强3号",
+   "inception_date": "2026-04-01",
+   "strategy": "股票策略",
+   "register_number": "SBLA51",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DOXA",
+   "name": "量派均衡多策略2号1期",
+   "inception_date": "2026-04-17",
+   "strategy": "股票策略",
+   "register_number": "SBRM21",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DPXW",
+   "name": "量派均衡多策略2号",
+   "inception_date": "2026-05-06",
+   "strategy": "股票策略",
+   "register_number": "SBRM18",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DSRC",
+   "name": "量派复合多策略7号",
+   "inception_date": "2026-05-25",
+   "strategy": "多资产策略",
+   "register_number": "SAFB68",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000E0OT",
+   "name": "量派信选合盈平衡多策略1号",
+   "inception_date": "2026-08-03",
+   "strategy": "多资产策略",
+   "register_number": "SBJJ56",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000E51L",
+   "name": "量派信选中证2000指数增强9号",
+   "inception_date": "2026-09-04",
+   "strategy": "股票策略",
+   "register_number": "SCY567",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  }
+ ]
+}

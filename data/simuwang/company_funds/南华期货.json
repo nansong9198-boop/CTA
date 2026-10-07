@@ -1,0 +1,87 @@
+{
+ "company_id": "CO000000TA",
+ "company_short_name": "南华期货",
+ "n_funds": 8,
+ "funds": [
+  {
+   "fund_id": "HF0000165C",
+   "name": "金锝1期",
+   "inception_date": "2015-11-09",
+   "strategy": "期货及衍生品策略",
+   "register_number": "S81242",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00001C7R",
+   "name": "金锝2期",
+   "inception_date": "2016-01-29",
+   "strategy": "期货及衍生品策略",
+   "register_number": "S82472",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00001C7T",
+   "name": "南华期货金锝3期",
+   "inception_date": "2016-01-29",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SE6291",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00001GA8",
+   "name": "南华期货银叶2号",
+   "inception_date": "2016-05-03",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SJ5539",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00001HZ3",
+   "name": "南华期货第一永金4号",
+   "inception_date": "2016-06-01",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SH9844",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00001MB7",
+   "name": "青藤嘉理嘉翼1号",
+   "inception_date": "2016-07-26",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SL5518",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BLD2",
+   "name": "南华期货元亨2号",
+   "inception_date": "2019-09-25",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SJB504",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007LOX",
+   "name": "南华期货钱江稳健1号",
+   "inception_date": "2021-08-23",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SSD908",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  }
+ ]
+}

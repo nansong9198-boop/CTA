@@ -1,0 +1,1507 @@
+{
+ "company_id": "CO00000AH9",
+ "company_short_name": "洛书投资",
+ "n_funds": 150,
+ "funds": [
+  {
+   "fund_id": "HF0000DKCA",
+   "name": "洛书优享CTA1号1期",
+   "inception_date": "",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00001ANN",
+   "name": "洛书量化核心1号",
+   "inception_date": "2016-01-05",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SE5015",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00001BPJ",
+   "name": "洛书量化对冲1号",
+   "inception_date": "2016-01-19",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SE7220",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00001LFK",
+   "name": "洛书CTA一期",
+   "inception_date": "2016-07-04",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SK8144",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00001LOY",
+   "name": "洛书CTA核心2号",
+   "inception_date": "2016-07-07",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SK8935",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00001LOZ",
+   "name": "洛书CTA核心3号",
+   "inception_date": "2016-07-07",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SK8936",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00003LZH",
+   "name": "洛书笛卡尔1期",
+   "inception_date": "2017-06-14",
+   "strategy": "期货及衍生品策略",
+   "register_number": "ST7423",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00003NGY",
+   "name": "洛书CTA五期",
+   "inception_date": "2017-07-13",
+   "strategy": "期货及衍生品策略",
+   "register_number": "ST6369",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00003P20",
+   "name": "洛书旗舰1号多策略",
+   "inception_date": "2017-07-21",
+   "strategy": "多资产策略",
+   "register_number": "ST9461",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000045IC",
+   "name": "洛书尊享CTA拾壹号",
+   "inception_date": "2017-11-16",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SX9263",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00004CQF",
+   "name": "洛书CTA核心6号",
+   "inception_date": "2018-01-08",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SCC596",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00004GLP",
+   "name": "洛书尊享CTA拾玖号",
+   "inception_date": "2018-02-22",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SCH428",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00004IU7",
+   "name": "洛书裕景建武",
+   "inception_date": "2018-03-13",
+   "strategy": "多资产策略",
+   "register_number": "SCJ488",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00004SFW",
+   "name": "洛书瑞乾元封",
+   "inception_date": "2018-06-25",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SCM482",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00004XSH",
+   "name": "洛书裕景喆颢",
+   "inception_date": "2018-07-27",
+   "strategy": "多资产策略",
+   "register_number": "SEB982",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006BH2",
+   "name": "洛书裕和延平",
+   "inception_date": "2018-07-31",
+   "strategy": "多资产策略",
+   "register_number": "SED534",
+   "ret_incep": "2.587",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00004X87",
+   "name": "洛书瑞乾征和",
+   "inception_date": "2018-07-31",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SY9397",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00004XBT",
+   "name": "洛书融智乾兴",
+   "inception_date": "2018-08-08",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SEF497",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000051PH",
+   "name": "洛书瑞盈建元",
+   "inception_date": "2018-10-16",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SEN121",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000052PP",
+   "name": "洛书市场中性壹号",
+   "inception_date": "2018-11-09",
+   "strategy": "股票策略",
+   "register_number": "SER953",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000057K2",
+   "name": "洛书瑞盈元平",
+   "inception_date": "2018-11-23",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SET910",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005843",
+   "name": "洛书融智景佑",
+   "inception_date": "2018-12-06",
+   "strategy": "多资产策略",
+   "register_number": "SET616",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005IFO",
+   "name": "洛书CTA进取1号",
+   "inception_date": "2019-06-10",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SGS035",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005JHF",
+   "name": "洛书CTA优选壹号",
+   "inception_date": "2019-06-20",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SGT003",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B4FI",
+   "name": "洛书CTA优选壹号B类份额",
+   "inception_date": "2019-06-20",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005MPN",
+   "name": "泰赢洛书裕景永平",
+   "inception_date": "2019-08-09",
+   "strategy": "多资产策略",
+   "register_number": "SCM484",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005OWX",
+   "name": "洛书瑞盈建兴",
+   "inception_date": "2019-09-19",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SGW352",
+   "ret_incep": "2.995233",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005P2Z",
+   "name": "洛书弘图景耀",
+   "inception_date": "2019-09-24",
+   "strategy": "股票策略",
+   "register_number": "SJB168",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006J0L",
+   "name": "洛书弘图景耀A",
+   "inception_date": "2019-09-24",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006J0K",
+   "name": "洛书弘盛延熙A",
+   "inception_date": "2019-09-24",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005P2Y",
+   "name": "洛书弘盛延熙",
+   "inception_date": "2019-09-24",
+   "strategy": "股票策略",
+   "register_number": "SJB167",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005PED",
+   "name": "洛书管理期货精选C期",
+   "inception_date": "2019-09-26",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SGX390",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005PGT",
+   "name": "洛书管理期货陆号",
+   "inception_date": "2019-09-30",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SJB208",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005PSO",
+   "name": "洛书管理期货精选B期",
+   "inception_date": "2019-10-09",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SGX389",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005Q6F",
+   "name": "洛书尊享CTA贰拾号",
+   "inception_date": "2019-10-18",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SJE511",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006176",
+   "name": "洛书弘图炎兴",
+   "inception_date": "2020-03-19",
+   "strategy": "多资产策略",
+   "register_number": "SJU057",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000061OM",
+   "name": "洛书裕景阳嘉",
+   "inception_date": "2020-03-25",
+   "strategy": "多资产策略",
+   "register_number": "SJV263",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000699K",
+   "name": "洛书裕和延平B类份额",
+   "inception_date": "2020-04-27",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "2.065868",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006A8T",
+   "name": "洛书融汇景德",
+   "inception_date": "2020-07-20",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SLC651",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006AL1",
+   "name": "洛书融汇天禧",
+   "inception_date": "2020-07-24",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SLC662",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006JKR",
+   "name": "洛书裕和延庆",
+   "inception_date": "2020-10-28",
+   "strategy": "多资产策略",
+   "register_number": "SNB312",
+   "ret_incep": "1.2723",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006JKM",
+   "name": "洛书弘盛建武",
+   "inception_date": "2020-10-28",
+   "strategy": "股票策略",
+   "register_number": "SNB179",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006QK3",
+   "name": "洛书裕和建安",
+   "inception_date": "2020-12-28",
+   "strategy": "多资产策略",
+   "register_number": "SNP397",
+   "ret_incep": "0.9602",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006S4I",
+   "name": "洛书瑞盈承光",
+   "inception_date": "2021-01-08",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SNF809",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006TQ6",
+   "name": "洛书融汇宝元",
+   "inception_date": "2021-01-21",
+   "strategy": "多资产策略",
+   "register_number": "SNT980",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006UKV",
+   "name": "洛书裕和建炎",
+   "inception_date": "2021-01-29",
+   "strategy": "多资产策略",
+   "register_number": "SNT323",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006UM1",
+   "name": "洛书融汇治平",
+   "inception_date": "2021-01-29",
+   "strategy": "多资产策略",
+   "register_number": "SNV375",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006X23",
+   "name": "洛书融汇元丰",
+   "inception_date": "2021-02-22",
+   "strategy": "多资产策略",
+   "register_number": "SNY338",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006XNZ",
+   "name": "洛书金选CTA1号",
+   "inception_date": "2021-03-01",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SNY287",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006YR0",
+   "name": "洛书融汇乾封",
+   "inception_date": "2021-03-09",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQA396",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006YTH",
+   "name": "洛书融汇麟德",
+   "inception_date": "2021-03-09",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQA392",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000719K",
+   "name": "洛书融汇元佑",
+   "inception_date": "2021-03-09",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQA390",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006YVY",
+   "name": "洛书沪深300指数增强1号",
+   "inception_date": "2021-03-09",
+   "strategy": "股票策略",
+   "register_number": "SNZ767",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000071DO",
+   "name": "洛书CTA陆享1号",
+   "inception_date": "2021-03-16",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SNZ334",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000740G",
+   "name": "洛书弘图光熙",
+   "inception_date": "2021-04-12",
+   "strategy": "股票策略",
+   "register_number": "SQD529",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000074OK",
+   "name": "洛书融汇光启",
+   "inception_date": "2021-04-19",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQH902",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000074TK",
+   "name": "洛书CTA趋势1号",
+   "inception_date": "2021-04-19",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQF403",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000078PW",
+   "name": "洛书管理期货精选E期",
+   "inception_date": "2021-05-19",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQL018",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000078SH",
+   "name": "洛书管理期货精选A期",
+   "inception_date": "2021-05-20",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SGM797",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000079L4",
+   "name": "洛书融汇景顺",
+   "inception_date": "2021-05-31",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQQ075",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000079L2",
+   "name": "洛书融汇文德",
+   "inception_date": "2021-05-31",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQQ072",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000079L3",
+   "name": "洛书融汇龙纪",
+   "inception_date": "2021-05-31",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQQ073",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007B4C",
+   "name": "洛书裕景庆元",
+   "inception_date": "2021-06-11",
+   "strategy": "多资产策略",
+   "register_number": "SQR135",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007BYK",
+   "name": "洛书管理期货拾号",
+   "inception_date": "2021-06-21",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQR105",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007GOB",
+   "name": "洛书金选CTA2号",
+   "inception_date": "2021-07-23",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQZ896",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000D9SZ",
+   "name": "洛书裕和神龙A类份额",
+   "inception_date": "2021-08-27",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007NJP",
+   "name": "洛书裕和神龙",
+   "inception_date": "2021-08-27",
+   "strategy": "多资产策略",
+   "register_number": "SSL016",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007NSF",
+   "name": "洛书进取9号私募证券投资基金",
+   "inception_date": "2021-08-30",
+   "strategy": "多资产策略",
+   "register_number": "SSM637",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007OR2",
+   "name": "洛书融汇永昌",
+   "inception_date": "2021-09-02",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SSA953",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007OQS",
+   "name": "洛书融汇乾宁",
+   "inception_date": "2021-09-02",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQR507",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007PHH",
+   "name": "洛书裕和永康",
+   "inception_date": "2021-09-15",
+   "strategy": "多资产策略",
+   "register_number": "SNR864",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007R3H",
+   "name": "洛书金选CTA3号",
+   "inception_date": "2021-09-27",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SSS007",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007X6V",
+   "name": "洛书融汇长庆",
+   "inception_date": "2021-11-05",
+   "strategy": "期货及衍生品策略",
+   "register_number": "STA742",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007X6R",
+   "name": "洛书融汇长安",
+   "inception_date": "2021-11-05",
+   "strategy": "期货及衍生品策略",
+   "register_number": "STA661",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007Y5B",
+   "name": "洛书灵泰多策略1号",
+   "inception_date": "2021-11-19",
+   "strategy": "多资产策略",
+   "register_number": "STD875",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000080DQ",
+   "name": "洛书灵泰多策略1期",
+   "inception_date": "2021-12-06",
+   "strategy": "多资产策略",
+   "register_number": "STD876",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000081Z3",
+   "name": "洛书裕和嘉泰",
+   "inception_date": "2021-12-30",
+   "strategy": "多资产策略",
+   "register_number": "STK953",
+   "ret_incep": "0.4526",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000085H1",
+   "name": "洛书恒享CTA1号",
+   "inception_date": "2022-01-06",
+   "strategy": "期货及衍生品策略",
+   "register_number": "STM298",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000085N3",
+   "name": "洛书瑞盈常嘉",
+   "inception_date": "2022-01-11",
+   "strategy": "期货及衍生品策略",
+   "register_number": "STD808",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000085N9",
+   "name": "洛书金选CTA6号",
+   "inception_date": "2022-01-12",
+   "strategy": "期货及衍生品策略",
+   "register_number": "STG412",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000086FO",
+   "name": "洛书管理期货拾号2期",
+   "inception_date": "2022-01-17",
+   "strategy": "期货及衍生品策略",
+   "register_number": "STJ946",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000087BG",
+   "name": "洛书尊享CTA贰拾叁号",
+   "inception_date": "2022-01-26",
+   "strategy": "期货及衍生品策略",
+   "register_number": "STV541",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000081Z2",
+   "name": "洛书管理期货拾壹号",
+   "inception_date": "2022-01-27",
+   "strategy": "期货及衍生品策略",
+   "register_number": "STL229",
+   "ret_incep": "0.677841",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00008913",
+   "name": "洛书裕和广明",
+   "inception_date": "2022-02-15",
+   "strategy": "多资产策略",
+   "register_number": "STW139",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CDKC",
+   "name": "洛书CTA开拓者1号A类份额",
+   "inception_date": "2022-02-16",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000891S",
+   "name": "洛书CTA开拓者1号",
+   "inception_date": "2022-02-16",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SVA940",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DS51",
+   "name": "洛书CTA开拓者1号C类份额",
+   "inception_date": "2022-02-16",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00008A6T",
+   "name": "洛书金选CTA8号",
+   "inception_date": "2022-03-01",
+   "strategy": "期货及衍生品策略",
+   "register_number": "STV674",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00008C99",
+   "name": "洛书裕和广明1期",
+   "inception_date": "2022-03-15",
+   "strategy": "多资产策略",
+   "register_number": "STW140",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00008Y02",
+   "name": "洛书管理期货精选H期",
+   "inception_date": "2022-03-24",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SVD776",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000090GF",
+   "name": "洛书金选CTA9号",
+   "inception_date": "2022-04-21",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SVD836",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000098J9",
+   "name": "洛书裕和延光",
+   "inception_date": "2022-06-30",
+   "strategy": "多资产策略",
+   "register_number": "SVS911",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000098SE",
+   "name": "洛书进取16号1期",
+   "inception_date": "2022-07-05",
+   "strategy": "多资产策略",
+   "register_number": "SVE055",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009XBG",
+   "name": "洛书进取8号A期",
+   "inception_date": "2022-11-30",
+   "strategy": "多资产策略",
+   "register_number": "SXF922",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000ABKK",
+   "name": "洛书裕景宝庆",
+   "inception_date": "2023-04-04",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SZR963",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000APW9",
+   "name": "洛书融智乾兴A类份额",
+   "inception_date": "2023-05-26",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B2B0",
+   "name": "洛书融汇天佑",
+   "inception_date": "2023-09-22",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SABA85",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B664",
+   "name": "洛书融汇广德",
+   "inception_date": "2023-11-13",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SACD79",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B5DC",
+   "name": "洛书融汇永泰",
+   "inception_date": "2023-11-13",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SACD80",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BLDS",
+   "name": "洛书全天候增强一期A类份额",
+   "inception_date": "2023-12-15",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "0.454",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B8UM",
+   "name": "洛书全天候增强一期",
+   "inception_date": "2023-12-15",
+   "strategy": "多资产策略",
+   "register_number": "SADE96",
+   "ret_incep": "0.454",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CDKB",
+   "name": "洛书裕景天康A类份额",
+   "inception_date": "2023-12-19",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "0.2139",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B91O",
+   "name": "洛书裕景天康",
+   "inception_date": "2023-12-19",
+   "strategy": "股票策略",
+   "register_number": "SAEZ31",
+   "ret_incep": "0.2281",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BBHY",
+   "name": "洛书优选贰号A类份额",
+   "inception_date": "2023-12-19",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B8RX",
+   "name": "洛书优选贰号",
+   "inception_date": "2023-12-19",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAEE84",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DPIU",
+   "name": "洛书CTA精选一期B类份额",
+   "inception_date": "2024-03-18",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DD2A",
+   "name": "洛书CTA精选一期A类份额",
+   "inception_date": "2024-03-18",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BDDO",
+   "name": "洛书CTA精选一期",
+   "inception_date": "2024-03-18",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAHF38",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BE6O",
+   "name": "洛书裕景元熙",
+   "inception_date": "2024-04-15",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAJP02",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CF50",
+   "name": "洛书裕景多元精选1号",
+   "inception_date": "2025-04-03",
+   "strategy": "股票策略",
+   "register_number": "SAKN90",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CK1M",
+   "name": "洛书鑫享全天候增强1期",
+   "inception_date": "2025-06-18",
+   "strategy": "多资产策略",
+   "register_number": "SAYC45",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CQB1",
+   "name": "洛书信享CTA1号",
+   "inception_date": "2025-08-18",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBDG69",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DB0J",
+   "name": "洛书灵泰CTA对冲多策略1号",
+   "inception_date": "2025-11-07",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBHK00",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DBQG",
+   "name": "洛书金选稳健CTA2号",
+   "inception_date": "2025-11-11",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SVC262",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DCFL",
+   "name": "洛书量化灵活多资产",
+   "inception_date": "2025-11-24",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBKN20",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DIE4",
+   "name": "洛书金选稳健CTA3号",
+   "inception_date": "2026-01-20",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBMR96",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DIF1",
+   "name": "洛书进取8号B期",
+   "inception_date": "2026-01-28",
+   "strategy": "多资产策略",
+   "register_number": "SXF923",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DJQV",
+   "name": "洛书管理期货精选K期",
+   "inception_date": "2026-01-28",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBPF46",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DIFA",
+   "name": "洛书管理期货精选L期",
+   "inception_date": "2026-01-28",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBPF48",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DIDW",
+   "name": "洛书广远CTA1号1期",
+   "inception_date": "2026-01-29",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBMJ36",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DLOB",
+   "name": "洛书金选稳健CTA5号",
+   "inception_date": "2026-02-10",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBQT31",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DL0I",
+   "name": "洛书管理期货拾号3期",
+   "inception_date": "2026-02-13",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBPR99",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DK3F",
+   "name": "洛书金选稳泰CTA1号",
+   "inception_date": "2026-02-27",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBJP99",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DJW1",
+   "name": "洛书信享CTA2号",
+   "inception_date": "2026-03-02",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBPS69",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DKPR",
+   "name": "洛书中证1000指数增强2号",
+   "inception_date": "2026-03-10",
+   "strategy": "股票策略",
+   "register_number": "SBST02",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DKIF",
+   "name": "洛书金选稳健CTA6号",
+   "inception_date": "2026-03-10",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBQX71",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DKPS",
+   "name": "洛书中证2000指数增强1号",
+   "inception_date": "2026-03-10",
+   "strategy": "股票策略",
+   "register_number": "SBST03",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DGQD",
+   "name": "洛书管理期货拾伍号",
+   "inception_date": "2026-03-12",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SACY03",
+   "ret_incep": "0.0166",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DMDE",
+   "name": "洛书尊享CTA贰拾伍号",
+   "inception_date": "2026-03-27",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SZB738",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DMM9",
+   "name": "洛书金选稳健CTA7号",
+   "inception_date": "2026-03-31",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBTM24",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DOXL",
+   "name": "洛书平享CTA2号",
+   "inception_date": "2026-04-17",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBTA07",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DQHX",
+   "name": "洛书鑫享CTA1号",
+   "inception_date": "2026-04-24",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBPS62",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DQRC",
+   "name": "洛书管理期货精选N期",
+   "inception_date": "2026-05-06",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBUE59",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DQRB",
+   "name": "洛书进取8号D期",
+   "inception_date": "2026-05-07",
+   "strategy": "多资产策略",
+   "register_number": "SBUE56",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DQRF",
+   "name": "洛书金选稳健CTA8号",
+   "inception_date": "2026-05-07",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBVH36",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DR6M",
+   "name": "洛书管理期货拾号5期",
+   "inception_date": "2026-05-15",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBVC12",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DRKH",
+   "name": "洛书股票量化精选2号",
+   "inception_date": "2026-05-19",
+   "strategy": "股票策略",
+   "register_number": "SAGG16",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DRXB",
+   "name": "洛书优享CTA1号2期",
+   "inception_date": "2026-05-20",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBSK17",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DVOT",
+   "name": "洛书常青1号",
+   "inception_date": "2026-06-01",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SANS69",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DUNM",
+   "name": "洛书金选稳健CTA9号",
+   "inception_date": "2026-06-09",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBVH37",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DVQG",
+   "name": "洛书鸿运一号",
+   "inception_date": "2026-06-12",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SATH77",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DVDD",
+   "name": "洛书CTA精选三期",
+   "inception_date": "2026-06-16",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SASC87",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DYG7",
+   "name": "洛书春晓CTA精选七期",
+   "inception_date": "2026-07-03",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAZS94",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DYF2",
+   "name": "洛书金选稳健CTA7号1期",
+   "inception_date": "2026-07-03",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SALJ55",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DYHF",
+   "name": "洛书省心享锐泰CTA1号",
+   "inception_date": "2026-07-03",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBFC43",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DYHG",
+   "name": "洛书进取22号",
+   "inception_date": "2026-07-06",
+   "strategy": "多资产策略",
+   "register_number": "SBGF93",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DXWS",
+   "name": "洛书CTA精选二期",
+   "inception_date": "2026-07-14",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBWH10",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000E1KC",
+   "name": "洛书中性3号",
+   "inception_date": "2026-08-10",
+   "strategy": "股票策略",
+   "register_number": "SBCE17",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000E1DK",
+   "name": "洛书宏观策略尊享1号",
+   "inception_date": "2026-08-10",
+   "strategy": "多资产策略",
+   "register_number": "SCG166",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000E7WF",
+   "name": "洛书省心享灵泰锐进多策略1号",
+   "inception_date": "2026-09-24",
+   "strategy": "多资产策略",
+   "register_number": "SGD220",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  }
+ ]
+}

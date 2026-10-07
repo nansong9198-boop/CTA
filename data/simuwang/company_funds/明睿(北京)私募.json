@@ -1,0 +1,197 @@
+{
+ "company_id": "CO00000ED7",
+ "company_short_name": "明睿(北京)私募",
+ "n_funds": 19,
+ "funds": [
+  {
+   "fund_id": "HF00005LPO",
+   "name": "明睿绝对收益配置一期",
+   "inception_date": "2019-08-01",
+   "strategy": "多资产策略",
+   "register_number": "SGX141",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AL5O",
+   "name": "明睿松柏策略B类份额",
+   "inception_date": "2020-12-07",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000074DU",
+   "name": "明睿骁云策略",
+   "inception_date": "2021-04-14",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQE129",
+   "ret_incep": "1.247388",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000091EE",
+   "name": "明睿聚宝盆策略2期B类份额",
+   "inception_date": "2021-06-25",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "1.233873",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007CUL",
+   "name": "明睿聚宝盆策略2期",
+   "inception_date": "2021-06-25",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQS954",
+   "ret_incep": "1.260576",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007LD2",
+   "name": "明睿满地宝五期",
+   "inception_date": "2021-08-13",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SSJ914",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000096BH",
+   "name": "明睿腾势",
+   "inception_date": "2022-06-27",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SVU114",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000099BY",
+   "name": "明睿Your",
+   "inception_date": "2022-07-18",
+   "strategy": "期货及衍生品策略",
+   "register_number": "STW813",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000A1SF",
+   "name": "明睿Build",
+   "inception_date": "2023-01-16",
+   "strategy": "多资产策略",
+   "register_number": "SZD546",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AP8G",
+   "name": "明睿-朝熠锐进1号",
+   "inception_date": "2023-06-27",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SB3043",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B3O2",
+   "name": "明睿恒耀策略",
+   "inception_date": "2023-10-27",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SACR02",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000C99Y",
+   "name": "明睿盈途稳健B类份额",
+   "inception_date": "2024-01-08",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "0.462595",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B97G",
+   "name": "明睿盈途稳健",
+   "inception_date": "2024-01-08",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAFP38",
+   "ret_incep": "0.486077",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BE8F",
+   "name": "明睿知闲",
+   "inception_date": "2024-04-12",
+   "strategy": "多资产策略",
+   "register_number": "SAJS22",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BHHX",
+   "name": "明睿恒耀策略B类份额",
+   "inception_date": "2024-04-22",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CAWR",
+   "name": "明睿共同财富管理",
+   "inception_date": "2025-01-27",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SATW28",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CCVK",
+   "name": "明睿铁牛壹号",
+   "inception_date": "2025-03-11",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAVK20",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CHUQ",
+   "name": "明睿中盈稳健",
+   "inception_date": "2025-05-22",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAYA80",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DJ5R",
+   "name": "明睿裕丰策略",
+   "inception_date": "2026-02-11",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBRY18",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  }
+ ]
+}

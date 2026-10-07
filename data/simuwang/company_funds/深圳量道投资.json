@@ -1,0 +1,17 @@
+{
+ "company_id": "CO00000CSV",
+ "company_short_name": "深圳量道投资",
+ "n_funds": 1,
+ "funds": [
+  {
+   "fund_id": "HF000088C8",
+   "name": "量道沪深300指数增强8号",
+   "inception_date": "2022-02-09",
+   "strategy": "股票策略",
+   "register_number": "STV667",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  }
+ ]
+}

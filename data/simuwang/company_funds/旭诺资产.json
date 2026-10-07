@@ -1,0 +1,47 @@
+{
+ "company_id": "CO000001X3",
+ "company_short_name": "旭诺资产",
+ "n_funds": 4,
+ "funds": [
+  {
+   "fund_id": "HF00001ICX",
+   "name": "旭诺成长对冲5号",
+   "inception_date": "2016-05-18",
+   "strategy": "股票策略",
+   "register_number": "SJ2640",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00008YG2",
+   "name": "旭诺灵活增强一号",
+   "inception_date": "2022-02-25",
+   "strategy": "多资产策略",
+   "register_number": "SNK038",
+   "ret_incep": "0.934607",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000E07I",
+   "name": "旭诺灵活增强一号A类份额",
+   "inception_date": "2023-09-13",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "0.713045",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CAT1",
+   "name": "旭诺聚星CTA2号",
+   "inception_date": "2025-01-23",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SASQ49",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  }
+ ]
+}

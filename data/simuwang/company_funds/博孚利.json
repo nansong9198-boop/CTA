@@ -1,0 +1,1467 @@
+{
+ "company_id": "CO00000DE3",
+ "company_short_name": "博孚利",
+ "n_funds": 146,
+ "funds": [
+  {
+   "fund_id": "HF000019NH",
+   "name": "博孚利聚强1号",
+   "inception_date": "2015-12-22",
+   "strategy": "组合基金",
+   "register_number": "S84080",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000238H",
+   "name": "博孚利CTA-FOF1号",
+   "inception_date": "2016-08-31",
+   "strategy": "组合基金",
+   "register_number": "SM1593",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000062SX",
+   "name": "博孚利尊享1号FOFA类",
+   "inception_date": "2017-03-28",
+   "strategy": "组合基金",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00002JSF",
+   "name": "博孚利尊享1号FOF",
+   "inception_date": "2017-03-28",
+   "strategy": "组合基金",
+   "register_number": "SS6545",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000062SY",
+   "name": "博孚利尊享1号FOFB类",
+   "inception_date": "2017-03-28",
+   "strategy": "组合基金",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00003K6A",
+   "name": "博孚利CTA5号",
+   "inception_date": "2017-06-01",
+   "strategy": "组合基金",
+   "register_number": "ST7688",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00004B4T",
+   "name": "博孚利富莱1号",
+   "inception_date": "2017-12-21",
+   "strategy": "组合基金",
+   "register_number": "SY3793",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00004L25",
+   "name": "博孚利龙帆FOF1号",
+   "inception_date": "2018-04-09",
+   "strategy": "组合基金",
+   "register_number": "SCB427",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00004N3W",
+   "name": "博孚利超强1号",
+   "inception_date": "2018-05-09",
+   "strategy": "组合基金",
+   "register_number": "SCT420",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00004T1O",
+   "name": "博孚利平方和量化对冲1号",
+   "inception_date": "2018-07-02",
+   "strategy": "组合基金",
+   "register_number": "SCY442",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00004YOU",
+   "name": "博孚利扬威1号FOF",
+   "inception_date": "2018-08-14",
+   "strategy": "组合基金",
+   "register_number": "SEG582",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000057AF",
+   "name": "博孚利超强2号FOF",
+   "inception_date": "2018-11-15",
+   "strategy": "组合基金",
+   "register_number": "SCY437",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005A4J",
+   "name": "博孚利尊享3号FOF",
+   "inception_date": "2019-01-09",
+   "strategy": "组合基金",
+   "register_number": "SEV618",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005DMT",
+   "name": "博孚利凯玺1号",
+   "inception_date": "2019-03-22",
+   "strategy": "组合基金",
+   "register_number": "SGE910",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005DYQ",
+   "name": "博孚利泰亚1号FOF",
+   "inception_date": "2019-03-29",
+   "strategy": "组合基金",
+   "register_number": "SGG537",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005FBJ",
+   "name": "博孚利牡丹3号",
+   "inception_date": "2019-04-10",
+   "strategy": "组合基金",
+   "register_number": "SGC810",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005FYN",
+   "name": "博孚利嘉兴5号",
+   "inception_date": "2019-04-26",
+   "strategy": "多资产策略",
+   "register_number": "SGN494",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005V3C",
+   "name": "博孚利尊享11号FOF",
+   "inception_date": "2019-12-23",
+   "strategy": "组合基金",
+   "register_number": "SJN095",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005Y3M",
+   "name": "博孚利尊享9号FOF",
+   "inception_date": "2020-01-16",
+   "strategy": "组合基金",
+   "register_number": "SJQ735",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000060SZ",
+   "name": "博孚利尊享12号FOF",
+   "inception_date": "2020-03-09",
+   "strategy": "组合基金",
+   "register_number": "SJU649",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000620D",
+   "name": "博孚利尊享7号FOF",
+   "inception_date": "2020-03-27",
+   "strategy": "组合基金",
+   "register_number": "SJW515",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000629S",
+   "name": "博孚利尊享15号FOF",
+   "inception_date": "2020-03-30",
+   "strategy": "组合基金",
+   "register_number": "SJX186",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000065PI",
+   "name": "博孚利聚强5号FOF",
+   "inception_date": "2020-05-26",
+   "strategy": "组合基金",
+   "register_number": "SJU178",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006C1D",
+   "name": "博孚利聚强8号FOF",
+   "inception_date": "2020-08-06",
+   "strategy": "组合基金",
+   "register_number": "SLE254",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006CQH",
+   "name": "泰福博孚利聚强6号FOF",
+   "inception_date": "2020-08-12",
+   "strategy": "组合基金",
+   "register_number": "SLD292",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006DL0",
+   "name": "博孚利中衍尊享FOF",
+   "inception_date": "2020-08-13",
+   "strategy": "组合基金",
+   "register_number": "SLN591",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006DWH",
+   "name": "博孚利国强1号",
+   "inception_date": "2020-08-25",
+   "strategy": "组合基金",
+   "register_number": "SLT126",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006I19",
+   "name": "博孚利国强3号FOF",
+   "inception_date": "2020-10-13",
+   "strategy": "组合基金",
+   "register_number": "SNA681",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006IU5",
+   "name": "中衍博孚利优选1号FOF",
+   "inception_date": "2020-10-21",
+   "strategy": "组合基金",
+   "register_number": "SLW192",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006LU1",
+   "name": "博孚利CTA-FOF8号",
+   "inception_date": "2020-11-23",
+   "strategy": "组合基金",
+   "register_number": "SNE027",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006LZA",
+   "name": "博孚利尊享16号FOF",
+   "inception_date": "2020-11-24",
+   "strategy": "组合基金",
+   "register_number": "SNH977",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006OX7",
+   "name": "博孚利多策略二十八号",
+   "inception_date": "2020-12-16",
+   "strategy": "组合基金",
+   "register_number": "SNM488",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006Q1P",
+   "name": "博孚利稳强2号",
+   "inception_date": "2020-12-23",
+   "strategy": "组合基金",
+   "register_number": "SNJ561",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007PY3",
+   "name": "博孚利尊享19号FOFC",
+   "inception_date": "2021-01-28",
+   "strategy": "组合基金",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006U80",
+   "name": "博孚利涵盈18号",
+   "inception_date": "2021-01-28",
+   "strategy": "组合基金",
+   "register_number": "SNW175",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000071TG",
+   "name": "博孚利尊享22号FOF",
+   "inception_date": "2021-03-18",
+   "strategy": "组合基金",
+   "register_number": "SQE798",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007351",
+   "name": "博孚利富利1号FOF",
+   "inception_date": "2021-03-29",
+   "strategy": "组合基金",
+   "register_number": "SQG422",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000073DL",
+   "name": "博孚利尊享23号FOF",
+   "inception_date": "2021-04-02",
+   "strategy": "组合基金",
+   "register_number": "SQH605",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000073A8",
+   "name": "博孚利多策略六号",
+   "inception_date": "2021-04-06",
+   "strategy": "组合基金",
+   "register_number": "SQF908",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000075N0",
+   "name": "博孚利尊享21号FOF",
+   "inception_date": "2021-04-27",
+   "strategy": "组合基金",
+   "register_number": "SQL931",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000079BA",
+   "name": "博孚利麟峰1号",
+   "inception_date": "2021-05-27",
+   "strategy": "组合基金",
+   "register_number": "SQS159",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007AP1",
+   "name": "山金博孚利FOF1号",
+   "inception_date": "2021-06-03",
+   "strategy": "组合基金",
+   "register_number": "SQT360",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007BLS",
+   "name": "博孚利多策略八号",
+   "inception_date": "2021-06-17",
+   "strategy": "组合基金",
+   "register_number": "SQV965",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007DKJ",
+   "name": "博孚利祥泰3号",
+   "inception_date": "2021-07-02",
+   "strategy": "组合基金",
+   "register_number": "SQP423",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007DSO",
+   "name": "博孚利钱钱家永续常青壹号",
+   "inception_date": "2021-07-05",
+   "strategy": "组合基金",
+   "register_number": "SQY724",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007DSL",
+   "name": "博孚利多棱1号FOF",
+   "inception_date": "2021-07-05",
+   "strategy": "组合基金",
+   "register_number": "SQY590",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007FGS",
+   "name": "博孚利CTA-FOF1A号",
+   "inception_date": "2021-07-13",
+   "strategy": "组合基金",
+   "register_number": "SSB534",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007GGS",
+   "name": "博孚利CTA-FOF5A号",
+   "inception_date": "2021-07-22",
+   "strategy": "组合基金",
+   "register_number": "SSE139",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007JDL",
+   "name": "博孚利尊享33号FOF",
+   "inception_date": "2021-08-02",
+   "strategy": "组合基金",
+   "register_number": "SSD437",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007JVL",
+   "name": "博孚利涌金9号",
+   "inception_date": "2021-08-05",
+   "strategy": "组合基金",
+   "register_number": "SSH463",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007KJY",
+   "name": "博孚利涵盈6号",
+   "inception_date": "2021-08-11",
+   "strategy": "组合基金",
+   "register_number": "SSH452",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007L79",
+   "name": "博孚利瑞盈6号",
+   "inception_date": "2021-08-16",
+   "strategy": "组合基金",
+   "register_number": "SSH449",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007LH4",
+   "name": "博孚利国强5号FOF",
+   "inception_date": "2021-08-18",
+   "strategy": "组合基金",
+   "register_number": "SSL229",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007MBU",
+   "name": "博孚利国强6号",
+   "inception_date": "2021-08-23",
+   "strategy": "组合基金",
+   "register_number": "SSM420",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007OA9",
+   "name": "博孚利颂恩一号",
+   "inception_date": "2021-09-01",
+   "strategy": "组合基金",
+   "register_number": "SSL258",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007ORW",
+   "name": "博孚利星源一号",
+   "inception_date": "2021-09-02",
+   "strategy": "组合基金",
+   "register_number": "SSH454",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007ONK",
+   "name": "博孚利尊享36号FOF",
+   "inception_date": "2021-09-09",
+   "strategy": "组合基金",
+   "register_number": "SSD440",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007ROP",
+   "name": "博孚利多策略十号",
+   "inception_date": "2021-09-30",
+   "strategy": "组合基金",
+   "register_number": "SSW768",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007SHV",
+   "name": "博孚利牡丹2号",
+   "inception_date": "2021-10-15",
+   "strategy": "组合基金",
+   "register_number": "SSZ432",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007SNP",
+   "name": "博孚利三人行FOF",
+   "inception_date": "2021-10-18",
+   "strategy": "组合基金",
+   "register_number": "SSX369",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007UJH",
+   "name": "博孚利玉石家族",
+   "inception_date": "2021-11-01",
+   "strategy": "组合基金",
+   "register_number": "STB387",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007V00",
+   "name": "博孚利尊享君悦29号",
+   "inception_date": "2021-11-01",
+   "strategy": "组合基金",
+   "register_number": "STA732",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007VUT",
+   "name": "博孚利稳强8号FOF",
+   "inception_date": "2021-11-04",
+   "strategy": "组合基金",
+   "register_number": "STB102",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007V0J",
+   "name": "博孚利尊享君悦21号",
+   "inception_date": "2021-11-04",
+   "strategy": "组合基金",
+   "register_number": "STB474",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007WTH",
+   "name": "博孚利多策略十一号",
+   "inception_date": "2021-11-05",
+   "strategy": "组合基金",
+   "register_number": "STB092",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007W0Q",
+   "name": "博孚利多策略十二号",
+   "inception_date": "2021-11-10",
+   "strategy": "组合基金",
+   "register_number": "STB089",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007XOU",
+   "name": "博孚利尊享君悦30号",
+   "inception_date": "2021-11-24",
+   "strategy": "组合基金",
+   "register_number": "STE250",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007Z73",
+   "name": "博孚利量化掘金1号",
+   "inception_date": "2021-12-02",
+   "strategy": "组合基金",
+   "register_number": "STJ782",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000082CK",
+   "name": "博孚利尊享101号FOF",
+   "inception_date": "2021-12-23",
+   "strategy": "组合基金",
+   "register_number": "STN312",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000082FK",
+   "name": "博孚利哲理",
+   "inception_date": "2021-12-24",
+   "strategy": "组合基金",
+   "register_number": "STM324",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000082EY",
+   "name": "博孚利擢英",
+   "inception_date": "2021-12-24",
+   "strategy": "组合基金",
+   "register_number": "STL483",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000084BZ",
+   "name": "博孚利必瑞趣定制FOF2号",
+   "inception_date": "2022-01-07",
+   "strategy": "组合基金",
+   "register_number": "STS621",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000085DL",
+   "name": "博孚利丰盈3号",
+   "inception_date": "2022-01-12",
+   "strategy": "组合基金",
+   "register_number": "STT491",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000085JR",
+   "name": "博孚利尊享85号FOF",
+   "inception_date": "2022-01-18",
+   "strategy": "组合基金",
+   "register_number": "STT879",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00008703",
+   "name": "博孚利多策略60号",
+   "inception_date": "2022-01-25",
+   "strategy": "组合基金",
+   "register_number": "STV494",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00008AL2",
+   "name": "博孚利涵盈17号",
+   "inception_date": "2022-03-10",
+   "strategy": "组合基金",
+   "register_number": "STJ324",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CCZK",
+   "name": "博孚利青璜2号A类份额",
+   "inception_date": "2022-04-12",
+   "strategy": "组合基金",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00008ZGP",
+   "name": "博孚利青璜2号",
+   "inception_date": "2022-04-12",
+   "strategy": "组合基金",
+   "register_number": "SVL530",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00008ZJA",
+   "name": "博孚利涵盈9号",
+   "inception_date": "2022-04-13",
+   "strategy": "组合基金",
+   "register_number": "SVK088",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00008ZUV",
+   "name": "博孚利梅寺晨钟",
+   "inception_date": "2022-04-18",
+   "strategy": "组合基金",
+   "register_number": "SVJ635",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000090HN",
+   "name": "博孚利星源二号",
+   "inception_date": "2022-04-25",
+   "strategy": "组合基金",
+   "register_number": "SVM194",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000090LE",
+   "name": "博孚利钟潭噌响",
+   "inception_date": "2022-04-26",
+   "strategy": "组合基金",
+   "register_number": "SVJ640",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000093S0",
+   "name": "博孚利星石家族",
+   "inception_date": "2022-05-30",
+   "strategy": "组合基金",
+   "register_number": "SVT112",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000094KY",
+   "name": "博孚利星享FOF",
+   "inception_date": "2022-06-09",
+   "strategy": "组合基金",
+   "register_number": "SVR723",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000950D",
+   "name": "博孚利可颂一号FOF",
+   "inception_date": "2022-06-14",
+   "strategy": "组合基金",
+   "register_number": "SVS847",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000095I9",
+   "name": "博孚利CTA-FOF1号寰图云创尊享",
+   "inception_date": "2022-06-17",
+   "strategy": "组合基金",
+   "register_number": "SVN874",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000095J6",
+   "name": "博孚利涵盈5号",
+   "inception_date": "2022-06-17",
+   "strategy": "组合基金",
+   "register_number": "SVS633",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000096D5",
+   "name": "博孚利多策略75号",
+   "inception_date": "2022-06-27",
+   "strategy": "多资产策略",
+   "register_number": "SVX151",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000096HX",
+   "name": "宁波华裕博孚利1号",
+   "inception_date": "2022-06-28",
+   "strategy": "组合基金",
+   "register_number": "SVY044",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000098RK",
+   "name": "博孚利聚强1号A类份额",
+   "inception_date": "2022-07-08",
+   "strategy": "组合基金",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000997A",
+   "name": "博孚利启璞",
+   "inception_date": "2022-07-15",
+   "strategy": "组合基金",
+   "register_number": "STX270",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000099DP",
+   "name": "博孚利丰盈4号",
+   "inception_date": "2022-07-18",
+   "strategy": "组合基金",
+   "register_number": "SVW750",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009CCJ",
+   "name": "博孚利多策略51号",
+   "inception_date": "2022-07-28",
+   "strategy": "组合基金",
+   "register_number": "SVZ587",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009F5O",
+   "name": "博孚利守安FOF",
+   "inception_date": "2022-08-16",
+   "strategy": "组合基金",
+   "register_number": "SXB196",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009FTR",
+   "name": "博孚利多策略80号",
+   "inception_date": "2022-08-22",
+   "strategy": "组合基金",
+   "register_number": "SXC534",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009GF9",
+   "name": "博孚利信新FOF一号",
+   "inception_date": "2022-08-23",
+   "strategy": "组合基金",
+   "register_number": "SXD131",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009GYN",
+   "name": "博孚利小满1号",
+   "inception_date": "2022-08-25",
+   "strategy": "多资产策略",
+   "register_number": "SXD115",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009GCW",
+   "name": "博孚利多策略二十四号",
+   "inception_date": "2022-08-26",
+   "strategy": "组合基金",
+   "register_number": "STZ941",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009H0C",
+   "name": "博孚利丰盈2号",
+   "inception_date": "2022-08-31",
+   "strategy": "股票策略",
+   "register_number": "SXC535",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CCZL",
+   "name": "博孚利锡泰稳强FOF1号B类份额",
+   "inception_date": "2022-09-13",
+   "strategy": "组合基金",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009IAW",
+   "name": "博孚利锡泰稳强FOF1号",
+   "inception_date": "2022-09-13",
+   "strategy": "组合基金",
+   "register_number": "SXF368",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009LP8",
+   "name": "博孚利瑞盈9号",
+   "inception_date": "2022-10-10",
+   "strategy": "组合基金",
+   "register_number": "SGX509",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009ME9",
+   "name": "博孚利嘉兴一号",
+   "inception_date": "2022-10-18",
+   "strategy": "组合基金",
+   "register_number": "SXN690",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009MTU",
+   "name": "博孚利华恩1号",
+   "inception_date": "2022-10-21",
+   "strategy": "组合基金",
+   "register_number": "SXP387",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009TA1",
+   "name": "博孚利恒跃1号",
+   "inception_date": "2022-11-03",
+   "strategy": "组合基金",
+   "register_number": "SXN895",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009TEU",
+   "name": "博孚利善家慈善组织1号",
+   "inception_date": "2022-11-03",
+   "strategy": "组合基金",
+   "register_number": "SXQ623",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009ULK",
+   "name": "博孚利涵合1号",
+   "inception_date": "2022-11-15",
+   "strategy": "组合基金",
+   "register_number": "SXR734",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009W6Q",
+   "name": "博孚利牡丹5号",
+   "inception_date": "2022-11-28",
+   "strategy": "组合基金",
+   "register_number": "SXT438",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009WRA",
+   "name": "博孚利盛虹1号中证1000分红型指数增强",
+   "inception_date": "2022-12-02",
+   "strategy": "股票策略",
+   "register_number": "SXS240",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009WYL",
+   "name": "博孚利丰盈5号",
+   "inception_date": "2022-12-06",
+   "strategy": "组合基金",
+   "register_number": "SXL603",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009XHA",
+   "name": "博孚利涵盈3号",
+   "inception_date": "2022-12-09",
+   "strategy": "组合基金",
+   "register_number": "SXU522",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009Y05",
+   "name": "博孚利涌金5号",
+   "inception_date": "2022-12-14",
+   "strategy": "组合基金",
+   "register_number": "SXU525",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009YZW",
+   "name": "博孚利年糕一号FOF",
+   "inception_date": "2022-12-21",
+   "strategy": "组合基金",
+   "register_number": "SXZ016",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009Z36",
+   "name": "博孚利尊享68号",
+   "inception_date": "2022-12-21",
+   "strategy": "组合基金",
+   "register_number": "SXR822",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009ZM0",
+   "name": "博孚利鹭岛晋帆",
+   "inception_date": "2022-12-26",
+   "strategy": "组合基金",
+   "register_number": "SXY980",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009ZN8",
+   "name": "博孚利牡丹4号",
+   "inception_date": "2022-12-26",
+   "strategy": "组合基金",
+   "register_number": "SZA480",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000A028",
+   "name": "涵盈博孚利1号",
+   "inception_date": "2022-12-29",
+   "strategy": "组合基金",
+   "register_number": "SZA846",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000A19L",
+   "name": "博孚利嘉仁基石家族6号FOF",
+   "inception_date": "2023-01-09",
+   "strategy": "组合基金",
+   "register_number": "SXY586",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000A63E",
+   "name": "博孚利砺青",
+   "inception_date": "2023-02-17",
+   "strategy": "组合基金",
+   "register_number": "SZJ455",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000A7MI",
+   "name": "博孚利诺信一号",
+   "inception_date": "2023-03-01",
+   "strategy": "组合基金",
+   "register_number": "SZL348",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AA4J",
+   "name": "博孚利恒心基石家族",
+   "inception_date": "2023-03-22",
+   "strategy": "组合基金",
+   "register_number": "SZQ582",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AA9Y",
+   "name": "博孚利瑞盈多策略6号",
+   "inception_date": "2023-03-24",
+   "strategy": "组合基金",
+   "register_number": "SZQ565",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000ABE8",
+   "name": "博孚利衍复指增1号",
+   "inception_date": "2023-04-03",
+   "strategy": "股票策略",
+   "register_number": "SZU331",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000ABIX",
+   "name": "博孚利多策略三十二号",
+   "inception_date": "2023-04-04",
+   "strategy": "组合基金",
+   "register_number": "SZJ918",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AC81",
+   "name": "博孚利顺达基石家族",
+   "inception_date": "2023-04-11",
+   "strategy": "组合基金",
+   "register_number": "SZV230",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AO8R",
+   "name": "博孚利尊享93号",
+   "inception_date": "2023-04-25",
+   "strategy": "组合基金",
+   "register_number": "SZX647",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AORP",
+   "name": "博孚利洛必达1号",
+   "inception_date": "2023-06-12",
+   "strategy": "组合基金",
+   "register_number": "SB1698",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AORO",
+   "name": "博孚利嘉兴二号",
+   "inception_date": "2023-06-12",
+   "strategy": "组合基金",
+   "register_number": "SB1695",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000APSA",
+   "name": "博孚利尊享98号FOF",
+   "inception_date": "2023-06-28",
+   "strategy": "组合基金",
+   "register_number": "S09355",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AW22",
+   "name": "博孚利凯瑞3号FOF",
+   "inception_date": "2023-06-28",
+   "strategy": "组合基金",
+   "register_number": "SGB353",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AVY8",
+   "name": "博孚利多多",
+   "inception_date": "2023-07-05",
+   "strategy": "组合基金",
+   "register_number": "SB2965",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AWEH",
+   "name": "博孚利东方紫霞1号",
+   "inception_date": "2023-07-10",
+   "strategy": "股票策略",
+   "register_number": "SB1112",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AXKK",
+   "name": "博孚利西海机智对冲一号",
+   "inception_date": "2023-07-20",
+   "strategy": "股票策略",
+   "register_number": "SB0838",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AYDW",
+   "name": "博孚利晨安专享FOF",
+   "inception_date": "2023-08-10",
+   "strategy": "组合基金",
+   "register_number": "SB7893",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AYPV",
+   "name": "博孚利行稳致远FOF1号",
+   "inception_date": "2023-08-15",
+   "strategy": "组合基金",
+   "register_number": "SB9533",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AZ1J",
+   "name": "博孚利涵盈16号",
+   "inception_date": "2023-08-17",
+   "strategy": "组合基金",
+   "register_number": "SB7848",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B1FT",
+   "name": "涵盈博孚利2号",
+   "inception_date": "2023-09-08",
+   "strategy": "组合基金",
+   "register_number": "SAAW56",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B4LU",
+   "name": "博孚利涵盈19号",
+   "inception_date": "2023-11-03",
+   "strategy": "组合基金",
+   "register_number": "SABQ22",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B4LV",
+   "name": "博孚利泓帆1号FOF",
+   "inception_date": "2023-11-03",
+   "strategy": "组合基金",
+   "register_number": "SABU71",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B5CU",
+   "name": "博孚利厦门牡丹1号",
+   "inception_date": "2023-11-15",
+   "strategy": "组合基金",
+   "register_number": "SAAW09",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B8CB",
+   "name": "博孚利西海机智对冲三号",
+   "inception_date": "2023-12-12",
+   "strategy": "组合基金",
+   "register_number": "SADT73",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BCPV",
+   "name": "博孚利专享1号",
+   "inception_date": "2024-03-13",
+   "strategy": "组合基金",
+   "register_number": "SAHX43",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BD5O",
+   "name": "博孚利悦享1号",
+   "inception_date": "2024-03-26",
+   "strategy": "组合基金",
+   "register_number": "SAJJ27",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BF8J",
+   "name": "博孚利全天候1号",
+   "inception_date": "2024-04-15",
+   "strategy": "多资产策略",
+   "register_number": "SAJT66",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DKWY",
+   "name": "博孚利专享2号",
+   "inception_date": "2026-03-05",
+   "strategy": "组合基金",
+   "register_number": "SBRW54",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000E7V5",
+   "name": "博孚利西海机智对冲五号",
+   "inception_date": "2026-09-16",
+   "strategy": "股票策略",
+   "register_number": "SEJ326",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  }
+ ]
+}

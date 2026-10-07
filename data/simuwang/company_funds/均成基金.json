@@ -1,0 +1,1477 @@
+{
+ "company_id": "CO00000JPQ",
+ "company_short_name": "均成基金",
+ "n_funds": 147,
+ "funds": [
+  {
+   "fund_id": "HF00002HED",
+   "name": "均成CTA1号",
+   "inception_date": "2017-03-01",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SS0221",
+   "ret_incep": "9.5455",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00004N69",
+   "name": "均成起源",
+   "inception_date": "2018-04-11",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SCP487",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00004PHX",
+   "name": "均成量化",
+   "inception_date": "2018-05-25",
+   "strategy": "股票策略",
+   "register_number": "SCP486",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005BHS",
+   "name": "均成CTA2号",
+   "inception_date": "2019-02-18",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SEQ555",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005DYV",
+   "name": "均成润峰",
+   "inception_date": "2019-04-01",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SGG724",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005FV6",
+   "name": "均成博孚利1号",
+   "inception_date": "2019-04-24",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SGL684",
+   "ret_incep": "9.545",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005G89",
+   "name": "均成CTA5号",
+   "inception_date": "2019-04-29",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SGM334",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005I88",
+   "name": "均成CTA3号",
+   "inception_date": "2019-05-27",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SGL028",
+   "ret_incep": "2.813379",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005M8F",
+   "name": "均成量化2号",
+   "inception_date": "2019-08-07",
+   "strategy": "多资产策略",
+   "register_number": "SGX474",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005NF3",
+   "name": "均成CTA9号",
+   "inception_date": "2019-08-27",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SGZ657",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005PKL",
+   "name": "均成CTA8号",
+   "inception_date": "2019-10-10",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SJA063",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005QJT",
+   "name": "均成盈丰",
+   "inception_date": "2019-10-25",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SJA335",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005QNL",
+   "name": "均成CTA12号",
+   "inception_date": "2019-10-28",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SJA616",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005RQ4",
+   "name": "均成CTA10号",
+   "inception_date": "2019-11-14",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SGZ726",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005VGU",
+   "name": "均成期道乐享1号",
+   "inception_date": "2019-12-31",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SJJ567",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005XA9",
+   "name": "均成CTA13号",
+   "inception_date": "2020-01-03",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SJA618",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000064F6",
+   "name": "均成CTA20号",
+   "inception_date": "2020-05-12",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SJZ344",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000064K3",
+   "name": "均成CTA18号",
+   "inception_date": "2020-05-14",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SJY704",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000065Z1",
+   "name": "均成量化3号",
+   "inception_date": "2020-05-29",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SLB779",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000066EL",
+   "name": "均成量化6号",
+   "inception_date": "2020-06-09",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SLD910",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000066LP",
+   "name": "均成量化5号",
+   "inception_date": "2020-06-11",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SLD178",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006AD0",
+   "name": "均成共赢2号",
+   "inception_date": "2020-07-13",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SLG806",
+   "ret_incep": "1.377",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006ACU",
+   "name": "均成量化8号",
+   "inception_date": "2020-07-17",
+   "strategy": "多资产策略",
+   "register_number": "SLG096",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006COL",
+   "name": "均成盈佳1号",
+   "inception_date": "2020-08-13",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SLN678",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006D4K",
+   "name": "均成盈丰3号",
+   "inception_date": "2020-08-18",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SLP197",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006D5Q",
+   "name": "均成共赢3号",
+   "inception_date": "2020-08-18",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SLR810",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006D5R",
+   "name": "均成共赢5号",
+   "inception_date": "2020-08-18",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SLR812",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006D5T",
+   "name": "均成共赢8号",
+   "inception_date": "2020-08-18",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SLR817",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006D5S",
+   "name": "均成共赢6号",
+   "inception_date": "2020-08-18",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SLR815",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006E07",
+   "name": "均成明扬1号",
+   "inception_date": "2020-08-24",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SLP940",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006F9G",
+   "name": "均成共赢9号",
+   "inception_date": "2020-09-07",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SLS387",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006F9H",
+   "name": "均成共赢10号",
+   "inception_date": "2020-09-07",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SLS388",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006GGB",
+   "name": "均成长策CTA1号",
+   "inception_date": "2020-09-18",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SLP466",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006H8K",
+   "name": "均成共赢12号",
+   "inception_date": "2020-09-28",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SLV700",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006HC6",
+   "name": "均成共赢13号",
+   "inception_date": "2020-09-29",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SLV701",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006HC8",
+   "name": "均成共赢16号",
+   "inception_date": "2020-09-29",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SLV704",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006HC7",
+   "name": "均成共赢15号",
+   "inception_date": "2020-09-29",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SLV703",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006I3N",
+   "name": "均成檀香1号",
+   "inception_date": "2020-10-09",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SLX039",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006KMU",
+   "name": "均成宏观对冲1号",
+   "inception_date": "2020-11-10",
+   "strategy": "多资产策略",
+   "register_number": "SNC604",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006KZC",
+   "name": "均成共赢19号",
+   "inception_date": "2020-11-12",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SLZ924",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006KQ9",
+   "name": "均成共赢20号",
+   "inception_date": "2020-11-12",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SLZ925",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006KQ8",
+   "name": "均成共赢18号",
+   "inception_date": "2020-11-12",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SLZ922",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006L2B",
+   "name": "均成共赢22号",
+   "inception_date": "2020-11-12",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SNA019",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006LUH",
+   "name": "均成七宝1号",
+   "inception_date": "2020-11-23",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SNF040",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006O68",
+   "name": "横琴均成金选CTA1号",
+   "inception_date": "2020-12-03",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SNH881",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006OE5",
+   "name": "均成沧海CTA1号",
+   "inception_date": "2020-12-11",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SNK182",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006OON",
+   "name": "均成量化15号",
+   "inception_date": "2020-12-15",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SNK971",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006PJB",
+   "name": "均成77号",
+   "inception_date": "2020-12-22",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SLZ928",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006PUL",
+   "name": "横琴均成金选CTA全享1号",
+   "inception_date": "2020-12-23",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SNL900",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006QJ4",
+   "name": "横琴均成金选CTA2号",
+   "inception_date": "2020-12-29",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SNN950",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006QR1",
+   "name": "均成量化11号",
+   "inception_date": "2020-12-30",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SNN290",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006QJ6",
+   "name": "均成量化12号",
+   "inception_date": "2020-12-30",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SNN986",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006QWP",
+   "name": "均成向日葵1号",
+   "inception_date": "2021-01-04",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SNL016",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006S8X",
+   "name": "均成量化13号",
+   "inception_date": "2021-01-04",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SNP494",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006RVE",
+   "name": "均成量化18号",
+   "inception_date": "2021-01-13",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SNR040",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006SRR",
+   "name": "均成量化16号",
+   "inception_date": "2021-01-18",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SNQ578",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006TK0",
+   "name": "均成资产-招享量化CTA2号",
+   "inception_date": "2021-01-21",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SNS854",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006TV3",
+   "name": "均成泓翊1号",
+   "inception_date": "2021-01-26",
+   "strategy": "多资产策略",
+   "register_number": "SNS853",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006UG6",
+   "name": "均成金斧子1号",
+   "inception_date": "2021-01-27",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SNW242",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006VJ7",
+   "name": "横琴均成金选CTA3号",
+   "inception_date": "2021-02-02",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SNU304",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006VN2",
+   "name": "均成私享1号",
+   "inception_date": "2021-02-03",
+   "strategy": "多资产策略",
+   "register_number": "SNS568",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006XBJ",
+   "name": "均成沧海CTA2号",
+   "inception_date": "2021-02-25",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SNN289",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006YPH",
+   "name": "均成量化20号",
+   "inception_date": "2021-03-10",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SNU450",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006YW2",
+   "name": "均成钜诚1号",
+   "inception_date": "2021-03-11",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQA055",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000071BG",
+   "name": "均成CTA增强1号",
+   "inception_date": "2021-03-15",
+   "strategy": "多资产策略",
+   "register_number": "SQD037",
+   "ret_incep": "1.052",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000073GG",
+   "name": "横琴均成金选CTA4号",
+   "inception_date": "2021-03-23",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQC181",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000733T",
+   "name": "均成子基2号",
+   "inception_date": "2021-03-29",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQF102",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000733G",
+   "name": "均成子基3号",
+   "inception_date": "2021-03-30",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQE290",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000741P",
+   "name": "均成CTA增强9号",
+   "inception_date": "2021-04-12",
+   "strategy": "多资产策略",
+   "register_number": "SQG957",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000741Q",
+   "name": "均成CTA增强10号",
+   "inception_date": "2021-04-12",
+   "strategy": "多资产策略",
+   "register_number": "SQG959",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000748O",
+   "name": "均成CTA增强11号",
+   "inception_date": "2021-04-14",
+   "strategy": "多资产策略",
+   "register_number": "SQH030",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000754Q",
+   "name": "均成CTA增强5号",
+   "inception_date": "2021-04-19",
+   "strategy": "多资产策略",
+   "register_number": "SQG280",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000077BT",
+   "name": "均成资产-招享量化CTA3号",
+   "inception_date": "2021-05-07",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQL634",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000077LM",
+   "name": "均成多策略1号",
+   "inception_date": "2021-05-11",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQK736",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007ACJ",
+   "name": "均成CTA增强15号",
+   "inception_date": "2021-06-01",
+   "strategy": "多资产策略",
+   "register_number": "SQQ881",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007A8Y",
+   "name": "均成CTA增强13号",
+   "inception_date": "2021-06-17",
+   "strategy": "多资产策略",
+   "register_number": "SQQ880",
+   "ret_incep": "0.9441",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007E3C",
+   "name": "均成CTA增强20号",
+   "inception_date": "2021-07-06",
+   "strategy": "多资产策略",
+   "register_number": "SQS073",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007GRM",
+   "name": "均成CTA增强16号",
+   "inception_date": "2021-07-26",
+   "strategy": "多资产策略",
+   "register_number": "SQQ886",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007JCE",
+   "name": "均成CTA稳健1号",
+   "inception_date": "2021-07-30",
+   "strategy": "多资产策略",
+   "register_number": "SQY278",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BCSC",
+   "name": "均成CTA稳健1号A类份额",
+   "inception_date": "2021-07-30",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007KN5",
+   "name": "均成股票1号",
+   "inception_date": "2021-08-06",
+   "strategy": "股票策略",
+   "register_number": "SQZ771",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007PYK",
+   "name": "均成CTA增强18号1期",
+   "inception_date": "2021-09-16",
+   "strategy": "多资产策略",
+   "register_number": "SSC376",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007UP0",
+   "name": "均成子基6号",
+   "inception_date": "2021-10-29",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQE292",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007ZYZ",
+   "name": "均成子基9号",
+   "inception_date": "2021-12-03",
+   "strategy": "期货及衍生品策略",
+   "register_number": "STJ344",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000080KJ",
+   "name": "均成子基A1号",
+   "inception_date": "2021-12-08",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQE293",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00008AKM",
+   "name": "均成衍生2号",
+   "inception_date": "2022-03-10",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQA503",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00008C8D",
+   "name": "均成衍生1号",
+   "inception_date": "2022-03-21",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SSB005",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00008C8A",
+   "name": "均成子基11号",
+   "inception_date": "2022-03-25",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQE331",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00008CMW",
+   "name": "均成招享CTA增强1号",
+   "inception_date": "2022-03-30",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SSB626",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00008Y3H",
+   "name": "均成衍生3号",
+   "inception_date": "2022-03-31",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SVK342",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00008XYN",
+   "name": "均成子基12号",
+   "inception_date": "2022-03-31",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQE334",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00008ZWB",
+   "name": "均成衍生5号",
+   "inception_date": "2022-04-18",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SVM443",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000947Q",
+   "name": "均成CTA增强8号",
+   "inception_date": "2022-06-06",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQG277",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000095EY",
+   "name": "均成股票2号",
+   "inception_date": "2022-06-10",
+   "strategy": "股票策略",
+   "register_number": "SVP640",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000098SW",
+   "name": "均成招享CTA增强2号",
+   "inception_date": "2022-07-11",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SVR434",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009FF1",
+   "name": "均成CTA增强22号",
+   "inception_date": "2022-08-15",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SVS670",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009FRP",
+   "name": "均成CTA增强29号",
+   "inception_date": "2022-08-19",
+   "strategy": "期货及衍生品策略",
+   "register_number": "STZ590",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009HLD",
+   "name": "均成CTA增强22号1期",
+   "inception_date": "2022-09-05",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SVS669",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009HTH",
+   "name": "均成CTA增强19号",
+   "inception_date": "2022-09-07",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQQ888",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009IMN",
+   "name": "均成CTA稳健3号",
+   "inception_date": "2022-09-15",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SVZ894",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009L0A",
+   "name": "均成CTA稳健3号1期",
+   "inception_date": "2022-09-28",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SXC248",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009L3P",
+   "name": "均成股票灵活对冲1号",
+   "inception_date": "2022-09-28",
+   "strategy": "多资产策略",
+   "register_number": "SXK759",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009LPN",
+   "name": "均成CTA增强26号",
+   "inception_date": "2022-10-10",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SVZ374",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009LSY",
+   "name": "均成海冀CTA增强1号",
+   "inception_date": "2022-10-11",
+   "strategy": "期货及衍生品策略",
+   "register_number": "STZ589",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009MHT",
+   "name": "均成安益5号1期",
+   "inception_date": "2022-10-19",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SXG538",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009NOL",
+   "name": "均成安益5号",
+   "inception_date": "2022-10-21",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SXG537",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009TZW",
+   "name": "横琴均成金选CTA稳健1号",
+   "inception_date": "2022-11-10",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SXA223",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009VIJ",
+   "name": "均成共赢4号",
+   "inception_date": "2022-11-21",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SXU267",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009VIK",
+   "name": "均成共赢7号",
+   "inception_date": "2022-11-21",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SXU272",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000A29D",
+   "name": "均成CTA稳健5号",
+   "inception_date": "2023-01-18",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SZA681",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000A97O",
+   "name": "均成CTA增强31号",
+   "inception_date": "2023-03-21",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SXL709",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BCSD",
+   "name": "均成CTA增强31号B类份额",
+   "inception_date": "2023-03-21",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000ABAI",
+   "name": "均成CTA增强25号1期",
+   "inception_date": "2023-04-06",
+   "strategy": "多资产策略",
+   "register_number": "SZK280",
+   "ret_incep": "0.4745",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000ABYZ",
+   "name": "均成CTA增强25号",
+   "inception_date": "2023-04-10",
+   "strategy": "多资产策略",
+   "register_number": "SVV484",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000ABUB",
+   "name": "均成永享1号",
+   "inception_date": "2023-04-12",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SZQ346",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AINJ",
+   "name": "均成CTA稳健6号",
+   "inception_date": "2023-04-13",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SZQ347",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000APUM",
+   "name": "均成CTA增强2号",
+   "inception_date": "2023-07-04",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQF319",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AZTR",
+   "name": "均成安益1号1期",
+   "inception_date": "2023-08-23",
+   "strategy": "多资产策略",
+   "register_number": "SZZ948",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DMVR",
+   "name": "均成安益1号A类份额",
+   "inception_date": "2023-08-29",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B0AJ",
+   "name": "均成安益1号",
+   "inception_date": "2023-08-29",
+   "strategy": "多资产策略",
+   "register_number": "SZZ951",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CS0W",
+   "name": "均成安益1号C类份额",
+   "inception_date": "2023-08-29",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DMVS",
+   "name": "均成安益1号B类份额",
+   "inception_date": "2023-08-29",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B1T6",
+   "name": "均成股票1号1期",
+   "inception_date": "2023-09-22",
+   "strategy": "股票策略",
+   "register_number": "SVS655",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B5QL",
+   "name": "均成东享1号",
+   "inception_date": "2023-11-23",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SZZ979",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B6V6",
+   "name": "均成CTA均衡1号",
+   "inception_date": "2023-12-11",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SXG927",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B86E",
+   "name": "均成正选1号1期",
+   "inception_date": "2023-12-26",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SADR39",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B8JR",
+   "name": "均成正选1号",
+   "inception_date": "2023-12-28",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SADR37",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B9PR",
+   "name": "横琴均成金选CTA稳健2号",
+   "inception_date": "2024-01-23",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAFF80",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BFCN",
+   "name": "均成300中性1号",
+   "inception_date": "2024-04-10",
+   "strategy": "股票策略",
+   "register_number": "SAJN24",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BI9G",
+   "name": "均成均享1号1期",
+   "inception_date": "2024-06-28",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAFG55",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BIRK",
+   "name": "均成均享1号",
+   "inception_date": "2024-06-28",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAFG53",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BIXZ",
+   "name": "均成安益2号",
+   "inception_date": "2024-07-04",
+   "strategy": "多资产策略",
+   "register_number": "SALV04",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BKX4",
+   "name": "均成灵泰1号1期",
+   "inception_date": "2024-08-02",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SALB33",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BKS4",
+   "name": "均成灵泰1号",
+   "inception_date": "2024-08-05",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SALB35",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000C8WW",
+   "name": "均成正选2号1期",
+   "inception_date": "2024-11-26",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAQK30",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000C8C6",
+   "name": "均成云峰CTA增强28号",
+   "inception_date": "2024-12-04",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAHU19",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000C8TI",
+   "name": "均成中益1号1期",
+   "inception_date": "2024-12-12",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAQZ77",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000C9BH",
+   "name": "均成中益1号",
+   "inception_date": "2024-12-27",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAQZ74",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000C9B9",
+   "name": "均成正选2号",
+   "inception_date": "2024-12-30",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAQK31",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CCUD",
+   "name": "横琴均成金选CTA稳健3号",
+   "inception_date": "2025-03-11",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SARU62",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CEO7",
+   "name": "均成泰享1号",
+   "inception_date": "2025-04-02",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAWJ22",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CG39",
+   "name": "均成招进1号1期",
+   "inception_date": "2025-04-22",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAXA57",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CGL6",
+   "name": "均成招进1号",
+   "inception_date": "2025-04-30",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAXA55",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CHC9",
+   "name": "均成臻选CTA1号",
+   "inception_date": "2025-05-13",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAXU17",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CMP3",
+   "name": "均成安享1号",
+   "inception_date": "2025-07-15",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBBD78",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CMQ2",
+   "name": "均成天利1号",
+   "inception_date": "2025-07-28",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBCD88",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CMOQ",
+   "name": "均成克翎1号",
+   "inception_date": "2025-07-28",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBAR83",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  }
+ ]
+}

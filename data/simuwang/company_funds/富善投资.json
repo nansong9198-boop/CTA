@@ -1,0 +1,1497 @@
+{
+ "company_id": "CO0000014J",
+ "company_short_name": "富善投资",
+ "n_funds": 149,
+ "funds": [
+  {
+   "fund_id": "HF0000077O",
+   "name": "诺德-工行-富善致远CTA一期",
+   "inception_date": "2014-01-16",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SC3791",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000008P5",
+   "name": "富善致远CTA五期",
+   "inception_date": "2014-04-18",
+   "strategy": "期货及衍生品策略",
+   "register_number": "S93824",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000008P6",
+   "name": "富善优享1号",
+   "inception_date": "2014-04-24",
+   "strategy": "期货及衍生品策略",
+   "register_number": "S93806",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000008P4",
+   "name": "富善优享3号",
+   "inception_date": "2014-05-19",
+   "strategy": "股票策略",
+   "register_number": "S93808",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00000ASI",
+   "name": "华富基金富善投资安享5号",
+   "inception_date": "2014-07-07",
+   "strategy": "债券策略",
+   "register_number": "S20521",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00000BLE",
+   "name": "富善优享5号尊享1期",
+   "inception_date": "2014-10-31",
+   "strategy": "股票策略",
+   "register_number": "S93809",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00000BLD",
+   "name": "富善优享5号尊享2期",
+   "inception_date": "2014-10-31",
+   "strategy": "股票策略",
+   "register_number": "S93810",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00000BPL",
+   "name": "富善致远CTA七期",
+   "inception_date": "2014-10-31",
+   "strategy": "期货及衍生品策略",
+   "register_number": "S93823",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00000D4Y",
+   "name": "千石资本-富善优享5号",
+   "inception_date": "2014-11-05",
+   "strategy": "股票策略",
+   "register_number": "S93812",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00000FFO",
+   "name": "富善投资-安享富利宝1期",
+   "inception_date": "2015-02-03",
+   "strategy": "期货及衍生品策略",
+   "register_number": "S23582",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00000FFQ",
+   "name": "富善投资-安享富利宝",
+   "inception_date": "2015-02-03",
+   "strategy": "组合基金",
+   "register_number": "S23478",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00004R6U",
+   "name": "富善投资-安享富利宝1期A",
+   "inception_date": "2015-02-03",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00004R6X",
+   "name": "富善投资-安享富利宝1期B",
+   "inception_date": "2015-02-03",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00000FCK",
+   "name": "富善致远CTA十期",
+   "inception_date": "2015-02-05",
+   "strategy": "期货及衍生品策略",
+   "register_number": "S93827",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00000FCL",
+   "name": "富善致远CTA十一期",
+   "inception_date": "2015-02-12",
+   "strategy": "期货及衍生品策略",
+   "register_number": "S93825",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00000JB1",
+   "name": "千石资本-富善优享8号尊享1期",
+   "inception_date": "2015-03-30",
+   "strategy": "股票策略",
+   "register_number": "S93813",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00000Z8G",
+   "name": "千石资本-富善优享8号",
+   "inception_date": "2015-04-01",
+   "strategy": "股票策略",
+   "register_number": "S93817",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00000IMF",
+   "name": "银河资本-富善优享6号尊享2期",
+   "inception_date": "2015-04-21",
+   "strategy": "多资产策略",
+   "register_number": "SC5568",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00000IKS",
+   "name": "银河资本-富善优享6号",
+   "inception_date": "2015-04-22",
+   "strategy": "多资产策略",
+   "register_number": "SC5571",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00000UCY",
+   "name": "千石资本-兴业银行-富善优享2号",
+   "inception_date": "2015-06-03",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000024B3",
+   "name": "千石资本-锐进32期富善多空优享进取",
+   "inception_date": "2015-06-29",
+   "strategy": "股票策略",
+   "register_number": "S94219",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00000W92",
+   "name": "富善致远CTA十二期",
+   "inception_date": "2015-07-02",
+   "strategy": "期货及衍生品策略",
+   "register_number": "S93826",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000011S3",
+   "name": "富善投资-安享富利宝2期",
+   "inception_date": "2015-07-14",
+   "strategy": "组合基金",
+   "register_number": "S65037",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00002LTO",
+   "name": "千石资本-富善优享8号尊享2期",
+   "inception_date": "2015-07-31",
+   "strategy": "多资产策略",
+   "register_number": "S93814",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00002LTP",
+   "name": "千石资本-富善优享8号尊享3期",
+   "inception_date": "2015-07-31",
+   "strategy": "多资产策略",
+   "register_number": "S93815",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000110W",
+   "name": "富善投资-陆家嘴富利宝1期",
+   "inception_date": "2015-08-06",
+   "strategy": "组合基金",
+   "register_number": "S67651",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00001508",
+   "name": "银河资本-富善优享6号尊享5期",
+   "inception_date": "2015-08-26",
+   "strategy": "多资产策略",
+   "register_number": "SC5570",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000014JQ",
+   "name": "千石资本-富善睿安1号",
+   "inception_date": "2015-10-10",
+   "strategy": "股票策略",
+   "register_number": "S93821",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000014JP",
+   "name": "千石资本-富善优享8号尊享5期",
+   "inception_date": "2015-10-10",
+   "strategy": "股票策略",
+   "register_number": "S93816",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000186X",
+   "name": "富善投资-致远金选1号",
+   "inception_date": "2015-11-27",
+   "strategy": "期货及衍生品策略",
+   "register_number": "S84846",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00001929",
+   "name": "富善投资-锐远1号尊享1期",
+   "inception_date": "2015-12-10",
+   "strategy": "多资产策略",
+   "register_number": "S84847",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00001928",
+   "name": "富善投资-致远CTA十五期",
+   "inception_date": "2015-12-16",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SD0407",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00001BSL",
+   "name": "优享专享2号",
+   "inception_date": "2016-01-22",
+   "strategy": "组合基金",
+   "register_number": "SE5269",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00001WPH",
+   "name": "兴业富善1号",
+   "inception_date": "2016-02-24",
+   "strategy": "股票策略",
+   "register_number": "SH2546",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00001G8Z",
+   "name": "富善投资优享11号尊享1期",
+   "inception_date": "2016-03-03",
+   "strategy": "多资产策略",
+   "register_number": "SH3918",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00001GD7",
+   "name": "富善投资-优享11号",
+   "inception_date": "2016-03-03",
+   "strategy": "多资产策略",
+   "register_number": "SH3914",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00001IAB",
+   "name": "天华臻选富善1号",
+   "inception_date": "2016-03-25",
+   "strategy": "多资产策略",
+   "register_number": "SH8262",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00001J9G",
+   "name": "富善投资-优享进取2号",
+   "inception_date": "2016-04-06",
+   "strategy": "多资产策略",
+   "register_number": "SJ0275",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00001H6G",
+   "name": "星辰之富善多策略",
+   "inception_date": "2016-04-18",
+   "strategy": "多资产策略",
+   "register_number": "SJ2666",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00001HLW",
+   "name": "富善投资-汇远量化定增1期",
+   "inception_date": "2016-04-26",
+   "strategy": "股票策略",
+   "register_number": "SJ4476",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00001HCO",
+   "name": "富善投资-汇远量化定增2期",
+   "inception_date": "2016-04-26",
+   "strategy": "股票策略",
+   "register_number": "SJ4477",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00001TT0",
+   "name": "建信基金-富善优享精选3期特定多个客户资产管理计划",
+   "inception_date": "2016-05-04",
+   "strategy": "多资产策略",
+   "register_number": "SJ6115",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00001TSX",
+   "name": "建信基金-富善优享精选1期特定多个客户资产管理计划",
+   "inception_date": "2016-05-04",
+   "strategy": "多资产策略",
+   "register_number": "SJ6112",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00001TT4",
+   "name": "建信基金-富善优享精选5期特定多个客户资产管理计划",
+   "inception_date": "2016-05-04",
+   "strategy": "多资产策略",
+   "register_number": "SJ6114",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00001T4F",
+   "name": "鹏华资产富善汇远量化定增",
+   "inception_date": "2016-05-23",
+   "strategy": "股票策略",
+   "register_number": "SJ9407",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00001IJ2",
+   "name": "富善投资优享进取3号",
+   "inception_date": "2016-06-07",
+   "strategy": "多资产策略",
+   "register_number": "SJ6424",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00001IHN",
+   "name": "富善投资锐远2号",
+   "inception_date": "2016-06-07",
+   "strategy": "多资产策略",
+   "register_number": "SH2334",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00001IJB",
+   "name": "富善投资-致远金选2号",
+   "inception_date": "2016-06-08",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SJ8926",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00001JDO",
+   "name": "富善投资锐远3号",
+   "inception_date": "2016-06-22",
+   "strategy": "多资产策略",
+   "register_number": "SH3923",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00001RV8",
+   "name": "银河资本-富善优享9号",
+   "inception_date": "2016-06-22",
+   "strategy": "多资产策略",
+   "register_number": "SK5693",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00001L8L",
+   "name": "富善投资-汇远量化定增3期",
+   "inception_date": "2016-07-12",
+   "strategy": "股票策略",
+   "register_number": "SK0697",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00001LN3",
+   "name": "富善致远CTA十六期",
+   "inception_date": "2016-07-12",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SK2857",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00001MLU",
+   "name": "优享专享3号",
+   "inception_date": "2016-07-13",
+   "strategy": "多资产策略",
+   "register_number": "SK3151",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00001OJC",
+   "name": "富善优致多策略1期",
+   "inception_date": "2016-07-28",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SK9352",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00001Q7M",
+   "name": "银河资本-富善广发优享专享1号资产管理计划",
+   "inception_date": "2016-08-09",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SL9233",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000022FX",
+   "name": "富善投资-致远宏盈CTA十八期",
+   "inception_date": "2016-08-30",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SL8383",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000023E8",
+   "name": "富善投资致远CTA十七期尊享1期",
+   "inception_date": "2016-09-06",
+   "strategy": "多资产策略",
+   "register_number": "SL9086",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000023I0",
+   "name": "富善投资-致远金选3号",
+   "inception_date": "2016-09-08",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SL8384",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000023K5",
+   "name": "富善投资-汇远量化定增5期",
+   "inception_date": "2016-09-12",
+   "strategy": "股票策略",
+   "register_number": "SK6974",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000242T",
+   "name": "富善投资-汇远量化定增母基金",
+   "inception_date": "2016-09-20",
+   "strategy": "股票策略",
+   "register_number": "SK6970",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000024G0",
+   "name": "富善投资-汇远量化定增6期",
+   "inception_date": "2016-09-22",
+   "strategy": "股票策略",
+   "register_number": "SM1584",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000024L9",
+   "name": "鹏华资产富善汇远量化定增2号",
+   "inception_date": "2016-09-23",
+   "strategy": "股票策略",
+   "register_number": "SM6682",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000254F",
+   "name": "富善投资致远CTA十七期尊享2期",
+   "inception_date": "2016-09-28",
+   "strategy": "多资产策略",
+   "register_number": "SM3298",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000025LZ",
+   "name": "银河资本1期",
+   "inception_date": "2016-09-30",
+   "strategy": "多资产策略",
+   "register_number": "SM7791",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000025J1",
+   "name": "银河富善多策略",
+   "inception_date": "2016-10-11",
+   "strategy": "多资产策略",
+   "register_number": "SM8396",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000261X",
+   "name": "富善投资-基石全球量化1期",
+   "inception_date": "2016-10-14",
+   "strategy": "股票策略",
+   "register_number": "SM4925",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00002740",
+   "name": "汇远量化定增7期",
+   "inception_date": "2016-10-31",
+   "strategy": "股票策略",
+   "register_number": "SM8321",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00002757",
+   "name": "富善投资致远CTA十七期3期",
+   "inception_date": "2016-11-02",
+   "strategy": "多资产策略",
+   "register_number": "SM6293",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000027O4",
+   "name": "银华财富-星光熠熠1期富善量化定增专项资产管理计划",
+   "inception_date": "2016-11-09",
+   "strategy": "股票策略",
+   "register_number": "SN3250",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000027O8",
+   "name": "银华财富-星光熠熠3期富善量化定增专项资产管理计划",
+   "inception_date": "2016-11-09",
+   "strategy": "股票策略",
+   "register_number": "SN3251",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000295L",
+   "name": "星辰之富善多策略2号",
+   "inception_date": "2016-11-25",
+   "strategy": "多资产策略",
+   "register_number": "SN1590",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000295R",
+   "name": "星辰之富善多策略3号",
+   "inception_date": "2016-11-25",
+   "strategy": "多资产策略",
+   "register_number": "SN1591",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00002DHJ",
+   "name": "富善投资-汇远量化定增9期",
+   "inception_date": "2016-12-26",
+   "strategy": "股票策略",
+   "register_number": "SN5271",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00002E5M",
+   "name": "富善优享11号尊享2期",
+   "inception_date": "2017-01-09",
+   "strategy": "股票策略",
+   "register_number": "SN9133",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00002E76",
+   "name": "富善汇远量化定增5号尊享2期",
+   "inception_date": "2017-01-10",
+   "strategy": "股票策略",
+   "register_number": "SR6178",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00002ETK",
+   "name": "富善投资-致远金选5号",
+   "inception_date": "2017-01-17",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SN4315",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00002FGW",
+   "name": "优享专享5号",
+   "inception_date": "2017-02-03",
+   "strategy": "股票策略",
+   "register_number": "SR4452",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00002G69",
+   "name": "睿远1号(量化主动)",
+   "inception_date": "2017-02-17",
+   "strategy": "股票策略",
+   "register_number": "SR7856",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00002IDA",
+   "name": "安进19期CTA",
+   "inception_date": "2017-03-23",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SN2209",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00002M2R",
+   "name": "富善投资-汇远7号尊享1期",
+   "inception_date": "2017-04-28",
+   "strategy": "股票策略",
+   "register_number": "SR7597",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00003CVG",
+   "name": "富善投资-汇远7号",
+   "inception_date": "2017-05-09",
+   "strategy": "股票策略",
+   "register_number": "SR7601",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00003I84",
+   "name": "富善投资-汇远10期",
+   "inception_date": "2017-05-17",
+   "strategy": "股票策略",
+   "register_number": "SS6040",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00003JZS",
+   "name": "富善投资-汇远量化选股12期",
+   "inception_date": "2017-05-25",
+   "strategy": "股票策略",
+   "register_number": "SS9053",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00003K0T",
+   "name": "富善信淮优享10号",
+   "inception_date": "2017-05-25",
+   "strategy": "股票策略",
+   "register_number": "ST2611",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00003MMF",
+   "name": "瑞智精选富善投资优享12号",
+   "inception_date": "2017-06-30",
+   "strategy": "期货及衍生品策略",
+   "register_number": "ST3593",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00003MO1",
+   "name": "富善投资-睿远(港股通)1期",
+   "inception_date": "2017-07-03",
+   "strategy": "股票策略",
+   "register_number": "ST7756",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00003MO2",
+   "name": "富善投资-衡远(FOF)1期",
+   "inception_date": "2017-07-03",
+   "strategy": "组合基金",
+   "register_number": "ST7758",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00003NDV",
+   "name": "富善投资-睿远(港股通)1号",
+   "inception_date": "2017-07-13",
+   "strategy": "股票策略",
+   "register_number": "ST7755",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00003NTB",
+   "name": "富善投资-衡远(FOF)1号",
+   "inception_date": "2017-07-13",
+   "strategy": "组合基金",
+   "register_number": "ST7757",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00003NU2",
+   "name": "富善汇远量化选股6号",
+   "inception_date": "2017-07-13",
+   "strategy": "股票策略",
+   "register_number": "SW2264",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000040HF",
+   "name": "富善投资-优享专享6号",
+   "inception_date": "2017-09-12",
+   "strategy": "股票策略",
+   "register_number": "ST1349",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00004301",
+   "name": "富善投资-汇远7号尊享2期",
+   "inception_date": "2017-10-10",
+   "strategy": "股票策略",
+   "register_number": "SS3410",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000045V0",
+   "name": "富善汇远量化选股10号1期",
+   "inception_date": "2017-11-17",
+   "strategy": "股票策略",
+   "register_number": "ST9251",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000047JN",
+   "name": "富善汇远量化选股10号3期",
+   "inception_date": "2017-11-22",
+   "strategy": "股票策略",
+   "register_number": "ST9253",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000047P1",
+   "name": "富善汇远量化选股10号",
+   "inception_date": "2017-11-29",
+   "strategy": "股票策略",
+   "register_number": "ST9250",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000480L",
+   "name": "富善投资-汇远(稳健)量化选股1号",
+   "inception_date": "2017-11-30",
+   "strategy": "股票策略",
+   "register_number": "SY1501",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000480M",
+   "name": "富善投资-汇远(进取)量化选股1号",
+   "inception_date": "2017-11-30",
+   "strategy": "股票策略",
+   "register_number": "SY1502",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00004FF4",
+   "name": "富善投资-睿远(港股通)2期",
+   "inception_date": "2018-02-05",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SCD775",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00004NEH",
+   "name": "博翔富善致远CTA",
+   "inception_date": "2018-04-10",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SCT028",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00004LPF",
+   "name": "富善投资-安享富利宝2号",
+   "inception_date": "2018-04-16",
+   "strategy": "股票策略",
+   "register_number": "SCQ742",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00004OCL",
+   "name": "富善投资-汇远9号",
+   "inception_date": "2018-05-21",
+   "strategy": "股票策略",
+   "register_number": "SX0680",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00004TF1",
+   "name": "富善投资-星海量化1号",
+   "inception_date": "2018-07-04",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SCX508",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00004YST",
+   "name": "富善投资-东家安享富利宝1号",
+   "inception_date": "2018-09-05",
+   "strategy": "股票策略",
+   "register_number": "SEG608",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005CMA",
+   "name": "富善致远CTA泰和1号",
+   "inception_date": "2019-03-07",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SEV543",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005CNX",
+   "name": "富善投资-沣时1号致远CTA1期",
+   "inception_date": "2019-03-08",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SED983",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005CN7",
+   "name": "富善投资-博远3号",
+   "inception_date": "2019-03-11",
+   "strategy": "股票策略",
+   "register_number": "SGD047",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005E5R",
+   "name": "富善投资-博远1号",
+   "inception_date": "2019-04-04",
+   "strategy": "股票策略",
+   "register_number": "SEG620",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005EG7",
+   "name": "富善投资-安享专享1期",
+   "inception_date": "2019-04-08",
+   "strategy": "多资产策略",
+   "register_number": "SGH603",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005HA3",
+   "name": "富善投资-致远臻选CTA1号",
+   "inception_date": "2019-05-21",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SGM837",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005HMQ",
+   "name": "富善投资安享沣和2号",
+   "inception_date": "2019-05-27",
+   "strategy": "股票策略",
+   "register_number": "SGQ186",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005HUJ",
+   "name": "富善投资-安享专享3号",
+   "inception_date": "2019-05-28",
+   "strategy": "多资产策略",
+   "register_number": "SGQ680",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005HUI",
+   "name": "富善投资-安享专享2号",
+   "inception_date": "2019-05-29",
+   "strategy": "多资产策略",
+   "register_number": "SGQ643",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005JYT",
+   "name": "富善投资-安享专享5期",
+   "inception_date": "2019-07-04",
+   "strategy": "多资产策略",
+   "register_number": "SGR621",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006BW1",
+   "name": "富善投资-安享富利宝5号",
+   "inception_date": "2020-08-10",
+   "strategy": "股票策略",
+   "register_number": "SLK795",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006H1U",
+   "name": "富善投资-致远臻选CTA2号",
+   "inception_date": "2020-09-28",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SLY632",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006JAE",
+   "name": "富善投资-睿远特殊机遇1期",
+   "inception_date": "2020-10-29",
+   "strategy": "股票策略",
+   "register_number": "SND304",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006RO7",
+   "name": "富善投资-致远臻选CTA3号",
+   "inception_date": "2021-01-11",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SNQ214",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006WTV",
+   "name": "富善投资-安享尊享6号",
+   "inception_date": "2021-02-25",
+   "strategy": "股票策略",
+   "register_number": "SQA650",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006WTW",
+   "name": "富善投资-安享尊享5号",
+   "inception_date": "2021-02-25",
+   "strategy": "股票策略",
+   "register_number": "SQA655",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006YSN",
+   "name": "富善投资-泰鑫1号",
+   "inception_date": "2021-03-16",
+   "strategy": "多资产策略",
+   "register_number": "SQD588",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000726U",
+   "name": "富善投资-睿远特殊机遇3期",
+   "inception_date": "2021-03-26",
+   "strategy": "股票策略",
+   "register_number": "SQE621",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000074C7",
+   "name": "富善投资-瑞雪恒赢1号",
+   "inception_date": "2021-04-21",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQL321",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000793C",
+   "name": "富善投资-泰鑫3号",
+   "inception_date": "2021-05-31",
+   "strategy": "多资产策略",
+   "register_number": "SQS298",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007B33",
+   "name": "富善投资-瑞雪恒赢2号",
+   "inception_date": "2021-06-18",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQW404",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007J4G",
+   "name": "富善投资-瑞雪恒赢3号",
+   "inception_date": "2021-08-04",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SSF317",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007JL1",
+   "name": "富善投资-泰鑫5号",
+   "inception_date": "2021-08-06",
+   "strategy": "多资产策略",
+   "register_number": "SSH464",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007M65",
+   "name": "富善投资安享尊享11号",
+   "inception_date": "2021-08-25",
+   "strategy": "股票策略",
+   "register_number": "SSM103",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007M5G",
+   "name": "富善投资安享尊享9号",
+   "inception_date": "2021-08-25",
+   "strategy": "股票策略",
+   "register_number": "SSK861",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007MSB",
+   "name": "富善投资才伟专享",
+   "inception_date": "2021-08-27",
+   "strategy": "股票策略",
+   "register_number": "SSP188",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007MWM",
+   "name": "富善投资安享尊享10号",
+   "inception_date": "2021-08-30",
+   "strategy": "股票策略",
+   "register_number": "SSK863",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007MM5",
+   "name": "富善投资安享尊享12号",
+   "inception_date": "2021-08-30",
+   "strategy": "股票策略",
+   "register_number": "SSM106",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007NHL",
+   "name": "富善投资-安享尊享7号",
+   "inception_date": "2021-08-31",
+   "strategy": "股票策略",
+   "register_number": "SQX621",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007NHM",
+   "name": "富善投资-安享尊享8号",
+   "inception_date": "2021-08-31",
+   "strategy": "股票策略",
+   "register_number": "SQX660",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007NSU",
+   "name": "富善投资瑞雪恒赢5号",
+   "inception_date": "2021-09-03",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SSQ683",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007SRR",
+   "name": "富善投资彤利2号",
+   "inception_date": "2021-10-13",
+   "strategy": "股票策略",
+   "register_number": "SSQ235",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007YVP",
+   "name": "富善投资星牛5号",
+   "inception_date": "2021-12-01",
+   "strategy": "股票策略",
+   "register_number": "STA949",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007YY7",
+   "name": "富善投资瑞雪恒赢6号",
+   "inception_date": "2021-12-01",
+   "strategy": "期货及衍生品策略",
+   "register_number": "STJ175",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007YY8",
+   "name": "富善投资瑞雪恒赢7号",
+   "inception_date": "2021-12-01",
+   "strategy": "期货及衍生品策略",
+   "register_number": "STJ180",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009307",
+   "name": "富善投资开源歆享1号",
+   "inception_date": "2022-05-23",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SVR815",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009CH1",
+   "name": "富善投资致远臻选CTA6号",
+   "inception_date": "2022-07-28",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SVU250",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009FV0",
+   "name": "富善投资安享尊享15号",
+   "inception_date": "2022-08-23",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SXD187",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009LM5",
+   "name": "富善投资麒麟进取CTA1号C类份额",
+   "inception_date": "2022-08-24",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009FZZ",
+   "name": "富善投资麒麟进取CTA1号",
+   "inception_date": "2022-08-24",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SXD785",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009MX5",
+   "name": "富善投资麒麟进取CTA1号A类份额",
+   "inception_date": "2022-08-24",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009L46",
+   "name": "富善投资睿选进取CTA1号",
+   "inception_date": "2022-09-28",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SXL738",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009XQ9",
+   "name": "富善投资麒麟进取CTA2号",
+   "inception_date": "2022-12-12",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SXW664",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000A8EU",
+   "name": "富善投资小满安享1号",
+   "inception_date": "2023-03-13",
+   "strategy": "债券策略",
+   "register_number": "SZP650",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BBDQ",
+   "name": "富善投资小满安享1号B类份额",
+   "inception_date": "2023-03-13",
+   "strategy": "债券策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B3RR",
+   "name": "富善投资金选CTA1号B类份额",
+   "inception_date": "2023-05-23",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  }
+ ]
+}

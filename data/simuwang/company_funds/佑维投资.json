@@ -1,0 +1,797 @@
+{
+ "company_id": "CO00002NVB",
+ "company_short_name": "佑维投资",
+ "n_funds": 79,
+ "funds": [
+  {
+   "fund_id": "HF00005LJT",
+   "name": "佑维CTA平衡一号",
+   "inception_date": "2019-07-29",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SGW076",
+   "ret_incep": "1.072828",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005LLF",
+   "name": "佑维CTA稳健一号",
+   "inception_date": "2019-07-29",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SGW062",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000626L",
+   "name": "佑维500增强一号",
+   "inception_date": "2020-03-26",
+   "strategy": "股票策略",
+   "register_number": "SJV499",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000063KQ",
+   "name": "佑维CTA进取二号",
+   "inception_date": "2020-04-24",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SJZ288",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006FAC",
+   "name": "佑维泓涛专享1号",
+   "inception_date": "2020-09-04",
+   "strategy": "股票策略",
+   "register_number": "SLT980",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006GCN",
+   "name": "佑维CTA进取三号",
+   "inception_date": "2020-09-16",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SLS332",
+   "ret_incep": "0.632654",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006GP5",
+   "name": "佑维CTA进取五号",
+   "inception_date": "2020-09-22",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SLY439",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006GTV",
+   "name": "佑维500增强五号",
+   "inception_date": "2020-09-22",
+   "strategy": "股票策略",
+   "register_number": "SLY647",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006IR6",
+   "name": "佑维专享二号",
+   "inception_date": "2020-10-15",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SLU558",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006ILW",
+   "name": "佑维北证50增强1号",
+   "inception_date": "2020-10-19",
+   "strategy": "股票策略",
+   "register_number": "SLN199",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006LWK",
+   "name": "佑维红橡神农专享六号",
+   "inception_date": "2020-11-20",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SLU463",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006MS3",
+   "name": "佑维500增强七号",
+   "inception_date": "2020-11-26",
+   "strategy": "股票策略",
+   "register_number": "SNJ891",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006N5D",
+   "name": "佑维全明星多策略一号",
+   "inception_date": "2020-11-27",
+   "strategy": "多资产策略",
+   "register_number": "SNJ801",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006O3N",
+   "name": "佑维500增强六号",
+   "inception_date": "2020-11-30",
+   "strategy": "股票策略",
+   "register_number": "SNE585",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006PH4",
+   "name": "佑维聚配专享一号",
+   "inception_date": "2020-12-15",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SNK009",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006Q8I",
+   "name": "佑维趋势1号",
+   "inception_date": "2020-12-18",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SNM240",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006RQM",
+   "name": "佑维FOF1号",
+   "inception_date": "2021-01-04",
+   "strategy": "组合基金",
+   "register_number": "SNK056",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006SX0",
+   "name": "佑维敬知一号",
+   "inception_date": "2021-01-14",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SNQ286",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006TRA",
+   "name": "佑维汇迪育远",
+   "inception_date": "2021-01-25",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SNV374",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006TOG",
+   "name": "佑维量化对冲1号",
+   "inception_date": "2021-01-26",
+   "strategy": "股票策略",
+   "register_number": "SNQ448",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006VI0",
+   "name": "佑维CTA进取六号",
+   "inception_date": "2021-02-02",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SNS466",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006W4V",
+   "name": "佑维500增强八号",
+   "inception_date": "2021-02-04",
+   "strategy": "股票策略",
+   "register_number": "SNS174",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006YI9",
+   "name": "佑维专享三号",
+   "inception_date": "2021-03-09",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQA311",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000071YL",
+   "name": "佑维三易CTA平衡一号",
+   "inception_date": "2021-03-15",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQA128",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000071KE",
+   "name": "佑维三易CTA进取一号",
+   "inception_date": "2021-03-15",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQA287",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000071D4",
+   "name": "佑维飒露紫专享一号",
+   "inception_date": "2021-03-16",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SNV922",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000071X2",
+   "name": "佑维CTA平衡三号",
+   "inception_date": "2021-03-19",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SNR633",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000074NV",
+   "name": "佑维专享五号",
+   "inception_date": "2021-04-15",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQG146",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000750C",
+   "name": "佑维臻享CTA平衡六号",
+   "inception_date": "2021-04-19",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQH406",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007723",
+   "name": "云生佑维专享1号",
+   "inception_date": "2021-04-30",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQA310",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007BTF",
+   "name": "佑维专享八号",
+   "inception_date": "2021-06-16",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQU862",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007M3I",
+   "name": "佑维多策略专享九号",
+   "inception_date": "2021-08-20",
+   "strategy": "多资产策略",
+   "register_number": "SSC991",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007QGV",
+   "name": "佑维CTA平衡七号",
+   "inception_date": "2021-09-22",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SSM712",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000082A9",
+   "name": "佑维基本面量化选股1号",
+   "inception_date": "2021-12-20",
+   "strategy": "股票策略",
+   "register_number": "STK400",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009HEO",
+   "name": "佑维空气指增1号B类份额",
+   "inception_date": "2021-12-28",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009HEN",
+   "name": "佑维空气指增1号A类份额",
+   "inception_date": "2021-12-28",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000083NB",
+   "name": "佑维空气指增1号",
+   "inception_date": "2021-12-28",
+   "strategy": "股票策略",
+   "register_number": "STP667",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000874P",
+   "name": "佑维链沐森崇瑫FOF",
+   "inception_date": "2022-01-25",
+   "strategy": "组合基金",
+   "register_number": "STU268",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009HEM",
+   "name": "佑维市场中性1号B类份额",
+   "inception_date": "2022-02-21",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009HEL",
+   "name": "佑维市场中性1号A类份额",
+   "inception_date": "2022-02-21",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000895Q",
+   "name": "佑维量化CTA恒岳",
+   "inception_date": "2022-02-21",
+   "strategy": "期货及衍生品策略",
+   "register_number": "STV406",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000E1PT",
+   "name": "佑维量化CTA恒岳B类份额",
+   "inception_date": "2022-02-21",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00008AD4",
+   "name": "佑维量化CTA锐峰",
+   "inception_date": "2022-03-01",
+   "strategy": "期货及衍生品策略",
+   "register_number": "STG839",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000E0ZT",
+   "name": "佑维量化CTA锐峰B类份额",
+   "inception_date": "2022-03-01",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00008Z0X",
+   "name": "佑维CTA平衡八号",
+   "inception_date": "2022-04-06",
+   "strategy": "股票策略",
+   "register_number": "SVK778",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000098WO",
+   "name": "佑维CTA平衡七号1期",
+   "inception_date": "2022-07-21",
+   "strategy": "期货及衍生品策略",
+   "register_number": "STW781",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009DB2",
+   "name": "佑维宏观对冲",
+   "inception_date": "2022-07-28",
+   "strategy": "期货及衍生品策略",
+   "register_number": "STX522",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009KA4",
+   "name": "佑维浩瀚长泽",
+   "inception_date": "2022-09-15",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SXD828",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009TX6",
+   "name": "佑维专享13号",
+   "inception_date": "2022-11-04",
+   "strategy": "多资产策略",
+   "register_number": "SXP541",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009UDP",
+   "name": "佑维贝塔专享CTA三号",
+   "inception_date": "2022-11-07",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SXQ462",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000A0GF",
+   "name": "佑维广盈量化平衡多策略一号1期",
+   "inception_date": "2022-12-29",
+   "strategy": "多资产策略",
+   "register_number": "SXW940",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000A0GE",
+   "name": "佑维广盈量化平衡多策略一号",
+   "inception_date": "2022-12-29",
+   "strategy": "多资产策略",
+   "register_number": "SXW935",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000A45Z",
+   "name": "佑维专享17号",
+   "inception_date": "2023-02-07",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SZG417",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000A8X7",
+   "name": "佑维金选CTA2号",
+   "inception_date": "2023-03-14",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SZL255",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AAWU",
+   "name": "佑维平衡多策略二号",
+   "inception_date": "2023-03-27",
+   "strategy": "多资产策略",
+   "register_number": "SZG276",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AO7H",
+   "name": "佑维稳健多策略一号",
+   "inception_date": "2023-06-08",
+   "strategy": "多资产策略",
+   "register_number": "SB1220",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B59E",
+   "name": "佑维挣多多稳健1号",
+   "inception_date": "2023-11-14",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SADK50",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B593",
+   "name": "佑维专享18号",
+   "inception_date": "2023-11-14",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SADF84",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B5R6",
+   "name": "佑维CTA进取七号",
+   "inception_date": "2023-11-16",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SNV389",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B6VC",
+   "name": "佑维专享20号",
+   "inception_date": "2023-11-29",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SZR197",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B6RV",
+   "name": "佑维CTA进取八号",
+   "inception_date": "2023-12-05",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAEC16",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B7V9",
+   "name": "佑维挣多多进取1号",
+   "inception_date": "2023-12-14",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAEU98",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B8OC",
+   "name": "佑维文睿卓选1号",
+   "inception_date": "2023-12-22",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAEK74",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BH4Q",
+   "name": "佑维商品期货指数增强1号B类份额",
+   "inception_date": "2023-12-22",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B8OB",
+   "name": "佑维专享27号",
+   "inception_date": "2023-12-22",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAEK73",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B8I2",
+   "name": "佑维商品期货指数增强1号",
+   "inception_date": "2023-12-22",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SB8628",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B8MN",
+   "name": "佑维专享21号",
+   "inception_date": "2024-01-02",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SZR198",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BDSN",
+   "name": "佑维金选CTA3号",
+   "inception_date": "2024-03-26",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAGT03",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BDSY",
+   "name": "佑维CTA平衡九号",
+   "inception_date": "2024-03-29",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAHU22",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BE0S",
+   "name": "佑维CTA平衡十号",
+   "inception_date": "2024-04-11",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAJU54",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BE3J",
+   "name": "佑维专享24号",
+   "inception_date": "2024-04-11",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SZT296",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BFAA",
+   "name": "佑维金享CTA平衡1号",
+   "inception_date": "2024-04-30",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAKC66",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BGV2",
+   "name": "佑维Prop1号",
+   "inception_date": "2024-06-06",
+   "strategy": "债券策略",
+   "register_number": "SAKY09",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BH7N",
+   "name": "佑维进取多策略一号",
+   "inception_date": "2024-06-17",
+   "strategy": "多资产策略",
+   "register_number": "SAKP71",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BL24",
+   "name": "佑维进取多策略一号2期",
+   "inception_date": "2024-06-28",
+   "strategy": "多资产策略",
+   "register_number": "SAKY10",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CFQD",
+   "name": "佑维CTA平衡精选",
+   "inception_date": "2025-04-18",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAWS47",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CRN7",
+   "name": "佑维中京一号",
+   "inception_date": "2025-09-11",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBBW87",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CSNG",
+   "name": "佑维至简一号",
+   "inception_date": "2025-09-23",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBEP11",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DVOV",
+   "name": "佑维期权多策略一号",
+   "inception_date": "2026-06-12",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SANT89",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  }
+ ]
+}

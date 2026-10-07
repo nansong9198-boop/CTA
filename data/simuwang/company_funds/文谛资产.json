@@ -1,0 +1,807 @@
+{
+ "company_id": "CO00000JLE",
+ "company_short_name": "文谛资产",
+ "n_funds": 80,
+ "funds": [
+  {
+   "fund_id": "HF00002G4R",
+   "name": "文谛量化多策略一号",
+   "inception_date": "2017-02-17",
+   "strategy": "多资产策略",
+   "register_number": "SR6766",
+   "ret_incep": "1.734061",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005B9K",
+   "name": "文谛量化优选三号",
+   "inception_date": "2019-02-13",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SEX635",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005BZC",
+   "name": "文谛量化尊享5号",
+   "inception_date": "2019-02-26",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SGD013",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005FYH",
+   "name": "文谛沪深300指数增强20号",
+   "inception_date": "2019-04-30",
+   "strategy": "股票策略",
+   "register_number": "SGM990",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005U5G",
+   "name": "文谛量化套利六号",
+   "inception_date": "2019-12-06",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SJJ977",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000063J4",
+   "name": "文谛量化宏观对冲八号",
+   "inception_date": "2020-04-23",
+   "strategy": "多资产策略",
+   "register_number": "SJX994",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000065AD",
+   "name": "文谛量化臻选九号",
+   "inception_date": "2020-05-25",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SJZ449",
+   "ret_incep": "1.43514",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000067DX",
+   "name": "文谛量化套利15号",
+   "inception_date": "2020-06-15",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SLA919",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006DRT",
+   "name": "文谛华创惠普1号",
+   "inception_date": "2020-08-24",
+   "strategy": "多资产策略",
+   "register_number": "SLQ338",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006IF2",
+   "name": "文谛量化16号",
+   "inception_date": "2020-10-09",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SLU564",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006I6R",
+   "name": "文谛量化18号",
+   "inception_date": "2020-10-13",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SLX991",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006IJ6",
+   "name": "文谛量化多策略19号",
+   "inception_date": "2020-10-19",
+   "strategy": "多资产策略",
+   "register_number": "SLX900",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006NPS",
+   "name": "文谛量化59号",
+   "inception_date": "2020-12-04",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SNJ725",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006O5J",
+   "name": "文谛光渝量化多策略1号",
+   "inception_date": "2020-12-18",
+   "strategy": "多资产策略",
+   "register_number": "SNA190",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006TMD",
+   "name": "文谛量化多策略30号",
+   "inception_date": "2021-01-20",
+   "strategy": "多资产策略",
+   "register_number": "SNC379",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006UCO",
+   "name": "文谛量化多策略33号",
+   "inception_date": "2021-01-27",
+   "strategy": "多资产策略",
+   "register_number": "SNS654",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006VMN",
+   "name": "文谛量化套利32号",
+   "inception_date": "2021-02-04",
+   "strategy": "多资产策略",
+   "register_number": "SNP466",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006YXJ",
+   "name": "文谛量化36号",
+   "inception_date": "2021-03-10",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQC192",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006YYQ",
+   "name": "文谛同耀量化1号",
+   "inception_date": "2021-03-11",
+   "strategy": "多资产策略",
+   "register_number": "SQB357",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007CK5",
+   "name": "文谛量化39号",
+   "inception_date": "2021-06-25",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQW357",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007JSK",
+   "name": "文谛同耀量化3号",
+   "inception_date": "2021-08-03",
+   "strategy": "股票策略",
+   "register_number": "SSD269",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CPZ0",
+   "name": "文谛量化多策略十号A类份额",
+   "inception_date": "2021-08-04",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "0.423",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007KC7",
+   "name": "文谛量化多策略十号",
+   "inception_date": "2021-08-04",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SJV784",
+   "ret_incep": "0.426",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007X4C",
+   "name": "文谛同耀量化6号",
+   "inception_date": "2021-11-19",
+   "strategy": "股票策略",
+   "register_number": "STD346",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007Y7W",
+   "name": "文谛同耀量化8号",
+   "inception_date": "2021-11-25",
+   "strategy": "股票策略",
+   "register_number": "STF878",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00008A5Q",
+   "name": "文谛量化35号",
+   "inception_date": "2022-03-07",
+   "strategy": "期货及衍生品策略",
+   "register_number": "STD343",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00008ALT",
+   "name": "文谛同泰1号",
+   "inception_date": "2022-03-10",
+   "strategy": "期货及衍生品策略",
+   "register_number": "STV615",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00008C41",
+   "name": "文谛同泰3号",
+   "inception_date": "2022-03-24",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SVE683",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CE7W",
+   "name": "文谛中证500成长增强1号A类份额",
+   "inception_date": "2022-05-16",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "0.550554",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000092GJ",
+   "name": "文谛中证500成长增强1号",
+   "inception_date": "2022-05-16",
+   "strategy": "股票策略",
+   "register_number": "SVN644",
+   "ret_incep": "0.554709",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DAYE",
+   "name": "文谛中证500成长增强1号B类份额",
+   "inception_date": "2022-05-16",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000093VQ",
+   "name": "文谛量化51号",
+   "inception_date": "2022-05-30",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SVM026",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009498",
+   "name": "文谛同耀量化5号",
+   "inception_date": "2022-05-30",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SVS234",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000094C8",
+   "name": "文谛量化50号",
+   "inception_date": "2022-06-02",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SVP702",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000095SX",
+   "name": "文谛量化56号",
+   "inception_date": "2022-06-20",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SVS850",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000095VR",
+   "name": "文谛量化60号",
+   "inception_date": "2022-06-21",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SVT511",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000964B",
+   "name": "文谛安泰1号",
+   "inception_date": "2022-06-21",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SVV663",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009FFT",
+   "name": "文谛润享1号",
+   "inception_date": "2022-08-17",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SXA178",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009FK6",
+   "name": "文谛量化52号",
+   "inception_date": "2022-08-18",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SXB023",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009IHW",
+   "name": "文谛卓越8159号",
+   "inception_date": "2022-09-14",
+   "strategy": "多资产策略",
+   "register_number": "SXE928",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009LZC",
+   "name": "文谛同泰5号",
+   "inception_date": "2022-10-12",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SVH527",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009WXK",
+   "name": "文谛元宝一号",
+   "inception_date": "2022-12-05",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SXW418",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000A042",
+   "name": "文谛量化53号",
+   "inception_date": "2022-12-30",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SXY495",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000A800",
+   "name": "文谛量化61号",
+   "inception_date": "2023-03-09",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SZN677",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AL7E",
+   "name": "宏源期货文谛复合进取1号",
+   "inception_date": "2023-03-31",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SZR629",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AAUC",
+   "name": "文谛量化62号",
+   "inception_date": "2023-03-31",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SZQ808",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AN90",
+   "name": "文谛专享1号量化",
+   "inception_date": "2023-06-02",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SB0003",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AO3W",
+   "name": "文谛之江量化",
+   "inception_date": "2023-06-09",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SZT213",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AYEA",
+   "name": "文谛同泰10号",
+   "inception_date": "2023-08-15",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SB9231",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AYPK",
+   "name": "文谛光信CTA1号",
+   "inception_date": "2023-08-18",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SB9385",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B13Z",
+   "name": "文谛同泰9号",
+   "inception_date": "2023-09-11",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SB7097",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B1G3",
+   "name": "文谛润享3号",
+   "inception_date": "2023-09-15",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SABA55",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B1PJ",
+   "name": "文谛同耀量化10号",
+   "inception_date": "2023-09-20",
+   "strategy": "股票策略",
+   "register_number": "SABH79",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B476",
+   "name": "文谛同泰悦享1号",
+   "inception_date": "2023-11-03",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SACZ13",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B57N",
+   "name": "文谛同泰11号",
+   "inception_date": "2023-11-15",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SABT87",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B6P4",
+   "name": "文谛同鑫量化2号",
+   "inception_date": "2023-12-06",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAEC20",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BAUN",
+   "name": "文谛同鑫量化1号",
+   "inception_date": "2024-01-19",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SADC37",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BBPG",
+   "name": "文谛量化中证1000指数增强",
+   "inception_date": "2024-02-29",
+   "strategy": "股票策略",
+   "register_number": "SAHC98",
+   "ret_incep": "0.728495",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BBPI",
+   "name": "文谛同耀量化12号",
+   "inception_date": "2024-02-29",
+   "strategy": "股票策略",
+   "register_number": "SAHE42",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BDT9",
+   "name": "文谛同泰悦享2号",
+   "inception_date": "2024-04-09",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAJG58",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BF8I",
+   "name": "文谛量化58号",
+   "inception_date": "2024-04-19",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAJT40",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BFQT",
+   "name": "文谛同耀量化13号",
+   "inception_date": "2024-05-13",
+   "strategy": "股票策略",
+   "register_number": "SAKK66",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CH7L",
+   "name": "文谛同泰12号",
+   "inception_date": "2025-05-13",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SADJ07",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DRZR",
+   "name": "文谛量化中证1000指数增强A类份额",
+   "inception_date": "2025-05-19",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "0.375119",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CHY5",
+   "name": "文谛量化69号",
+   "inception_date": "2025-05-23",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAXP46",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CI21",
+   "name": "文谛量化股票中性1号",
+   "inception_date": "2025-05-26",
+   "strategy": "股票策略",
+   "register_number": "SAYD94",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CLQF",
+   "name": "文谛量化CTA1号",
+   "inception_date": "2025-07-15",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBAB72",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CN4L",
+   "name": "文谛量化中证1000指数增强2号",
+   "inception_date": "2025-08-01",
+   "strategy": "股票策略",
+   "register_number": "SBAV86",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CNKW",
+   "name": "文谛量化63号",
+   "inception_date": "2025-08-06",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBCT82",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CNRB",
+   "name": "文谛量化65号",
+   "inception_date": "2025-08-08",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBBT58",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CRCR",
+   "name": "文谛锐泰量化CTA1号",
+   "inception_date": "2025-09-04",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBEL80",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DB2Y",
+   "name": "文谛量化67号",
+   "inception_date": "2025-11-07",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBFG78",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DB3M",
+   "name": "文谛量化55号",
+   "inception_date": "2025-11-10",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBHW08",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DCF9",
+   "name": "文谛同泰悦享3号",
+   "inception_date": "2025-11-21",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBKB85",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DCA2",
+   "name": "文谛量化汇富1号",
+   "inception_date": "2025-11-21",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBKJ96",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DEA9",
+   "name": "文谛量化CTA11号",
+   "inception_date": "2025-12-16",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBBW01",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DDHL",
+   "name": "文谛量化泰选1号",
+   "inception_date": "2025-12-17",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBFF99",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DEEH",
+   "name": "文谛同泰13号",
+   "inception_date": "2025-12-22",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBAX40",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DUZC",
+   "name": "文谛量化多策略2号",
+   "inception_date": "2026-06-12",
+   "strategy": "多资产策略",
+   "register_number": "SAMQ71",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000E5GO",
+   "name": "文谛量化66号",
+   "inception_date": "2026-09-10",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SEJ069",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  }
+ ]
+}

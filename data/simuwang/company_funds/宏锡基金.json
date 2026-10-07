@@ -1,0 +1,1227 @@
+{
+ "company_id": "CO000008OL",
+ "company_short_name": "宏锡基金",
+ "n_funds": 122,
+ "funds": [
+  {
+   "fund_id": "HF0000E6PX",
+   "name": "宏锡截面量化CTA3号A类份额",
+   "inception_date": "",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00001GXR",
+   "name": "宏锡量化2号",
+   "inception_date": "2016-05-06",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SJ0437",
+   "ret_incep": "2.992587",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000029MY",
+   "name": "宏锡量化CTA3号",
+   "inception_date": "2016-11-30",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SN1932",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000E6IQ",
+   "name": "宏锡量化CTA3号A类份额",
+   "inception_date": "2016-11-30",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00002EBO",
+   "name": "宏锡量化CTA6号",
+   "inception_date": "2017-01-10",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SM6940",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00002G7U",
+   "name": "宏锡量化CTA7号",
+   "inception_date": "2017-02-17",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SN3221",
+   "ret_incep": "2.76491",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00003LMV",
+   "name": "宏锡量化CTA5号",
+   "inception_date": "2017-06-23",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SM6938",
+   "ret_incep": "1.425574",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00003V8D",
+   "name": "宏锡量化CTA8号",
+   "inception_date": "2017-07-28",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SR1326",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000049SY",
+   "name": "宏锡泰壹量化CTA",
+   "inception_date": "2017-12-12",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SX6887",
+   "ret_incep": "2.258467",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00004EL9",
+   "name": "宏锡PH量化1号",
+   "inception_date": "2018-01-22",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SY8464",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00004G0T",
+   "name": "宏锡量化CTA20号",
+   "inception_date": "2018-01-29",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SCG281",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00004HEU",
+   "name": "宏锡量化CTA16号",
+   "inception_date": "2018-03-05",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SX6882",
+   "ret_incep": "1.68212",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00004NN1",
+   "name": "宏锡金成量化CTA22号",
+   "inception_date": "2018-05-17",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SCV703",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00004PIQ",
+   "name": "宏锡量化CTA19号",
+   "inception_date": "2018-06-01",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SCY867",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00004V1F",
+   "name": "宏锡量化CTA18号",
+   "inception_date": "2018-07-20",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SCY848",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00004XTV",
+   "name": "宏锡量化CTA28号",
+   "inception_date": "2018-08-07",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SED622",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000052KU",
+   "name": "金禾宏锡量化CTA一号",
+   "inception_date": "2018-11-05",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SEQ672",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005CW7",
+   "name": "宏锡量化30号",
+   "inception_date": "2019-03-19",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SGF715",
+   "ret_incep": "4.267712",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005G3W",
+   "name": "宏锡量化CTA27号",
+   "inception_date": "2019-04-29",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SGD747",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005K64",
+   "name": "宏锡粤晖量化CTA29号",
+   "inception_date": "2019-07-03",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SGU676",
+   "ret_incep": "2.802966",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005KPF",
+   "name": "宏锡新世纪量化CTA1号",
+   "inception_date": "2019-07-04",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SGR222",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000060EV",
+   "name": "宏锡量化CTA32号",
+   "inception_date": "2020-03-11",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SJQ473",
+   "ret_incep": "5.228264",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000061O1",
+   "name": "启泰宏锡量化CTA1号",
+   "inception_date": "2020-03-24",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SJU752",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000061O2",
+   "name": "启泰宏锡量化CTA2号",
+   "inception_date": "2020-03-24",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SJU754",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000061NI",
+   "name": "宏锡创盈量化CTA33号",
+   "inception_date": "2020-03-25",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SJT159",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006389",
+   "name": "宏锡量化CTA36号",
+   "inception_date": "2020-04-20",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SJY197",
+   "ret_incep": "3.209351",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000064Q2",
+   "name": "宏锡量化CTA35号",
+   "inception_date": "2020-05-18",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SJV373",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000067GK",
+   "name": "宏锡量化CTA30号三期",
+   "inception_date": "2020-06-16",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SLD672",
+   "ret_incep": "2.495652",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006AM4",
+   "name": "宏锡量化CTA29号二期",
+   "inception_date": "2020-07-22",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SLK574",
+   "ret_incep": "1.488941",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006ALA",
+   "name": "宏锡期赢量化CTA38号",
+   "inception_date": "2020-07-23",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SLF622",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006B39",
+   "name": "宏锡北滘量化CTA39号",
+   "inception_date": "2020-07-28",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SLJ839",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006BEI",
+   "name": "宏锡创盈量化CTA30号五期",
+   "inception_date": "2020-07-30",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SLF619",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006BQ3",
+   "name": "宏锡瑞锋量化CTA",
+   "inception_date": "2020-08-03",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SLB362",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006CCM",
+   "name": "宏锡量化CTA52号",
+   "inception_date": "2020-08-11",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SLQ284",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006E93",
+   "name": "宏锡量化CTA30号六期",
+   "inception_date": "2020-08-31",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SLM880",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006EIP",
+   "name": "宏锡若水量化CTA19号",
+   "inception_date": "2020-09-01",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SLT880",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006EFK",
+   "name": "宏锡若水量化CTA18号",
+   "inception_date": "2020-09-01",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SLT869",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006MJP",
+   "name": "宏锡沧海量化CTA1号",
+   "inception_date": "2020-11-27",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SNG849",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006PQU",
+   "name": "宏锡量化CTA56号",
+   "inception_date": "2020-12-23",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SNN533",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006RZF",
+   "name": "宏锡天明量化CTA1号",
+   "inception_date": "2021-01-06",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SNQ500",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006RYA",
+   "name": "宏锡量化CTA53号",
+   "inception_date": "2021-01-07",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SNL950",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006S6I",
+   "name": "宏锡量化CTA59号",
+   "inception_date": "2021-01-07",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SNR754",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006S5W",
+   "name": "宏锡量化CTA55号",
+   "inception_date": "2021-01-11",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SNQ130",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006SR1",
+   "name": "宏锡沧海量化CTA2号",
+   "inception_date": "2021-01-18",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SNN537",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006VFV",
+   "name": "宏锡健浩量化CTA",
+   "inception_date": "2021-02-02",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SLD838",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006VAY",
+   "name": "宏锡量化CTA29号三期",
+   "inception_date": "2021-02-02",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SNU701",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006YID",
+   "name": "宏锡天明量化CTA2号",
+   "inception_date": "2021-03-02",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQA545",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006XZN",
+   "name": "宏锡量化CTA进取型A期",
+   "inception_date": "2021-03-03",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQA336",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000071F9",
+   "name": "如意共享系列之宏锡量化CTA29号",
+   "inception_date": "2021-03-15",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQD474",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000071EV",
+   "name": "宏锡截面量化CTA2号",
+   "inception_date": "2021-03-16",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQC657",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000071N3",
+   "name": "宏锡量化51号",
+   "inception_date": "2021-03-19",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQE868",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000071PE",
+   "name": "启泰宏锡量化CTA3号",
+   "inception_date": "2021-03-19",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQC246",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000071PF",
+   "name": "启泰宏锡量化CTA5号",
+   "inception_date": "2021-03-19",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQC298",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007201",
+   "name": "宏锡量化CTA29号六期",
+   "inception_date": "2021-03-22",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQD657",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000072BF",
+   "name": "宏锡量化CTA29号五期",
+   "inception_date": "2021-03-24",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQE785",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000072K9",
+   "name": "宏锡恒享量化CTA1号",
+   "inception_date": "2021-03-26",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQD225",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000072V4",
+   "name": "宏锡恒升量化CTA1号",
+   "inception_date": "2021-03-26",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQE104",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000072JW",
+   "name": "宏锡量化CTA进取型B期",
+   "inception_date": "2021-03-26",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQC660",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006YXT",
+   "name": "宏锡量化CTA30号十期",
+   "inception_date": "2021-03-30",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQE891",
+   "ret_incep": "1.302908",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000072UT",
+   "name": "宏锡量化CTA30号八期",
+   "inception_date": "2021-03-30",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQD500",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000073A1",
+   "name": "宏锡量化CTA63号",
+   "inception_date": "2021-04-06",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQF345",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000073SF",
+   "name": "宏锡恒享量化CTA2号",
+   "inception_date": "2021-04-08",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQH297",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000742K",
+   "name": "宏锡量化CTA50号",
+   "inception_date": "2021-04-13",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SLR701",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000074I4",
+   "name": "宏锡量化CTA30号七期",
+   "inception_date": "2021-04-16",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQD049",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000076DV",
+   "name": "宏锡量化65号",
+   "inception_date": "2021-04-28",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQG457",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000077UP",
+   "name": "宏锡量化进取型CTA六号",
+   "inception_date": "2021-05-14",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQG029",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000076TU",
+   "name": "宏锡量化CTA7号二期",
+   "inception_date": "2021-05-25",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQP622",
+   "ret_incep": "0.586027",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000079V0",
+   "name": "宏锡量化CTA68号",
+   "inception_date": "2021-06-03",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQS076",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007AH6",
+   "name": "如意共享系列之宏锡量化CTA7号五期",
+   "inception_date": "2021-06-08",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQR917",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007AY3",
+   "name": "宏锡稳健1号",
+   "inception_date": "2021-06-10",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQL886",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007CLQ",
+   "name": "宏锡量化75号",
+   "inception_date": "2021-06-28",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQT352",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007EOJ",
+   "name": "宏锡量化CTA7号七期",
+   "inception_date": "2021-07-08",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQZ279",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007FO2",
+   "name": "宏锡量化71号",
+   "inception_date": "2021-07-15",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SSB869",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007NMM",
+   "name": "宏锡截面量化CTA1号",
+   "inception_date": "2021-08-30",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQY113",
+   "ret_incep": "0.8396",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007PYE",
+   "name": "宏锡信长量化CTA",
+   "inception_date": "2021-09-22",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQZ294",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009778",
+   "name": "宏锡量化CTA平衡型A期",
+   "inception_date": "2022-07-05",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SVY212",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009DQO",
+   "name": "宏锡量化CTA88号",
+   "inception_date": "2022-08-09",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SXA984",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009FJL",
+   "name": "宏锡量化CTA628同欣1号",
+   "inception_date": "2022-08-19",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SVZ372",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009G62",
+   "name": "宏锡易牛旺1号量化CTA",
+   "inception_date": "2022-08-25",
+   "strategy": "期货及衍生品策略",
+   "register_number": "STZ636",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000A0Q6",
+   "name": "宏锡量化CTA78号",
+   "inception_date": "2023-01-09",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SXU398",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000A7A0",
+   "name": "宏锡量化CTA7号六期",
+   "inception_date": "2023-03-03",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SXY247",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B0GK",
+   "name": "宏锡宏广成长1号",
+   "inception_date": "2023-09-04",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SB6125",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B419",
+   "name": "宏锡钻选CTA1号",
+   "inception_date": "2023-10-31",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SB6939",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B5RD",
+   "name": "宏锡香山量化CTA",
+   "inception_date": "2023-11-22",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SZD022",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BIKI",
+   "name": "宏锡商品期货指数增强1号B类份额",
+   "inception_date": "2023-12-18",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "0.5932",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B7CP",
+   "name": "宏锡商品期货指数增强1号",
+   "inception_date": "2023-12-18",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAEF12",
+   "ret_incep": "0.5969",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BN1R",
+   "name": "宏锡商品期货指数增强1号A类份额",
+   "inception_date": "2023-12-18",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B7Y1",
+   "name": "宏锡商品期货指数增强A期",
+   "inception_date": "2023-12-19",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAEF11",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BCP9",
+   "name": "宏锡信享量化CTA1号",
+   "inception_date": "2024-03-22",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAHE55",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BGWZ",
+   "name": "宏锡量化CTA80号",
+   "inception_date": "2024-06-06",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAJS37",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000C6KP",
+   "name": "宏锡粤钧量化78号",
+   "inception_date": "2024-11-14",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAQR86",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CDDY",
+   "name": "宏锡量化CTA81号",
+   "inception_date": "2025-03-18",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SATF64",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CFGN",
+   "name": "宏锡截面量化CTA1号A类份额",
+   "inception_date": "2025-03-28",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "0.8286",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CF68",
+   "name": "宏锡量化CTA82号",
+   "inception_date": "2025-04-10",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAXD75",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CHU6",
+   "name": "宏锡量化CTA7号九期",
+   "inception_date": "2025-05-22",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAUU02",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CIJ2",
+   "name": "宏锡量化85号",
+   "inception_date": "2025-05-30",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAYU13",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CION",
+   "name": "宏锡量化87号",
+   "inception_date": "2025-06-04",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAZK97",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CJSC",
+   "name": "宏锡HT量化CTA1号",
+   "inception_date": "2025-06-19",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAZV08",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CLJH",
+   "name": "宏锡量化CTA83号",
+   "inception_date": "2025-07-11",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBBA74",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DJCY",
+   "name": "宏锡量化期权1号A类份额",
+   "inception_date": "2025-07-31",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "0.1798",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CN0Y",
+   "name": "宏锡量化期权1号",
+   "inception_date": "2025-07-31",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBCA56",
+   "ret_incep": "0.1816",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DK7Q",
+   "name": "宏锡量化期权1号C类份额",
+   "inception_date": "2025-07-31",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DC61",
+   "name": "宏锡金享量化CTA1号",
+   "inception_date": "2025-11-24",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBKH14",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DBZO",
+   "name": "宏锡CTA方享1号",
+   "inception_date": "2025-11-25",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAZT82",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DCUG",
+   "name": "宏锡信享量化CTA2号",
+   "inception_date": "2025-12-04",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBKK79",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DEPB",
+   "name": "宏锡信长量化CTA2号",
+   "inception_date": "2025-12-17",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBKK77",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DEG7",
+   "name": "宏锡量化多策略1号",
+   "inception_date": "2025-12-29",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBMT21",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000E6PV",
+   "name": "宏锡量化多策略1号A类份额",
+   "inception_date": "2025-12-29",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DI8B",
+   "name": "宏锡量化CTA7号十期",
+   "inception_date": "2026-01-26",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBLU64",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DHP9",
+   "name": "宏锡量化多策略2号",
+   "inception_date": "2026-01-26",
+   "strategy": "多资产策略",
+   "register_number": "SBPH82",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DI33",
+   "name": "宏锡春晓量化CTA7号十一期",
+   "inception_date": "2026-01-26",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBNX40",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DJD0",
+   "name": "宏锡量化期权2号A类份额",
+   "inception_date": "2026-03-13",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "0.0285",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DJCZ",
+   "name": "宏锡量化期权2号",
+   "inception_date": "2026-03-13",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBRB80",
+   "ret_incep": "0.0297",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DTJS",
+   "name": "宏锡商品期货指数增强2号",
+   "inception_date": "2026-06-01",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAHT24",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DTDS",
+   "name": "宏锡多资产配置2号A类份额",
+   "inception_date": "2026-06-29",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DTDR",
+   "name": "宏锡多资产配置2号",
+   "inception_date": "2026-06-29",
+   "strategy": "多资产策略",
+   "register_number": "SAXW96",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000E0UD",
+   "name": "宏锡金选CTA1号",
+   "inception_date": "2026-08-04",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBJR78",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000E19B",
+   "name": "宏锡商品期货指数增强3号",
+   "inception_date": "2026-08-07",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SCX860",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000E4VG",
+   "name": "宏锡量化CTA89号",
+   "inception_date": "2026-09-07",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SEM837",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000E4UE",
+   "name": "宏锡多资产配置3号",
+   "inception_date": "2026-09-07",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SCF476",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000E52G",
+   "name": "宏锡金选CTA2号",
+   "inception_date": "2026-09-08",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SEM355",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000E6PW",
+   "name": "宏锡截面量化CTA3号",
+   "inception_date": "2026-09-21",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SEH798",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  }
+ ]
+}

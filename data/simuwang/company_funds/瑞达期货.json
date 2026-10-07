@@ -1,0 +1,837 @@
+{
+ "company_id": "CO000000U1",
+ "company_short_name": "瑞达期货",
+ "n_funds": 83,
+ "funds": [
+  {
+   "fund_id": "HF00000XR3",
+   "name": "瑞达期货-瑞智无忧共赢1号",
+   "inception_date": "2015-03-17",
+   "strategy": "期货及衍生品策略",
+   "register_number": "S24201",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000013GY",
+   "name": "瑞达期货-瑞智进取共赢1号",
+   "inception_date": "2015-04-21",
+   "strategy": "期货及衍生品策略",
+   "register_number": "S30047",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000022SN",
+   "name": "瑞达期货-进取优化1号",
+   "inception_date": "2016-09-08",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SL8125",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000045C8",
+   "name": "瑞达期货-黑金稳健1号",
+   "inception_date": "2017-11-14",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SX5272",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000050H0",
+   "name": "瑞达期货-冠优股指",
+   "inception_date": "2018-05-31",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SCP192",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005BRD",
+   "name": "瑞达期货-瑞智无忧共赢7号",
+   "inception_date": "2019-01-31",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SEQ456",
+   "ret_incep": "2.625068",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005EYB",
+   "name": "瑞达期货-瑞智无忧共赢9号",
+   "inception_date": "2019-04-18",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SGA425",
+   "ret_incep": "2.110162",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000060OU",
+   "name": "瑞达期货-瑞智无忧99号单一",
+   "inception_date": "2019-04-24",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SGK333",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005ICR",
+   "name": "瑞达期货-冠优股指2号",
+   "inception_date": "2019-06-11",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SGH884",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005PIB",
+   "name": "瑞达期货-瑞智进取共赢3号",
+   "inception_date": "2019-09-26",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SGX719",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005TYR",
+   "name": "瑞达期货-瑞智无忧共赢10号",
+   "inception_date": "2019-12-11",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SJF946",
+   "ret_incep": "1.934399",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005Y12",
+   "name": "瑞达期货-瑞智进取共赢5号",
+   "inception_date": "2020-01-20",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SJK472",
+   "ret_incep": "1.142101",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000062WV",
+   "name": "瑞达期货-瑞智无忧共赢12号",
+   "inception_date": "2020-04-14",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SJV706",
+   "ret_incep": "1.121241",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006468",
+   "name": "瑞达期货-瑞智无忧共赢13号",
+   "inception_date": "2020-05-08",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SJW108",
+   "ret_incep": "1.167739",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000666G",
+   "name": "瑞达期货-瑞智无忧共赢16号",
+   "inception_date": "2020-06-09",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SJW348",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000069O9",
+   "name": "瑞达期货-瑞智进取共赢8号",
+   "inception_date": "2020-07-17",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SLJ910",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006B6L",
+   "name": "瑞达期货-瑞智无忧共赢19号",
+   "inception_date": "2020-07-29",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SJZ372",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006C0T",
+   "name": "瑞达期货-瑞智无忧123号",
+   "inception_date": "2020-08-11",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SLM559",
+   "ret_incep": "0.86642",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006CTN",
+   "name": "瑞达期货-瑞智无忧共赢20号",
+   "inception_date": "2020-08-19",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SLM829",
+   "ret_incep": "0.767718",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006E4G",
+   "name": "瑞达期货瑞智无忧共赢15号",
+   "inception_date": "2020-09-01",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SJW320",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006GQ8",
+   "name": "瑞达期货-瑞智无忧共赢27号",
+   "inception_date": "2020-09-25",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SLV283",
+   "ret_incep": "0.814099",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006GQ9",
+   "name": "瑞达期货-瑞智无忧共赢25号",
+   "inception_date": "2020-09-25",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SLS938",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006L82",
+   "name": "瑞达期货-瑞智无忧共赢33号",
+   "inception_date": "2020-11-20",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SNE142",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006X3D",
+   "name": "瑞达期货-瑞智无忧共赢60号",
+   "inception_date": "2021-03-01",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SNY200",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007A3V",
+   "name": "瑞达期货-瑞智无忧共赢65号",
+   "inception_date": "2021-06-08",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQQ708",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007BPH",
+   "name": "瑞达期货-瑞智无忧共赢78号",
+   "inception_date": "2021-06-23",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQS756",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007CTE",
+   "name": "瑞达期货-瑞智无忧共赢61号",
+   "inception_date": "2021-07-01",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQE429",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007IZ8",
+   "name": "瑞达期货-瑞智进取共赢10号",
+   "inception_date": "2021-08-03",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQZ496",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007NT2",
+   "name": "瑞达期货-庆瑞无忧1号",
+   "inception_date": "2021-09-01",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQW987",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007WJL",
+   "name": "瑞达期货联盟无忧2号FOF",
+   "inception_date": "2021-11-15",
+   "strategy": "组合基金",
+   "register_number": "STA014",
+   "ret_incep": "0.460291",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007Y01",
+   "name": "瑞达期货-瑞智进取共赢12号",
+   "inception_date": "2021-11-25",
+   "strategy": "期货及衍生品策略",
+   "register_number": "STD933",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000080R1",
+   "name": "瑞达期货-瑞福致远1号",
+   "inception_date": "2021-12-14",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SSB725",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000084JU",
+   "name": "瑞达期货-瑞智进取共赢11号",
+   "inception_date": "2022-01-11",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SSU376",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000086PT",
+   "name": "瑞达期货-天赢无忧",
+   "inception_date": "2022-01-26",
+   "strategy": "期货及衍生品策略",
+   "register_number": "STR214",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000090BW",
+   "name": "瑞达期货冠优股指-迪智有容1号",
+   "inception_date": "2022-04-22",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SVJ187",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000923Q",
+   "name": "瑞达期货-灯塔领航1号",
+   "inception_date": "2022-05-11",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SVP220",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000093UC",
+   "name": "瑞达期货-瑞智无忧共赢81号",
+   "inception_date": "2022-06-01",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SVS488",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000094F0",
+   "name": "瑞达期货-玉持盈",
+   "inception_date": "2022-06-08",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SVQ994",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000094Y3",
+   "name": "瑞达期货-灯塔领航2号",
+   "inception_date": "2022-06-14",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SVQ601",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009HBJ",
+   "name": "瑞达期货-灯塔共赢6号",
+   "inception_date": "2022-09-01",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SVS697",
+   "ret_incep": "0.571394",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009KYE",
+   "name": "瑞达期货-宏观量化择时1号",
+   "inception_date": "2022-09-28",
+   "strategy": "多资产策略",
+   "register_number": "SXK021",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009L4T",
+   "name": "瑞达期货-瑞智无忧共赢82号",
+   "inception_date": "2022-09-29",
+   "strategy": "期货及衍生品策略",
+   "register_number": "STZ681",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009TIC",
+   "name": "瑞达期货-玉持盈3号",
+   "inception_date": "2022-11-07",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SXM799",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000A0ZE",
+   "name": "瑞达期货-万利2号FOF",
+   "inception_date": "2022-12-28",
+   "strategy": "组合基金",
+   "register_number": "SXD623",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000A3NP",
+   "name": "瑞达期货-烁石1号",
+   "inception_date": "2023-02-01",
+   "strategy": "债券策略",
+   "register_number": "SXV440",
+   "ret_incep": "0.280364",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AVQQ",
+   "name": "瑞达期货-玉持盈6号",
+   "inception_date": "2023-05-15",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SZV236",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000ANHR",
+   "name": "瑞达期货-瑞泰2号",
+   "inception_date": "2023-06-01",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SGB348",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AW06",
+   "name": "瑞达期货-厦信灯塔",
+   "inception_date": "2023-06-20",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SZD361",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AYJ8",
+   "name": "瑞达期货-瑞智无忧共赢85号",
+   "inception_date": "2023-08-02",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SB3012",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B7WN",
+   "name": "瑞达期货-瑞雪1号集合资产管理计划",
+   "inception_date": "2023-12-07",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAED93",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BB28",
+   "name": "瑞达期货-钧石2号固收",
+   "inception_date": "2024-02-06",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAFP40",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BFRB",
+   "name": "瑞达期货-瑞智无忧共赢87号",
+   "inception_date": "2024-05-09",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SB3015",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BGSG",
+   "name": "瑞达期货-英瑞无忧共赢",
+   "inception_date": "2024-05-27",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAJZ13",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BK8R",
+   "name": "瑞达期货-无忧65精选1号",
+   "inception_date": "2024-08-09",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAMZ14",
+   "ret_incep": "0.550687",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000C8RL",
+   "name": "瑞达期货-同顺瑞达1号",
+   "inception_date": "2024-11-26",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAPC09",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000C7KA",
+   "name": "瑞达期货-文越无忧共赢",
+   "inception_date": "2024-11-26",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAQU13",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CB52",
+   "name": "瑞达期货-无忧65精选2号",
+   "inception_date": "2025-01-23",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SARQ23",
+   "ret_incep": "0.425244",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CCPT",
+   "name": "瑞达期货-瑞创对冲1号",
+   "inception_date": "2025-02-24",
+   "strategy": "股票策略",
+   "register_number": "SALP92",
+   "ret_incep": "0.287316",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CCWO",
+   "name": "瑞达期货-瑞智无忧共赢166号",
+   "inception_date": "2025-03-03",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SATX62",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CDIE",
+   "name": "瑞达期货-新瑞磐石1号FOF",
+   "inception_date": "2025-03-05",
+   "strategy": "组合基金",
+   "register_number": "SAUE76",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CDEV",
+   "name": "瑞达期货-瑞智无忧共赢165号",
+   "inception_date": "2025-03-14",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAUW43",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CGZN",
+   "name": "瑞达期货-瑞智无忧共赢167号",
+   "inception_date": "2025-05-06",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAXX37",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CIOY",
+   "name": "瑞达期货-同享收益3号",
+   "inception_date": "2025-05-30",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAYE53",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CJ5B",
+   "name": "瑞达期货-上合智选FOF",
+   "inception_date": "2025-06-04",
+   "strategy": "组合基金",
+   "register_number": "SAWY89",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CJDS",
+   "name": "瑞达期货-和光同尘1号",
+   "inception_date": "2025-06-10",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAYJ58",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CQ1J",
+   "name": "瑞达期货-鹏达无忧",
+   "inception_date": "2025-08-25",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBDC58",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CQVC",
+   "name": "瑞达期货-同顺瑞达2号",
+   "inception_date": "2025-09-05",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBAT18",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DBYL",
+   "name": "瑞达期货-同享收益10号",
+   "inception_date": "2025-11-25",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBJQ48",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DDF1",
+   "name": "瑞达期货-瑞智无忧共赢88号",
+   "inception_date": "2025-12-10",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SB3382",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DFO0",
+   "name": "瑞达期货-瑞雪2号",
+   "inception_date": "2026-01-12",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAFH52",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DGKY",
+   "name": "瑞达期货-恒盈无忧",
+   "inception_date": "2026-01-22",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBJE21",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DH17",
+   "name": "瑞达期货-上合浔源1号FOF",
+   "inception_date": "2026-01-23",
+   "strategy": "组合基金",
+   "register_number": "SBPT56",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DL2I",
+   "name": "瑞达期货-冠优专享2号",
+   "inception_date": "2026-03-16",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBSM91",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DPI3",
+   "name": "瑞达期货-徽享无忧1号FOF",
+   "inception_date": "2026-04-21",
+   "strategy": "组合基金",
+   "register_number": "SBTK49",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DQ0D",
+   "name": "瑞达期货-瑞智无忧共赢127号",
+   "inception_date": "2026-04-28",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBSQ82",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DRSG",
+   "name": "瑞达期货-金品无忧",
+   "inception_date": "2026-05-15",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SACL09",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DS5W",
+   "name": "瑞达期货-智选增强68号FOF",
+   "inception_date": "2026-05-26",
+   "strategy": "组合基金",
+   "register_number": "SAKW45",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DU1B",
+   "name": "瑞达期货-瑞选荟精选FOF",
+   "inception_date": "2026-06-08",
+   "strategy": "组合基金",
+   "register_number": "SAMW88",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DX2I",
+   "name": "瑞达期货-优选配置FOF",
+   "inception_date": "2026-07-03",
+   "strategy": "组合基金",
+   "register_number": "SAUX36",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DX2F",
+   "name": "瑞达期货-瑞智无忧共赢169号",
+   "inception_date": "2026-07-06",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBEF99",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DY09",
+   "name": "瑞达期货-烁石3号",
+   "inception_date": "2026-07-13",
+   "strategy": "债券策略",
+   "register_number": "SBWH76",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DYT2",
+   "name": "瑞达期货-尚贤稳健1号FOF",
+   "inception_date": "2026-07-16",
+   "strategy": "组合基金",
+   "register_number": "SB1259",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000E5I4",
+   "name": "瑞达期货-瑞达康成1号FOF",
+   "inception_date": "2026-09-08",
+   "strategy": "组合基金",
+   "register_number": "SBDD10",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  }
+ ]
+}

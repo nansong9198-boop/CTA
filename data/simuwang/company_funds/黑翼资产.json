@@ -1,0 +1,827 @@
+{
+ "company_id": "CO000001HQ",
+ "company_short_name": "黑翼资产",
+ "n_funds": 82,
+ "funds": [
+  {
+   "fund_id": "HF000017G4",
+   "name": "黑翼CTA二号",
+   "inception_date": "2015-11-13",
+   "strategy": "期货及衍生品策略",
+   "register_number": "S83544",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000574K",
+   "name": "银河期货黑翼多策略对冲1号",
+   "inception_date": "2016-03-21",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00001FJW",
+   "name": "黑翼CTA三号",
+   "inception_date": "2016-04-11",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SD8726",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00001IVP",
+   "name": "黑翼CTA五号A",
+   "inception_date": "2016-05-31",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SK1176",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B4WV",
+   "name": "黑翼风行2号B类份额",
+   "inception_date": "2017-05-31",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00003YPP",
+   "name": "黑翼CTA-S1",
+   "inception_date": "2017-08-10",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SW4663",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B2SS",
+   "name": "黑翼风行三号沪深300指数增强投资C类份额",
+   "inception_date": "2017-12-26",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "0.598858",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00004BS8",
+   "name": "黑翼风行三号沪深300指数增强投资",
+   "inception_date": "2017-12-26",
+   "strategy": "股票策略",
+   "register_number": "SY8885",
+   "ret_incep": "1.4096",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000502U",
+   "name": "黑翼中证500指数增强1号",
+   "inception_date": "2018-09-21",
+   "strategy": "股票策略",
+   "register_number": "SEM323",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000051UR",
+   "name": "黑翼CTA8号",
+   "inception_date": "2018-10-17",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SEM387",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005ETV",
+   "name": "黑翼CTA-S3",
+   "inception_date": "2019-04-04",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SGG127",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005FE1",
+   "name": "黑翼策略精选1号",
+   "inception_date": "2019-04-23",
+   "strategy": "多资产策略",
+   "register_number": "SGM050",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B7EJ",
+   "name": "黑翼市场中性3号C类份额",
+   "inception_date": "2019-06-17",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005MM4",
+   "name": "黑翼策略精选2号",
+   "inception_date": "2019-08-12",
+   "strategy": "多资产策略",
+   "register_number": "SGX821",
+   "ret_incep": "1.9526",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005QN7",
+   "name": "黑翼优驰一号",
+   "inception_date": "2019-10-28",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SGR426",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005YOR",
+   "name": "黑翼臻选1号A",
+   "inception_date": "2020-02-10",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SJR333",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005Z0W",
+   "name": "黑翼臻选1号",
+   "inception_date": "2020-02-14",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SJR316",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000062Z4",
+   "name": "黑翼CTA-T2",
+   "inception_date": "2020-04-15",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SJQ603",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006A4J",
+   "name": "黑翼金选多策略1号",
+   "inception_date": "2020-07-22",
+   "strategy": "多资产策略",
+   "register_number": "SLG038",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006C7W",
+   "name": "黑翼恒享CTA-T8号",
+   "inception_date": "2020-08-12",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SLE071",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000079ZP",
+   "name": "黑翼优选多策略1号A类份额",
+   "inception_date": "2020-08-20",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "1.0965",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CB26",
+   "name": "黑翼优选多策略1号B类份额",
+   "inception_date": "2020-08-20",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006D09",
+   "name": "黑翼优选多策略1号",
+   "inception_date": "2020-08-20",
+   "strategy": "多资产策略",
+   "register_number": "SLL205",
+   "ret_incep": "1.0965",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006CKE",
+   "name": "黑翼策略精选6号",
+   "inception_date": "2020-09-08",
+   "strategy": "多资产策略",
+   "register_number": "SLQ755",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006HTG",
+   "name": "黑翼CTA1号",
+   "inception_date": "2020-10-14",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SLZ092",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006ILT",
+   "name": "黑翼CTA二十五号",
+   "inception_date": "2020-10-23",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SLG163",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006W8A",
+   "name": "黑翼优选多策略3号A类份额",
+   "inception_date": "2021-01-14",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "0.823",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007DGH",
+   "name": "黑翼优选多策略3号B类份额",
+   "inception_date": "2021-01-14",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "0.882",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006S4R",
+   "name": "黑翼优选多策略3号",
+   "inception_date": "2021-01-14",
+   "strategy": "多资产策略",
+   "register_number": "SNJ611",
+   "ret_incep": "0.902",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000072TG",
+   "name": "黑翼量化成长1号B类份额",
+   "inception_date": "2021-01-21",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "1.724",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BIU2",
+   "name": "黑翼量化成长1号A类份额",
+   "inception_date": "2021-01-21",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "1.447",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006STF",
+   "name": "黑翼量化成长1号",
+   "inception_date": "2021-01-21",
+   "strategy": "股票策略",
+   "register_number": "SNT524",
+   "ret_incep": "1.49",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007HBN",
+   "name": "黑翼CTA-T20B类份额",
+   "inception_date": "2021-01-29",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006TVM",
+   "name": "黑翼CTA-T20",
+   "inception_date": "2021-01-29",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SNT651",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000073FK",
+   "name": "黑翼海银专享优选多策略1号",
+   "inception_date": "2021-04-02",
+   "strategy": "多资产策略",
+   "register_number": "SNP692",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000772O",
+   "name": "黑翼申选中性多策略1号",
+   "inception_date": "2021-05-11",
+   "strategy": "多资产策略",
+   "register_number": "SQG591",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000078CY",
+   "name": "黑翼嘉享优选多策略1号",
+   "inception_date": "2021-05-21",
+   "strategy": "多资产策略",
+   "register_number": "SNV908",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000099OH",
+   "name": "黑翼中证1000指数增强1号B类份额",
+   "inception_date": "2021-05-26",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "0.935",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000099OI",
+   "name": "黑翼中证1000指数增强1号A类份额",
+   "inception_date": "2021-05-26",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "0.199",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000078PH",
+   "name": "黑翼中证1000指数增强1号",
+   "inception_date": "2021-05-26",
+   "strategy": "股票策略",
+   "register_number": "SQG281",
+   "ret_incep": "0.935",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000079IB",
+   "name": "黑翼多策略创享1号",
+   "inception_date": "2021-06-02",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SJT109",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007B0B",
+   "name": "黑翼金选多策略进取1号",
+   "inception_date": "2021-06-16",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SQR146",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007CIB",
+   "name": "黑翼信淮优选多策略11号2期",
+   "inception_date": "2021-06-30",
+   "strategy": "多资产策略",
+   "register_number": "SQU172",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007CIP",
+   "name": "黑翼信淮优选多策略12号1期",
+   "inception_date": "2021-06-30",
+   "strategy": "多资产策略",
+   "register_number": "SQU875",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007M39",
+   "name": "黑翼A500优选掘金1号",
+   "inception_date": "2021-08-25",
+   "strategy": "股票策略",
+   "register_number": "SQZ608",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007N24",
+   "name": "黑翼幸福动能优选多策略18号",
+   "inception_date": "2021-08-30",
+   "strategy": "多资产策略",
+   "register_number": "SSK500",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007PJK",
+   "name": "黑翼优选灵泰多策略1号",
+   "inception_date": "2021-09-16",
+   "strategy": "多资产策略",
+   "register_number": "SSM185",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007PSN",
+   "name": "黑翼CTA-T21",
+   "inception_date": "2021-09-17",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SSU488",
+   "ret_incep": "0.589",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007R2Q",
+   "name": "黑翼申选优享指增多策略1号",
+   "inception_date": "2021-09-28",
+   "strategy": "多资产策略",
+   "register_number": "SSP799",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007TC1",
+   "name": "黑翼优选多策略20号",
+   "inception_date": "2021-10-20",
+   "strategy": "股票策略",
+   "register_number": "SSU825",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007WKC",
+   "name": "黑翼CTA-T21C类份额",
+   "inception_date": "2021-11-29",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "0.60862",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00008129",
+   "name": "黑翼嘉选多策略2号",
+   "inception_date": "2021-12-10",
+   "strategy": "多资产策略",
+   "register_number": "STH371",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000876F",
+   "name": "黑翼沪深300指数增强N1号",
+   "inception_date": "2022-01-21",
+   "strategy": "多资产策略",
+   "register_number": "SQQ247",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000881H",
+   "name": "黑翼尊享量化成长1号",
+   "inception_date": "2022-01-28",
+   "strategy": "股票策略",
+   "register_number": "STV996",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000090A4",
+   "name": "黑翼汇升量化专享五号",
+   "inception_date": "2022-04-19",
+   "strategy": "多资产策略",
+   "register_number": "SVK952",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000090SL",
+   "name": "黑翼尊享中证A500指数增强",
+   "inception_date": "2022-04-25",
+   "strategy": "股票策略",
+   "register_number": "SVJ393",
+   "ret_incep": "0.349",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009218",
+   "name": "黑翼优选成长1号1期",
+   "inception_date": "2022-05-06",
+   "strategy": "多资产策略",
+   "register_number": "STR499",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009Y49",
+   "name": "黑翼优选成长1号A类份额",
+   "inception_date": "2022-05-09",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "1.185",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000092BX",
+   "name": "黑翼优选成长1号",
+   "inception_date": "2022-05-09",
+   "strategy": "多资产策略",
+   "register_number": "STR462",
+   "ret_incep": "1.161",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000092HP",
+   "name": "黑翼远航2号",
+   "inception_date": "2022-05-12",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SVQ602",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009FJU",
+   "name": "黑翼可转债一号",
+   "inception_date": "2022-08-16",
+   "strategy": "债券策略",
+   "register_number": "SXA271",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009IKI",
+   "name": "倍特资管黑翼腾飞1号",
+   "inception_date": "2022-09-09",
+   "strategy": "多资产策略",
+   "register_number": "SXF437",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009ZKA",
+   "name": "黑翼私享二号",
+   "inception_date": "2022-12-21",
+   "strategy": "组合基金",
+   "register_number": "SXR329",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000A2E4",
+   "name": "黑翼中证1000指数增强5号1期",
+   "inception_date": "2023-01-13",
+   "strategy": "股票策略",
+   "register_number": "SXJ577",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000A3AQ",
+   "name": "黑翼中证1000指数增强5号",
+   "inception_date": "2023-01-30",
+   "strategy": "股票策略",
+   "register_number": "SXJ573",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000A344",
+   "name": "黑翼安享中证1000指数增强6号B类份额",
+   "inception_date": "2023-03-01",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "0.537626",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000A2W6",
+   "name": "黑翼安享中证1000指数增强6号",
+   "inception_date": "2023-03-01",
+   "strategy": "股票策略",
+   "register_number": "SXV088",
+   "ret_incep": "0.538521",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CD48",
+   "name": "黑翼量化成长6号C类份额",
+   "inception_date": "2023-06-28",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "0.738394",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000APNT",
+   "name": "黑翼量化成长6号",
+   "inception_date": "2023-06-28",
+   "strategy": "股票策略",
+   "register_number": "SZS460",
+   "ret_incep": "0.743017",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B1VY",
+   "name": "黑翼中证1000指数增强16号1期",
+   "inception_date": "2023-09-19",
+   "strategy": "股票策略",
+   "register_number": "SB1816",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B2LX",
+   "name": "黑翼信选中性多策略1号",
+   "inception_date": "2023-09-28",
+   "strategy": "股票策略",
+   "register_number": "SABH59",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B2MQ",
+   "name": "黑翼信选量化成长1号1期",
+   "inception_date": "2023-09-28",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SB5789",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B439",
+   "name": "黑翼信选量化成长1号",
+   "inception_date": "2023-10-13",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SB5791",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B782",
+   "name": "黑翼量化成长8号1期",
+   "inception_date": "2023-12-11",
+   "strategy": "股票策略",
+   "register_number": "SABJ00",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000C69X",
+   "name": "黑翼量化成长18SA类份额",
+   "inception_date": "2023-12-14",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "1.197",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000C766",
+   "name": "黑翼量化成长18SB类份额",
+   "inception_date": "2023-12-14",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "1.109488",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B7G2",
+   "name": "黑翼量化成长18S",
+   "inception_date": "2023-12-14",
+   "strategy": "股票策略",
+   "register_number": "SACZ87",
+   "ret_incep": "1.187983",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BD09",
+   "name": "黑翼中证A500指数增强1号",
+   "inception_date": "2024-03-15",
+   "strategy": "股票策略",
+   "register_number": "SAGV35",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BDMX",
+   "name": "黑翼优选成长3号",
+   "inception_date": "2024-04-01",
+   "strategy": "多资产策略",
+   "register_number": "SAFU17",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000C7Q0",
+   "name": "黑翼尊享中证A500指数增强A类份额",
+   "inception_date": "2024-12-06",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "0.359",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DBP9",
+   "name": "黑翼资产-朝熠锐进1号",
+   "inception_date": "2025-11-18",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBJC79",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DIMV",
+   "name": "黑翼资产-朝熠锐进守日2号",
+   "inception_date": "2026-02-02",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBJE63",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  }
+ ]
+}

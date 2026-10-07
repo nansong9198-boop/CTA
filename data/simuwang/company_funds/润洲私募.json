@@ -1,0 +1,227 @@
+{
+ "company_id": "CO000002GK",
+ "company_short_name": "润洲私募",
+ "n_funds": 22,
+ "funds": [
+  {
+   "fund_id": "HF000057Z0",
+   "name": "润洲正行一号",
+   "inception_date": "2018-12-03",
+   "strategy": "多资产策略",
+   "register_number": "SER095",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005IJ2",
+   "name": "润洲正行二号",
+   "inception_date": "2019-06-10",
+   "strategy": "多资产策略",
+   "register_number": "SGK896",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007C8T",
+   "name": "润洲复利一号A类份额",
+   "inception_date": "2020-05-14",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000064QB",
+   "name": "润洲复利一号",
+   "inception_date": "2020-05-14",
+   "strategy": "多资产策略",
+   "register_number": "SJY158",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006NNE",
+   "name": "润洲正行六号",
+   "inception_date": "2020-12-01",
+   "strategy": "多资产策略",
+   "register_number": "SLA867",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00008Z27",
+   "name": "润洲正行六号A类份额",
+   "inception_date": "2021-11-05",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000085KS",
+   "name": "润洲正行一号A类份额",
+   "inception_date": "2022-01-04",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00008ZAX",
+   "name": "润洲正行二号A类份额",
+   "inception_date": "2022-01-26",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00008Z22",
+   "name": "润洲正行八号A类份额",
+   "inception_date": "2022-03-22",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00008BTJ",
+   "name": "润洲正行八号",
+   "inception_date": "2022-03-22",
+   "strategy": "多资产策略",
+   "register_number": "STU669",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00008Z25",
+   "name": "润洲正行七号A类份额",
+   "inception_date": "2022-03-25",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00008CCH",
+   "name": "润洲正行七号",
+   "inception_date": "2022-03-25",
+   "strategy": "多资产策略",
+   "register_number": "SNW886",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000A0MX",
+   "name": "润洲正行11号",
+   "inception_date": "2023-01-06",
+   "strategy": "多资产策略",
+   "register_number": "SZB945",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BHC6",
+   "name": "润洲正行11号A类份额",
+   "inception_date": "2023-08-28",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000C71I",
+   "name": "润洲正行九号A类份额",
+   "inception_date": "2024-06-28",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BHN5",
+   "name": "润洲正行九号",
+   "inception_date": "2024-06-28",
+   "strategy": "多资产策略",
+   "register_number": "SALQ05",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CT6R",
+   "name": "润洲正行06号",
+   "inception_date": "2025-10-28",
+   "strategy": "多资产策略",
+   "register_number": "SBJF11",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DE6Z",
+   "name": "润洲金石一号",
+   "inception_date": "2025-12-29",
+   "strategy": "多资产策略",
+   "register_number": "SBMR16",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DFJP",
+   "name": "润洲行知尊享一号",
+   "inception_date": "2026-01-16",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBND19",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DK5K",
+   "name": "润洲行远三号",
+   "inception_date": "2026-03-12",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBRZ18",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DN6Q",
+   "name": "润洲复利3号",
+   "inception_date": "2026-04-08",
+   "strategy": "股票策略",
+   "register_number": "SAXZ92",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DZ86",
+   "name": "润洲金致一号",
+   "inception_date": "2026-07-30",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SCV295",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  }
+ ]
+}

@@ -1,0 +1,967 @@
+{
+ "company_id": "CO00002O2R",
+ "company_short_name": "安贤投资",
+ "n_funds": 96,
+ "funds": [
+  {
+   "fund_id": "HF00005TY0",
+   "name": "安贤花木长盛",
+   "inception_date": "2019-12-02",
+   "strategy": "多资产策略",
+   "register_number": "SJE335",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009TG6",
+   "name": "安贤花木长盛B类份额",
+   "inception_date": "2019-12-02",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000060YS",
+   "name": "安贤价值精选1号",
+   "inception_date": "2020-03-17",
+   "strategy": "股票策略",
+   "register_number": "SJR896",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000065KZ",
+   "name": "安贤中证500指数增强2号",
+   "inception_date": "2020-05-27",
+   "strategy": "股票策略",
+   "register_number": "SJY819",
+   "ret_incep": "1.392094",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000065ND",
+   "name": "安贤中性1号",
+   "inception_date": "2020-05-29",
+   "strategy": "股票策略",
+   "register_number": "SLB552",
+   "ret_incep": "0.319571",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006NLO",
+   "name": "安贤金品中国一号",
+   "inception_date": "2020-12-01",
+   "strategy": "股票策略",
+   "register_number": "SNH534",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006V99",
+   "name": "安贤定制1号",
+   "inception_date": "2021-02-02",
+   "strategy": "多资产策略",
+   "register_number": "SNH536",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006YND",
+   "name": "安贤金品中国二号",
+   "inception_date": "2021-03-09",
+   "strategy": "股票策略",
+   "register_number": "SQC617",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000734A",
+   "name": "安贤CTA进取1号",
+   "inception_date": "2021-03-31",
+   "strategy": "多资产策略",
+   "register_number": "SQF509",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007349",
+   "name": "安贤鹿鸣A号",
+   "inception_date": "2021-03-31",
+   "strategy": "股票策略",
+   "register_number": "SQF505",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007ARY",
+   "name": "安贤安选多策略2号",
+   "inception_date": "2021-06-09",
+   "strategy": "多资产策略",
+   "register_number": "SQT138",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007BAM",
+   "name": "安贤中性2号",
+   "inception_date": "2021-06-16",
+   "strategy": "股票策略",
+   "register_number": "SQF512",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007EOS",
+   "name": "安贤300指数增强专享1号",
+   "inception_date": "2021-07-13",
+   "strategy": "股票策略",
+   "register_number": "SQZ743",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007JOQ",
+   "name": "安贤量化多头1号",
+   "inception_date": "2021-08-03",
+   "strategy": "股票策略",
+   "register_number": "SSG335",
+   "ret_incep": "0.588127",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000E3N8",
+   "name": "安贤中证A500指数增强1号C类份额",
+   "inception_date": "2021-09-09",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007OP0",
+   "name": "安贤中证A500指数增强1号",
+   "inception_date": "2021-09-09",
+   "strategy": "股票策略",
+   "register_number": "SSN824",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007PBB",
+   "name": "安贤金品中国三号",
+   "inception_date": "2021-09-14",
+   "strategy": "股票策略",
+   "register_number": "SSL993",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007Y6S",
+   "name": "安贤方圆守正二号",
+   "inception_date": "2021-11-26",
+   "strategy": "股票策略",
+   "register_number": "STF122",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000084Q3",
+   "name": "安贤好风如水",
+   "inception_date": "2022-01-12",
+   "strategy": "期货及衍生品策略",
+   "register_number": "STR733",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000891U",
+   "name": "安贤300指数增强专享2号",
+   "inception_date": "2022-02-11",
+   "strategy": "股票策略",
+   "register_number": "SVB079",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00008AO3",
+   "name": "安贤中性3号",
+   "inception_date": "2022-03-07",
+   "strategy": "股票策略",
+   "register_number": "SVF132",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000901Q",
+   "name": "安贤麦穗对冲1号",
+   "inception_date": "2022-04-19",
+   "strategy": "股票策略",
+   "register_number": "SVL295",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009FET",
+   "name": "安贤方圆守正四号",
+   "inception_date": "2022-08-15",
+   "strategy": "股票策略",
+   "register_number": "STZ968",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009IM3",
+   "name": "安贤湘安中性1号",
+   "inception_date": "2022-09-14",
+   "strategy": "股票策略",
+   "register_number": "STZ976",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DJYF",
+   "name": "安贤北证量化1号C类份额",
+   "inception_date": "2022-09-19",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "-0.16302",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009K54",
+   "name": "安贤北证量化1号",
+   "inception_date": "2022-09-19",
+   "strategy": "股票策略",
+   "register_number": "STZ977",
+   "ret_incep": "0.042888",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009LRP",
+   "name": "安贤贤选多策略1号",
+   "inception_date": "2022-10-10",
+   "strategy": "多资产策略",
+   "register_number": "SXL337",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009WRV",
+   "name": "安贤中证1000指数增强5号",
+   "inception_date": "2022-12-02",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SXU057",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000A3I7",
+   "name": "安贤CTA量化一号B类份额",
+   "inception_date": "2023-01-05",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "0.563122",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000A0JR",
+   "name": "安贤CTA量化一号",
+   "inception_date": "2023-01-05",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SZB647",
+   "ret_incep": "0.542511",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CAOJ",
+   "name": "安贤CTA量化一号A类份额",
+   "inception_date": "2023-01-05",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000A0MY",
+   "name": "安贤中证1000指数增强2号",
+   "inception_date": "2023-01-06",
+   "strategy": "股票策略",
+   "register_number": "SZC026",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000A1FK",
+   "name": "安贤安选多策略3号",
+   "inception_date": "2023-01-12",
+   "strategy": "股票策略",
+   "register_number": "SZE563",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AIRM",
+   "name": "安贤安享信然",
+   "inception_date": "2023-04-21",
+   "strategy": "股票策略",
+   "register_number": "SXN352",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CMB8",
+   "name": "安贤安选多策略1号B类份额",
+   "inception_date": "2023-07-07",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "0.040138",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AVVN",
+   "name": "安贤安选多策略1号",
+   "inception_date": "2023-07-07",
+   "strategy": "多资产策略",
+   "register_number": "SB5502",
+   "ret_incep": "0.24821",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CMZT",
+   "name": "安贤安选多策略1号A类份额",
+   "inception_date": "2023-07-07",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AX4T",
+   "name": "安贤中性6号",
+   "inception_date": "2023-07-25",
+   "strategy": "股票策略",
+   "register_number": "SB6255",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AX52",
+   "name": "安贤中性8号",
+   "inception_date": "2023-07-25",
+   "strategy": "股票策略",
+   "register_number": "SB6685",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AY13",
+   "name": "安贤CTA2号",
+   "inception_date": "2023-08-09",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SB6253",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AYAQ",
+   "name": "安贤中性10号",
+   "inception_date": "2023-08-14",
+   "strategy": "股票策略",
+   "register_number": "SB8409",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AZXA",
+   "name": "安贤中性9号",
+   "inception_date": "2023-08-28",
+   "strategy": "股票策略",
+   "register_number": "SB8208",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B4YT",
+   "name": "安贤CTA3号",
+   "inception_date": "2023-11-13",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SADA81",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B9W3",
+   "name": "安贤中证500指数增强2号B类份额",
+   "inception_date": "2024-01-24",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "1.391837",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CMZ5",
+   "name": "安贤量化多头1号C类份额",
+   "inception_date": "2024-03-26",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "0.794059",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BFCX",
+   "name": "安贤安选多策略6号",
+   "inception_date": "2024-04-25",
+   "strategy": "多资产策略",
+   "register_number": "SAKD10",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CA6C",
+   "name": "安贤CTA5号",
+   "inception_date": "2025-01-10",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SASZ81",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CB3W",
+   "name": "安贤安选多策略4号",
+   "inception_date": "2025-02-10",
+   "strategy": "股票策略",
+   "register_number": "SATC74",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CBOA",
+   "name": "安贤CTA7号",
+   "inception_date": "2025-02-13",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SATR37",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CBBH",
+   "name": "安贤中性7号",
+   "inception_date": "2025-02-13",
+   "strategy": "股票策略",
+   "register_number": "SATE51",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000C9YR",
+   "name": "安贤CTA安享1号",
+   "inception_date": "2025-03-04",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SATF63",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CCNO",
+   "name": "安贤CTA8号",
+   "inception_date": "2025-03-07",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAUE26",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CCRN",
+   "name": "安贤CTA6号",
+   "inception_date": "2025-03-10",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SATF93",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CHR8",
+   "name": "安贤麦芽多头4号",
+   "inception_date": "2025-05-21",
+   "strategy": "股票策略",
+   "register_number": "SAYT18",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CLDT",
+   "name": "安贤安选多策略7号",
+   "inception_date": "2025-07-07",
+   "strategy": "多资产策略",
+   "register_number": "SBAU51",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CK9G",
+   "name": "安贤CTA安享2号",
+   "inception_date": "2025-07-21",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBAV04",
+   "ret_incep": "0.087286",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DJP4",
+   "name": "安贤CTA2号B类份额",
+   "inception_date": "2025-07-21",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DM3W",
+   "name": "安贤CTA2号A类份额",
+   "inception_date": "2025-07-21",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DJYG",
+   "name": "安贤贤选多策略2号B类份额",
+   "inception_date": "2025-07-28",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CNB8",
+   "name": "安贤贤选多策略2号",
+   "inception_date": "2025-07-28",
+   "strategy": "多资产策略",
+   "register_number": "SBCN79",
+   "ret_incep": "0.202",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DA39",
+   "name": "安贤安选多策略9号",
+   "inception_date": "2025-10-28",
+   "strategy": "多资产策略",
+   "register_number": "SBHM36",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DBGW",
+   "name": "安贤CTA安享3号",
+   "inception_date": "2025-11-14",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBDC21",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DFTZ",
+   "name": "安贤CTA9号",
+   "inception_date": "2026-01-07",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBCQ88",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DGWH",
+   "name": "安贤麦芒灵活对冲2号",
+   "inception_date": "2026-01-14",
+   "strategy": "股票策略",
+   "register_number": "SBPG22",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DHI6",
+   "name": "安贤安选多策略10号",
+   "inception_date": "2026-01-26",
+   "strategy": "多资产策略",
+   "register_number": "SBMR59",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DIJG",
+   "name": "安贤致远1号",
+   "inception_date": "2026-02-02",
+   "strategy": "多资产策略",
+   "register_number": "SBPM19",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DIZE",
+   "name": "安贤量化多头2号",
+   "inception_date": "2026-02-09",
+   "strategy": "股票策略",
+   "register_number": "SBPM50",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DK30",
+   "name": "安贤量化多头3号C类份额",
+   "inception_date": "2026-03-09",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DK2Z",
+   "name": "安贤量化多头3号",
+   "inception_date": "2026-03-09",
+   "strategy": "股票策略",
+   "register_number": "SBRR57",
+   "ret_incep": "0.0132",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DKTC",
+   "name": "安贤安选多策略7号2期",
+   "inception_date": "2026-03-12",
+   "strategy": "多资产策略",
+   "register_number": "SBSH93",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DL19",
+   "name": "安贤安选多策略11号",
+   "inception_date": "2026-03-16",
+   "strategy": "多资产策略",
+   "register_number": "SBRU18",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DM7W",
+   "name": "安贤中证500指数增强5号",
+   "inception_date": "2026-03-19",
+   "strategy": "股票策略",
+   "register_number": "SBTD51",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DMXH",
+   "name": "安贤量化多头5号",
+   "inception_date": "2026-04-02",
+   "strategy": "股票策略",
+   "register_number": "SBTS70",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DOBG",
+   "name": "安贤CTA10号",
+   "inception_date": "2026-04-15",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBUB90",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DP7Z",
+   "name": "安贤安选多策略8号",
+   "inception_date": "2026-04-20",
+   "strategy": "多资产策略",
+   "register_number": "SBHV48",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DPQN",
+   "name": "安贤中证1000指数增强3号",
+   "inception_date": "2026-04-29",
+   "strategy": "股票策略",
+   "register_number": "SBSM83",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DQ4Z",
+   "name": "安贤安选多策略10号2期",
+   "inception_date": "2026-04-30",
+   "strategy": "多资产策略",
+   "register_number": "SBUY25",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DQI5",
+   "name": "安贤量化多头6号",
+   "inception_date": "2026-05-08",
+   "strategy": "股票策略",
+   "register_number": "SBUN03",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DRS4",
+   "name": "安贤贤选多策略3号",
+   "inception_date": "2026-05-12",
+   "strategy": "多资产策略",
+   "register_number": "SBUV10",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DR4W",
+   "name": "安贤自由现金流指数增强1号",
+   "inception_date": "2026-05-15",
+   "strategy": "股票策略",
+   "register_number": "SADP42",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DR5U",
+   "name": "安贤中性12号",
+   "inception_date": "2026-05-15",
+   "strategy": "股票策略",
+   "register_number": "SAJK05",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DS17",
+   "name": "安贤量化多头8号",
+   "inception_date": "2026-05-21",
+   "strategy": "股票策略",
+   "register_number": "SAKE34",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DSXV",
+   "name": "安贤安选多策略12号",
+   "inception_date": "2026-05-27",
+   "strategy": "多资产策略",
+   "register_number": "SAJE43",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DSC1",
+   "name": "安贤安选多策略1号2期B类份额",
+   "inception_date": "2026-06-16",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DSC0",
+   "name": "安贤安选多策略1号2期",
+   "inception_date": "2026-06-16",
+   "strategy": "多资产策略",
+   "register_number": "SAUG03",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DVWJ",
+   "name": "安贤中证500指数增强8号",
+   "inception_date": "2026-06-23",
+   "strategy": "股票策略",
+   "register_number": "SAQC04",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DWBM",
+   "name": "安贤致远多策略2号",
+   "inception_date": "2026-06-25",
+   "strategy": "多资产策略",
+   "register_number": "SAUF36",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DXVC",
+   "name": "安贤量化多头7号2期",
+   "inception_date": "2026-06-30",
+   "strategy": "股票策略",
+   "register_number": "SARM02",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DXVB",
+   "name": "安贤量化多头7号",
+   "inception_date": "2026-06-30",
+   "strategy": "股票策略",
+   "register_number": "SARL38",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000E0G4",
+   "name": "安贤安选多策略1号3期",
+   "inception_date": "2026-07-27",
+   "strategy": "多资产策略",
+   "register_number": "SB4508",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DZNL",
+   "name": "安贤中证500指数增强9号",
+   "inception_date": "2026-07-28",
+   "strategy": "股票策略",
+   "register_number": "SCR821",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DZTQ",
+   "name": "安贤致衡套利1号",
+   "inception_date": "2026-07-29",
+   "strategy": "多资产策略",
+   "register_number": "SBGJ95",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000E0UO",
+   "name": "安贤安选多策略9号2期",
+   "inception_date": "2026-07-31",
+   "strategy": "多资产策略",
+   "register_number": "SCB161",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000E20V",
+   "name": "安贤量化多头9号",
+   "inception_date": "2026-08-14",
+   "strategy": "股票策略",
+   "register_number": "SCX376",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000E5FX",
+   "name": "安贤中证500指增6号",
+   "inception_date": "2026-08-19",
+   "strategy": "股票策略",
+   "register_number": "SBUM89",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000E6C1",
+   "name": "安贤价值精选2号",
+   "inception_date": "2026-09-16",
+   "strategy": "股票策略",
+   "register_number": "SEH942",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  }
+ ]
+}

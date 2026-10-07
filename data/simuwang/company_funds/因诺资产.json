@@ -1,0 +1,617 @@
+{
+ "company_id": "CO000003KY",
+ "company_short_name": "因诺资产",
+ "n_funds": 61,
+ "funds": [
+  {
+   "fund_id": "HF00000WIA",
+   "name": "方正中期-因诺套利1号",
+   "inception_date": "2015-03-04",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00000ZC5",
+   "name": "因诺天跃",
+   "inception_date": "2015-04-23",
+   "strategy": "多资产策略",
+   "register_number": "S33929",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00000Z0B",
+   "name": "因诺天跃八号",
+   "inception_date": "2015-06-17",
+   "strategy": "多资产策略",
+   "register_number": "S61598",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00000Z00",
+   "name": "因诺天跃九号",
+   "inception_date": "2015-06-17",
+   "strategy": "多资产策略",
+   "register_number": "S61604",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00000Z0A",
+   "name": "因诺天跃十号",
+   "inception_date": "2015-06-17",
+   "strategy": "多资产策略",
+   "register_number": "S61608",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00002M62",
+   "name": "因诺天丰1号",
+   "inception_date": "2017-03-29",
+   "strategy": "股票策略",
+   "register_number": "SS8359",
+   "ret_incep": "3.307465",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005KPE",
+   "name": "因诺阿尔法7号",
+   "inception_date": "2019-07-17",
+   "strategy": "股票策略",
+   "register_number": "SGR167",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005LH0",
+   "name": "因诺中证A500指数增强1号",
+   "inception_date": "2019-07-29",
+   "strategy": "股票策略",
+   "register_number": "SGQ369",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00005Z12",
+   "name": "因诺资产-招享股票中性1号",
+   "inception_date": "2020-02-18",
+   "strategy": "股票策略",
+   "register_number": "SJR665",
+   "ret_incep": "",
+   "is_liquidate": true,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000067GN",
+   "name": "因诺阿尔法18号",
+   "inception_date": "2020-06-17",
+   "strategy": "股票策略",
+   "register_number": "SLD728",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000069IU",
+   "name": "因诺期权1号",
+   "inception_date": "2020-07-14",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SLJ952",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006M41",
+   "name": "因诺中证500指数增强8号C期",
+   "inception_date": "2020-11-24",
+   "strategy": "股票策略",
+   "register_number": "SLS402",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00006SKL",
+   "name": "因诺天跃十七号",
+   "inception_date": "2021-01-20",
+   "strategy": "股票策略",
+   "register_number": "SNP441",
+   "ret_incep": "0.1734",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007BGE",
+   "name": "因诺资产-招享中证500指数增强1号",
+   "inception_date": "2021-06-23",
+   "strategy": "股票策略",
+   "register_number": "SQU867",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007LKH",
+   "name": "因诺天丰53号",
+   "inception_date": "2021-08-23",
+   "strategy": "股票策略",
+   "register_number": "SSH061",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007NS6",
+   "name": "因诺恒选多策略进取3号",
+   "inception_date": "2021-09-03",
+   "strategy": "多资产策略",
+   "register_number": "SSK765",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007PEF",
+   "name": "因诺天丰52号",
+   "inception_date": "2021-09-10",
+   "strategy": "股票策略",
+   "register_number": "SSS648",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007PL8",
+   "name": "因诺华宝沪深300指数增强",
+   "inception_date": "2021-09-13",
+   "strategy": "股票策略",
+   "register_number": "SSQ934",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007R4P",
+   "name": "因诺多空ETF1号",
+   "inception_date": "2021-09-27",
+   "strategy": "股票策略",
+   "register_number": "SSU091",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007RVI",
+   "name": "因诺金选中证1000指数增强2号",
+   "inception_date": "2021-09-29",
+   "strategy": "股票策略",
+   "register_number": "SSU160",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007PFM",
+   "name": "因诺华宝沪深300指数增强1号",
+   "inception_date": "2021-09-30",
+   "strategy": "股票策略",
+   "register_number": "SSQ848",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007SRN",
+   "name": "因诺量化选股1号",
+   "inception_date": "2021-10-11",
+   "strategy": "股票策略",
+   "register_number": "SSQ000",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00007S48",
+   "name": "因诺天宏9号",
+   "inception_date": "2021-10-12",
+   "strategy": "股票策略",
+   "register_number": "SSS248",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF000080DU",
+   "name": "因诺资产-稳固量化多策略一号",
+   "inception_date": "2021-12-06",
+   "strategy": "多资产策略",
+   "register_number": "STE091",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00008A5P",
+   "name": "因诺启富1000指数增强8号",
+   "inception_date": "2022-03-02",
+   "strategy": "股票策略",
+   "register_number": "STB903",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009NBR",
+   "name": "因诺CTA2号B类份额",
+   "inception_date": "2022-09-20",
+   "strategy": "期货及衍生品策略",
+   "register_number": "",
+   "ret_incep": "0.527502",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009KBT",
+   "name": "因诺CTA2号",
+   "inception_date": "2022-09-20",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SXJ080",
+   "ret_incep": "0.527502",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AOAD",
+   "name": "因诺天问1号A类份额",
+   "inception_date": "2022-09-29",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "0.85927",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF00009LK1",
+   "name": "因诺天问1号",
+   "inception_date": "2022-09-29",
+   "strategy": "多资产策略",
+   "register_number": "SXL543",
+   "ret_incep": "0.860014",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000A3J8",
+   "name": "因诺债券3号A类份额",
+   "inception_date": "2022-11-16",
+   "strategy": "债券策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000AJT1",
+   "name": "因诺瑞丰1号",
+   "inception_date": "2023-04-12",
+   "strategy": "债券策略",
+   "register_number": "SZV917",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B8RR",
+   "name": "因诺信淮天问8号2期",
+   "inception_date": "2023-12-28",
+   "strategy": "股票策略",
+   "register_number": "SADY28",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000B9P8",
+   "name": "因诺天问12号",
+   "inception_date": "2024-01-17",
+   "strategy": "多资产策略",
+   "register_number": "SACW16",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BBAW",
+   "name": "因诺天丰80号2期",
+   "inception_date": "2024-02-08",
+   "strategy": "股票策略",
+   "register_number": "STE728",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BDP4",
+   "name": "因诺尊享CTA",
+   "inception_date": "2024-04-29",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAKB20",
+   "ret_incep": "0.2414",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BF75",
+   "name": "因诺弘信天机多资产中性一号",
+   "inception_date": "2024-04-30",
+   "strategy": "股票策略",
+   "register_number": "SAHL96",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BFXC",
+   "name": "因诺期权5号",
+   "inception_date": "2024-05-17",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAKW81",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BHP9",
+   "name": "因诺期权12号",
+   "inception_date": "2024-06-14",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SALH17",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BH8H",
+   "name": "因诺沪深300指数增强10号",
+   "inception_date": "2024-06-17",
+   "strategy": "股票策略",
+   "register_number": "SALU76",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000BLA2",
+   "name": "因诺弘信期权7号",
+   "inception_date": "2024-09-13",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SALP21",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CAQH",
+   "name": "因诺天问33号",
+   "inception_date": "2025-01-23",
+   "strategy": "多资产策略",
+   "register_number": "SATG61",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CAX1",
+   "name": "因诺CTA9号",
+   "inception_date": "2025-01-27",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SARC67",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CBAR",
+   "name": "因诺期权9号",
+   "inception_date": "2025-02-13",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SATN15",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CBOE",
+   "name": "因诺天问34号",
+   "inception_date": "2025-02-19",
+   "strategy": "多资产策略",
+   "register_number": "SATU12",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CC9E",
+   "name": "因诺CTA10号",
+   "inception_date": "2025-02-27",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAUF15",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CM3I",
+   "name": "因诺金城A500择时1号A类份额",
+   "inception_date": "2025-03-26",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "0.241276",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CEIK",
+   "name": "因诺金城A500择时1号",
+   "inception_date": "2025-03-26",
+   "strategy": "股票策略",
+   "register_number": "SASK97",
+   "ret_incep": "0.241276",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CND5",
+   "name": "因诺天跃十七号C类份额",
+   "inception_date": "2025-04-11",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "0.285509",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CHEM",
+   "name": "因诺天问汇源1号",
+   "inception_date": "2025-05-08",
+   "strategy": "股票策略",
+   "register_number": "SAWV78",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CING",
+   "name": "因诺天问60号",
+   "inception_date": "2025-06-04",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SAXM21",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CRT3",
+   "name": "因诺天丰均衡9号B类份额",
+   "inception_date": "2025-08-05",
+   "strategy": "股票策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CPM7",
+   "name": "因诺长享均衡8号",
+   "inception_date": "2025-08-22",
+   "strategy": "股票策略",
+   "register_number": "SBCE67",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CSS6",
+   "name": "因诺长享均衡9号",
+   "inception_date": "2025-09-23",
+   "strategy": "股票策略",
+   "register_number": "SBDV88",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CPBR",
+   "name": "因诺尊享1000指增均衡21号A类份额",
+   "inception_date": "2025-09-24",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000CTG5",
+   "name": "因诺信心天问",
+   "inception_date": "2025-10-10",
+   "strategy": "股票策略",
+   "register_number": "SBDH09",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DAP9",
+   "name": "因诺天机88号b期",
+   "inception_date": "2025-10-27",
+   "strategy": "多资产策略",
+   "register_number": "SBJB59",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DBKZ",
+   "name": "因诺天问32号",
+   "inception_date": "2025-10-28",
+   "strategy": "多资产策略",
+   "register_number": "SAUJ03",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DEVB",
+   "name": "因诺天问多策略50号B期",
+   "inception_date": "2025-12-31",
+   "strategy": "多资产策略",
+   "register_number": "SBDA67",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DB2O",
+   "name": "因诺天问58号B类份额",
+   "inception_date": "2026-01-14",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "-0.0107",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DB2N",
+   "name": "因诺天问58号A类份额",
+   "inception_date": "2026-01-14",
+   "strategy": "多资产策略",
+   "register_number": "",
+   "ret_incep": "-0.0107",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  },
+  {
+   "fund_id": "HF0000DB2M",
+   "name": "因诺天问58号",
+   "inception_date": "2026-01-14",
+   "strategy": "多资产策略",
+   "register_number": "SBKJ44",
+   "ret_incep": "-0.0107",
+   "is_liquidate": false,
+   "is_nav_visible": false
+  }
+ ]
+}
