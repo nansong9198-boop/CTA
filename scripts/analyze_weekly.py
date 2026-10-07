@@ -285,7 +285,7 @@ def _reasons(r):
         cons.append(f"回撤集中度{r['dd_concentration']:.2f}≈1，深度回撤是常态而非单次尾部")
     if r.get("n_unrepaired"):
         cons.append(f"当前仍有{r['n_unrepaired']}个回撤episode未修复，损失是现实的而非历史的")
-    if r.get("crisis_win", 1) < 0.55:
+    if not r.get("crisis_low_n") and r.get("crisis_win", 1) < 0.55:
         cons.append(f"危机胜率仅{r['crisis_win']*100:.0f}%，危机保护能力弱")
     if r["pl_ratio"] < 1.5:
         cons.append(f"盈亏比仅{r['pl_ratio']:.1f}，赚小亏大")
