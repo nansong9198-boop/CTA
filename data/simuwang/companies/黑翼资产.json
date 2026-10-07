@@ -1,0 +1,244 @@
+{
+ "company_id": "CO000001HQ",
+ "baseInfo_raw": {
+  "data": {
+   "encode": 10,
+   "data": "T0pjOFYxSktvYUJ2ZkJ1VTBnbGorTXE0Z1l6UkwzeHUzdHlibElhendkekVMU2VBVlpDelBiZ1F5Sk80NmFiYUdkM0pSOXBwUGN4cnVVeXhzRFZRUm84dWtBaUtoaUZlcTlYMUVXaERpa05IcG12Z1MyY3JzYmNyUHlodEJITWxVTDBDV0Rrejk3YWFFU0tEMEYwT2duNm1ZNFk0UTRuNEhQb0FTUnpuaXNwVllVWmF6aWJrbVZsKzJsajdhOHlhUi9OdGdjYUd6Nk1BczFvbFY0aUo3a0dTZEF3UVE3cGZveEtZZDFjUWw3bTUvQ1ZhcEpXamxXa2dkVDd6Qis1K3dEbU5aM25ja1ZRTlN0czRnYjh6UkpaUGxnOG5GZ2tDQkNRclhJTFVNU2Z0WlJ1WDFCY2JMYVZlbjIzWk83WWw4cGZvcGdEa3RNRFd2dEVtQlhOU3JuUENzKzZ5eGFzS0trUXk5SzF1Y3NnQUpONWwycWlJT0JhdndjekZkT0NyWUM3bGNIR3BneTFMN2phQndQN0dnR0VkNWE2UXVwVUhzT3lBM3ZNUkVVdFV6eFJrL0JSMzVhaWlJQWlBUDZZYVVHMDRrRXFzRFNENk8zWit5a3pta2JsWXMwTVhYbEVYRXBydWVKWmtMMEVBemh6V1k4Wk95TDl3V1J3SHBqcVF1SHZrM2tLOVZtTjVwZ1hLVVYvM3lNM0dMRDVqNWxnWDdEQTVCL2xieGNYOWFNckZoK0xyMGZZVEMxRGdwV1JhZEQ3bnRjYTFlTkR1Ymg4WjRyNkZicExlcWwxVDgzZ0pWclBCUWVVMVF5YlFHbXR5SVBNaWJra1orSThTa2t6THNIampxNzRGSWNQdkhrNGVQbE1RcGdwSWFSWHJSVitxbE9uMG1LODRKRFErWEZZSi90RHJ4dnFEUkpYUzQ3QUtJSlgrekZJVkZxU2pmSkZYRndpRlhLRThVSHRPRVp5eHp4ajZxakp2bHNSOG96S3NOeGFzbVlrcTdhdWROc2VUZnRuMTBzVFdwdlpuaHBzZHRjOGY3eThQa0ptS3UreWZGQlUvcG12RGhyYmFDVkNJYUJpV2J4dit3SGdrd0JrVFJJbFpGR0pCcTg0Rk1tNkZJLzRPSnNZQ1Z3UUZOV2VVd20zN1ZCRGY0TlZUNWtHL2czK2gzQTBhVGJ1WHg1MDhDNWxMMExDbmlFVEZEV2hTdzd4czhuVU44RlZzY0p1YjVaYU5pNUVtSm4wRzN0SCs4L2doU0FMWWRxeE5NV0oxckN5aGk0STBwMmVHMEpCcHFCNDJRNlFVa1FNZzdYS3duMEpFREo1Ti9IMzdVVWFCc0srNlIzUGNuVkJDd2h6OG9vRlpQWkYyQ29Ta0hFWldVUDJFNk5GZktmZGNYV2x4cFJHVE5BWHZxT0I1MHM1SE9VU1VlbGVzSWNHZmZQNUkweFc5Z1EzeUt6QVBNVVdvM1NBSlRnUmJPTC84andKb1J5c0dDK3lvVkNrVzIzSHNMbDJxdCtkMFJWMHk0MWNyMENUUUJ1a1Nkb012em5vWWtrWXp1K29UVmd4ZkVGR0xCb2Rzb0xqN2JaQ2Z5dEszakhJR3NQRnNwRzF2QmFxWHhoRFQ1dEx4MG5FRlpEaU9SMDIxR2pSUm80TVpGOTZtbWZYQlExTWhTRlJ1UGc3ZHZRQ3dveXE1WHFPYUp6b3J3R1kxTzhnRk9zREhjdldpV3NUdTlTMXhyOGJacTcvS2gxZkJmQk5JZlZDOENDYzFSWVB5MzhlcTlIOTRSbmZ3cW9qMEVkV2puSTExZjJEeHBCdXVab1VDalR2cmtaVUtkell1Uk1Fem1yZVhmbEVzbGl3ZzRIMVFnNE96aXV2K1g1Q2tIMTJFUW5pKzlNYS9EVmxaOXFGR2p2UUt2SDJEM0x2elNNdjlrcGJFV3FhcmlDYjNnd3llMGxoOTJTdzc5YitRMTFtN3loMnZoVllWSmtqYU0zQUprMFdYK2hna3J1YUQ3WWVON3lkWmF5bEhLbFZ2bkNNZ0JpdE01N09uVE95ZkM1Z2FxWnpqa0FHUFdjazJwcUhYOWhjSmd6bHpPQ0NuQktJN2c4R0ovbGxDbEVucWFqQmg3Mi82ZitreHUrYXBKVjRWaEZhTE90bW1vTTBJcDFzUXBHR2xSOXFoRGRScjJaaE5lU3JTNUpuVE9vSXVpZDR5ZTFJa1Ryd1pMb1ZzRDVtQmF6UDJmcllyUm1qWmh6U2p1TUYrRGRhM0FuaEIxaE1UR3BTM0p1Q2lRZTZBREc3Qld6eFFscXZYYnpQcjFMeVdzRUNNNEZndWxCZTROT251R1BQTXRVQlJqTEhUZW1uVnQxUGxqMVhhVG4vUVdHMDJNdXYzcC8xeFBFMkxvVER3c2ZMNkpZbGZxOUxWMmdhS3pwMC94RURyakxSSHZ5MU53NmZmZlRDa2oyeVB5eDUrcGRWbVA0ZzM4cUkrMkMzK05Ud3BNN1dBK0tqYStjTjVXT3Q2UVBIRlFxTThxN0wwaTVabGkxeWtQNC92TXdRVk5QWlNNbGR5OFJSZEhXR014MVpyd0dIWTRMaHU1aGlPWC82TERNbXhDcVFQa1ZxQjFVOGEzMHBGWGhUUnJHR1pDQ1NkL0lDRy9hUWU4dlRtRDd2b0NqS0hPNUs2UE1ZclIvcUdjYTQzZjMveHRncDRMclBjd0t1Vml1OVhDMDB2TDFSS25ERGhUanE5YXg2ay9ZekNVeWFNU2pXOHZpZVluOUtEY0E2N0hGMm1pYjdrNFM2UW1tWVhBckp4RHIxZGJqbFJFV1VyQk5kUlYvbm5ha0xFd0tZTHJwUGYvTmJNNUNKbUFvb0lKWDZwMHNReHZuZHlVSW9YYzdDYWY4R2lOTVlVSlJLb1lLUnZGNFBialFRRHRTUG1DVWVVU08vTTROK2JXMzNBT0RLRVJrejFrYThtU1JtV0tHRm9RNjk0K1A3VitjWkh0VDhCRFk1TEtzNHNSK0R4WDNEempURDRnRmcyZ3lzRlNraEtaS0wwaVlqcmVlRGhmTkVaSHh3YVZYVzlUbFhnem5teWJGVFhHZ1FrUVRaS0NiTmhnZjhETVk2a2wvaHB4aWEzbndkOHNGZ2xrd29Ma253Wkw4Q3YyZVZHOFl1SS9lY2JLNVlBcmY2UTdvajFyQnM4ZUdBbHdtQ0Z1NXk4aG9DQ2tUS0JYWnYzWXRpU0pMTTRUSnZRNHNINXd2aGRIWDVKSzVWSkx0ejlBZzRXZkk4cEhJczZySzRwVlUxWG9RN2swWklJeFFJUVpMaVpRUmJGRllidkdqS2Njc3ZxODlWZCtqZkVUR0E5TGtteWlGY3BmdXJ6d3gwaTBxQjlyV3NFb09QcTdkVGR0aWJXcTh0a0t6MVUxbE9WYmFqZzBPYTgyd21FTWd0bGo4TG15ejVYYnc1b1JPZy8yemFESUJ0UWNpNHpLOXRHZ0VDb29pV1hoTnZjUEVxa2N6SWdpTitXczFCVzgzNEdWeis4cVpQaVc5c2ZNcW5FNjZmck1jd2xERWdZczVMVTlvSjViWmxzVHFsRlZHanYwbC8vbVhVdjdTTVVYVXZWblVjZXQwRlhTdVNZeXQ1VUxHNDhVWGNUS1BhOENIM2g3Rk9LcFNYUkNMR0ZyUlZDbVhYRlNvWndkeHB5aWpYTFk1dDRDQ00zaXhlcUc0L01qTFBaRENnVTVvdzEvTG9HcWRtQzA1dzZUN3NxbkZXdUhYSGhSeVNtSUlINnptTU4xOFlPbFFJckY0Rk5hRW5JRkxueVE4OHJYSEk4K2h2R1ZOQzdzMzdFVGlURHd2dG9sSDAvTTF0bStlN0xDcFBMSXpaMEQrM01XTis5Y0dvSW05a01OTGJPTWVjWUhiOHgwVitwZzFVSS9pdUxyQ2MvM0kyYTdjcHJqQjNDVzUxbmtjTkJMbzdNb2VJakJYOWxic05uVGxWQkxmdHIxK2NUdFFCQWUxQVpaYzI1dEk3Sk1HUWpackc1Snh2VmVuQ1Q5aG9EMXh1clBsNmVtTnE0L2V4d2xJVkVVM1AxZVUzOTMzR05UK293eXhFVFVEWDUxNmpnTVhYSFowdVBLZGRHYk4zM3JvQXM5blNxd0pBM2diL2FqK0tTeDNGRWEvSVNGNlp2ZlNCS2RZK1dkQUlwbGMvTkFQbDZQUWdVKzZ0V3N0aCt3VHRtcEZFZlFkRkNvLzU3NXUzLzd0N3FyMEtGTWtBOUdLNjQ4VDZDUEdFeTNqeXYvekVydStnK0lxYndvbmdyS2lHQityUWFObzFjUEdqeGFyQ0I2ZEJSVFJoOTV1UGU2YWlTOVp6dkNCVDBnTC9OQ1pvYlJkRjdxc01CbjdyaUlpNWZmbk5WeXBLTGJzU2FjRVJGZG1ldERqK2VFTVJ1K2paZ2FWcmZRZHkxVHMvanZORWdpckpNaUc0Q1Y2T3BENkRZdE9OdXZyUnF5bTNpZEJEemF6VjZSWlNLV3NBYWxMYVAwWlV6Zk5VZktjY0RLaFVFTjQ3aUxCS05vaS9iYTNBUkRSWHNlVmtKbjFCWXJrTWdlZnhFTmx5dEQ2MGZtU2IrMFVHM3ZTUURucHFscFdINjFxdGNldHg0TEZKbVY2SHdvcGlET2ZMakJNd1BzeTcybnNhZ0tRWEphZjJXYUxtRzZCNjNCZkhHK0dqKzA2RkY0Z0ppM1BtbittUVBSOUJZTHhlU0c2REZ5Snh4SHVrZk9XTEpMeVc3OGF1UDQwNTIzTE1UOTRSSkNuamwvTk1WbDM1M0FnenpYbUVsVFZSVFE5M2toMzlmYTFLVkRVN01TT0RSaXpwV3p3RFc0Q09WYmlidWhhNmV1dHZTcGhpRFFjYTRPeDVodVhNR0pxQTJNZkUwM3J4Qkg5cDdwRnZJRkJJT2w1THBEN05VclVoeEZybUhVS1grNHh0cjFKTE9LanI4S2QzQVBRQXlud2x0enBhOWRUb2wzYnNxQWY0WlYyTzlpTVpxVXA4UUJDZ2NrVFlveEJUdkVwOThabS9WQjFJR0JvRTBKck9PV2FrTE8waXVQUlcvY0djbXMycFVjb0JDbm4vckRidWpxamdTNUEyMWp3SGhsMmNLaXZmZUoyQldsN1RYSHdVWUV5WlgyVHlXSmR6TGVHTmNGZXFDUVBraS9SSXhoN3paT3dIUFJKZkxzTXppckp2ekJiTlQ5bjNqSWFMMUxjcktNaHdKT0E3ckIrYzIwNGlUdTRBSzArTk9VYVFhTlZHSUpjaXJscjM1WjhGUW1xbWNPNVl1ckwzTEZ2WGtjTGRsYSs0ZDhKZVZiWDh2VlRBeUpkQ0NKOUV1Q3FYVHptaWIwYkFhU3h6cW0rdWhrcStOVWQ3SkFoamJUeFljd1dPYld6dUJyajcrNUFPRTZiWlREdWY1ZFdWQTJSY2MxRVFGd2s0OXhmRWdLaEJUZm5rQ3o0YUZKc1ZLT1ptQmVTbUd3aEQyUkMyMjFnM0tmeFYxYzZIVWhqVUNzU2lkUTRZUkZGMDFQdHUvQk9ra2lkQ1VNTlJ4TWlBZXRBZG5XWU1XeGltQ3ZGdTlOVUdoOEdZbjA0ZnR0ZXdJYTZwTGRPcjdnaTZWWTlkalZ3S1N2RjBlanVnZUtjYm84SUVMekk2WUQxUTRqaXVWQmorYi9zdmw3dVlWWW1ETzgxVjBTQUl4TTB2K2tCWEkxV0EyWlBWU0JPSENxSHZ4cyswcGR0WHBMZktPbVJsTE0wcm5NdUdGQm1lQXBXYk5WVXFkajNRL2QwSFRDK3BRanRzYi9DY1lkdEcvdE4yN3lyY0g0QnUxRUM5Mjdxc0RNSzh1T0RzQS9xVFZoWGt3VDlKUUtDYUVJY0RFelZwdzJ2S2ZReTdvZ3ZTbklmc3lKWU9WZGM5WitQWVljdWtrQ0VERGFlWmlKOEx6NER3eDIwWmpwdkVpSG1OM1Z4cFZvQzNyY2lPbFZXZFFuTys0TDJWcVlwTlVTbllZN3V0U3prZ2xHWDhSMTNKejNjQnZWTkhYYlNsbXF2dlhSRDhEWW90dVliWFhXMWVXSHR2b2hMcithaTdCRGxMMGxhMmZpalZzWWMzbjZQRW5GRmFhenVNLzFvVEF0Y2hQbElncFVCLzl0MVBPL1BSQXc3V3h0TlVSZ0FLTmtZZnNTanprcDIvU1dPYWhlVCtpb3c1NE80WmcyN1NnY0xBVEhNQWtCbnNrRytoMzE4bmdaOEpKM01aRlJMMFZ4OXpmY1FNYkJ0RFg2ZU9MbllwK2xQUk1zcTJuSnNJMTE1ZlBGVG5hRkhxaWFUTVBqSzNodkhyMTJuR1ZVUHpMa3Z3ckYzRHJFaFcwNFRDWEhPWVA0QTViZTF6cG1aZStEQXZJamh4M0NucUc4TFozNFYyMm9HbTFGNWpnaXRyUnpGTGhzUUhvUm5tUkxLNGVjSnpmc29Zb1JSQkNSS25wVmN3d3hscWY1TmNKNFRhZDV3NTJtTzFrMWFxQVg3bjA3cVpIaDEybmRQeDd3WXpLVFAvcXJJMFY0Q3F1MWxYMWdrYmJzZFAwbEtxSEtKTmlNUE42VStQdjJMeEdTdmJMaXRacGlYNGJrZHVkRllMbElWSXovT01jZ2dNPQ==",
+   "key": "var _0xc93e=[\"\",\"split\",\"0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ+/\",\"slice\",\"indexOf\",\"\",\"\",\".\",\"pow\",\"reduce\",\"reverse\",\"0\"];function _0xe17c(d,e,f){var g=_0xc93e[2][_0xc93e[1]](_0xc93e[0]);var h=g[_0xc93e[3]](0,e);var i=g[_0xc93e[3]](0,f);var j=d[_0xc93e[1]](_0xc93e[0])[_0xc93e[10]]()[_0xc93e[9]](function(a,b,c){if(h[_0xc93e[4]](b)!==-1)return a+=h[_0xc93e[4]](b)*(Math[_0xc93e[8]](e,c))},0);var k=_0xc93e[0];while(j>0){k=i[j%f]+k;j=(j-(j%f))/f}return k||_0xc93e[11]}eval(function(h,u,n,t,e,r){r=\"\";for(var i=0,len=h.length;i<len;i++){var s=\"\";while(h[i]!==n[e]){s+=h[i];i++}for(var j=0;j<n.length;j++)s=s.replace(new RegExp(n[j],\"g\"),j);r+=String.fromCharCode(_0xe17c(s,e,10)-t)}return decodeURIComponent(escape(r))}(\"jEHHjQjjjjEQjjEHjQjjjHHQjjEHEQjEHHjQEjHHQjjEjHQEjjHQEEHHQEEHEQEjjHQEjjEQEjEHQEjjEQEEHEQEjEjQEjEEQEjjHQEjjHQEjEHQEjEEQEjEHQEjjEQEjEjQEjHEQEEHHQEjjjQEjjjQEEEHQjEEHQjjjHHQEjjEQEjHEQjEEHQ\",67,\"HjEQhurVW\",17,3,50))",
+   "id": "p179134395611464350722"
+  },
+  "extra": [],
+  "msg": "获取成功",
+  "status": 1
+ },
+ "baseInfo": {
+  "company_id": "CO000001HQ",
+  "logo": "https://static.simuwang.com/Uploads/foreign/logopic/20230605/thumb_4b6fb0efc788e9bce80f134eb397efd4.png",
+  "company_name": "上海黑翼资产管理有限公司",
+  "company_short_name": "黑翼资产",
+  "register_number": "P1004419",
+  "company_asset_size": "100亿以上",
+  "company_type": 1,
+  "registered_capital": "1000.000000",
+  "establish_date": "2014-04-08",
+  "register_status": 2,
+  "cancel_type": null,
+  "company_profile": "上海黑翼资产管理有限公司成立于2014年，是中国证券投资基金业协会会员单位（登记编号：P1004419）。黑翼资产深耕量化投资领域超过12年，连续多年蝉联中国私募金牛奖。<br/><br/>黑翼资产是较早将人工智能技术应用到金融市场的机构之一，目前已将前沿AI技术应用至量化投资的全流程，并构建了多元化的策略矩阵，覆盖量化选股、指数增强、市场中性、多策略、量化CTA等产品线。",
+  "base_currency_crc": 1,
+  "company_english_name": "Shanghai Black Wing Asset Management Co., Ltd.",
+  "company_address": "上海市崇明县中国(上海)崇明区堡镇堡镇南路58号13幢3楼309-4室(上海堡镇经济小区)",
+  "company_address2": "上海市浦东新区银城中路68号时代金融中心47楼",
+  "employee_cnts": 101,
+  "fund_practitioners_count": 88,
+  "nature_business_type": 3,
+  "business_type": "私募证券投资基金,私募证券投资类FOF基金",
+  "has_consulting_qualification": 1,
+  "register_date": "2014-08-21",
+  "organization_number": "09382803-3",
+  "paid_capital": "1000.000000",
+  "capital_paid_rate": "100.000000",
+  "credit_code": "913101150938280338",
+  "company_class": 1,
+  "key_figure_id": "PL000006HI,PL00000L6N,PL00003UOD,PL000006PJ",
+  "key_figure_name": "陈泽浩,王磊,于莉,邹倚天",
+  "amac_link": "https://gs.amac.org.cn/amac-infodisc/res/pof/manager/101000006843.html",
+  "cnt": 538,
+  "registered_city": "上海",
+  "city": "上海",
+  "rating_1y": 3,
+  "total_fund_nv": null,
+  "company_class_text": "私募",
+  "company_asset_size_text": "100亿以上",
+  "core_strategy": [],
+  "risk_warning": "B+",
+  "ret_1y": "--",
+  "ret_incep": "--",
+  "ret_incep_a": "--",
+  "ret_ytd": "--",
+  "is_link": 0,
+  "is_direct_sale_config": 0,
+  "is_super": 0,
+  "super_mode": 0,
+  "link_manager_list": [],
+  "link_config": [],
+  "manage_fund_list": [],
+  "is_both": 0,
+  "public_opinion_risk": "",
+  "has_onsale_fund": 1,
+  "xcx_share_image": "",
+  "xcx_share_text": "",
+  "delegateList": [
+   {
+    "fund_id": "HF00004BS8",
+    "fund_short_name": "黑翼风行三号沪深300指数增强投资",
+    "raise_type": 1,
+    "strategy_id": 10010201,
+    "strategy": "沪深300指增",
+    "first_strategy_id": 1001,
+    "second_strategy_id": 100102,
+    "third_strategy_id": 10010201,
+    "inception_date": "2017-12-26",
+    "price_date": "2026-09-24",
+    "special_tips": null,
+    "is_link_set": 0,
+    "primary_benchmark_id": "IN00000008",
+    "performance_start_date": null,
+    "is_show_index": 1,
+    "is_wealth": 0,
+    "subscription_fee_conf": "100",
+    "is_nav_missing": 0
+   }
+  ],
+  "integrityList": {
+   "integrity_list": [],
+   "integrity_string": ""
+  }
+ },
+ "profile_raw": {
+  "data": {
+   "company_profile": "上海黑翼资产管理有限公司成立于2014年，是中国证券投资基金业协会会员单位（登记编号：P1004419）。黑翼资产深耕量化投资领域超过12年，连续多年蝉联中国私募金牛奖。<br/><br/>黑翼资产是较早将人工智能技术应用到金融市场的机构之一，目前已将前沿AI技术应用至量化投资的全流程，并构建了多元化的策略矩阵，覆盖量化选股、指数增强、市场中性、多策略、量化CTA等产品线。",
+   "company_name": "上海黑翼资产管理有限公司",
+   "company_short_name": "黑翼资产",
+   "establish_date": "2014-04-08",
+   "registered_capital": "1000.000000",
+   "is_member": 1,
+   "member_type": 1,
+   "join_date": "2015-08-25",
+   "philosopy": "黑翼秉承多元化投资理念，即资产多元化、策略多元化、因子多元化，超额收益来源多元化，同时保持各类策略之间的低相关性，提升整体策略的稳健性。我们的投资理念植根于严谨的金融学、数学以及统计学模型。我们的团队中有精通统计学、机器学习和数据建模的专家，也有具有丰富经验的工程师和程序员。",
+   "base_currency_crc": 1,
+   "company_type": 1,
+   "manager_list": [
+    [
+     "PL000006HI",
+     "陈泽浩"
+    ],
+    [
+     "PL00000L6N",
+     "王磊"
+    ],
+    [
+     "PL00003UOD",
+     "于莉"
+    ],
+    [
+     "PL000006PJ",
+     "邹倚天"
+    ]
+   ],
+   "capital_paid": "1000.00",
+   "honer_list": [
+    "2023-中国基金报-英华奖-中国私募基金50强示范机构-复合策略",
+    "2023-中国证券报-中国私募金牛奖-三年期金牛私募管理公司(宏观对冲策略)",
+    "2022-中国证券报-中国私募金牛奖-一年期金牛私募管理公司(管理期货策略)",
+    "2021-中国证券报-中国私募金牛奖-一年期金牛私募管理公司（宏观对冲策略）",
+    "2021-上海证券报-金阳光奖-五年卓越公司奖（CTA策略）",
+    "2021-中国基金报-2021年度中国基金业英华奖-中国私募基金综合实力50强（量化策略）",
+    "2020-上海证券报-金阳光奖-三年卓越公司奖（CTA策略）",
+    "2020-东方财富-2020年度东方财富风云榜-五年最佳私募基金公司",
+    "2020-中国证券报-第十一届中国私募金牛奖-三年期金牛私募管理公司(管理期货策略)",
+    "2019-中国证券报-私募基金金牛奖-一年期金牛私募管理公司（宏观期货策略）",
+    "2019-wind-2019年度Wind最强私募公司榜单-最强私募榜规模10-20亿公司",
+    "2018-东方证券-东方证券杯私募梦想创业营-创.优胜奖",
+    "2018-Wind-Wind最强私募公司榜单-1-10亿",
+    "2025-中国基金报-英华奖-50强示范机构-复合策略",
+    "2024-中国基金报-英华奖-综合实力50强示范机构-其他策略"
+   ],
+   "delegate": [
+    {
+     "fund_id": "HF00004BS8",
+     "fund_short_name": "黑翼风行三号沪深300指数增强投资",
+     "raise_type": 1,
+     "strategy_id": 10010201,
+     "strategy": "沪深300指增",
+     "first_strategy_id": 1001,
+     "second_strategy_id": 100102,
+     "third_strategy_id": 10010201,
+     "inception_date": "2017-12-26",
+     "price_date": "2026-09-24",
+     "special_tips": null,
+     "is_link_set": 0,
+     "primary_benchmark_id": "IN00000008",
+     "performance_start_date": null,
+     "is_show_index": 1,
+     "is_wealth": 0,
+     "subscription_fee_conf": "100",
+     "is_nav_missing": 0
+    }
+   ]
+  },
+  "extra": [],
+  "msg": "获取成功",
+  "status": 1
+ },
+ "profile": {
+  "company_profile": "上海黑翼资产管理有限公司成立于2014年，是中国证券投资基金业协会会员单位（登记编号：P1004419）。黑翼资产深耕量化投资领域超过12年，连续多年蝉联中国私募金牛奖。<br/><br/>黑翼资产是较早将人工智能技术应用到金融市场的机构之一，目前已将前沿AI技术应用至量化投资的全流程，并构建了多元化的策略矩阵，覆盖量化选股、指数增强、市场中性、多策略、量化CTA等产品线。",
+  "company_name": "上海黑翼资产管理有限公司",
+  "company_short_name": "黑翼资产",
+  "establish_date": "2014-04-08",
+  "registered_capital": "1000.000000",
+  "is_member": 1,
+  "member_type": 1,
+  "join_date": "2015-08-25",
+  "philosopy": "黑翼秉承多元化投资理念，即资产多元化、策略多元化、因子多元化，超额收益来源多元化，同时保持各类策略之间的低相关性，提升整体策略的稳健性。我们的投资理念植根于严谨的金融学、数学以及统计学模型。我们的团队中有精通统计学、机器学习和数据建模的专家，也有具有丰富经验的工程师和程序员。",
+  "base_currency_crc": 1,
+  "company_type": 1,
+  "manager_list": [
+   [
+    "PL000006HI",
+    "陈泽浩"
+   ],
+   [
+    "PL00000L6N",
+    "王磊"
+   ],
+   [
+    "PL00003UOD",
+    "于莉"
+   ],
+   [
+    "PL000006PJ",
+    "邹倚天"
+   ]
+  ],
+  "capital_paid": "1000.00",
+  "honer_list": [
+   "2023-中国基金报-英华奖-中国私募基金50强示范机构-复合策略",
+   "2023-中国证券报-中国私募金牛奖-三年期金牛私募管理公司(宏观对冲策略)",
+   "2022-中国证券报-中国私募金牛奖-一年期金牛私募管理公司(管理期货策略)",
+   "2021-中国证券报-中国私募金牛奖-一年期金牛私募管理公司（宏观对冲策略）",
+   "2021-上海证券报-金阳光奖-五年卓越公司奖（CTA策略）",
+   "2021-中国基金报-2021年度中国基金业英华奖-中国私募基金综合实力50强（量化策略）",
+   "2020-上海证券报-金阳光奖-三年卓越公司奖（CTA策略）",
+   "2020-东方财富-2020年度东方财富风云榜-五年最佳私募基金公司",
+   "2020-中国证券报-第十一届中国私募金牛奖-三年期金牛私募管理公司(管理期货策略)",
+   "2019-中国证券报-私募基金金牛奖-一年期金牛私募管理公司（宏观期货策略）",
+   "2019-wind-2019年度Wind最强私募公司榜单-最强私募榜规模10-20亿公司",
+   "2018-东方证券-东方证券杯私募梦想创业营-创.优胜奖",
+   "2018-Wind-Wind最强私募公司榜单-1-10亿",
+   "2025-中国基金报-英华奖-50强示范机构-复合策略",
+   "2024-中国基金报-英华奖-综合实力50强示范机构-其他策略"
+  ],
+  "delegate": [
+   {
+    "fund_id": "HF00004BS8",
+    "fund_short_name": "黑翼风行三号沪深300指数增强投资",
+    "raise_type": 1,
+    "strategy_id": 10010201,
+    "strategy": "沪深300指增",
+    "first_strategy_id": 1001,
+    "second_strategy_id": 100102,
+    "third_strategy_id": 10010201,
+    "inception_date": "2017-12-26",
+    "price_date": "2026-09-24",
+    "special_tips": null,
+    "is_link_set": 0,
+    "primary_benchmark_id": "IN00000008",
+    "performance_start_date": null,
+    "is_show_index": 1,
+    "is_wealth": 0,
+    "subscription_fee_conf": "100",
+    "is_nav_missing": 0
+   }
+  ]
+ }
+}

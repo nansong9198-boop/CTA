@@ -15,7 +15,7 @@ import statistics
 from datetime import date
 
 RF = 0.015
-END_Q = (2026, 2)  # 序列末项=2026Q2
+END_Q = (2026, 3)  # 序列末项=2026Q3(data_list倒序还原后)
 
 NOT_PURE_CTA = ("中性", "指数", "指增")
 
@@ -111,14 +111,14 @@ def main():
     crisis_set = {k for k, v in hs300.items() if v < -0.03}
     for idx in multi.values():
         crisis_set |= {k for k, v in idx.items() if v < -0.03}
-    crisis_set = {k for k in crisis_set if k <= "2026Q2"}
+    crisis_set = {k for k in crisis_set if k <= "2026Q3"}
     info = {i["symbol"]: i for i in json.load(open("data/danjuan_cta_info.json", encoding="utf-8"))}
     rows, anomalies = [], []
     for f in load_funds():
         dl = f["fund_index_info"]["data_list"]
         if not dl or "percent" not in dl[0]:
             continue
-        rets = [float(x["percent"]) for x in dl]
+        rets = [float(x["percent"]) for x in dl][::-1]  # data_list为倒序, 反转还原
         if len(rets) < 4:
             continue
         m = core_metrics(rets)

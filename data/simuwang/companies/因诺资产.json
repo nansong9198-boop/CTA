@@ -1,0 +1,222 @@
+{
+ "company_id": "CO000003KY",
+ "baseInfo_raw": {
+  "data": {
+   "encode": 5,
+   "data": "ZEJXM1k0SitOQkdleHhDZ1BJRy8rTC9QZ0ExcjVvMlViODdtN3JqQ0dVY2M3czVBT1hDeGNEZkhocmlrVWJvOWNweG1EVDB1VGp2cXRkWC9FRUZIclV0cFp3VVBUL3hrbDdwbFkxcGpRZ29sV2M0Um5qdklUcW9sVi9KQ3dYN3dQWFFkL0ZyK3Y0OEJxN0JFaVhlY1NyYnh6SlNTUkgrYlhLTVppSEFsVlBHZE95NmtkbU1KZ2xLSFVoRWZNNEFNam5tOHA5a29ONW5DLzFKcFVtUlBIT0NtOE0rNjc0RVc1TE1KR3FOcExsQXA2cjlJZ0Z6bkpYUzJYMlZlb29OREtIRlJVRWVTMlFFNWQ1bmpTT0hnZFQxWWg0ZktnQWNrekkwM3NudldmOW5wZGhmd0dsTzZsUFVQTmVOaWkyRXA2bkx0SkZ0dEZvMWtVNjhablBnczdVYm12NHNncU1RWTh6RUpqb3dVUmVJWmRCbTJWbDcvdmpxM240a1ZWcUVnQlBHSGRqaVNhTEMrSk5BS09LeUlRVjZzcFoxTmwrRGp3ZzBUenhqRFZoelNIZlp6azgxNnJuc1FmMzFsQXBGQkV0clRtVjRic2VUTENDVVo3Rm1vbmp2eWFEY0tlSURRaFExUzMwVGYrS0d2NUZ5eC9Hc1hXNWV0eitQZlc0VmlrbTI2Y3o1bWUzT2Y4MGdoem4wZDhuZDRoaU5ZakhvMDdIcHg2d2Fsa25Cd1ViYTFtT3Vtcnd4dDh6ZmttWFlTNWQwS1RlYkZGRTUydlZ6ZzdjMzZjeElwY0hUSFM1NXpSSUJOQW1BWEFhTGlML0szOE5vYlJSRWNhQ3VtbjljdkZvYTlYTGFVOTRUQWtMenNSd0NEeSswU2RkRzhHenZBTzhic3h3YlNKS2poKy9YVW5VdVNxMEFVR2RKT044bXhUUDN5ZjdiNnUxOUxSdGJNMzU1VDhJNGU5ZUlVek1RV05BUlp2N3kyMndEUU1ta3RzQlNpbDhQbSt6SEtiMlRjMHhHdEx4NDZWK24vVUI5UkUzQUZ0ZGoyT2RaSVQ0NmRJSDN0RzdYZkRvUzJGSkFEdEllV1lTM0RRaTQweld2QndJR2NZcEFZeVVqSFhGL2dTdnVEK2ltOE1Kd1VMZnZEK1ZUN1NrTVNIUUM5Smp3YzcrdE5peDlkVkFic1R3OWVOQ0VPZm93enoyWGcwRU03Q1ZZOEdKNUZBRkxHa1Q4cG1IanJKTEtUU3hWVEErWnFVRmo5Zm5SSVNTd04ySGtRVVVKaDZDeisxbFNsY29GeG9vc29PZjFSbFNXZXV6a3hYeTBUdi9RMXZOUTdjeGJiSjB5WUFpNFQwVWNLLzlpZ1FMZ25McVBta1RMN1J2bWRQcTlsY0pXTW9DZ1lJQXpaWUsxTVVwSVB2V3dld0xROStONFVnSXppWUFvcEl3VEdkRVVyRTdWK3lpSmxIcmJDbjRicmloTUxJeG9Ua25Ba3R3T2xKeUNMQ1VsUnRFWjdDTXBIYUZBNDhCYzN3eVVpalIwTVY1WFRSY2drWlB4Ty9hT1JoVXdvcDJlaWZXd1VyQVp6MnYxR3hkdFlCV0NGSk1FVkhjQWhncWdUM1R5Ky9LU3o0eDNhSVZWRlNoVFlzRVhKZ2NRdjJ1VWJlOXUwNGthNllhc2VUeFN5Z0Q5aFQ1ZGdOQTNTcXRaN1NibDBsT2Y0R3JnNjRRZHUweE9WTFRPYjgwOVVLYVN6UlBuaUhhY20xMDltYTh0aEFVcGxBZm55R0dyTlZjbXJnUzVkc21LR0t4Q0ZpZUdTOENEY054NytBckdDWUNGYXBVMWdhUk0wRGtnZU9hNldvR0lQbndUL3QwdG5IY3VSNzYrR2Y0aVhwNXZmU2cwejdXSjhQWnNuRERYNG1RUXd0K2lTeFVFY1NReXR3eFdKemVSUEE5dDl3OXhvZ3pDSjRPSFdkcXF6OTFTU0xManUxY3NQT3RSbnQvbTRHVkFmYU9NRWxPYjFGZ211RzhoQ1FpZ2xKNzNmb0wrc1VzR1ppTnBlRU5ERDBxbmFSM0dweFVXMlVBSmJ4RzhGZlBrNlBpMU5QT05hSmdkNHlZNUtBcWJZTTg5SUZSNXF0NTk5ZlJJdHppNzlpaHVZYzYyc1NiWi9YTEwyYTBRRU5ORlBvM2FhV3pVdS9Fdk9jc1p0U2xzOUZHcHAvTjgzMVVrUlJhemorTWJOcHJ5SDRmSGVIbXpsTWt3UXUwdklCQ2pIeTB0OWx0VTlRVVJCUGtlaWowQk1tWTh3NXlZZllLa1o1KzJ1TnRJSjAvVUJYOGtpS2VBVmU5NHNlZGcwVnllM0t4amJjSWg4ekZyQmd0bTZQeTNSbXljc3lQU3RqWlFGcUk3VVhRbXRLRFQ0MVpPRmhOUFlFTlJCRncwVlpoa25EcmtqeFlSWlZvODdDUDNMM3lJSGw5cnVLKzM1cCtIZnQ3YkN2aHo0Y3A1UDYwMVdrR3hoTU92eGtDZDNXVmdaam1JeWlMVHEwV3libUdNZDFXeTIzQVBpTTk3QWErY3liSk5ia1MxdTNOc0NHd0tveXlLNjVhYldNK3lNUWpPOW5ZRklvaEZtS0d3NVBvck9MUDIvbE5QYjVHeENWaUpJd2hpTTBKWGZUQ0pGVCtaOW54UW9LOFRZbU9kZFNvTGVGbDkwcnBFQUpKc0xwdEZFcmgwTkdyWVpyRkttblljajVUTjUxbElIemJOalNlcysyK2pBakpZZ1NiWDMzM2JCa2krSGhzQkMvMlNSU2VSbWRBQVliVmJUdEFSRVRyVFQvQXZFWjBudlR2dytGSjNGTHYvTmMvTHFCMzNwSDFEQWFRUjc1S3dOUG12bmRxVDM0aFJma2lLSHozQVA1YTFDb2dva014RDBxbWVEWkVCRmdvQTBjL1Vpby9rRzIxSmpIb29HaExuaUNzTkFzekcyZG4vQ25HUjU2ZGZDaHYxc0dPTHJOc3ZmN0oyb1dROEpLc1lpNmJJalc3d2dvL1RGMTY3WERxc1ZyS1J0WTIvVDB3bWVwR1IyS1NCNWc3cW16OUQ1QzVOdTA2aHpFbU1hVCtGZVlKLzdEZUs1QkVNbVFxQUFaUDZWVVJTSm1YUmxKRVhUckRwcjY5My9uQXVFVlh1Q2QxQjFINmxWK25FQXUwcWJuYW1NVHJ1TXV5UHFlTXV0bW1yc3RCUC9XMmMrUGpzRERXa3NsNDdxTm03SVl0dVB5TTgrNG9xSTl6Um5yZm9EdGhFMmw1Z2JDeTlDWjZ5dnN2M1U1QldUMXBMdWd0MTVQRVpqdHJWOXVLUTEydDFQbFNQall6UjZzTDNxNFgvTXZaK3NYaWhqM3JGTEpqTWRCeHhmTGJtMWJQQTUyUTlOSkxJa1hLQmgycjJFMzkvcEJ0emNWRXpuM0thdStOTXpXTkpWT1J5U0FpcE9kWEdqQWZqZ29xMEp2WFJPdXdsaWVhVG1QcUtjZ1ZnUTQyUGRxM2wwdzJsdngySCtGYVVsUTFHS0NCNUszaElXbWNFeGQ4YWl5KzN1NEJlR3VSMkZaSWVMbCtQUm1Yc2E2LzBFUnRQVTdEb0dNQm5KYkVuYmkrNmZjYW5DS2RUNUZJV0xEWEsyY3dkb2ljVUlWYW1lNGoxYXVDR01XOHpDK3ZmSlVKR3ZjVFduMTNzZXE0WGMrNFhWMnpvVzVBT0E1S3R1WVkwMXFkOEg2eW1qOWoyeW1yNzZZYUtUc0ZjcXhMdDlER1FWU1Z5UmNNSTJmNmlMZnVUcCs2TWR5UU0vSDgwTTVBS25VQmQ0SjJXM2VnWE5SOWdqeWNZcml2MnJvcERjSmkwRFJiZ0NFTVkyTGo0R1NUSEYzbEdyM0IzNW1BTUFFdVlJbG56M1UxWFc1alhMcjY0TXozVDF5SmhLSUlsVm1LMmRGcFFlM0xWK0Z6UmJxcUpiczJJekpVM2ttcDdGUkY0anlRT0xvWnJpVkUzS1RGTE1zamNJaTh1cXBscnNUUFZTMEI4R0RzdXhsSHRrdjVZOFp3Mmc1SEZRY0NtS2Zsb3NGR3pTTDRwcHh5VWprdU5zclFOMnRwNE9tL0ZMeTZ0YzdTRWU4VlZIVDVEUXRNS0h2SFZJSG9IZncwVVdyTy9ueWx2bjdSUDUzb0J0WHg1TTlxK3k0cm9XdjFGSGpIWlYwS1RjTTVJRmxCYVV3bVBTZThWT1Zjb25CdWdCazc1U2hWOThzN0JEU3JUdkxmRUsvMkwzWWVaNEZQYUI2bk51WHoxUDVDLzdSOGpPZitDUEpIVmJVbVFYQVZ2VWRoREFhUjRHQ3NhZzBCZVJXczBzRDhQZzMyb2ZUWFN3cllyQURJMHI5VlJhMUxkeDlwT2hxRUYzcFZ6TFM3Mi90ZVFtRHBRSHhEdGZuOFRaSGI4NGxZTzREazVGTjRYaUpiSFlZR1h2VGh4MGxXaFZtSDM1WUQyWTVxUk5heFR4Q0VQeXkydTZmRzJ6eVRna2VTT1VjRnlzMmtkOHhCYmRtbHlGTVF6MjZLL2UrdXkxZ25lUHRaQ0JTbXFScjl5Zk9aV0lXazBlOExWMkRSTENLTCt0ZzlmMGswT1JUeHhiMFA4L1VKckFuZW1PalRTSU9QQ2tnTTI0MHJrajB0NVV2ZGl1KzI0TktLbjY5dE1HZXdLazFRV3JONXJENW1mYUNpcnZ1V2c4aW5udTFiR2t0cC9Qa3ZGb21PMnJiYXFndWp5VHZvaVZYTGJFNDRnUEdVVmtNaG1NTEJvenROUy9xSjNHcmpNbGpkYlJEaGUxOE5odlg2aGNuN0owMXh6a1kxZjNwUEFoRnFoV0JXd1I0Z25WUjZiRWwzNEpJbThtRk5RUTc4SjRueTJDY1gxQWgrTWh4SXhDek0rc1EwYklNNGdVWVdiMHlvbVhWWnMzbDlHbnYzMCtrME5aeG44OVZCT0lzQkxuWU5MV0pGY3luMVNqYm9hRmtKblZSbG5ZaW1GMkNvY3VJSU5NS1FkZHFQZ3RCT0VVQXZ5dkRpekV5KzlvdHFlQmZuSVNzTGZhdGxuWGo0SDE2UjF4anp0OEZYYUYxWkRteVc0eVFqd0hjMURsMmlsWFBHUkhFQ25iYUtWc1ZvY0tMaWRrQnJXekFvaDRVS2xUQ3pTbWFBVDN5dWR6T2ZIc3VNcDYyTU9OMXJ5ZVhrbFp5eDRwYzRLcCs4R1JhbzFRQTJxa3VvM25aVGNhTDUvVEM0RFlSaGdTdldZN1g4ODZaallNeCtSWGNxaWlNd09UR2FQUG4vanhMSjZoS0pnQjJxWFN6T1I1TmFwZjU1eE1hRytaVkpGbVhZQW1zY0lHV1pscDNVb0NHem1HRUxVQWQ4QlpMYVlNcTBzZmwvNXdKSGZCM1VOUkJtZUdXVWYzYUQ3SFVvSVpZWSs4eXBvKzZ1TisyeDQ3NDVBOGQ3QWFiSkUxTHJGUndOOExXbmFlRGpUaUtKRzlPL1RDQXJXZjVxb2tOUm9ZeVNLSFpRWHduRldUWVdya2pCSC9jbDlPM1QzWm9FUHlpN241OWlDdEdCQ21kdk1FSm14RTFNSmEwa004dVlsSzBlWGhuN1RVclBqb0ZQWktOMkpVNm9RaGp6b2JKNm1ZRU8vQ25IUmdRL2JSOXl3VFh0cW1nRmFMcjVqRDkzT1RkbmRSdnM5Y1EwNm54aG9leEdRdzkxUGJmZmY1YUtIbzVra05EOThlTUQ2MTZObDdNVlBXVkNOVHpNbkNkSENZb0tIcnpYWU42eUxiU0ZyR3FqaElHQ0ExTU8yaW5LWFRERFJlaGR2ZTd6SVBqVm55SHYzR2wzSDJod2lPYmlHN29IV3o1TlNMcURYdUVpUnJPdFJocDNQODN1eFl2UFFlYVYyZXZVQ1ZlY2FwT0RUOTBPQlB6TC9QZlN3SlFRUHMxU0oweW9TMXdUSDVEMkFGUWgvbjlURmkwQkNNTlFtZ1FqUVFoemxtM1c2b0FFWVQrZGlubG83TENDNS9kWjhyUkJia3ZrNHJ5eFpYNUZPZ3hzNGV1VUxlMVdyeC82eWFLYjNrdUMvYUs4UkVhNHBWeC9xRnEwOUpCUjBTV3ZINWlvRGRUS1VRNnd1U0dLZ2dpV2I3aTV5clpVajJaM1VBZ1dWSDRqTm9lTHNZbXlmZlgwK2xGcis1aTFCUFZwVE1CSDNJdFdPOUpvSmdpb1dZbHVpL3VhR2l1MGliMWZuenhIVHpGdlIxR1IwcEZaaUFhTU1VdFl6ZlF0WjRjSTg1ejBVVThpOTRHZ1ZnMlN0VUtOSkI0N0RYdVJPYi9tbUE2ZUZud0UxL05HZFVLRnpRamNaRVBBOUgyK1JrUDltazltTHlKOGJxa2NSeTF3MHpIb05lalhnaXRNdzFFRFNlTUpISkdDenBrK3ZibzRPOEEzNStORVpXVU1NSVcySU5yNG1JZ1l2UTA1az0=",
+   "key": "var _0xc42e=[\"\",\"split\",\"0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ+/\",\"slice\",\"indexOf\",\"\",\"\",\".\",\"pow\",\"reduce\",\"reverse\",\"0\"];function _0xe81c(d,e,f){var g=_0xc42e[2][_0xc42e[1]](_0xc42e[0]);var h=g[_0xc42e[3]](0,e);var i=g[_0xc42e[3]](0,f);var j=d[_0xc42e[1]](_0xc42e[0])[_0xc42e[10]]()[_0xc42e[9]](function(a,b,c){if(h[_0xc42e[4]](b)!==-1)return a+=h[_0xc42e[4]](b)*(Math[_0xc42e[8]](e,c))},0);var k=_0xc42e[0];while(j>0){k=i[j%f]+k;j=(j-(j%f))/f}return k||_0xc42e[11]}eval(function(h,u,n,t,e,r){r=\"\";for(var i=0,len=h.length;i<len;i++){var s=\"\";while(h[i]!==n[e]){s+=h[i];i++}for(var j=0;j<n.length;j++)s=s.replace(new RegExp(n[j],\"g\"),j);r+=String.fromCharCode(_0xe81c(s,e,10)-t)}return decodeURIComponent(escape(r))}(\"cccRGcgRgGccggGcgMgGccgcGcccRGMicGccgiGMiRGMRgGMRiGMiRGMMcGMMiGMMcGMRiGMMRGMMgGMMgGMiRGMiRGMMcGMMgGMRgGMMcGMRcGMMMGRgcGiRRGMRcGMRcGMMiGcgMgGMMgGcgRiGMRcGiRRG\",52,\"gciMRGYHs\",40,5,48))",
+   "id": "p1791343962211327385"
+  },
+  "extra": [],
+  "msg": "获取成功",
+  "status": 1
+ },
+ "baseInfo": {
+  "company_id": "CO000003KY",
+  "logo": "https://static.simuwang.com/Uploads/foreign/logopic/20241111/thumb_3252c411659431bccb54fb6daaaa0841.png",
+  "company_name": "因诺(上海)资产管理有限公司",
+  "company_short_name": "因诺资产",
+  "register_number": "P1006164",
+  "company_asset_size": "100亿以上",
+  "company_type": 1,
+  "registered_capital": "1666.700000",
+  "establish_date": "2014-09-24",
+  "register_status": 2,
+  "cancel_type": null,
+  "company_profile": "因诺（上海）资产管理有限公司是一家专注于二级市场投资的百亿量化私募基金管理人。公司深耕量化投资领域，构建了覆盖多资产类别的量化策略体系。核心投研人员具备海内外知名学府教育背景与多年行业经验，依托自主研发的交易系统和系统化投研体系，持续提升投资研究、交易执行与风险管理能力，为投资者提供专业的资产管理服务。自成立以来，公司旗下产品连续多年荣获金牛奖、金阳光奖、金长江奖、英华奖等行业荣誉。<br/><br/>",
+  "base_currency_crc": 1,
+  "company_english_name": "Innovation Asset Management Co., Ltd.",
+  "company_address": "上海市虹口区四平路421弄107号P467室",
+  "company_address2": "北京市西城区庄胜广场南翼18楼",
+  "employee_cnts": 117,
+  "fund_practitioners_count": 99,
+  "nature_business_type": 3,
+  "business_type": "私募证券投资基金,私募证券投资类FOF基金",
+  "has_consulting_qualification": 1,
+  "register_date": "2015-01-07",
+  "organization_number": "31247308-5",
+  "paid_capital": "1000.000000",
+  "capital_paid_rate": "59.999000",
+  "credit_code": "91310109312473085H",
+  "company_class": 1,
+  "key_figure_id": "PL000038CH,PL000038CI",
+  "key_figure_name": "徐望,王启华",
+  "amac_link": "https://gs.amac.org.cn/amac-infodisc/res/pof/manager/101000009437.html",
+  "cnt": 364,
+  "registered_city": "上海",
+  "city": "北京",
+  "rating_1y": 2,
+  "total_fund_nv": null,
+  "company_class_text": "私募",
+  "company_asset_size_text": "100亿以上",
+  "core_strategy": [],
+  "risk_warning": "C",
+  "ret_1y": "--",
+  "ret_incep": "--",
+  "ret_incep_a": "--",
+  "ret_ytd": "--",
+  "is_link": 0,
+  "is_direct_sale_config": 0,
+  "is_super": 0,
+  "super_mode": 0,
+  "link_manager_list": [],
+  "link_config": [],
+  "manage_fund_list": [],
+  "is_both": 0,
+  "public_opinion_risk": "",
+  "has_onsale_fund": 1,
+  "xcx_share_image": "",
+  "xcx_share_text": "",
+  "delegateList": [
+   {
+    "fund_id": "HF00002M62",
+    "fund_short_name": "因诺天丰1号",
+    "raise_type": 1,
+    "strategy_id": 10010202,
+    "strategy": "中证500指增",
+    "first_strategy_id": 1001,
+    "second_strategy_id": 100102,
+    "third_strategy_id": 10010202,
+    "inception_date": "2017-03-29",
+    "price_date": "2026-09-24",
+    "special_tips": null,
+    "is_link_set": 0,
+    "primary_benchmark_id": "IN0000007M",
+    "performance_start_date": null,
+    "is_show_index": 1,
+    "is_wealth": 1,
+    "subscription_fee_conf": "100",
+    "is_nav_missing": 0
+   }
+  ],
+  "integrityList": {
+   "integrity_list": [],
+   "integrity_string": ""
+  }
+ },
+ "profile_raw": {
+  "data": {
+   "company_profile": "因诺（上海）资产管理有限公司是一家专注于二级市场投资的百亿量化私募基金管理人。公司深耕量化投资领域，构建了覆盖多资产类别的量化策略体系。核心投研人员具备海内外知名学府教育背景与多年行业经验，依托自主研发的交易系统和系统化投研体系，持续提升投资研究、交易执行与风险管理能力，为投资者提供专业的资产管理服务。自成立以来，公司旗下产品连续多年荣获金牛奖、金阳光奖、金长江奖、英华奖等行业荣誉。<br/><br/>",
+   "company_name": "因诺(上海)资产管理有限公司",
+   "company_short_name": "因诺资产",
+   "establish_date": "2014-09-24",
+   "registered_capital": "1666.700000",
+   "is_member": 1,
+   "member_type": 3,
+   "join_date": "2015-08-25",
+   "philosopy": "因诺专注于数量化投资领域。因诺相信，金融市场（包括股票、期货、期权、债券、外汇等）受基本面、技术面、心理面等诸多综合因素的影响，金融产品的量价特点可通过统计方法分析求得，并在未来重现。因诺致力于找出该特点，并以此指导交易。<br/>",
+   "base_currency_crc": 1,
+   "company_type": 1,
+   "manager_list": [
+    [
+     "PL000038CH",
+     "徐望"
+    ],
+    [
+     "PL000038CI",
+     "王启华"
+    ]
+   ],
+   "capital_paid": "1000.00",
+   "honer_list": [
+    "2023-中国基金报-英华奖-中国私募基金50强示范机构-量化策略",
+    "2023-中国证券报-中国私募金牛奖-年度金牛私募管理公司(管理期货策略)",
+    "2022-中国证券报-中国私募金牛奖-三年期金牛私募管理公司(股票策略(包括指数增强策略))",
+    "2021-中国基金报-2021年度中国基金业英华奖-中国私募基金综合实力50强（复合策略）",
+    "2020-中国基金报-2020年度中国基金业英华奖-中国私募基金综合实力50强（复合策略）",
+    "2020-上海证券报-金阳光奖-三年卓越公司奖（市场中性策略）",
+    "2019-wind-2019年度Wind最强私募公司榜单-最强私募榜规模10-20亿公司",
+    "2017-上海证券报-金阳光-年度成长私募公司奖",
+    "2017-中国证券报-中国私募金牛奖-多策略金牛私募管理公司",
+    "2016-中国证券报-金长江奖-快速成长私募基金公司",
+    "2016-东方财富网-东方财富风云榜-最受欢迎私募基金公司",
+    "2024-中国基金报-英华奖-综合实力50强示范机构-其他策略"
+   ],
+   "delegate": [
+    {
+     "fund_id": "HF00002M62",
+     "fund_short_name": "因诺天丰1号",
+     "raise_type": 1,
+     "strategy_id": 10010202,
+     "strategy": "中证500指增",
+     "first_strategy_id": 1001,
+     "second_strategy_id": 100102,
+     "third_strategy_id": 10010202,
+     "inception_date": "2017-03-29",
+     "price_date": "2026-09-24",
+     "special_tips": null,
+     "is_link_set": 0,
+     "primary_benchmark_id": "IN0000007M",
+     "performance_start_date": null,
+     "is_show_index": 1,
+     "is_wealth": 1,
+     "subscription_fee_conf": "100",
+     "is_nav_missing": 0
+    }
+   ]
+  },
+  "extra": [],
+  "msg": "获取成功",
+  "status": 1
+ },
+ "profile": {
+  "company_profile": "因诺（上海）资产管理有限公司是一家专注于二级市场投资的百亿量化私募基金管理人。公司深耕量化投资领域，构建了覆盖多资产类别的量化策略体系。核心投研人员具备海内外知名学府教育背景与多年行业经验，依托自主研发的交易系统和系统化投研体系，持续提升投资研究、交易执行与风险管理能力，为投资者提供专业的资产管理服务。自成立以来，公司旗下产品连续多年荣获金牛奖、金阳光奖、金长江奖、英华奖等行业荣誉。<br/><br/>",
+  "company_name": "因诺(上海)资产管理有限公司",
+  "company_short_name": "因诺资产",
+  "establish_date": "2014-09-24",
+  "registered_capital": "1666.700000",
+  "is_member": 1,
+  "member_type": 3,
+  "join_date": "2015-08-25",
+  "philosopy": "因诺专注于数量化投资领域。因诺相信，金融市场（包括股票、期货、期权、债券、外汇等）受基本面、技术面、心理面等诸多综合因素的影响，金融产品的量价特点可通过统计方法分析求得，并在未来重现。因诺致力于找出该特点，并以此指导交易。<br/>",
+  "base_currency_crc": 1,
+  "company_type": 1,
+  "manager_list": [
+   [
+    "PL000038CH",
+    "徐望"
+   ],
+   [
+    "PL000038CI",
+    "王启华"
+   ]
+  ],
+  "capital_paid": "1000.00",
+  "honer_list": [
+   "2023-中国基金报-英华奖-中国私募基金50强示范机构-量化策略",
+   "2023-中国证券报-中国私募金牛奖-年度金牛私募管理公司(管理期货策略)",
+   "2022-中国证券报-中国私募金牛奖-三年期金牛私募管理公司(股票策略(包括指数增强策略))",
+   "2021-中国基金报-2021年度中国基金业英华奖-中国私募基金综合实力50强（复合策略）",
+   "2020-中国基金报-2020年度中国基金业英华奖-中国私募基金综合实力50强（复合策略）",
+   "2020-上海证券报-金阳光奖-三年卓越公司奖（市场中性策略）",
+   "2019-wind-2019年度Wind最强私募公司榜单-最强私募榜规模10-20亿公司",
+   "2017-上海证券报-金阳光-年度成长私募公司奖",
+   "2017-中国证券报-中国私募金牛奖-多策略金牛私募管理公司",
+   "2016-中国证券报-金长江奖-快速成长私募基金公司",
+   "2016-东方财富网-东方财富风云榜-最受欢迎私募基金公司",
+   "2024-中国基金报-英华奖-综合实力50强示范机构-其他策略"
+  ],
+  "delegate": [
+   {
+    "fund_id": "HF00002M62",
+    "fund_short_name": "因诺天丰1号",
+    "raise_type": 1,
+    "strategy_id": 10010202,
+    "strategy": "中证500指增",
+    "first_strategy_id": 1001,
+    "second_strategy_id": 100102,
+    "third_strategy_id": 10010202,
+    "inception_date": "2017-03-29",
+    "price_date": "2026-09-24",
+    "special_tips": null,
+    "is_link_set": 0,
+    "primary_benchmark_id": "IN0000007M",
+    "performance_start_date": null,
+    "is_show_index": 1,
+    "is_wealth": 1,
+    "subscription_fee_conf": "100",
+    "is_nav_missing": 0
+   }
+  ]
+ }
+}

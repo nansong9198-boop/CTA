@@ -1,0 +1,212 @@
+{
+ "company_id": "CO00000JLE",
+ "baseInfo_raw": {
+  "data": {
+   "encode": 8,
+   "data": "V052QXlpOERwemZGVHdMYy95ZHM0SnMxRmdjYzAxclFRTkhkYkttaFN3VFdvaS9ldHk0ZjNSN3h6NkZUZWRPUjNzNW92RXIwWjNlSHgwYzJFODBoZkxITkE4N2dMSlJoaUtQSXF2dHM5dDdDMFNJM0lKcUtIQjc1QzVKcHFGUFBjSlJCNDc4S3ZkSGRtaS9Vbk1MbHlZREVqSEFKVDlFTzRLRlJzTmJuWFJZWE9XNUQ5Snh0RlRFYkVDWENjNndhN3JMRTRHc3NnUUFMdVFyczNSRzVYWmtDUDZiYXAxMkxmYVY3Mm9sQ2grWG5idHRBejhyamROS2RhQ2t0L3pvUGNsMWp6UG9UWS90YWtsbGI4cGFFKzMxZnVCZDJWNzNHL1RGcXEwQnNuY1E0Uks0cHpOWVlUWUU4ekFKRHVzaVBxTnltOUR1QVRKTVBKOGg1NzFZWm02djljdCtTNGFVZ05YMVU2ZnNQeWFuL0pQZDZuaW1yV2FaZFUyc1UvMGRTTlpPYjJIaTFOL1NkRGFTSDNFMXprcDJGSmV3UVUrOW9xMkQ0UElGMmtLM0N2dVJ3L0pTQWRSQ2p1N1lza2orVjBXRUl3YXJRWWxWaXYwN1JPVERFZ0sreG91WjhJc3NzUlEzQjhyVjNjMHBNSUF4U0ZMQkcwcnJrc1JiTFY5R2tOMEVkODNOVmkySExoR2tsQ0hLK1pKbXFKdXNRWEhPK0tyZlN2bDZBZVFOcWJlNFEwbWVLQStSVDlONHI0MG8xbTE3V2JqMzVxQlNIQkV3Y0kvL21FWFBTMnVSTjE0cEFxamJvb1hJU29EL0VRa1BiVTNNdFBRTU0yVWd6YXg2bW4ycDJ2MjZCRTlBMDZEbGxwS0RvTlI3ZnUzaW1GVk9oY0M3dTd1WkF6aGhKcmRRZ1hFTXRhUGtRbWFnNTc5d2t1enpTSlc3K0s1aVNMSjRyenNSVFhob2dvb1JqL1Z1ekJkWUxSelpCSXdBUVEvVjZUdmxQRHFnSXJQWk9kbXFEeTMzdlB3cW1pY2tOMTI0SHlvWVNrNk83U1JzN3VLa1pkTjNUQzdyU2w0bDB0TUdsaStzNEQzTmRBMlRZSEdIUHpDUEhUQTlvK2sxaFI0bG1hWUI0NkhnMjVSczN6ZzFGbXU4VXgvalVHZkhkNzFWRTRva1VXUnZmenVYRXNFUldkSk1zT0x4Ylp1amhta0dkVmhPN0hvTWRXWnBoWVhzQ1hkY0txVXQ2VVlhazBFMndYaHRIRk53Q21KMHYvUUovbGpLS1pBRmozR2VTVDh6eGlxc2dGTGhVOXNwZTRSZE1hcVF4OGFQVlhVRm9WVkdrMVB0UlFGU0RINUtWcFFDWlVJU0Q1ZlRmc3AzR2IxclF1eUludjFpNnE0aVZhVWo2SnVBRDlHMGVZeDcvQkc1eFk1Z0xMT2VRbUVSK2JTcG4razF6dmVONXJVanBRT2k1OHZqdWRqWHFqV2RMQTZGQVNIZjF2cjhaU2dMYVJCWVZyRldmV25SeHVNdGpsQ0hMOHBOZ0NFT0NJZVNwd1dmblhvYmdhRnAyVXR3SFd3SFgxcDBWTGFWN3NiSUZpejFHV082Ry9UU1JmMjFnd1F2M3h1Vm8rQ2J2bG00K05lZWVJSlNSdXFlUXdyYjViM00wMjlBY1ZPNWhXZUcyZWVIdmU1NVpJMmowQ0JWVGQ4UG5EQlBOR0VkUWNzTWFYVlpKSit3aVlQbmlyV01sbmJXWXE5bStZM0VMb2oyakJFdm9lR20zTHdKaEJYRDlRMlE1Wi9lZFIwSnlva09iK0pyVENRVXNscHZQc0xWeEFCUzNPQ3hBZUZSSW93dzU4eVZydWoxMU5mV1VMd211b0cyaXdGUHZ5b3JDaGwxNWtuM0JhRjcyU0E3S0w0V1pGbEJlOEU1bVFzV0dSSUs0NUtFYmQ4ODB5RWNzWXptSU8zaHAyY0FjdTZzeW1wSlhSSGNKMnZLNVordGI1S0ZYdVE4UWZWUElJalI5T0FYQTdla0xvTUtQS0tjK1JUK0p1UHdYbmlLK0ZrU0pWbmo2V0lKN09US2JxWjJtUVI2d01lZnR4NWw4WlBaZjk1eHF3NkovMjI0b2s2K3dkdnloOEo0T2pKQUxLZ3o4eFZDSWtCTXlTM1h3K3diNEJDaGhIZ203QVFZM0FneFRsaEQreHZ6QmFDem1VTlk5TnY3ZFJDd2xtZWhlS3FxeGJMREhkWExSRE05NUFDZVl0VnpsQ2hsbzA4eFRVbEJXdHNwRGVoNWQwK2I0d3R2Q0ZQM1A3MkxoalQrWnZSZ0Vvc1ZTM2NFMmxIL3RGSStpVTJzYlMrWVd3bys1U1BVbnZPSVo1VUloU1NzRDRETGg3bEZkZU5YYWg1YStEdXlPSTB5ZXVLa1NMYkNqdkswMmVpcXdQbUdCNWRmYVdBekdhc0c1NFdWMHQ3NXkzb081U21xK0lCaDA5ci9TNWFEYkhMTmI4MWRQZllPRjNoekg4aXBMaGZIUC9YT0xtR1VqZ0VHWEJxYVlkL1lybDhlU0dLdTRhYm5YT3MrMEZGSzJlb0lMOFZPdFN5SGwvRVVYWE1lZlE0SVR2Rm81dlVmT3hFM3Y3OVo3ZXJWYlVobDN0YkpEUy9ucHkvMlhhSTN3Z0orbWVqRlpmUnpDYW9BU1hYNWVOWlBFbHZvdGdjRXY1bWpQWXpacXFabFdnNG9tdjlManF2RHZ5TWhmVGlTZDFGbnZXZ1orQmtaaGg2R0tXU1o1UEVjQjdtdWJ6ellUTkp5OHFNZys0TFdBMFo1aFpsV29DVitDb0tRU1dvODkyR3BJbG54SVhUNFU4aGxqK2F1a2lhVmtXM0pGSW9KYllkOTdIYUlzN2E3NzFMUW8rY3EzUm43cWpTbjIvZEYrMXRSeUhqZEtDNHRHV0xPUUpWbmF6U0xJM3NrUzZ2VHRPYkJpbFNzcnZzUVp2dHFNaVNVcDZEWTk5ODZJdjlnMW01d2poWmdrVDVhWjBtbzNPR3hCTFNpSWtaK1Y4REhveDFBVS9GQnY3VnR4cEkrTWQ5Nlo1MHN2SVViRGpjRjkzUldSbEFxMkZwN2pHNVg2emFYNUdlMTRuYk9oZEpLMmtKSWpCdGJ0bUNxblJ6Qmo1eWFNRVpmVzJsc1h2NUVjcDRDSERNMWRHeXBTcG9tcXk1eEVNNTdlQzVqd0d1Z1ZlY2h5dk9FOXN5NG9KS2dVY1hTZisramx3OUMyZ2NsVHJrai84dnQrK3R3TWpJU1haL0xncTFRd2JCa0xQYi85cVVqZHl5REh3WU0xTVpyQWc5dkhZOGNLTW1sT1NIeldhWlZrMFcrdy9GaTIwNXpEeTdnWEIxN2M1REMxVjg0QzNPQkp0UGtrK3lpZHJ5SWN5Wll2WnZnNzR5emhiQnVLdnEweWNnZ2t6c3d3a1JnSlZFR1lCSWlrSnY1OGN4ZmhVc2V6TDZudmlJNVBnVFJMQnFTSkx4WHAyNG4weWVRY3lvMCtxTmg4ZFMwYXJSMlZUZTg5cXFzUHJaKzBkU2RrcXhFRU4yR0pJWUI3V2pSaEtyNDRRQlVIM2JoSHVicnY4YjZ5blY4b0tUS2NjOWhiY0VtU2EzcG9KbVBscExYVFNhNEtiT2RSWDBUUktkV3p4TDNnR3hwOUZtQTMxVDhJYlplZ2g3T251NkluUEhLNHdkSVZYZVM4T282RlpSWk9ZSFpHc0FGbG1CUXA3SjhNR2pNMVU3ZkRSOTZpL3J1aTRIT3QwcFg3VUp0SHdQUmZoZ0cxV3k0N1U3OXFQZldKcVhVV2hIZHd0b0tkNTRzUjM0WGhsV1FBbWpOTWYva2ZmQnFqRElrQlNUWWlEUmFSdlNEYmRHSFBoUlpTeTFCSU9sREtkdGlMamloeVpkRmh4Z0ZodWZkRGZkS2RacG40TnRzYjF6Q3FFVHZidVNwWEdYQTR0WmEwSVB3cnlpNGVETklsNElkUHU4cWVuSmczSFZFeWlpcHNrQ2JZSDZ4MHFhNE8yakl5QXkzMlRVdHpNZmhtNzV6elpVblJ1ZDBNTUxmcnNHNGhHZUFUVVpkSitDM1lqRDl4N21UcFR2N1VTSFI2enpmK3QvTUdabFEwZmZYNXBIVEh0cUJudjVMUzk0eXpmMHpyeSs4d1d4SGlaZGtiOVJwQlMyL1R5ZC9jME50MlhjbndXMDVERlhSVmgveEtGR0R2MkVEdzhUb2pFazdQLzFTSFRTRjRhcDQwTmdyL005OSt4RDM1THUvL2p2NHFCZ2d2dzIyS1FKdG5hMTFLTTlkOXFkdzZiUllGTi9RWWxWbzdGa1dPTzQ0ZmsxVlBtY1d3TG5LVTlQVUZOTnl2M3JLNDlZenkvQnVwelZpMmptOXk1dHBHeSt3SmM1UTM5K2FxWk9FYkJ5VnpHVGs0UXZOQXRrV1ZoREhrbW9DbWg5TWliTnI4MnJjQUttTmtGQ2xMaHE2dEFQT1pPNmk2NzdsQ3BVd1hVb3hMVmxYWDNpcVFuZjZ0YW1mN3VUVjZnc1BRY2thekFsQ0QzVGJzMGMyZjQrbXFmdGNnRXRLaTFEM2NmcHIwMVpjMGpwNE1odEJ6eVg1VjVwRms3MThhRmY2RjR0Qklra3E2MFRiTXpKOW4rYVQ2UktYckNaR1d3UTcrU1ZOd3YvS1A3b21qM1p4YkVtRlp2ZmoxN09kcEhmdFZod1lJY0l5M045KzlnRHdkTWttMmMzaXI0UGxPMkFyQ1RkSzJEbHR5QllwZ1RrMGFBREorYlpQc1o1cW1KbHBLVmdzVlZraDBLbU9WNm9CV29TYWtwc1F0VVlFN1BYbU9QTFBXSWNlT1JNNFloMUxFZ2lXTmtJc0lTRmtMU0dXMWN2SmlNR2tzQjZwWFkyTktQN1RxV2N0ejdTN0FiUnhLcDZVdU5QRXI1OWZwMDNjS0c1RjJBeVZRNFF4cDRtMm43K09tb0xpdlVob3FPZWZvUkt5NVhBV2lWK244aVRLN0dEaEoxeWUyMWIzQmY3N25FaG1ZTTBIOXJYdFU0eUpwbUV4bGdDV0h4K28rNC9PbkdCczBaRUhaamxvem5NOUo1Yk1oT1R3MnVHUkJXOXYwc3o3MWxReUlFZkZtSkxsRGFWQmJ6NFFodWhIS1RmTmR3a2EvNmNFdXZEL2ZZWUVtUUJCMFFrQzk2ZHAwY0ZHSzFsNEp4OXdUYmdpWS9uZ2EzOFFyMmhmUGJadlRuV3V2bVBKbjh1aHpkVDZoOXB3ZWhBOUJEZWJ5R0pLVUpTMlptZXRiUU90eHpkNG5wcnJzT2pEWWhwQUE0NVAvVWtPbXQwQ2RUUFd5LzhCSjZJNUg4dEpNMWcrRVIxR1FDeXVtUDloc3RZMEQ2Z201ays4TmM5ZWxjVCtGeWRKMEx5SEluWmU0WXNQOUxUQ2lUaVdQQzJKeUc1T1ViUVRnL3hxdVB3MkVrcFRRQ3pYbmxmTFNqd3JRdkx4SWJhRXkyUzZQU1RhaldBazNTSlhHWXRjUmxjVzc2UkZ6OW5GOEFwYUg2b1JDTUFnRGh5ZWV2MFMrRzFQMjhnYWVvWnZaaFZoNUZ6b0l1OUF2N3h6QTB5YlJkeXlwRWpmcmZDdkxaZzVjNk5jdGJxL1FsaXZZZUFlMW9DU3pwUTlCcFgwOERadjhxQkVjdUFwWDdIWi9PdnRGRGF5Qlg2c2g1Z1hld2dHRnlsZ2htMndaM0FTTzFEaEQ3OUx5QVNkL0oyeFFMMmtHdWtrdC82V1RQRjMycm1qbVJpQXVhNTYrT2dyam9WZkVvQmM0NlhJVFU0d2F2OW95S1VpekRMTUYyYUR5TTYxZ1lkL2s4RG9RM0hxdFZXUVA5SHcraFg3a243bythcnp2Vk5ZK3NkaUQ0dGRZcDk5ZUJvLzFDYmEyU2xqQmlDS2lVWE96NzNPZVpGclRldFdLT1dEUEU3djVWYlhvTFlFQ29MTjhFQjRVY1p5d2hKazFJNWhJS1NSb3E4T3lILzREb0cwbjJ3M0JiZUJzb3o1Y25JcmpsbE5wSitBaFJFSnV0TWdTakUxM0F0NTlESVl1QlY1RW5zRnQwZWhTV09URnRVSTRMSVI3V2Fudk1ub25hSEpPMHdGMHFRYWtiZGFoUDBKNGZWUHZTRmpIb1U1YUpBTTNwQWlxTDZGcHN3aXNKU2NXQklQN0RCR2tuYmNRN2lkVUo0Vyt4ZFFQQ1JwcE5XSlZQb3o0QS9oTHJKakZFUlF1d2c4a09URUtUb2lYK3NRekJ3SmdZNWM9",
+   "key": "var _0xc15e=[\"\",\"split\",\"0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ+/\",\"slice\",\"indexOf\",\"\",\"\",\".\",\"pow\",\"reduce\",\"reverse\",\"0\"];function _0xe82c(d,e,f){var g=_0xc15e[2][_0xc15e[1]](_0xc15e[0]);var h=g[_0xc15e[3]](0,e);var i=g[_0xc15e[3]](0,f);var j=d[_0xc15e[1]](_0xc15e[0])[_0xc15e[10]]()[_0xc15e[9]](function(a,b,c){if(h[_0xc15e[4]](b)!==-1)return a+=h[_0xc15e[4]](b)*(Math[_0xc15e[8]](e,c))},0);var k=_0xc15e[0];while(j>0){k=i[j%f]+k;j=(j-(j%f))/f}return k||_0xc15e[11]}eval(function(h,u,n,t,e,r){r=\"\";for(var i=0,len=h.length;i<len;i++){var s=\"\";while(h[i]!==n[e]){s+=h[i];i++}for(var j=0;j<n.length;j++)s=s.replace(new RegExp(n[j],\"g\"),j);r+=String.fromCharCode(_0xe82c(s,e,10)-t)}return decodeURIComponent(escape(r))}(\"xjjpXxvjvXxjpjXxvvxXxjxpXxjjpXjpjXxjxxXjxvXjjpXjjvXjxvXjvpXjvxXjvxXjxxXjxvXjxjXjxvXjvjXjxvXjjpXjvjXjvpXjvxXjvvXjjvXjvjXjvjXxppvXvxjXxjjjXjxxXjvjXxvvvXjxvXxvvpXjvxXxjpvXxjpjXvxjX\",71,\"pxvjXdcTD\",5,4,57))",
+   "id": "p179134401216176345966"
+  },
+  "extra": [],
+  "msg": "获取成功",
+  "status": 1
+ },
+ "baseInfo": {
+  "company_id": "CO00000JLE",
+  "logo": "https://static.simuwang.com/Uploads/foreign/logopic/20180305/thumb_5a9cf63348ee8.jpg",
+  "company_name": "上海文谛资产管理有限公司",
+  "company_short_name": "文谛资产",
+  "register_number": "P1060697",
+  "company_asset_size": "20~50亿",
+  "company_type": 1,
+  "registered_capital": "1360.000000",
+  "establish_date": "2016-01-15",
+  "register_status": 2,
+  "cancel_type": null,
+  "company_profile": "文谛资产是一家专注于量化投资的专业资产管理公司，于2016年在上海成立，2017 年1 月4 日协会备案成功，2018 年5月取得协会观察会员资格， 3+3 投顾资格。文谛资产的投资领域覆盖了股票、商品期货和金融期货，构建了覆盖全市场、多品种、多策略的量化资产管理平台，拥有CTA、股票两大策略库。文谛始终致力于为投资者提供不过度依赖单一收益来源的长期可持续收益。",
+  "base_currency_crc": 1,
+  "company_english_name": "Shanghai Wonder Asset Management Ltd.",
+  "company_address": "上海市虹口区东大名路391-393号(单号)4层(集中登记地)",
+  "company_address2": "上海市虹口区衡水路151号前海人寿金融大厦1015",
+  "employee_cnts": 14,
+  "fund_practitioners_count": 14,
+  "nature_business_type": 3,
+  "business_type": "私募证券投资基金,私募证券投资类FOF基金",
+  "has_consulting_qualification": 1,
+  "register_date": "2017-01-04",
+  "organization_number": "MA1K36G3-6",
+  "paid_capital": "1000.000000",
+  "capital_paid_rate": "73.529000",
+  "credit_code": "91310000MA1K36G369",
+  "company_class": 1,
+  "key_figure_id": "PL00000MM3,PL0000351H,PL00003GT0,PL000041S5",
+  "key_figure_name": "周时和,周秀萍,陈晨,曹霞",
+  "amac_link": "https://gs.amac.org.cn/amac-infodisc/res/pof/manager/1610131040101654.html",
+  "cnt": 50,
+  "registered_city": "上海",
+  "city": "上海",
+  "rating_1y": 3,
+  "total_fund_nv": null,
+  "company_class_text": "私募",
+  "company_asset_size_text": "20~50亿",
+  "core_strategy": [],
+  "risk_warning": "B+",
+  "ret_1y": "--",
+  "ret_incep": "--",
+  "ret_incep_a": "--",
+  "ret_ytd": "--",
+  "is_link": 0,
+  "is_direct_sale_config": 0,
+  "is_super": 0,
+  "super_mode": 0,
+  "link_manager_list": [],
+  "link_config": [],
+  "manage_fund_list": [],
+  "is_both": 0,
+  "public_opinion_risk": "",
+  "has_onsale_fund": 1,
+  "xcx_share_image": "",
+  "xcx_share_text": "",
+  "delegateList": [
+   {
+    "fund_id": "HF00002G4R",
+    "fund_short_name": "文谛量化多策略一号",
+    "raise_type": 1,
+    "strategy_id": 100403,
+    "strategy": "复合策略",
+    "first_strategy_id": 1004,
+    "second_strategy_id": 100403,
+    "third_strategy_id": -1,
+    "inception_date": "2017-02-17",
+    "price_date": "2026-09-24",
+    "special_tips": null,
+    "is_link_set": 0,
+    "primary_benchmark_id": "IN00000008",
+    "performance_start_date": null,
+    "is_show_index": 1,
+    "is_wealth": 1,
+    "subscription_fee_conf": "100",
+    "is_nav_missing": 0
+   }
+  ],
+  "integrityList": {
+   "integrity_list": [],
+   "integrity_string": ""
+  }
+ },
+ "profile_raw": {
+  "data": {
+   "company_profile": "文谛资产是一家专注于量化投资的专业资产管理公司，于2016年在上海成立，2017 年1 月4 日协会备案成功，2018 年5月取得协会观察会员资格， 3+3 投顾资格。文谛资产的投资领域覆盖了股票、商品期货和金融期货，构建了覆盖全市场、多品种、多策略的量化资产管理平台，拥有CTA、股票两大策略库。文谛始终致力于为投资者提供不过度依赖单一收益来源的长期可持续收益。",
+   "company_name": "上海文谛资产管理有限公司",
+   "company_short_name": "文谛资产",
+   "establish_date": "2016-01-15",
+   "registered_capital": "1360.000000",
+   "is_member": 1,
+   "member_type": 3,
+   "join_date": "2018-05-07",
+   "philosopy": "公司以科学的量化投资战略、先进的量化交易技术和成熟的风险管理能力为国内外投资者和合作机构带来优质的投资服务体验，以追求长期可持续的收益。",
+   "base_currency_crc": 1,
+   "company_type": 1,
+   "manager_list": [
+    [
+     "PL00000MM3",
+     "周时和"
+    ],
+    [
+     "PL0000351H",
+     "周秀萍"
+    ],
+    [
+     "PL00003GT0",
+     "陈晨"
+    ],
+    [
+     "PL000041S5",
+     "曹霞"
+    ]
+   ],
+   "capital_paid": "1000.00",
+   "honer_list": [],
+   "delegate": [
+    {
+     "fund_id": "HF00002G4R",
+     "fund_short_name": "文谛量化多策略一号",
+     "raise_type": 1,
+     "strategy_id": 100403,
+     "strategy": "复合策略",
+     "first_strategy_id": 1004,
+     "second_strategy_id": 100403,
+     "third_strategy_id": -1,
+     "inception_date": "2017-02-17",
+     "price_date": "2026-09-24",
+     "special_tips": null,
+     "is_link_set": 0,
+     "primary_benchmark_id": "IN00000008",
+     "performance_start_date": null,
+     "is_show_index": 1,
+     "is_wealth": 1,
+     "subscription_fee_conf": "100",
+     "is_nav_missing": 0
+    }
+   ]
+  },
+  "extra": [],
+  "msg": "获取成功",
+  "status": 1
+ },
+ "profile": {
+  "company_profile": "文谛资产是一家专注于量化投资的专业资产管理公司，于2016年在上海成立，2017 年1 月4 日协会备案成功，2018 年5月取得协会观察会员资格， 3+3 投顾资格。文谛资产的投资领域覆盖了股票、商品期货和金融期货，构建了覆盖全市场、多品种、多策略的量化资产管理平台，拥有CTA、股票两大策略库。文谛始终致力于为投资者提供不过度依赖单一收益来源的长期可持续收益。",
+  "company_name": "上海文谛资产管理有限公司",
+  "company_short_name": "文谛资产",
+  "establish_date": "2016-01-15",
+  "registered_capital": "1360.000000",
+  "is_member": 1,
+  "member_type": 3,
+  "join_date": "2018-05-07",
+  "philosopy": "公司以科学的量化投资战略、先进的量化交易技术和成熟的风险管理能力为国内外投资者和合作机构带来优质的投资服务体验，以追求长期可持续的收益。",
+  "base_currency_crc": 1,
+  "company_type": 1,
+  "manager_list": [
+   [
+    "PL00000MM3",
+    "周时和"
+   ],
+   [
+    "PL0000351H",
+    "周秀萍"
+   ],
+   [
+    "PL00003GT0",
+    "陈晨"
+   ],
+   [
+    "PL000041S5",
+    "曹霞"
+   ]
+  ],
+  "capital_paid": "1000.00",
+  "honer_list": [],
+  "delegate": [
+   {
+    "fund_id": "HF00002G4R",
+    "fund_short_name": "文谛量化多策略一号",
+    "raise_type": 1,
+    "strategy_id": 100403,
+    "strategy": "复合策略",
+    "first_strategy_id": 1004,
+    "second_strategy_id": 100403,
+    "third_strategy_id": -1,
+    "inception_date": "2017-02-17",
+    "price_date": "2026-09-24",
+    "special_tips": null,
+    "is_link_set": 0,
+    "primary_benchmark_id": "IN00000008",
+    "performance_start_date": null,
+    "is_show_index": 1,
+    "is_wealth": 1,
+    "subscription_fee_conf": "100",
+    "is_nav_missing": 0
+   }
+  ]
+ }
+}

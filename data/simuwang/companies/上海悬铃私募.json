@@ -1,0 +1,231 @@
+{
+ "company_id": "CO00000UUZ",
+ "baseInfo_raw": {
+  "data": {
+   "encode": 7,
+   "data": "czJxR1IxaWZ6enZEN0ZZd0cwaHAzWXlnMkN2SUhuTXdrajdzUzhPVGJBaW96d1FNZm9zWUd4Z2FTYldwSy92N0lnWWZMa2EyZlBXUFdFcVpHZ0pGVkh3dHNLcndCUWZLWklZQjNza3VaMG95OXFTT3B0ekVEcmtxdTkzOUJaYlpFaHFoTUZWanRZUUtlWlA2NlRvalU4Rk4vdW8vVEp1RXpuNHFmQTFEOEFPb1BSV1lsTVZxVWFSZGJ4MG9JVFJuRm44Sm9vOUszQ0lBOWtNSVdrMnBvZWdVdTlWcW53UmtxUUcraU5QZGVLMDN5SGRwdml6cjUzT3Y2NS9uNnRyTzBtYTJrdWRWLzBSWCtmNlkyNlZlRWhubjVFc052MnZtNHYyblMxWllkSGU4S2w5Q1V5RTMxd3lqdU9RTDBSWWRRa3MzZ2JJcXYreXFKcCs1V2NGalExL05DOTdON0p4MDZpeGNBMVZ0Q3NjYVZHV3k4U3VVTXR5UFJZcU8zWDRqUExyRDJnNlYrekp5bEVQeUhreHZKU3lxbVE3aXNwOUljaWlCSTlGLzdLVFlPMnlrTDVSbTlOcVZxdnJaWkZ2MC9MNTJhRHNpYUJnbE9sOGpSOFJZRzlTNnF2SDBQZFovQTgwRWZWOHdreWo0Q0NYd0xVYWZGYXo1SkdaVGJJYmJzZTJlOUIvNFpWamZIU1lPakw2ZGI5YmlVU0YyQVRVV2ZPTzVpeU94a2NTU2ZQM1UzdVlEMVpvUUpvOXhWRFZKZklnM1lOd01qU3pYYkw1TWRoaXVQTFlReDdVRE14M05WRnVoTkc2VC9oVVpFamhEcjVxZVBGc21FaUpkOUJBRzhTK2lqZTRjdjRWcDd0dXhKYm8vWUlQdkovdFRGYXpiTkVlMW1sRjJtVjdXdXlNL0Vjajd2RGEvM2czL2pvdFBxSVN2M0VGZ2tRL3Fjd3BqdFM2eFpKY3NYYktZQUdENTh1ekxsMENIZHA3WURDTTZSbXhZTExvYWp1aFZST09reFhxL2JaZndINTFNRUNtdTNiWURxNG5TVnBZZ3d3N3FYWXYxTWJ4RjlkNE4zazBuaHJLWVZrQmpwcWpqQ1RjM2taeWtBalY5VWwzSGkzTng5dkNFT29EM2xhSzhOdi90WHJoNzduU3hEL3Jkd3dDb2lvNjlac3lCNU8waW40Ujc3RWx0cG5EU1RHcVdJUmoyejZPZklrVDRrdUZwSEt1eUtQNnpjSTNNeFZVOFExYUJkNENUaDR0WlJTSzQzOEVoRkRiazFieUwzKy92V3pkWjdlVG14b0V3TU9tOWJ6cWRXbXNoVGdhdHpjdEJqR1FqOENxeVJDODJzL3BNTGpqVXpjSk5lVVd6N29GQkM1SERldmhTY3BBNnA3S3RuVFNJWUZBYjZiR2FoS0t6TUM2S01FNGZIakF3bFFZK1E2NWkrZlMvd1B4bnhoMTVmSk1OWjVaNTUrWW0yVWNjWjZ5K2xLVU5UTmhuVXIwdDU3N2gzWTNLY0FjRHFBbGtyeUJDVVBIL2JjT1Y0bGZaQVYvdzBQSWYwVld1WmhYa0FYUk5xVDc5K3pSQzRaN0tZakJENElNWXdINFI0N3dlMHFiNG9NNEZ6bC9qWjEvTmtWRzRUUk92N0MrbGJtRlNPVitjNGlnMkNER0R6OTRmcDB5ZE9RdUtsdHRwa2RIYjhBZkxOcU9SYWRuZjh2MVh0K2xOVWtHYXlJd2xEM0hrQ1pEN2V0RWNJRFVVeVUxVVNYMmpXZjJHaWpKcnhsL0s0WmFydTBpNWJ5c2k0QU1OaDVtMFpyaDhiczFzZWdIU1hLK0EwOFJmbG9udW5TRHpNYmtscWg1TWQwakFJa0JSQXdyRHpxWFZCTTNKMHFIVXRpWE9tV0JMbk9VbVdqcSt0UW1OM2l3US95YjByTDlENGZyOGxZU3pwQ0tZVmt2Z1V2Zzlray9MZEZqRlM4NFZGdEozUlkvMUdkbGZLQzJPdUhTWmVBRmVxNnZLb01FR2NZMWtQVExCdjA5OThGeUkyamNzWGVwVWlMSWE1Q3hROTBCOUlCcDR0WUdMSXVNTFFSbkUrZUNXOGZZTFp4bzZuRlA2RTVXTXFXaUQzT1h2dFpILzhnVEtxcXY4N0lIRTBIYm5FVXdYZE5iNHd4UlNOS0w1STRNWVRPTld4dHNZOGd3M0lkZ1dMTVZTalcxQ25tTXZmck00dzBWOUV1ZUZOWFA2ZVgxMmdDZm5JZmZ6S0oxdWhIRHk0NzRNZXY1RStROWtGMDM1TDNkQ210aDZiZGN1SmNLZGNxc2hnMFpBcDJXTUl4VHp6elVvNGhtWmhDeE9PYWF0WXNvZ0tzNFZTckNNcEpjU2g5R1VxTVdrbG5IazFCc0I5amU4cXBMNjJDemhBd0gzQTN2NSsyc21UNjA4OERoM0s0NXNyZk5NeTZ3Q2lqbDRQTVhUWTRLenZWeGwzRGx0RDI2VGpSVlF6aVVDYmNtTGZvL0N6UnYzRDlFZktJVUhmbGhOaGN6U0tVTVdHR1JjYlNweUJkOGVsWDRsbGJpblBRT2xWRGNaaUtvYzJjbHhHOUNRWmJVQ2hFN2FOaDBxNElvWkt6dGk4TldVSUF6MkpiUll4K2EvYW40UU9yT2VHU0Eyd09FK0ZpKzhVREc2bXBsVEpOYnhMaWdyaXkwRThTSmlYTUpOdEZaYVMzcHgwZmswZThxaGlsWGU5K1hZK1dXV2pjMGN4aTdocFVUanl0cnBSUUFWSm9WWmNKaVZpK0Rub25rTGpOdUlmc3NCS2RqVkVyZGNZajcwVlkyOVJudHZpcHVydGFvWCtlcnUzZWQ2RmI2dWVVNjdBYVZOWElZTEhuREIwV0V5YnhRMVVXcmx6VTcyKzMzQmY4Vy85SlZPaWRhWHMwNUdnQkZBRlJuOTJPejdBVEVsM3pHa1lITlZOUkZWMjloVGhmSzNJKzBlZks0b0w1R3JNY0M2TU9EOGh1OHY4R1QrNFNWNGtDZTJDcEswMkYwRmNIaW9jRjFXSEd2cFNYMnpGL2UreklhSzJhVmMvL0VuM2NRcjVST0Q3WjBSY0kvblE4OHRFS291STlTWm9wQlBuWURNTXdBZVBRL2lYVGhNeVlyS1J1VzVVb0M4ZmJ5bUNUQnllcFd2VFJIVk1wb0t5R1JnaFdIaHFqNE5oZng3ZkRQMEtGc3EzK1RGb085Y0trMGhQWlFSa3ErNTBxaUpCQmg5VGlVSnZuQjdkVTV3MWVoU1R4QkROQnZTVWR2eE5pK0lzUFRxRDNCSHUvUmpqcS84dzdJcUplWXg0RTdYajlYZDFFcFR0cVNFWVFDZnloVEE1TEJOTkZLR2ZHM3VweitXNUh5cnc0RmxMemlKTDlzM2pkL0tNWW1GRFBlYk9mZ0pQVlZac1ZMaHdCVzRKY0tjRlpqWEV1TTlWa0JZdVIvZHlzYXluMnEvYXBTV3MzU1FqTHpKWGVEcFVVK1oxeWF2MWtXYWhRandzUVhXaGZrdzRQSVJpUFBQSGg5ckVmaDBWV1BhRUIwdkhRN3FlRTRFYUlRUy9YQmY2MVI2S0dmQ0EzVDJlaVc4a0lEZzlBQzd5UnVsYk0zWlJrQkJFRFM5Y1F5UE9seXRqYU1nQzdHRHRKYnk1TEcyZ3FFN3Mwd1ptT2Nqa2JLSEJHS0ZWeFJrQnUxbER3R1JpcmxpUUczRUJsby9HTkZhSk9DSFVwdmViNFBZb212TG9ES0haSDQxNXJWQXJWWmEyWnc3ZVA4amNMOEMzSXZrSU5qTTExUTZiakpkRlpHME5OZ3pBdDBFZXBBZVlxdHBxM0hDNUVaNnc5SHVRdjFBT2pQbkx0Nk9oc0VjajNZbDBWRDFCRlRXYThTMU9ham4rcWZuWnB5Rm0xZjJqN1NhTFBWVm9OQXNYWGVVOFRNYU1BYkY2V1dMV2NHVmJUcS92T1RWdktXNkpIYi82TWVYVUlFMFZzSEpvbjVGTmtVcm1OQXpCa21qaFlWUGhCUWFMN2s0bEd3RDVxUDdCbXJIV2QzM1EzL2dhRGVEck93RnBYZnpQTWJvd1JOVEZXaUlPOUZzck1VOE02MDVmaUc3QjJKY1czdnFEZ3FZRHBOR09lZEhUSmN1Q1hiU2pZMlRzcVN1YlZxcXY5Vk5QZVBaYWhLdnBraGU0M3V5MWt0TjBmMUdScTJBVjE5Q2xIRTZMY0FCQmRyYUg1TVFCWUFWS1VqN1EvbXpxdituVGwzc2lCYWhRTUJIQ3VDcjN6L0FNMjdqMU1sVkhoY2ZSOFp4Y2hVOG9hVXpCTi9GUXNHcDZ5Q3g2VjhZVUhIVWVCZlYyOUZOWUtFSzR0VXcySU55K2dycWhDbXFscnhIUVVaOEM0WHpXQnMzOUo3YUttN3FTUWVUOGtvRWRpYnp4bnYxMWYwN3o2OFlHRkEvVFFHTi9QT2tZdGtvMm51SmwxVU8vd0tFbVlZSHgrd3h6SjNiRjZyR2ZXRTgyMEFCUmtZb1FTWDRuVS9mRWZBNkpDdFVKeDlkMmxpcG5raUlTM0JyZURPSW5JQlhDUW0vcGJwM1Q1WkYxUWo3VXBPVXMrY3pOcUF1eDdlSGpCVk9NNXpSenFEL3RHNXYrVE4yNnVTMURhL0NGNGlCS3dsM2JQQng3QTAwT296L2NJZFVIWnljOVhqaW9FcEdPbHVpVmtmYzFxbFRZUlJVYjlhSlkxZjNpU2lEOXN2SUdRM25tRHIxZENYdnBFQzU5eHk0TWJIVFpaZTdhVWlYYS9LaEhIZENnUVR3WDNJWVpjTGZhdWhMSEtwVnMrd3NUMEo5Z1YrTUUwdGFHVCtGZzNmQ1oxdmpRU1hnNDU3Yi8vaU9LUG56K2NTSHRqekVRbWxKdE1SOWYzMCtpSTZWanBtanVQclBEL1ZEdUZqaEkrRjltbVV3QkpIeFJnRGg0NTd1anllYTNNc2NKdzR5YThCYThnYjZnaGhMb2FaZ3VlMjVmRzBkdllZMUg2aGRjMjNtaHM3RXl5YVgwSmRRZWc4T0J1V3BldDQ5WCtuRlIyMVoxbWZEa3VFZ3JpV2hUSEdLR3FSVTdwTW9SVWg0TktrRFRMczloOHJTOTUwSWV1R3NpVXlKa05zU0FoRkpMZzZxTGdrSzBrMnp3Tkg1Z0lRRWZNdkFUS3diaGRjT042aEJma0M2Rm1qUkVKQWtKSTFZaURsSUlSdGYweDVYVkR2RktmVDIrOTBUMFBjSGY3OCtCZ2xxVjdYcTZRbFN5bU1FbWZOTWdlT3hoRnB6Tis3NFFYR0xXc3lZbUV0enB6eDFWOXgvNndIMTVvSzBKWjQ0MDc1UWpNL1pFRm9MOElHKzJWRWdabFFMNnNrQ1M4RHpjcWxjZmpsSFVXaUxORUdWRFVRVkJ6NDZTSWJ4L2xMeWZLcVY3UUFMMkloRkdHNzRRcGo5ZjZIRXg2Y2pFL2UwMzEvcUY1dWhydTVqQ0hOdXhkMW90NUduNGlGWVZpKzZkTXFpSCthRXpVR05QK04zY3JYc21rN2d0RXlvQk50QmRRVjliSW9tZWFhUzZqM0hoc0Vka3BSU0JzcTJ4VFcyZmRvZnFYTVBkeTFIV2R6U0wxMWlUNmNvNy9ydXozM3daWDVKY2dVZ2NnVHo0TnN2YU1KQjRkZURHL3FHbmhlVXB4dTh5U2dmUjIyQWZMUTN4ZTJLNldMOHpnSFZIQjU1aWVxZTgxTGFGeHIzQWxKaDQ2RkJmWHczcStmV1ZjakxWaUtRSFU0UXNLWW5Va0w1WmhhdUI4Y0J1VjVOOFRJREJ6QlIvdU9NMDNBUGtwclZLNDNKM2JTYXVOTy9pZE5hajJiYkJLbDY1OGg0bldaZTA1YnQwR3VvRnBRR2s1c09jVmx3c094UjNRMHhlZlhCUFA3YURYdjlqMGRSN1Fhd3NIQjZLd1UvZFZ4bjVwdmhFMmxoQ1dmdWFlalIwTHZ3UEJmRUpKcklkdjZOZ1U2UHRHRmtCVERqTkV2WVFjV3lmLzhTSXJKdE9IMjV0L3JJNXAwMDdBandOb0FySUlKQXhSOVNVak10NGR4MXN2MzNuWnVsY1NmVjU1YmFTcXk3bDdlWkFYQy8zMkdqNWZDNFFFQkU5UEtQZGVJQnNhOUsvMUV6aFhnaTFBVWJrSVc3REczTXpNSjBSd0Y5V0owSUxaNWFHcDJjUG0yYm4wMXdsdmI5R0NXUkE5cFV6UnRuaE5tNE00WW1MRlAyck1mSVZ1ME1NcmlVbzUycys4UFVTcEtzMzZVYm5tR29DSE1LdVlWd0c3cStCVkErU21wY0VMQkp1MXRRcnd6YXB4Z3VRMkJlMTN6WVd1Nm1SUk4wV0FBeUUzc2wzUTFRczF3U3dJY0QwS0xEcXFqYlBMS2tCVUNlVTVWdTZhNHhVYWEwVXUxK01zL1ZjVG0wUmMvYmlxUmZqNjRISWVhQ0ZiZmFDc21jY1YwbmlnZHFUZVhzbDZ5ZXdXRW5KR1d6RVdVTFlIZ1ZVeXd3OTc5STRGZ2dsY3BIN0tGenc4MGFZaXg4QUJFb1ZwWXF0NmVjYUFHNmhjTTNTYS9Id0JWK1VqN1ZDaG1ER1I3N2xTcGZrUEtRbTNCZHlQUEhJZVppaVVCbDJnNGdWWkg2RmwxdnI3UC9YKzRmVk5hRFkvd3pKdzhLOTUyQTdRbzVZdnlUc3V6SGdlNTduMm5TVGF4dFgxdVFSUTZTNzNoeG5hZ1dVQWx2cHc0Q2lKY3kvMjVZYTcyemRDQmJkL3B1azNFZkN3TGRWRWJnSFFFdkpQUkgwMUtCWUEySStlQ0lKd21QL2FjNUliUGN2TS82M2oxVElPLzdGVm5HbXc0SHRidTM5Ukw2bTlDSjdTQ0JReG8wQ3BsK3E5alM4MDI4UnVpN3hva2I2YXNlQzIwNTBjM0gwc3M2QnVCMERzOW80VERqbkNlNjFmcTE5YjU1ZUd5WEs3MUZCc0djM0tVdWRvQkhhU1ZKUmExY2NwRG9YYVhwMDBpUitYc0wzUkhlN2VHYnZDYzFwTnc9",
+   "key": "var _0xc5e=[\"\",\"split\",\"0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ+/\",\"slice\",\"indexOf\",\"\",\"\",\".\",\"pow\",\"reduce\",\"reverse\",\"0\"];function _0xe19c(d,e,f){var g=_0xc5e[2][_0xc5e[1]](_0xc5e[0]);var h=g[_0xc5e[3]](0,e);var i=g[_0xc5e[3]](0,f);var j=d[_0xc5e[1]](_0xc5e[0])[_0xc5e[10]]()[_0xc5e[9]](function(a,b,c){if(h[_0xc5e[4]](b)!==-1)return a+=h[_0xc5e[4]](b)*(Math[_0xc5e[8]](e,c))},0);var k=_0xc5e[0];while(j>0){k=i[j%f]+k;j=(j-(j%f))/f}return k||_0xc5e[11]}eval(function(h,u,n,t,e,r){r=\"\";for(var i=0,len=h.length;i<len;i++){var s=\"\";while(h[i]!==n[e]){s+=h[i];i++}for(var j=0;j<n.length;j++)s=s.replace(new RegExp(n[j],\"g\"),j);r+=String.fromCharCode(_0xe19c(s,e,10)-t)}return decodeURIComponent(escape(r))}(\"fcfSDfSffDfSwwDfSccDfcSSDfcfSDcSwwDfcScDccSfDccfSDccffDccSfDcccSDccccDccccDccScDcccSDccffDccSfDcccfDccfSDcccSDccffDcccwDccfSDcccSDcccwDccSwDcccSDccwfDcSSwDfcccDccccDccfSDfScSDccSwDccffDcSSwD\",24,\"ScfwDXiMy\",33,4,31))",
+   "id": "p179134403915739673623"
+  },
+  "extra": [],
+  "msg": "获取成功",
+  "status": 1
+ },
+ "baseInfo": {
+  "company_id": "CO00000UUZ",
+  "logo": "https://static.simuwang.com/Uploads/foreign/logopic/20250903/thumb_e35a7aaa18a5e22c62fc5eddc2054af7.png",
+  "company_name": "上海悬铃私募基金管理有限公司",
+  "company_short_name": "上海悬铃私募",
+  "register_number": "P1064634",
+  "company_asset_size": "20~50亿",
+  "company_type": 1,
+  "registered_capital": "1000.000000",
+  "establish_date": "2016-01-29",
+  "register_status": 2,
+  "cancel_type": null,
+  "company_profile": "    上海悬铃资产管理管理有限公司成立于2016年1月份，于2017年9月份完成了证券类私募基金管理人的登记（备案编码P1064634），于2021年11月注册为基金业协会的观察会员。<br/>    公司是一家以量化套利策略为核心策略的私募基金管理机构，对多品种、全市场套利进行监控，对各品种进行深度挖掘，从“广度+深度”双维度挖掘套利机会。<br/>",
+  "base_currency_crc": 1,
+  "company_english_name": "Shanghai Xuanling Asset Management Co., Ltd.",
+  "company_address": "上海市崇明区新河镇新薇路56号11幢",
+  "company_address2": "上海市浦东新区南洋泾路555号陆家嘴金融街区4号楼708室",
+  "employee_cnts": 17,
+  "fund_practitioners_count": 15,
+  "nature_business_type": 3,
+  "business_type": "私募证券投资基金,私募证券投资类FOF基金",
+  "has_consulting_qualification": 1,
+  "register_date": "2017-09-07",
+  "organization_number": "MA1JX5WC-1",
+  "paid_capital": "1000.000000",
+  "capital_paid_rate": "100.000000",
+  "credit_code": "91310230MA1JX5WC1F",
+  "company_class": 1,
+  "key_figure_id": "PL0000244D,PL00003KGI,PL00000N63,PL00000N5C",
+  "key_figure_name": "钱昕,王瑾,孙玲,钱亮",
+  "amac_link": "https://gs.amac.org.cn/amac-infodisc/res/pof/manager/1701161209103763.html",
+  "cnt": 74,
+  "registered_city": "上海",
+  "city": "上海",
+  "rating_1y": 3,
+  "total_fund_nv": null,
+  "company_class_text": "私募",
+  "company_asset_size_text": "20~50亿",
+  "core_strategy": [],
+  "risk_warning": "B+",
+  "ret_1y": "--",
+  "ret_incep": "--",
+  "ret_incep_a": "--",
+  "ret_ytd": "--",
+  "is_link": 1,
+  "is_direct_sale_config": 1,
+  "is_super": 1,
+  "super_mode": 0,
+  "link_manager_list": [
+   {
+    "company_id": "CO00000UUZ",
+    "direct_type": "2",
+    "type": "6",
+    "personnel_id": "",
+    "position": "市场总监",
+    "personnel_name": "孙玲",
+    "link_name": "pp003438952",
+    "chat_num": "0",
+    "official_user_id": "44aK13gqQRNlQVXvwoaNoYRAnLW7Xztu2nii",
+    "avatar": "https://static.simuwang.com/Uploads/service/Member/generateIcon/auto/f3b503a2c113dd0eeeef3e0cbb33d3af.png",
+    "link_id": "4NaB17gvQ6NvQpXMwKajogR0njWrXp7gnhbg"
+   }
+  ],
+  "link_config": {
+   "company_id": "CO00000UUZ",
+   "direct_type": 2,
+   "user_id_sort_set": null,
+   "auto_group_method": 1
+  },
+  "manage_fund_list": [],
+  "is_both": 0,
+  "public_opinion_risk": "",
+  "has_onsale_fund": 1,
+  "xcx_share_image": "",
+  "xcx_share_text": "",
+  "delegateList": [
+   {
+    "fund_id": "HF0000BGF2",
+    "fund_short_name": "悬铃和鸣多策略1号B类份额",
+    "raise_type": 1,
+    "strategy_id": 100403,
+    "strategy": "复合策略",
+    "first_strategy_id": 1004,
+    "second_strategy_id": 100403,
+    "third_strategy_id": -1,
+    "inception_date": "2023-01-09",
+    "price_date": "2026-09-28",
+    "special_tips": null,
+    "is_link_set": 0,
+    "primary_benchmark_id": "IN00000008",
+    "performance_start_date": null,
+    "is_show_index": 1,
+    "is_wealth": 1,
+    "subscription_fee_conf": "100",
+    "is_nav_missing": 1
+   }
+  ],
+  "integrityList": {
+   "integrity_list": [],
+   "integrity_string": ""
+  }
+ },
+ "profile_raw": {
+  "data": {
+   "company_profile": "    上海悬铃资产管理管理有限公司成立于2016年1月份，于2017年9月份完成了证券类私募基金管理人的登记（备案编码P1064634），于2021年11月注册为基金业协会的观察会员。<br/>    公司是一家以量化套利策略为核心策略的私募基金管理机构，对多品种、全市场套利进行监控，对各品种进行深度挖掘，从“广度+深度”双维度挖掘套利机会。<br/>",
+   "company_name": "上海悬铃私募基金管理有限公司",
+   "company_short_name": "上海悬铃私募",
+   "establish_date": "2016-01-29",
+   "registered_capital": "1000.000000",
+   "is_member": 1,
+   "member_type": 3,
+   "join_date": "2021-11-12",
+   "philosopy": "以较小的风险承担，获取确定或者比较确定的超额收益或绝对收益。<br/>",
+   "base_currency_crc": 1,
+   "company_type": 1,
+   "manager_list": [
+    [
+     "PL0000244D",
+     "钱昕"
+    ],
+    [
+     "PL00003KGI",
+     "王瑾"
+    ],
+    [
+     "PL00000N63",
+     "孙玲"
+    ],
+    [
+     "PL00000N5C",
+     "钱亮"
+    ]
+   ],
+   "capital_paid": "1000.00",
+   "honer_list": [],
+   "delegate": [
+    {
+     "fund_id": "HF0000BGF2",
+     "fund_short_name": "悬铃和鸣多策略1号B类份额",
+     "raise_type": 1,
+     "strategy_id": 100403,
+     "strategy": "复合策略",
+     "first_strategy_id": 1004,
+     "second_strategy_id": 100403,
+     "third_strategy_id": -1,
+     "inception_date": "2023-01-09",
+     "price_date": "2026-09-28",
+     "special_tips": null,
+     "is_link_set": 0,
+     "primary_benchmark_id": "IN00000008",
+     "performance_start_date": null,
+     "is_show_index": 1,
+     "is_wealth": 1,
+     "subscription_fee_conf": "100",
+     "is_nav_missing": 1
+    }
+   ]
+  },
+  "extra": [],
+  "msg": "获取成功",
+  "status": 1
+ },
+ "profile": {
+  "company_profile": "    上海悬铃资产管理管理有限公司成立于2016年1月份，于2017年9月份完成了证券类私募基金管理人的登记（备案编码P1064634），于2021年11月注册为基金业协会的观察会员。<br/>    公司是一家以量化套利策略为核心策略的私募基金管理机构，对多品种、全市场套利进行监控，对各品种进行深度挖掘，从“广度+深度”双维度挖掘套利机会。<br/>",
+  "company_name": "上海悬铃私募基金管理有限公司",
+  "company_short_name": "上海悬铃私募",
+  "establish_date": "2016-01-29",
+  "registered_capital": "1000.000000",
+  "is_member": 1,
+  "member_type": 3,
+  "join_date": "2021-11-12",
+  "philosopy": "以较小的风险承担，获取确定或者比较确定的超额收益或绝对收益。<br/>",
+  "base_currency_crc": 1,
+  "company_type": 1,
+  "manager_list": [
+   [
+    "PL0000244D",
+    "钱昕"
+   ],
+   [
+    "PL00003KGI",
+    "王瑾"
+   ],
+   [
+    "PL00000N63",
+    "孙玲"
+   ],
+   [
+    "PL00000N5C",
+    "钱亮"
+   ]
+  ],
+  "capital_paid": "1000.00",
+  "honer_list": [],
+  "delegate": [
+   {
+    "fund_id": "HF0000BGF2",
+    "fund_short_name": "悬铃和鸣多策略1号B类份额",
+    "raise_type": 1,
+    "strategy_id": 100403,
+    "strategy": "复合策略",
+    "first_strategy_id": 1004,
+    "second_strategy_id": 100403,
+    "third_strategy_id": -1,
+    "inception_date": "2023-01-09",
+    "price_date": "2026-09-28",
+    "special_tips": null,
+    "is_link_set": 0,
+    "primary_benchmark_id": "IN00000008",
+    "performance_start_date": null,
+    "is_show_index": 1,
+    "is_wealth": 1,
+    "subscription_fee_conf": "100",
+    "is_nav_missing": 1
+   }
+  ]
+ }
+}

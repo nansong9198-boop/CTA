@@ -1,0 +1,200 @@
+{
+ "company_id": "CO00000CSV",
+ "baseInfo_raw": {
+  "data": {
+   "encode": 10,
+   "data": "TjhhOG5SQnI2RHdEcitVQ1JaRGhzaTlXcGVpaU5oUE9qSU1WdkR5OEl3SzdhVE15am0zTU9rTHdXTzMwNFE0d3dhczFBTEpmNEl3aTRXY2ZDb05SWktIS2kzTkgzQmFPZjZVc25HNjFGNlZWdG82NFFRRzJIQUNRd2RrelpranZSSGtGMU9xUmdUZWZncEF2L1I0K1Mrb3NFdjBhVFYwNWlxK2Rna2w0RUJ3YXhhMGRwdEZkMEF6eUl2NzdyVEhYT3oyT0gvMElnMThiUEM5bk8xT2JSSEgramJ5V2FtL2ZpcENJYWZ1bkVzSysrbmtmUklwNjVBNUdyRU82ZFdGUVNRdEd6U0l6S1NvTUUwcm0xbVBhd01iU09ReHM1YmlNYi83UkpjNlJsQjdFSDlGWEd1RE9PU1gzWnBsZXFWRCtKV1hlM2ZrekkwZHBoM1Rmb3NZTXFHWk9sRzVIRk80YWNtanlYL3NOY0F0bFlKVS9kazMxYzhYQU5OOVYxdzZVeDRiNUU1enJtdG1pNkxqYXk4VlE0akVyUlhIMTJFRGQyUFg2eGpnUzFPZzNwZmRMU2tXM1VScUZ0ZnZkditrTkttejh6L1llU3lBKzBJMjZIeG0yRENTcExMdFNoaVArbTI3ZnllNnBjK1k3cmdrcE1XcklORzkwT3B4N0J4L3lucXV1a3lhcHlGOHM2NnVyQ3ByTnNKaFZWQUNRbGl1NzRXVWZITkVLNVlnblgvK1lxSVU3K2c1WEpuRThhakZpTzJ4MVpkNjRlWUF6a0hXaE93dkorZi9JU3h3SnVXWEg5UjZCMHdOL1Y1UGdVYmFWeklrbjh6SFc4K1lTdUlManJHZy9NMjVXcDRvbkJXOGorbGNJeWpXYStCbjFhcnpvQnZzTk9SSThwY1MvUVI2WkJZdFNyVzgwVUZwRWZpV1NIKzV6cGxsRVJmUWxNZnQ5M0ZOb3pVNmVSTWxKVVRRV1FJS2pMRjl1RzQxazBpYXdQWlFNcTM4dFExdC9Ba3Q5YjBxWGRjUTE2Z1ZrSVRrbjJuU25zRER4c1p4Wml6M2NFTEduRnp3TVhndmtIbkhOMklXMnVXeTh3cFlsZG53c21aRkNMQTA5Zm5tNjQzWkJuNDQxUTFlSDVEYXY5UTV5dEl4Zm10UVRONmNlMjN3YmhqdWRFRUNRTkplMEVMdnkyQnQvMXcyYmlzdUM1NzJiSmt2NURkeHQzNmQzeEVFaVBDM2hxZWhpN04zVUJGTCtmNXVBYzhjQ3dMeno0R1NKQzJPdWgzeld2QU5zcFRCYmx2bEo2azNjRWhQNVF1NUdtRGNRWnJWTWZMM3N6QmIxUTltTHJ0Yzlwb1U3ZWdNMmUwSTNTb3FidFl6TVdIREllZ3NiR0NkKzZENXBvZDZqSlVCYTdQNW9UaUJpc0d5ZTgvUUR2aHAzRTdncXJnbVpKZnJwcDJjcWZ0S1pRZS9sR3VKa1loaUJiV3JkOGRtV0pDc0ExZlcweUZCeUZrVlFEcmRIWStIWmtoN2Qya1lrK3ZwVHA4ODdxVE0zL3NYN1RkR3RoSm94bFhEVkIxckRwKzFFY2FqR2lqamRuQ3VCdzA1QW01VTVIcnU3U0dIVW1IZ1RrUGdMaVdUYXZ2d2JhOFVoRjZZa3NUUS9DWkJndzA0VEpScFFzeGwrOEVYdWtUejZTanpkWHFWa2JmVjdsUmhES1c1NW4yM05NWkJjM1RXRFYxZTQzejlTVldQZTI3NnpPT2VVZUZEeUhKb3d1TmJBYTlGN1p2STBvMUpCeVFnT2t1UjA3M3hud2VKNnVzQkx2b3cxaEI3VmFIUFIvSVIyYUQrdUl3Ty92SDBCbldiNVVkMEY2MVMyL0sxZm05ZkJQdXNZUklzVkxoYXc2a01HWTM1SnFJZk5SZVJMTDdYWWpvazN4a3BGQW9SNEZ0R25neWxoKysycVFhTXhlL3ZuMG1zTW44Rll1VE9LMFhSV1dIL2E1WFp1b0RLQVVtWXlaMk8wYnh5NUxjQ0k4MVRyajBoR2t0c0w0bXZheCtmU05NT1RCR01HRW9sZElHL1lSSUx1WnlYblZ3NG15bXNHWHgwTHlXK1JpajFqRkd0U3crYzMvR2RjQ0h0OUJnWDZOdjRvSUJoQlpTcnNsV0JEWVFPZWpoU0g0SXU0OFA4L3hyWTZwK3RYQXNPNzhHVmp4WmhFMjNTYnVDeW5XQU4xSytWV2VJYjJVczd4eksyVzdabDlIZGw2WGE4akpOVHZKQjE1cWRwSlVVSkxLVVpiZFB3VlVUVzF0dkRaYXJMaEFhWlRhN3UvaHZZWmhVeEVnYSs2eU45NHlhY2pBK0Y5enR0eUpzZVZQR3M5MlNHa2hXREhTejNNQ3ZzYWtIcHYrZ2pnVEJOSFBxRWpDNkNyb08zbWJFZVQxOEFPeDdCQWU3b3k3ZXRGQ0laM1BYU0ZJb01hL1o5amtnOFJ6UTFDcncrOHFBbFBPTG5YWGxoS1pGOUZBVnBsaVErZUpyL1laRzB1VTQrcUlyOWpibng1WnZMQStpQXY2bzFtZUpJRk9jTjIxenFtZWcySC9yYmN1Y0JiVjlaNGRHT2dheDdSRUJ1eUFQRlhsTk9DMUxzSVVUVEtwUkV2YWdHbUNwWXowWURuaC9Hc3VGT2EzMStWbjdQNE80SHpRWk1EU3YwbDRndElTZmFKS0RyUkNaOEFrbm1oeHBKU2VJdm41d08yc1lGUWVYNXlyUzVML0cxZGtCSkZLWTkybDdsOGUwQkcxQkdtY1NaVWdzRlBJb3MyZ1d6ZXM0T3JHcjBzMjh6UDQ2eVR3TkI0UEF0ZGgrbE1GTjU2dUJJWmw3N29FdVRSSlI0YUxNblNGTStTcHN4L3owUHg0Zld0NWc2NjFScFQ5cU9FaTUyWWJ1Y2xZdzl6ZXRHWTAxMFVNSjdCdzN3RHJ4bFNMeGUxMlZZd2FJTW42M1FaOEVrdHBzSmtGaVFGU2RrdFRxb2pwNzJVK0NzQzYyZG5EQndTOTRGZzdDNXlMclROYW9VMjFySGxzSm5US0tXQ05lU1BvZ01UekNlOXV4Z3B6Y3BadTJBVmNNajNoVEIydktTaDcza0FmSXFaSkFPcmVPdEk3cjFvVVZJSFQ3Smx0cWpGVngrbG55RG82cyszQWNaWHVHWGkxc2xFSW9LUWFCdjJHSG1wWDBRZ1Q2cE1tV0NQdHdNRmJ4NVArRE1QU3NDR0JLVFY5OVNOWThVS2tTak54U1VWb05LejFmN0Y4aCs0V1NxdlEvMzcxNytvRU5HOHlvZ2Q4cjduQmROcmVTd3gxekphSStjUDBPb2VLdFN0U3h0c1hIaDR5QkczMURPU21mVmdqbGNmK3lmVU9ramROOUlrQ29sM3JncjROOE92SDl0Zkw3WnZvSGRXWkpjQThDUDd0TjBQd3IzOEtzYXR5THFYclpQd0hPUXBIbGZyd1RwOGkvRjZqaWZ4TmFFYTdyYWxod2FpUjlSNDgrWEtSKytRbUZyeDFQUDlqaWk4Rm1FRGw0Y2tuUm9QejlEY0xKK2xjVmU5WEJYU3d6N0ExdW5sZnRKVW14RktBZmcrcXBEVTZPNVQvTHZyUGQ2ai9EQ21HY0oxRlBld1pXL1FOVzIrOFhScENLY2ZsKzU4WHpDY0dvVlk3NG5INjVVbTNVdVhrYkRqMk42aFBxd2h5c1VNOTJpMWZrZFlyYWl1anQ4cXIvRnVNeTM3bmU2dXBHTllTTSt0Qng3MmVISkFUOWEreVFubUFaTk8wMGw4UkI1RS9UWGhDeTBnRnljMGxuNzNYV2x2K1FuZm1ZNkhwRzQ0Mm5xOWdmQk1PNkY5YmZZQWVqQVdIVzNHdjVYYThBZVVyaDhSQ1VDQVptYUV3VDJTTGRUQWIydWV3bGVkNnBBMU0rNGxsNW55eGU4ZGx4MG5RUWFHWk9WbnVIUGZzMTZrRXNTWEJJYTdUMnNTWW44a1ZhYnFRLzBROWJkMHZ0S2pZd1NxSGVpRmJwUUFMMmhFYWMxV1lLMGF1aSs5Z2dTaHFUWkVSK3Y2L1Y4cktUVzNrQ3JNQmloUysvZEJScG5RMXQyZlhmdkoyVWFMQlBlUWlzOUh5dUNqSDRUL0lURk1HNFRQT2plcTRORi9yUVBwUUJlV1ZYMFJVWjZHcXRGb01qTUhxektaUStROFF5U014SzRhZ0crMldVVmVLdmhRc21sWEs0dDhlK3EvT1RBREorSE9QYS8yQzQydWZNWU9idGtITWlyV3lyb2M1V3Q0R3Zrb1BiRlcxRjN3aS9CZ284ZHRFdk5nU0JUaU83dXErYVZmL2ZmeVBjV3NiUDNzNlRiazlqR3RKcXFXSzhaczF2TUZVQlVDSHNDcUsvYlBYaDlzQVpxM25wWmk5YmJVWERJRXNxV29FRkM4RWN0SU10eXhEZG0zVWZKQ2srZ2duRk9KUlB1czJBbEF6ak1mK2ZZbm9mUE8yV2cyN1lBbkNmakNpZ1dscE5SZTZXV2xVVFR6ajlWNmlYamV1UWpBakczdTdjMUlEbG9JV2lsQTdTU3FuMGk3ampaVEE0ZWRYd3Zzd3g3TXUxbkdpbG0xVjVHY2k5V2ltS2VndGozZnQ1SC9IakEwam5aN0JZMmppajdnSjFlVlZoV0Z2VWNPUC9kd0p1bkUwZXV2T01qdXhGNEJLMTFwaHFKd3pjTmVEamx2Vmo4SjlESVBQakZ5UGdsOUljV205Q0tjcktoTnU4OXh0NkdwMWdSSWtleUZVb0h4ZGlwKzM3dGVJV2ExVVBrd2I0aWdFSC9FK3gxNU5CbHJQQ1F6dTIrR0ZqVjVKcjAxRkRZYjNUNHZsWHZaWVRpbmJGbUFYY3FPRHkxY2NEakR1eHdNbW9hS0xUbVE5L3pweWordzk5eEdicDd5Y0ZyVTdGdXMycUszcUJXNTVjc1AzQ3NOekhEMXN5M0pFM3kzTFJseUFmT0xsMGM3SjRGUDhrMy9YT3RiZU5YdFRsL3BLaE93ZkpkQ3FOM2llUFp1b0hBQ3I5M1pza3lXMnFXeTV2R2s3TVBFSi91THpobCswcTBPQnFUQUh1c1dLRlh2Z0hHcytoUnhWUTZwNlJXWGdiMlM2RS9OclZhU29TZkhwMjI4Y3pPelozVXVXSkVUWEpkTlF3bmFiT3NWWVc2eFBLY3p4QURCR0lnR0ZKZEExZUVucmRXMWNtOFF0dStWVDlPZVpZaDdrUFl1TE9VNHkyem9zbTNlZWRhRDA2OXlUT3Q0bzJERXhiVVlYK2hGUDlHOW5sK0dKQTBMakxlVlRUK0RVQXYrSGhoRlRRN1hKTDUrMzlqaXlScVNrYStPcVY4Y0ErZXFNb2wvL2lFQzYybTVBQzhSZUozTVM1aFRSWE1nV2V5MjZOTTdRTFJJS3pmOXZKZHhaRXdiU3U5aWFtOUk3UUw1d0xWaXNuWngwQXhGdE9jZjRIVDYyUU9ydDBFU0JEcUxwRkdvWDMzaXRJemVZNWVYRVl3cWRlMnRSSTFpZG9Ja3BiNllKUzRTcURtUDZpU2dVNmpFQU5MZTFvSzVUbjg0YnY4N1ZQcGRNS2VQYnRMZmVoVjNHOVpqMjFHVWhFeFY2ZG1JTEM2RGlPT0RlRTRzV2cwWEh6ZVo5VFhEQmhBN0NwZ0ZNZHM3T05MMkhBWFNHdnA3NFc3L2xVeVN0Wk1WazN4NjdUVnIxbUNLK2VtMzFlSWErME8reU1kd3lOWGZpc0hGZFlEc0pZOG96OEZLaWs0MHd0aitQNkgrT2xHTGxYQzBnRnlRcTE2ZCtkKy9Ha2QxN29SUU1kb2pGQW1scVY1MitNRDNmN1J3UzJOenluQlhiNTVxUy9aUEFVZW9PajNKUWJxRStBR3VkR1VsSWVIZm5hTm1KekdlS05Kd0ZrNEw2UXZmZHVJT21VWjg2bEtobUxCSjJsVCsrdm1ZVlNUQzREYlIxRUVLeVllRXlybnZtRmQ1QVh0azF5clVDVlhZK2l0dENiMVlhb01DMkRVcjdvWDM0NnZyYXUrcStFMmNNd2ZlR09MeVB4T05QNXB3bitBMHVMdldmUUJzS1Jxd0tHYlB2RXFid0lRQW1zQ1IrZy9YbW14RXluR2xUaFNyWUVEVmpZbkxyNEgwRlVNOXVoKytkOXJvbmhGakpSRGVaTnV3Z3kzSGlMeS9HRHNXTVBvWHZJcEprN29yTGxhUS9XZHFiQy9VcDc0ZXBPYjVIcW1pMkRCSWpWL3FGckNCck5UVDZBSHdaTGNFV0dJMVlvU0F4blJiakhJL3F1dE5nMXdXNFF5dDFiSEk4Nmo1ZkJXSUhZZHpreXByenlFd3pJdFBWdGlCYkluMmRJVmFPSVhTZzA5bTBkdXNBU2RlT3Y4L083UllON3JVOVVma3lCYUE0RUw2czdJam9kRm1mVHVtaHV5aFVUK1BSdFhkbzl5djZVSncxQVVmQW1mRXdOTXFLOUZPVnkvMUVvWm5tcXJlcHZjNEt1OXM2Q1krS0RLM3p1d2V3MHZFZUxjQjRUK2pNTkwySWpwalduS2ZXTVpUQkI0YmJtN1NTMkM4cGRBN2k3SytYM3A5c211d3RPRVdkV2NVRHBDY2ZsNUdVb0M1VWVCd1NTNGl6Ymx0dEs2L2U1Q29RS28wcnZ6MVNQNTErQy9nQktNc0NvVFV6QktSZmZub1BZM2tlSjBKamU3YnR5bFRJNzB4eGs3b0JSMDJld3ordmNBUmgwRVl2N3lNaUlkUkVPRy95c2p3Rlg2eXhranBEV2dxcDJhcXNGS0hLSUlENkdlSkYxY1FPWlVLTHI1U0RqT29Wb3RYVjVaZkVjWnNJTzVTWEowMWc0Wml2NUFqQ3lYQ0N2RFF6R2NSZjZZQjlHMml2dXZGOE84VWFwZVU5Mk9lTnFmL3UzbXVxNUJWaVh6RGl2MXNLeTRpWXhYKy9TYUNRYUJkM1hKYmZFUjIyRUVxd3FPTllQL1huMGcxd3c0VHNtOHAzbWhFNHROcnllZ3BKTUVxUFMxMTZqbnRDYjZKQ0hMNlk3SzdlTHU0Vk80UlQvVUZkc3NjYTRFTnJQaTJOZjA1aDJxeDVSSTdRM2lqcWdXSFlYN1J3N3lTL3l0N3ZsUlBJTlQyeGpteVgzMlVpZ1hPajFnaURsSVAydnBKdFNUWXRTcVB2Mk40aFNEUUJ6Uko1ak51dlNOYUgvWHJZV2RhRFlOWDBwWUNvTXQvNGhLeWF6UkxzN0ZUZUd2eWtIemRwYTRFUDF2bk1Ma25vSDZUaWI0bm9GNkZtSnB0ajdWMU81ZGFiVmNSUjlSL1NGRitTNTc3U2ZoMEtaOW85dkVVMG5vTmVHdDM0QTIvYUtOU0lrZnFPL2xKcHg4L2FiYkUvMDBrU29seS83V1RhdzU1eUhxcHZneUlaQmxTN085QVJxejdlbVY4U0NSbmhTWTZ1ZVJwWmhoTkxRRSt2eGNsVG5KMmVzZVQ2T1ZoRC90MFlLbGRCYjl3bzBJZm1KSkcyT0pYdUxuRXpPeVpzbU84ZU9TSFVSUUNLeXIxUVBTUnV3emRMaFhwVitSWnIwTVZjYjlkZnhnSU5ya2JoZVNwL05pcTZCWVVkU2NiNkNNK28ydnNHaE85VGVkVW9xL1hPOXFObWUyb1hoWjh6YU8zclZJM2NsbWoyUFFJYUlsaHh4Tm9IdW1XRTA5WU0rckYxcmlvQmhyelM3S2RaR3lrUytmaEpRazdoTTh6Y1dPK21KUTFySzNMNmp4RXAwd3owQXN6ZnpNRksvRUhoWWNIcDlZVjNxL1lGRU96NzA3ME4rNHk2V3Mva1gyTDNsa0xyS2hJblNZM1FsM0IrUTgrZndnWEFDSUduNkpGVHhaL0kwd3N1eDlUQk5CU3VSVWUzc2xoaSt4anZId2NyRS9NbW93Vy84MlRZNTBkcW5tZGd3RG9yYlEwVEYxNVpTN1Mwb1pXZk4xWTNmVUtid0NYWnh1YjExWVJwdVpodHRRWUF0a2VOV0NVbDV5d3g2ZE1GRndKbm8yWlU0NDgvUVp0Q2t4YnV6ZnF2Wm55T0V4NEZpVXhNK1pMWkIvQUR6cE4=",
+   "key": "var _0xc64e=[\"\",\"split\",\"0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ+/\",\"slice\",\"indexOf\",\"\",\"\",\".\",\"pow\",\"reduce\",\"reverse\",\"0\"];function _0xe74c(d,e,f){var g=_0xc64e[2][_0xc64e[1]](_0xc64e[0]);var h=g[_0xc64e[3]](0,e);var i=g[_0xc64e[3]](0,f);var j=d[_0xc64e[1]](_0xc64e[0])[_0xc64e[10]]()[_0xc64e[9]](function(a,b,c){if(h[_0xc64e[4]](b)!==-1)return a+=h[_0xc64e[4]](b)*(Math[_0xc64e[8]](e,c))},0);var k=_0xc64e[0];while(j>0){k=i[j%f]+k;j=(j-(j%f))/f}return k||_0xc64e[11]}eval(function(h,u,n,t,e,r){r=\"\";for(var i=0,len=h.length;i<len;i++){var s=\"\";while(h[i]!==n[e]){s+=h[i];i++}for(var j=0;j<n.length;j++)s=s.replace(new RegExp(n[j],\"g\"),j);r+=String.fromCharCode(_0xe74c(s,e,10)-t)}return decodeURIComponent(escape(r))}(\"uSmPuymPuySPuuuPuyBPuSmPXXRPuRmPXumPXuBPXyXPXumPXuuPXuyPXuyPXXBPXXBPXXBPXumPXuyPXymPXuBPXuBPXuRPXuSPXyXPXumPXymPXuyPXySPBBPXumPXumPXuSPuumPXuRPBBP\",24,\"mXuyRSBPt\",14,7,40))",
+   "id": "p179134400014877569184"
+  },
+  "extra": [],
+  "msg": "获取成功",
+  "status": 1
+ },
+ "baseInfo": {
+  "company_id": "CO00000CSV",
+  "logo": "https://static.simuwang.com/Uploads/foreign/logopic/20250903/thumb_53f0f53667390bac440a70b7326ae31c.png",
+  "company_name": "深圳量道投资管理有限公司",
+  "company_short_name": "深圳量道投资",
+  "register_number": "P1016658",
+  "company_asset_size": "100亿以上",
+  "company_type": 1,
+  "registered_capital": "1000.000000",
+  "establish_date": "2015-04-16",
+  "register_status": 2,
+  "cancel_type": null,
+  "company_profile": "深圳量道投资成立于2015年4月，是中国基金业协会备案的私募证券投资基金管理人以及协会观察会员;同时也具备“3+3”投顾资格。<br/>创始团队于2010年开始致力于量化投资和程序化交易领域的研究。在厦门-北京-深圳设有投研中心，核心人员均具有10年以上量化策略研究、交易风控经验，不断布局吸收国际前沿的量化科技技术，将金融投资与数学、统计学、计算机科技等深度结合，构建量化策略模型和风险管理体系，应用于股票、期货、期权等金融资产，形成以“多周期、多截面、多模型”为核心的股票投资体系以及“多周期、多品种、多策略”为核心的CTA投资体系以及涵盖量化指增、股票中性、量化CTA、量化多策略等多样化的产品线，为机构客户、高净值人士提供优秀的私募基金产品。",
+  "base_currency_crc": 1,
+  "company_english_name": "Shenzhen Quantitative Hedge Investment Management Co. Ltd",
+  "company_address": "广东省深圳市南山区前海深港合作区南山街道梦海大道5033号前海卓越金融中心(一期)8号楼1001B6",
+  "company_address2": "福建省厦门市湖里区高崎南五路220号航空商务广场7号楼10楼",
+  "employee_cnts": 40,
+  "fund_practitioners_count": 31,
+  "nature_business_type": 3,
+  "business_type": "私募证券投资基金,私募证券投资类FOF基金",
+  "has_consulting_qualification": 1,
+  "register_date": "2015-06-29",
+  "organization_number": "33525554-X",
+  "paid_capital": "1000.000000",
+  "capital_paid_rate": "100.000000",
+  "credit_code": "9144030033525554X0",
+  "company_class": 1,
+  "key_figure_id": "PL0000088J,PL00003XCS",
+  "key_figure_name": "刘亦霆,李喆腾",
+  "amac_link": "https://gs.amac.org.cn/amac-infodisc/res/pof/manager/101000020375.html",
+  "cnt": 106,
+  "registered_city": "深圳",
+  "city": "厦门",
+  "rating_1y": 2,
+  "total_fund_nv": null,
+  "company_class_text": "私募",
+  "company_asset_size_text": "100亿以上",
+  "core_strategy": [],
+  "risk_warning": "B+",
+  "ret_1y": "--",
+  "ret_incep": "--",
+  "ret_incep_a": "--",
+  "ret_ytd": "--",
+  "is_link": 0,
+  "is_direct_sale_config": 0,
+  "is_super": 0,
+  "super_mode": 0,
+  "link_manager_list": [],
+  "link_config": [],
+  "manage_fund_list": [],
+  "is_both": 0,
+  "public_opinion_risk": "",
+  "has_onsale_fund": 1,
+  "xcx_share_image": "",
+  "xcx_share_text": "",
+  "delegateList": [
+   {
+    "fund_id": "HF00006U6L",
+    "fund_short_name": "量道CTA精选17A号",
+    "raise_type": 1,
+    "strategy_id": 10030203,
+    "strategy": "量化多策略",
+    "first_strategy_id": 1003,
+    "second_strategy_id": 100302,
+    "third_strategy_id": 10030203,
+    "inception_date": "2021-01-28",
+    "price_date": "2026-09-28",
+    "special_tips": null,
+    "is_link_set": 0,
+    "primary_benchmark_id": "IN0000008S",
+    "performance_start_date": "2021-03-01",
+    "is_show_index": 1,
+    "is_wealth": 1,
+    "subscription_fee_conf": "100",
+    "is_nav_missing": 0
+   }
+  ],
+  "integrityList": {
+   "integrity_list": [],
+   "integrity_string": ""
+  }
+ },
+ "profile_raw": {
+  "data": {
+   "company_profile": "深圳量道投资成立于2015年4月，是中国基金业协会备案的私募证券投资基金管理人以及协会观察会员;同时也具备“3+3”投顾资格。<br/>创始团队于2010年开始致力于量化投资和程序化交易领域的研究。在厦门-北京-深圳设有投研中心，核心人员均具有10年以上量化策略研究、交易风控经验，不断布局吸收国际前沿的量化科技技术，将金融投资与数学、统计学、计算机科技等深度结合，构建量化策略模型和风险管理体系，应用于股票、期货、期权等金融资产，形成以“多周期、多截面、多模型”为核心的股票投资体系以及“多周期、多品种、多策略”为核心的CTA投资体系以及涵盖量化指增、股票中性、量化CTA、量化多策略等多样化的产品线，为机构客户、高净值人士提供优秀的私募基金产品。",
+   "company_name": "深圳量道投资管理有限公司",
+   "company_short_name": "深圳量道投资",
+   "establish_date": "2015-04-16",
+   "registered_capital": "1000.000000",
+   "is_member": 1,
+   "member_type": 3,
+   "join_date": "2018-05-29",
+   "philosopy": "公司致力于量化投资，不断布局吸收国际前沿的量化科技技术，将金融投资与数学、统计学、计算机科技等深度结合，构建量化策略模型和风险管理体系，应用于股票、期货、期权等金融资产，为机构客户、高净值人士提供优秀的私募基金产品。",
+   "base_currency_crc": 1,
+   "company_type": 1,
+   "manager_list": [
+    [
+     "PL0000088J",
+     "刘亦霆"
+    ],
+    [
+     "PL00003XCS",
+     "李喆腾"
+    ]
+   ],
+   "capital_paid": "1000.00",
+   "honer_list": [
+    "2021-中国证券报-中国私募金牛奖-三年期金牛私募管理公司（管理期货策略）"
+   ],
+   "delegate": [
+    {
+     "fund_id": "HF00006U6L",
+     "fund_short_name": "量道CTA精选17A号",
+     "raise_type": 1,
+     "strategy_id": 10030203,
+     "strategy": "量化多策略",
+     "first_strategy_id": 1003,
+     "second_strategy_id": 100302,
+     "third_strategy_id": 10030203,
+     "inception_date": "2021-01-28",
+     "price_date": "2026-09-28",
+     "special_tips": null,
+     "is_link_set": 0,
+     "primary_benchmark_id": "IN0000008S",
+     "performance_start_date": "2021-03-01",
+     "is_show_index": 1,
+     "is_wealth": 1,
+     "subscription_fee_conf": "100",
+     "is_nav_missing": 0
+    }
+   ]
+  },
+  "extra": [],
+  "msg": "获取成功",
+  "status": 1
+ },
+ "profile": {
+  "company_profile": "深圳量道投资成立于2015年4月，是中国基金业协会备案的私募证券投资基金管理人以及协会观察会员;同时也具备“3+3”投顾资格。<br/>创始团队于2010年开始致力于量化投资和程序化交易领域的研究。在厦门-北京-深圳设有投研中心，核心人员均具有10年以上量化策略研究、交易风控经验，不断布局吸收国际前沿的量化科技技术，将金融投资与数学、统计学、计算机科技等深度结合，构建量化策略模型和风险管理体系，应用于股票、期货、期权等金融资产，形成以“多周期、多截面、多模型”为核心的股票投资体系以及“多周期、多品种、多策略”为核心的CTA投资体系以及涵盖量化指增、股票中性、量化CTA、量化多策略等多样化的产品线，为机构客户、高净值人士提供优秀的私募基金产品。",
+  "company_name": "深圳量道投资管理有限公司",
+  "company_short_name": "深圳量道投资",
+  "establish_date": "2015-04-16",
+  "registered_capital": "1000.000000",
+  "is_member": 1,
+  "member_type": 3,
+  "join_date": "2018-05-29",
+  "philosopy": "公司致力于量化投资，不断布局吸收国际前沿的量化科技技术，将金融投资与数学、统计学、计算机科技等深度结合，构建量化策略模型和风险管理体系，应用于股票、期货、期权等金融资产，为机构客户、高净值人士提供优秀的私募基金产品。",
+  "base_currency_crc": 1,
+  "company_type": 1,
+  "manager_list": [
+   [
+    "PL0000088J",
+    "刘亦霆"
+   ],
+   [
+    "PL00003XCS",
+    "李喆腾"
+   ]
+  ],
+  "capital_paid": "1000.00",
+  "honer_list": [
+   "2021-中国证券报-中国私募金牛奖-三年期金牛私募管理公司（管理期货策略）"
+  ],
+  "delegate": [
+   {
+    "fund_id": "HF00006U6L",
+    "fund_short_name": "量道CTA精选17A号",
+    "raise_type": 1,
+    "strategy_id": 10030203,
+    "strategy": "量化多策略",
+    "first_strategy_id": 1003,
+    "second_strategy_id": 100302,
+    "third_strategy_id": 10030203,
+    "inception_date": "2021-01-28",
+    "price_date": "2026-09-28",
+    "special_tips": null,
+    "is_link_set": 0,
+    "primary_benchmark_id": "IN0000008S",
+    "performance_start_date": "2021-03-01",
+    "is_show_index": 1,
+    "is_wealth": 1,
+    "subscription_fee_conf": "100",
+    "is_nav_missing": 0
+   }
+  ]
+ }
+}

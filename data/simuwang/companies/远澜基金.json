@@ -1,0 +1,220 @@
+{
+ "company_id": "CO00000C7L",
+ "baseInfo_raw": {
+  "data": {
+   "encode": 6,
+   "data": "R2MxOHZJOWQxL2N0UDNFQUNRbkh3bmxtVWdXVnRzNnFzSFhKT3dGb2QwZldiVkdhdmtZK0QzaHk4aWpwOThDOWtUYnNuWVpwTnp1SExYWUJCaXFpSVBOY2ZpajBCQVM5aU5RbFNBVVpSaUNkcEFtSEovajJmRUFYam0xaUx5akFNK0hzU1VHQkxOVU9JWXNNVUdhVjlnVXdMQWxjOEM2UFNrWW5oVFl4YzA1YjZVdjZZbEtpN3M0QlpVaGNscFN2VVNiMzNIZGlLdmR2c3hsM0ExV0IzZWJJTHh3NEVzRW5UTXVLUFlZR3NXU2Q4bFlRL1dCaE5HVFVTcDJ0ak9RZTR1ZUhmSGpmTXFaNjBhdTFDNzVaR3BwbTh2QmZibEllUnB2bVNRMm9qbFZLbHhSUWpRVCtuUDhwTWJuS2pUOUFKWWRZUGEzeVB6QmluT0NLdmV1d1JGby92ZVRnclRyUzUxMEJNVitKZGdWY3h4b3g1dGY2YS9sRGFud2tJV3Y5SW03OVFYeXYreUd2VHlPaFBBNmdRR3ZrZjRrN3g2VDJFYnE0SlRXTFlBRFRIQmhqRTdMMS9TRlhJUlNIQWtXOWE3TGd5bWxBeXZPbGJqTy9GNVRwZEVlUThReXd6ejZYcmltZENXZVZvKzUxKzVXNjdlaytRVTE1dmJSVG5EL240R2hRUnl4SUgrN3dua0JMbFdqZXpoVXAramVxRElmVktPM2FIck9sd1JaMmVVaFE2eXdKWGlWenFXUW1JblVrSkxIekdzSFU4YWpwZHd2MnI5OGJDNXpvc2Z2bDV3cVlQQ3dHOGU3UGkySnE1S3NwZ29pYmRldW13QlNzeWVObkNVcHpTczFVZ0c0QjhsNC82RldBeUVMM2FZSGFxbUFJdUYvOHg3aEtXK1ZHdHlBYk1qUjV0czVwa1dvL0lEaTFhbXQ5ZURmNTE0RVFJMjNmN0dzUGJpaDIvV2xpbjZwWmxkNWp3eE1oVXl3T2Z0aGhadCtCNW4yUlFKRGE0dW9aQ1h5cHhSMi92UnBCdC9mdWduT0ljT2IxY3hNZVpTUGZtYjNCT1hjNW1CeVJMSXNvZFZqdEFxSVl3UnFnRm5VbzJqdWJPb3hiMUROTThKeDRidnhvbWZrQS81N3hYUjdxNVl1Q2hsb3RNVmJiZGZwYWJ2TVp4WDk3c09qRVVKckt3dExpMEJPK3g4amVNZ0F4Ri9oMk9ScGUrbDhoY2dyZmhjZkw0Wk9odGNrNG5MU1JrVG8rWWc3bDVCekthWWVJUEZqZmt6VXhiTm53WktUc3lNTS9BbGNlZW1mam1XSnM1MzJjRExGZFFYTklvTGxGL1BsaldmL2dqSkhsQlpVQnV4V24vVnpFeVU0MnV6LzZzVjI5U1RHZUwvaGZlOXFVVU0xUWJJQ3kwYVMwL0UybkRPbWhEb0p2emI0MTJILzdPYjhTdG9jeXZIaGlFNERmMHZuYmh4ZmhrY1NpdGlYbWpXV3JTR3hZK3ZiV1hvOHdNZDErK0EyaXRqcVBEN1VBL0lSeWI1Q0ZNU2tjSEw2NVdaSW43Qm42bnRSRncyTElsNjZoTnRWSHIyOXFWQU1NV1JDbVdoZWd4V2FxRm5TUDh0YlNoQTJ4ZEZON2p4ZE5PajBNczN6ZWJscFJwdEZjRFFpbzQyaWdNemcwSGUza0swZVk1SEJ5d1RoNVI1T01qZFVyQnRiSjRrYmUzcjZxcGYrZjRxRWZ5RERGM0VvOW5TYkpUSEFXR2lUUTNZVHo5Mk1KWWR0czh6Z0IxYlV5eldabDc0OUkzN1FjRGgwMUZuMWRGM3doWENYRWhkK3NVZUFQTGNTeERnVGwrVG5wblEvMldzaWtlZzdRd1l2UVYrd0YzR3k1bzFEZTJlZjFpdFpreXZibU1pNGtpM2RRVHFIczJwamxXSk5HejJUV3JvWTdNdERab2RERHBlYkFNNmQyMmdKSTJtVStVMDlCZTEwOG1pKythZ1VUelU2T2hlYmhHZzA0M0Q2SEcvcDgvWGJhMU5wQThuWUsyUkt3VlFPTXJGRVE1ZWJTOFBoUWdzeWJ5RnBqa2htaDJYN3c1emh1SlAvcGhGM3lvdlFKNm5mbVJqd1VUZHA1UmlOdWQrS3BwZFRHUHpabURSWW9DU3ZHbVZXUzZINno5bkVRSDh1TkYrejBLWFJvMCtNMmFncXYzY2QwWkZqeUk5RTFKL0srN0czd2hDMXd0Y2R4Z1djdFpFRTR3ZU5hWjJRaXVMMDNzcVEvR0pPTTU2a1NMSWdsWUNCbjc3cXE3Z0tUNy9sNXFaNTZQdW1KVklRTFVjUXNUOHJhVFpvVEdVZksxc0s4b0I4b1RKS1d1L1BPSEc1SDg1MitRd1c1L25mM3NUOTdvQnF0SnlqaVNkenE5RUExZmsramx3RnRIL01KSnlWSzZ6ZTRWUmlzTWZqVEZRaHpOMnFHM01GZHBaMWllbUlHRXhaeWg2RldiQU1vd3cwa2p6ZDlRclJiSVB1RWNQL3Q0cGdTaTRPSDdybmN4ZkRMUzcyZnNyTFFzaE5zM0Y2c3lxMGo1Y3ZlMTJiemwwMnQxNGRyQ0NiaktzOVVMSWprTXhPUjFRb3ZINkZFeDhCWUpuQlpCTkxtWExwMG1UTjhiZitPRE5yWWtXWDFzZDgwdVZLT2Z3MmJjY2xEdzNscXN6Z21VU29mbG56bm52OXk4SlJhR2JKMkJseG8zcEZMbGt2NFlUV0Fnb21CMTAwUkozYlc1aStYdmc0aVpmcFkrMUNrMTNjY0tqWEpxeTBrR21pS2VleTFPSzJOTm5hQUx4YVAwa2pmZ1d1dDZ0dmYxMnBlZ3dxVS9QcExlVnUwSU9QTDlDWG1JNXhxNG9TUitLdHlBK0IxbFo0eUgwc0FxTms4d0lNbHlXaGQ1QVA0WERoT2pmd1dxWG8vZG5Ca3BkZXAwRWRiOTVOdEVnOW1SaEkyUmFZRm0ybkxkNUNHd0V4MXVES1B5dW5DRkFuV0ZiTU9CNE1zbHpNWGNxN1lEY25jdDc0eDNkSVRQZE5qOFlXQ1hGai9MTzN1Qk8yVG1qUk1JMENjRnVqZm1WUU0rZzlkMEM2bjFkRHIrQ2FtaWcyaXRTQXdnRWlWRTdCOG9vRkdDZklnSEU1b29UdHlnbDdGQTdBUUpZSjFEZ3MyNzdHTHkyWnpTZ0toMVBVYmN4RFFzL0svY1Z6MjZ6b3pzRkJEamxsQzFqeHNLR2xZL3VOejliWWhwRThYVzJzM29tNXRLcHNiek5LQXNBaTRjbmdXbW1JMWtoVXpoL2xoR09QR3lJYUN1aWovR0hZeGROK2xJK2tmaUt3elozclVlOGswbDh3eXR0U1lZNzVEMXhwYm5JNU5NWGRjRTRVb2Y2OUxsemttZEcyek1hWFhqQXRYZWV3MllUNU5TNWNSWS9DTGwzcFVKNlZncG5vYUhpbjFjWTk1aTJGM3p4cVBldFFXL1BpMUJSODAyNE5BMTNsTGR0RmptaWk0QjA4ZzF1cnNMbHkrZnd4ZkhBbWFNVUZjSHc0Z1gvSkZiWkRyaTlSTldUeDVPcWNZdjFDVUpSOW1xb1J6R09rTzl5cUMwaHJoWEhkV0trRHlLaUl2Ym5MZFFkakFzWnh0cVVUd3Ryckl3ajZZQ1ZGL0hINXJNSUxLRVJsSXNWeU5pK0NheGwvWkJvM3Bvd284TjA0NlNwZE1xMWdKVENLSWJ4UU5pZVk3UHlVY2xkTGJUZURGTHJ2dVo4SG0yN0VYTTR0cXpVb1hpUXJNZXdoV0RCc05hM1NmZm00RzZEdVBmSzZJdm55Sk5RaVJoY21COFNJUzc3ZHJRNENsaG44amNnUVpUVVpQRllRVkx2MjhaVGY2Tkg2eTJtQXJoUk9NOC9YNnNtcXlBbFRwc0U3dXFoQ1ZlMC9XTWNpTXdQTzFuZWFZQ3NkNEhoZ3pONWo0QjU2YUtObzF1Z2pwcTdlb3I2MDZwTTB4WUtoYTdPUHBSRUtiSWUzZkRUQmtUR09IZEliT0p2MDhiMW95NEFub3BibkpCZWltcUZqMjFmOUtERDlRQWM4d0RpK0hpTnB2WXhDaUJCRWkrdURONjBidXhxZEdxQ3EyNUJEZlkxcHR1Q0dtVEM4WXB3YkRvRUhYRlY3R2t6QjAwRE1uWDVQTXMxZEJnSkVBdWNiWVRvRmhYQ2xjSjhUak1zUitEWEJPL0I4QXBPL1FodHFpVUNTSmJGVDM4TzJSZWhseUEyZ1ViZ3B4K1ZrWDFtdUMzWU1OaldaSkU4RkJlcld3OFZwdm43aUFwdC9xdzZQdE15cEt3b01haDQ2VFA1VjZWY2hTU1YwbHVCR0FnZzY4cENtYytEZWxiSi8wNGIxQWczdGZLaG5Ydkl1UUZNYlJHTWg2QldYWk5sSGx2N2paSFA5NVRDVU9xUmZsRThNdlN0ZDh1eDZXM2kwbTZHTTA1MWhRdU40bHZEWXlzbnJOdnRqSW1RdU5SdG8rbm83NW42N2VyZVhxT0JBQUpLL0VOTWVRTU5ITzJEd2pNa1FWajNtb25PQWFqRFhXL1VodDZ5Z2c1WTYxKzFidGFVN2VOMHBhcTRLbm1OOUMxUzJYWnR1dTFxb1N5dGxCYzl5VUtiT0NmUS9Za0NHcmwwQ1VOMGh6OWp2WG9JQkJ3ZGM2VHNuOU1zOVR3ekx1eEVwbHBPQlFTWkJ5Nnlrb0JwSVZxRExEU2QzOHZ4dklzbnQ5bU5uZXdDSWsyMkdvUTgxQWRaU3pBaWxVd0tZN1ZzODIxMDNFVSt4SUtoQU1ETHVBV2hMZjZkdkhkWUNFbUFxMDN6eTg2eXpLVkJRQlFJSStyUHBRMEFXYjZwV2pSWElqQ29iRlM3dWdVeXNZbDNoMmxhWlVKUGw3c0RvYytGSFlSMjdZbmh4MWNPeTFSbXpLZ295ZEJDZjM5TUZMR0dkY2t5SnJIQms1RVhlZlYzMVgyYjVNcDBMcHNBYlNuNEIvSkc4TU42VTNIMWJGN24wVHRETEVqdXFOTXhvQXdXU1JDU3JXeFJidHRta1hSM3JrUFZCR3FGZkgrcmlvaGhPMGdBOFkvc0ZUbEtxNFhwQi90Rit4Y2RDVlNIa0RGdHhaWTQ2M3c5U3NsSnRFeFB1WTQ1NHZTUU1keXhOdHY0UHFZVUtxOHM2Z1VoSVFza3k3MmRmSWlZNGRPbDdDK00vWE5lWU1CQ0VGdmJPdHVzYWpSK0pSNkk3a3dFZGdpRzZlTUdEN1hFcEZTZG5RcldDWitrYXBNNVNOVGRwL0M5RUVoOG1JT1NNc1dMR0J3cjFxQ0J0TlErYXpzbkQxSmxQUVNZNU5MdVFrY0NacHY4anFBQThyMTRndjF6eGdheSt6a2w1N24yRnk4RXJheGppdWMxa3dQTGxwcEg5NlhHTjFoNTBERklwSExwZzd0Y3VscUd4ekhxb2FaV2d6Tjd2VEFSZ3gyVHQvRzU2OG1sRncxN3hBMGVCRmFwR2l6YXJmMjdwZ1FXK1U4MHNFdFlxeW9hVDVPajJ4UXVRbDRvZk9sU2ZxSjNNdnhTUnJXcmFLNGxhS0dsUUZ1TFZ1TVNXL2V6NDY1WjFzSlJIUG02bERVMmVTbHRPWitKRWtSZDJZWnJxUVRmd1phUFBpbEZ0THpsZUx1c1lrSm5KbnU3elA2NzZEMmJqMkxVM1lISDJoREhZTmdhUys4QVJDTk8zNmZNSDZtMWEwVHhlMk5tVVcydGd1K01JTXl3WW9KbUhtcjRaTmpPWGoxS3JhQk9zT203Y09xV2lXWTJWUU9aaHZySkVKQldTb2FNU2dWOG1CYzFHVGl6Y2JmeGpRdkM3cEdFQmtGWEJ3d2cxMExQQ0FENUliajFtYzBjT3g3SFAxbFRFNnRneUtZVk1xK3ZISUlNU1FTU3YzaWNOZlZtL3hSMFR1MUh6RG1XajJIcVZDM1hOdXlweTg5ckhiSk1DQURzTEtQTlZycDl0U200My9OMnhzRHFiak1CVEl0WmRXaGJORmJ3T3lYbmJPLzlkSXF4a2ErZmFHQnJaNWFiMmZ1cmlpc0NLWVVyQ0psb3hQYlAyWUNVQ2xqWXgrUzQ5NmpMbGxPWUY4UkNFWlVEOWtlTzRKWVpCZ1FBRUdzekFGWG9QSy90WElvOFQ2cVBMR1ErV2VFN0RzdEc2Rzhnc1ZRRGVNeWdtVytmTGRsOEw0cXU4NjlpaXBudHZDL1BnMk9mMUlrb3ZkRTRHL0JURGxYZEtKNGdSeFFSZTdMQUQrVFpGN2s0UWJ6K0taeXI2TkdrQTN5eER4aHNxd2hZeDhPdG1Ec1NxR2RFWGlnTVpRQkpkRFRjQ0JscHp2Rjg2LzdQTjhZdEpSbEgvTWxZbkpYNUpPNld3OTZiL2VWRzNHNDZvL1VUZ1Z4WmtISGU4VmdqTVNRSkh4akxNS2owamlZdlRwL3BWMWc0MWsxT25ZSGY0dlJXUkVsejJDdlB4UGRSQ1RiNTk0Wm01NkxHUW10Nm1lZW54NXp3elFISzQvQVl5WUlSeERNaE9taGdJYStxL3E=",
+   "key": "var _0xc20e=[\"\",\"split\",\"0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ+/\",\"slice\",\"indexOf\",\"\",\"\",\".\",\"pow\",\"reduce\",\"reverse\",\"0\"];function _0xe34c(d,e,f){var g=_0xc20e[2][_0xc20e[1]](_0xc20e[0]);var h=g[_0xc20e[3]](0,e);var i=g[_0xc20e[3]](0,f);var j=d[_0xc20e[1]](_0xc20e[0])[_0xc20e[10]]()[_0xc20e[9]](function(a,b,c){if(h[_0xc20e[4]](b)!==-1)return a+=h[_0xc20e[4]](b)*(Math[_0xc20e[8]](e,c))},0);var k=_0xc20e[0];while(j>0){k=i[j%f]+k;j=(j-(j%f))/f}return k||_0xc20e[11]}eval(function(h,u,n,t,e,r){r=\"\";for(var i=0,len=h.length;i<len;i++){var s=\"\";while(h[i]!==n[e]){s+=h[i];i++}for(var j=0;j<n.length;j++)s=s.replace(new RegExp(n[j],\"g\"),j);r+=String.fromCharCode(_0xe34c(s,e,10)-t)}return decodeURIComponent(escape(r))}(\"aTTaaRaTdTTRaTaaaRaTdadRaTaaTRaTTaaRaddadRaTaTdRaddTdRadaadRadaaTRaddTdRaddTTRadaddRaddTTRadaaTRadaaTRaddTTRaddTdRadadaRaddTaRadadTRadaadRadadTRadaaTRaddaTRadaaaRadaaaRadaddRadTddRTTddRaTTaTRaTdaaRadadaRaddTdRadaaaRaTTTaRTTddR\",13,\"daTROuMgn\",38,3,7))",
+   "id": "p179134399315267690884"
+  },
+  "extra": [],
+  "msg": "获取成功",
+  "status": 1
+ },
+ "baseInfo": {
+  "company_id": "CO00000C7L",
+  "logo": "https://static.simuwang.com/Uploads/foreign/logopic/20181129/thumb_6371951a640412a53ebf08fb06101690.jpg",
+  "company_name": "上海远澜私募基金管理有限公司",
+  "company_short_name": "远澜基金",
+  "register_number": "P1018484",
+  "company_asset_size": "100亿以上",
+  "company_type": 1,
+  "registered_capital": "4000.000000",
+  "establish_date": "2011-05-27",
+  "register_status": 2,
+  "cancel_type": null,
+  "company_profile": "上海远澜私募基金管理有限公司创建于2011年，专注于从事私募基金量化交易，在CTA（商品管理期货）量化，股票alpha，市场择时，宏观和产业基本面量化等方面积累了丰富的经验和技术。公司于2015年通过私募备案，陆续发行了多支私募基金产品，逐步开展资产管理业务。公司具有专业背景多元化的团队和强烈合作导向的企业文化。公司的愿景目标是成长为一家富有智慧的对冲基金，为投资者带来长期回报。",
+  "base_currency_crc": 1,
+  "company_english_name": "Shanghai  Evolution Labs  Capital Management Co., Ltd.",
+  "company_address": "上海市奉贤区上海市奉贤区南桥镇国顺路936号5幢",
+  "company_address2": "上海市徐汇区龙田路190号1号楼5层",
+  "employee_cnts": 83,
+  "fund_practitioners_count": 65,
+  "nature_business_type": 3,
+  "business_type": "私募证券投资基金,私募证券投资类FOF基金",
+  "has_consulting_qualification": 1,
+  "register_date": "2015-07-16",
+  "organization_number": "57584325-2",
+  "paid_capital": "3792.308000",
+  "capital_paid_rate": "94.808000",
+  "credit_code": "913101045758432521",
+  "company_class": 1,
+  "key_figure_id": "PL000008AW,PL000008B2,PL00003KPK,PL00003Q5N,PL00003Y9G",
+  "key_figure_name": "王凯,瞿培健,周龙威,董致远,陈鹏",
+  "amac_link": "https://gs.amac.org.cn/amac-infodisc/res/pof/manager/101000022626.html",
+  "cnt": 149,
+  "registered_city": "上海",
+  "city": "上海",
+  "rating_1y": 4,
+  "total_fund_nv": null,
+  "company_class_text": "私募",
+  "company_asset_size_text": "100亿以上",
+  "core_strategy": [],
+  "risk_warning": "B+",
+  "ret_1y": "--",
+  "ret_incep": "--",
+  "ret_incep_a": "--",
+  "ret_ytd": "--",
+  "is_link": 0,
+  "is_direct_sale_config": 0,
+  "is_super": 0,
+  "super_mode": 0,
+  "link_manager_list": [],
+  "link_config": [],
+  "manage_fund_list": [],
+  "is_both": 0,
+  "public_opinion_risk": "",
+  "has_onsale_fund": 1,
+  "xcx_share_image": "",
+  "xcx_share_text": "",
+  "delegateList": [
+   {
+    "fund_id": "HF00001J0T",
+    "fund_short_name": "远澜红枫1号",
+    "raise_type": 1,
+    "strategy_id": 10030203,
+    "strategy": "量化多策略",
+    "first_strategy_id": 1003,
+    "second_strategy_id": 100302,
+    "third_strategy_id": 10030203,
+    "inception_date": "2016-06-07",
+    "price_date": "2026-09-24",
+    "special_tips": null,
+    "is_link_set": 0,
+    "primary_benchmark_id": "IN0000008S",
+    "performance_start_date": null,
+    "is_show_index": 1,
+    "is_wealth": 1,
+    "subscription_fee_conf": "100",
+    "is_nav_missing": 0
+   }
+  ],
+  "integrityList": {
+   "integrity_list": [],
+   "integrity_string": ""
+  }
+ },
+ "profile_raw": {
+  "data": {
+   "company_profile": "上海远澜私募基金管理有限公司创建于2011年，专注于从事私募基金量化交易，在CTA（商品管理期货）量化，股票alpha，市场择时，宏观和产业基本面量化等方面积累了丰富的经验和技术。公司于2015年通过私募备案，陆续发行了多支私募基金产品，逐步开展资产管理业务。公司具有专业背景多元化的团队和强烈合作导向的企业文化。公司的愿景目标是成长为一家富有智慧的对冲基金，为投资者带来长期回报。",
+   "company_name": "上海远澜私募基金管理有限公司",
+   "company_short_name": "远澜基金",
+   "establish_date": "2011-05-27",
+   "registered_capital": "4000.000000",
+   "is_member": 1,
+   "member_type": 3,
+   "join_date": "2022-07-28",
+   "philosopy": "基于创新、开放的精神不断探索发觉数据、技术手段和策略架构的多样性，形成具有广度和不断延展的知识边界<br/>注重对于量价数据统计属性的解读，以及对于基本面数据结合产业知识和宏观信息的逻辑认知，由此形成认知的深度<br/>结合知识的深度和广度，通过广泛的团队合作和技术交流碰撞，不断更新和涌现知识节点并构造知识网络，促使形成深层次和体系化的集体智慧<br/>最终，公司的投资能力取决于公司团队的认知边界和集体智慧所能达到的高度和持续演进的能力。认知和智慧到位了，自然就能产生良好的投资业绩。",
+   "base_currency_crc": 1,
+   "company_type": 1,
+   "manager_list": [
+    [
+     "PL000008AW",
+     "王凯"
+    ],
+    [
+     "PL000008B2",
+     "瞿培健"
+    ],
+    [
+     "PL00003KPK",
+     "周龙威"
+    ],
+    [
+     "PL00003Q5N",
+     "董致远"
+    ],
+    [
+     "PL00003Y9G",
+     "陈鹏"
+    ]
+   ],
+   "capital_paid": "3792.31",
+   "honer_list": [],
+   "delegate": [
+    {
+     "fund_id": "HF00001J0T",
+     "fund_short_name": "远澜红枫1号",
+     "raise_type": 1,
+     "strategy_id": 10030203,
+     "strategy": "量化多策略",
+     "first_strategy_id": 1003,
+     "second_strategy_id": 100302,
+     "third_strategy_id": 10030203,
+     "inception_date": "2016-06-07",
+     "price_date": "2026-09-24",
+     "special_tips": null,
+     "is_link_set": 0,
+     "primary_benchmark_id": "IN0000008S",
+     "performance_start_date": null,
+     "is_show_index": 1,
+     "is_wealth": 1,
+     "subscription_fee_conf": "100",
+     "is_nav_missing": 0
+    }
+   ]
+  },
+  "extra": [],
+  "msg": "获取成功",
+  "status": 1
+ },
+ "profile": {
+  "company_profile": "上海远澜私募基金管理有限公司创建于2011年，专注于从事私募基金量化交易，在CTA（商品管理期货）量化，股票alpha，市场择时，宏观和产业基本面量化等方面积累了丰富的经验和技术。公司于2015年通过私募备案，陆续发行了多支私募基金产品，逐步开展资产管理业务。公司具有专业背景多元化的团队和强烈合作导向的企业文化。公司的愿景目标是成长为一家富有智慧的对冲基金，为投资者带来长期回报。",
+  "company_name": "上海远澜私募基金管理有限公司",
+  "company_short_name": "远澜基金",
+  "establish_date": "2011-05-27",
+  "registered_capital": "4000.000000",
+  "is_member": 1,
+  "member_type": 3,
+  "join_date": "2022-07-28",
+  "philosopy": "基于创新、开放的精神不断探索发觉数据、技术手段和策略架构的多样性，形成具有广度和不断延展的知识边界<br/>注重对于量价数据统计属性的解读，以及对于基本面数据结合产业知识和宏观信息的逻辑认知，由此形成认知的深度<br/>结合知识的深度和广度，通过广泛的团队合作和技术交流碰撞，不断更新和涌现知识节点并构造知识网络，促使形成深层次和体系化的集体智慧<br/>最终，公司的投资能力取决于公司团队的认知边界和集体智慧所能达到的高度和持续演进的能力。认知和智慧到位了，自然就能产生良好的投资业绩。",
+  "base_currency_crc": 1,
+  "company_type": 1,
+  "manager_list": [
+   [
+    "PL000008AW",
+    "王凯"
+   ],
+   [
+    "PL000008B2",
+    "瞿培健"
+   ],
+   [
+    "PL00003KPK",
+    "周龙威"
+   ],
+   [
+    "PL00003Q5N",
+    "董致远"
+   ],
+   [
+    "PL00003Y9G",
+    "陈鹏"
+   ]
+  ],
+  "capital_paid": "3792.31",
+  "honer_list": [],
+  "delegate": [
+   {
+    "fund_id": "HF00001J0T",
+    "fund_short_name": "远澜红枫1号",
+    "raise_type": 1,
+    "strategy_id": 10030203,
+    "strategy": "量化多策略",
+    "first_strategy_id": 1003,
+    "second_strategy_id": 100302,
+    "third_strategy_id": 10030203,
+    "inception_date": "2016-06-07",
+    "price_date": "2026-09-24",
+    "special_tips": null,
+    "is_link_set": 0,
+    "primary_benchmark_id": "IN0000008S",
+    "performance_start_date": null,
+    "is_show_index": 1,
+    "is_wealth": 1,
+    "subscription_fee_conf": "100",
+    "is_nav_missing": 0
+   }
+  ]
+ }
+}

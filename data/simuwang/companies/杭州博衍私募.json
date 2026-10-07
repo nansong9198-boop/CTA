@@ -1,0 +1,196 @@
+{
+ "company_id": "CO00003N5C",
+ "baseInfo_raw": {
+  "data": {
+   "encode": 9,
+   "data": "a2tIdFI1NWhEamE4dHV3VHpDekZGcWZ0Q1YxZ1lud0Ftd1pETldDL1RhZUJ3K1JvTDVnYmN6OVJxczVVai96Sm9RQ01XY1kveU8vNGhIc0NWSWtiR2pJcVIrSzd3dnlaVjNIOVI4cEhoU1JPU3VKV29PdGVjYkNyOEFzQjQyWEVzUGFwdEkxRzI5ZEs1d3FZbEVXS1dMZGNoM1RLVzJLTm0vN2diRGk4Rytya0hjMC9xWkI2Y1hWeE9Fb0ZleGtSWmZ2ZEZjbkFqd1dxUFZQdTJWVlMxUEhsdjNtYlBjR3Y5UjU4WEw0RVI5RzhTMWdyM1M1OUxMdC9NbjJpSVNBU3RZcEc3Mjd1VE5QMkVnaUhwb3k5bUhPeDE2YVJzaHRnendoR0loU0RaMGZDWXAyL21mSUpxZ0V1L1pYUFphSTEzZWx1LzdrZWZnQW5YQnpybDkxZUhQRGh4ZVArSlFRd01oUVlyN010UlVBNFMwUjUyTk1kNkI3MkN6VWV3aG1wZm5UOTBEd2UwWjhwUEN4bFFkLzBkZ1ljV2pmY1h1OHBZUmU2ZFBNdmIxYU1aeG1XVEpMekVkanFNMDdHS3VlTjNXR0dzNWlBUi9vUWR5WVh4TWk2Wm9ucDM4WStmTnFZeU1vSGttK09RczdWMFMxQURVUi9kdU0rVDRqUnFNMjRwMzNPYW03Z2gxWHdmeE5pRjRGN1hzYjNkZG11UnRpYWc1WkFnTHE4Tk05WVlZM1hJZXFaYWhFZ0NUelNDQ3JHclgzUHN1S1JJZWhVY2ZSdHNDM2JpZ0I3Ym9JY1R0TTZXR0VHZ3NCanQvenM4dG0zOVQxSFJvMUwzbE96ZWQwSHgycTl0QmxOSmQzVXdTU0tMQ2FwbVdTS21sV05rWERDVGd6QXF6VE84OGZJWUcxSWlOeDBwWjhrUEdueU5oRUVSN0Vzb2xCU2x3YW9qbysvYVVaZ0hMRzdZQlNRWmFrWk15QUdxYTA4SnV4cTB2TlEwNHZpTXB6Lzd2ZnNrU1lBMVp5eFlDbEVENjRkaDcxYk5sYnRpb0xZL3hZTThVNVZ4c0xzZU1MMmdUQmNWZUtKU3djUjZMK2dZOENBYTlEYUg5SnplUHpSdWlCQ1FaNjkyREN0V0c2QktTS1NFMEs3QzJwa0J0WGFjTjl0VURTZzZQOVhRa3E3cXJTbmtqa3hzZGJ2NmFJOTJLajFqTDdzY0pVOWQ5ck1DL0NDaCt0bEsxbzJQUmRqZjBodjBKSjIxOTl0LzhnRy9tWmE1bS9kR2tUcFhNUjJwUkE4Znc2TkxCVTFOUzNpWlFJRHlUS1JhcHJETWlqM3FEakpyRXl2bFA4MXFhbFJVbFJVVGg1OEJjOEFqVHRXUGNYeVlMZjhiQXV0MEFKSE9vTkcvamIyS3BUTjJ4dUc4UEkzZmN6MlUyWVVwdGExSTdHRVpjU2luNXFvdnJoN3FYcU5rYktraDk5S2VyYWlkVGdGMndCTU4wUmswcHJOYzJQL2lkVXMxNWZOYTFXMm1IU3VwRFkrL2cvb0xGM1BWd0NhUXZ2Z1Z5SUlSR1NrMHhYd1VFaXdqeHlNMlM0YlVUYm9uYllzdGZ4Q1RVZk5hb0tDc3M4VzZ1L2tZWWdrbjRtVjJITUNwVUJyYXF3Q2MvamxOMGJwM1RHYjBhNDZVTmdSNFkwSGlIVHJxL01WellQU3ltR0xnMHhLcXJpWjRyam55UncwOGc2aDIwV2czSkgrN2VWRXlYNW9NWlFCZHpYOHdQM0psczNLVWlJbWdZMHVlNTFOa1FWRms1ZEtQU0J6Nzd4bTlib0RPbG4vdGgrbzVzYk1QWUIrWmNCdVE4ekpOUXBuMjF1OGNZOFBYQis2N2tLMzEyOXVyZHpucnJhRjIwODBtaTZSZTB2UGZkSzMwRDQ5QmY2V0UzR0xoM0dISUNubE5idmp2ZEszRzh4US9peDVmMTVMaWs3QUV4WlRldEtlOEtnY05SQWJ1a2NrSzdTMll0K2cwSkc4RE1sWWFnb1lPdFh2KytJYllkS2JWdTFFcWk4dnNtKzJuaGhSV1JBOTQ1MmVmUktFQjladHJZTkRQS2ZFeVVRTWI2OFoxazRDWXd3WmdSOG1JWm9XT3Z2QS9NRWxuWWowallVZ0NLcDc1Tnl6Z1JqaE9Ua1FVeDhNYVRLeW9hQlc1cjdwTUJmbXFMU1FTWG8wcmk2ZGJSRGtRb2U0WjVYbEpqTkVkYktCUU5ONGZTS1ZQcE9lMjU3bGNnWlBNRDFLYjExdnlqdXEzeEd3UkpnS3lUNkRxaVJSYXRaWUNhVlNnNUIxbkd5SEFCVmtEQWtTdmxZRUhxVFdwVHQ3dk1QN3FUM2xuNDNLOWU3MGtaMUdkUm4vbVRvOTdUMzVCREtHOVFySC84UTB3S29XRS9yV1h2Ukk4cEp0QkNlWEljck9neXNOa2EwY1cxMFVEb2NXbEFNbUNXV1NqV3dxczVDbFA1Mk9zT1lKVGRtVkR1amdHSnVFa3hvWUtjbTNveDl1NDU4T2Q1TzBoTTh4NWlRSElJOEp3RU1acmFZREZQTVVtUTZmSnN5UlFWK3RydVJLMm5yQlJnbmwwa0dVaWxrRXNrUWZnWHptdlJqMGFKNWJTdWczME5mbTlyU1ZuNzgycy85VTlZczVtLzFqTE8xYTF3aWxKNENaM1hreHYyTnZnRUp0eWlHZldmOE5zTHFlTVAyRjJwY3ljMlllQ1BqanBFb3FZTW9HVnBhc0NaUUNuaEQ0RUp6ejJOMk9OY09TWS9naVBUckR0YUtxVTVNZVFockFrUGlQU2lLejFQZTJ0UHZwTHJCcDhVRTFqQVJ4ZWtJMlFiT1FnVjliREg2YnRTQ21vZzl3Ym5qVU9nQW8yNm5ickw4WnpTMzZiN1RDeWNpSTVZMFg2OHlkOUYyRTZ3NmMxN2tJd3VhM3lGMTRXUk1aeHFKY2phR0d6SjU0VDFKUGVTOE9WeUhwQzJYR1ljcTRBelZ4eWVPVktKU2tmRGZyVlA1dXNON0NrMWU3aU8yVWQyUEE3SlpqZzhYQWVlQ3o4U1RqckpVQitOWmE3cm5rNW5kcDFUUFo3SG1XSjYydkNuMmwzSU91M1RnSkh4T3RhS05hbUQyeHA5RE5KemVvVS9UQ09OUGc1QnZMeWF5YlRhSkg5d3BaYmdvc2x1KzZTUHVJYm1JM0VleEVFT2NBbmVSdFl4bkFTNklvcVRtTDJvUHBEakxFcTkxcElGYUg4SUJXUGtEUDZ1RWdaY3VuNTBlbmxGV2UrMHl2dXg2ejNETDRoNkNKUTJKeHFKRU5SQjFTR2s4NHp5cy84Y21VYXhCU3A3NjVZWmZneFNheFNMTnllcFZRWnlHU01rbldJZjdHQ0Q2aUZZbkVzRjdYQkFpUURTQ2NkQURmUHREMXBNTnh6emkveVFtOGVSZW16ZjlvMVdrNDJ5NzdXZDB5UEl4WlNOakNNTHdNMVppM1pzajdzMjNid1pFSDNMT0FZTlgvUWZVQXpLYTRuWnN5Nm5XRWNmeVdBcEpmSzhOK1NiSWlpS1EwR1dqQVUxK1FkeGpncVlSK3NuZ2dZUlFjUDhyQUs5dkx5V2paa2orMkdmdlJlRVdJQmVxYy9hNHdNOWFzdmFYZDlCajdUaDdkZThWa0pxWStjYWNwN2swL1Z4d2NaamNsbnlDV05iQVFFRlJuVWxvWnZRRDNsVkd2c1Bwd3NFbVZnZnRsYkZROFVUS0QvRGFjbjBKYnE5VDFsdk5GUkgraTBuV3EyVWg0SkFPWGwvWlE4c2tsUWovdThid3AvbUlHRnRFdHk1MmFPdGRaaTVxTkR3dWxKSVNSKzEyUTJUNUx4VUVGbGdaeDNEQnpvNWJ0VVNmdnNHMVdZQWtzaS9BNTRmY1hkTHJHOXJLQVlHYmtad0JCdCtNTVBTVXlzb3B4SDQ2cDdJS3R2S29PL2RFMlBFNVZ0TWtsSm9ZQ2tvRi9kOE41d3pWeUtZcnBJRUhXam5XTUtqOUJpRnBRN1VlbWg3OUlVcVJZa2RwelZQZ05aRUFIaHFFSFpIYkh6a21rQ2krbld6SUhBZG5kWWpOV3R3b0l6bWpBYTRGOXE2bWcxSWlxS3BYNW9Zc3Y0UDZ6ZFIyU1NkNVk0NzNCNVdVQXBVbmZwdFpWTHgzbWVQQVo0c1FXZ0pERVJ4a1FnNGY5MTR1azZLbkRJdWoxUFJCOW03ZGVyWnNkWU1WR3hpR0RkYjNiYWtvdFdldERWclYyTXJlMTJ4TmNVOUNIYnhGcFRlMXd2ZWJmV0hzWWt3MXljM2dTSDNFSmRuSEM3cE9NVkRNWnJkaHNhVUFUUlBPK1Z1aTVwV3M3bEpheG9Cc3BXekg4QVpOWlZkK0UzYWxQU2lTWURubVpUMWhuYWxyZlpBYllyT0RRbHBPS3A2WnBGZUc1RmxrNVBwRkI1amVTZmFXdGIxZHB5WGRVMEdxdXdNOERBQ283WFA4M2o0b1hnbHhsemY0ak4zWnQrZHp1SWtOcmMxalFCSHJtN25udTFtdGxKb3ZySHNObmptd0dVOHBtb21XNWthZ2xNdjJ4N3lNSUNUZEFQQ3ljQ3ZOWlorb0RBNEZVWGV0cHcvWVN1eUNlY1JlZVlHS2Ivd1RXRW44aXlRMHkySVZoSlhxemhqcm16eWFITCsvcHpTcVZTSGRMMlN3Y0RjbVYyRDgrdG0veUxLV1ZtdlloNi9zMGcrU0FnblRqZEFZUVRDM0x0VnFFcWlLUndOclRUZDJnK3krZXRmYk1BbHU5eitMMVRMU2tsNm1jSjFTNjljOC9vRjFINHk2L2V6QkRuNHJpVHc3UnZ2bzZxSUZvb1BlN01NbEdVMXdCaWxzSlg3S0hrSzRZVzZCV0hHeGVDSDJHblA4NzcvbEh4enVCK2VUZXlRNFpxQzgvWE9Yb1UxMGZMbmw4dUFLV3h3bUEwbHN6blpqUndReXEzQ1crUHg5amZzOTRTam1Zdm5weVhvcHdNMGl5TFdGV1kwaGsvT3gvQTBncWxlN0RrMUFoZC9RTnVoc3MxUXJZYTFlU0lKT3Frb2Z2alZacTA0YjlPRm01d2Fydkl0UnhWN3lrdm5iZnJyd2NuMEE4ZlpJZzJZTjlPRkJrUnkrTjdoNWFOS2ZlOXdyZm1qcGRYeG9NbVpQa0F5VGFNOGZsNktwdHI0ZmJUTm9zWjJhblUwYm5LRVk0bnpnbmNTaGtpNWg0QzJGNGkxby9YZFg5YVZPdzRFODUwcXMyK3FqNDc4UjFNaGV0VFV6R255TG9NOU52QlhhZkJQWmNCMGRXRXAxWVIzUlZZTWZGOFJzTUFDYURaRzdSUjJ5aHZNQ1NKNENyWGROSmhzczhVSHROazQzamg5MXh0THZPRTZpQ3hRMk4vdCtxdHZZQTk0R0pnZm9IdEdSK1VWUFEwQlBuTFRYMDRrZXV6MVF5WUM3T1pzK3JMM2pRTkJ0N3JHL01OZTQ4NVZzaFNMVGdXV3JVaWx4bk03THR5YUs4THdtdnV1U04wenZKSXhBcTRNZnRybXliaXNveTlmeE5ZTjF1U0xMc3BNRDBIODV3Y3o5Z3JLREZKbS8waWFaOG5vQ2RzeC95ZXBiVjMwendMeWpKZHJhYXlTbWFrU1Z0WjVTTjN4bXJlbkxwMk9hMWprRkN6WUhaTG1JdmpXSE9aNkRCZzZpUktnZEJGTW1MWDAxNUhEU2J2SmpldW1VbEpaVWsxYXcyS2c1ZUM0RktQTmxDSERhSlZYUDVPYk45TWNYRG03cTBaMUFuc0lkWG81TnUxME1pekZHMEJ1M0VtNHNyT2lXbVhNNksxTU1iYXU1cUVZelpxN3ZWZW5BNGZDbmNPNTNSL25TUVZwdjNybno2SVl5ZGpKeWhzN20zSmtnRW5hc3JsV0dzMFFkRzR0ZGVxOEtVUGpFMnVUOHFzYjZJVW8yOGMyeUxZQW5veXU1NWNnRzh4Yk0zclR4c1hBNmpzVVArSjJhZHpHYytSaC8zUTV2U0czejdaVHFDMDc4N1dNSFhyK2FkekZFdGlOR2hlZTNtUHAzRHdRNEZSUTYxQTdwcTN3emcvMXpwckE3eXQ5NHVKTFAzYkpJU0FlYmVBYkp1emJ5TTVLbVZXdzJQeVg5Um1EMXR4VHhoY2dldVNyRjM1U3gzeTR1SGM4djZBSFJ5Z3V5M0ZUVlRmM056VS9xTHBBOG16Ty9YT0dlUkFYRGR4eTluMXMyYW4waEpJeVMyY0NNUTQ4WlVJMC9KdkFjNTlyL08xeVc5U1haUFBSeUh4Tm5VMmRkRHdSeGxWRGpxMHNXQmdVSUI3Z1JFak04bW0rYlIwY0ppYmJVWFluQmJPcm15Y205dldQNStKVFV6TkZFVkRmbmpBa0RyNWJUNHY4UGNvWmNUc3E4dVBsMGZ4SUNMeUIxakZmYWhMYlVMd1VKVVFmR1cycUZaMk9vOTNLcGU2eTBQWDg2cFlTd0c3LzRxWjBsUjVBcW1aZ25tY0k0WmVxRnVvb2R6aVJYSXUwVHptc3ltZG1CZVA5ZGlvb2pxQzRzbTMzU01aaU1DMkp0WElqRHBsUGtIbzR4bVp5RmJyZzZPTkpsZXM1REZhc2NJMlh1RU9uM2VGZXprYmxqTXI0bThSU1ZWZDFzdS9FNTJjSk55SThsVWxtZE1KV3YrbUtWMjR5M3BxNVBlSGxrRlorT2MrM1ZOVnlmKzhqanpmK280Q3AxRjFZZXVBb0RlMVROT2o1dW1iblI5Q0F3c0ZqUGtESzlnamk5YlgyclMybG9CSUdKYm1Pb1JNVkRvTmkrQUxkK0lndjZnMXl5K0NIenNPL0E5NzhQcStEK0xnTU93WDRzRXptcm5JNGdrUHhHWUlGNDFQemE1VzJrV2xOTnA0aGp5R25ESlhZcGRmMnVPYzVSbTVUZm1uT1RhN210cnc4c3N0aGtUb1drMUhTQ2hjbzIyZ2hmdWk0b3dPcERZOUF5UWZZaHA5VFdoMStjb0Q5YWJtdklVL25Jb1pEY2tLZnhoYzZMOFRuWGFJU2dlazIvRzZXbXh4SWVmSWhlMDJBR3ptQjhGU0xFT1VJelQyWUNBNjdNOE9KZWZHVStVVEFwZHZrVk1KU1NESVlNSnJ4SzFWNUFZUWttWTBRNmk1Y1JUeS9CdmlkdThMOUt0S2V6WXJweGx6Q3laYzFpV0V1TnNwSmp5NWt6SzgyTzY5cTJ3eVVRS0V3cTFKMGVRN1ZDL0JneENwRUZtaUE9PQ==",
+   "key": "var _0xc81e=[\"\",\"split\",\"0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ+/\",\"slice\",\"indexOf\",\"\",\"\",\".\",\"pow\",\"reduce\",\"reverse\",\"0\"];function _0xe19c(d,e,f){var g=_0xc81e[2][_0xc81e[1]](_0xc81e[0]);var h=g[_0xc81e[3]](0,e);var i=g[_0xc81e[3]](0,f);var j=d[_0xc81e[1]](_0xc81e[0])[_0xc81e[10]]()[_0xc81e[9]](function(a,b,c){if(h[_0xc81e[4]](b)!==-1)return a+=h[_0xc81e[4]](b)*(Math[_0xc81e[8]](e,c))},0);var k=_0xc81e[0];while(j>0){k=i[j%f]+k;j=(j-(j%f))/f}return k||_0xc81e[11]}eval(function(h,u,n,t,e,r){r=\"\";for(var i=0,len=h.length;i<len;i++){var s=\"\";while(h[i]!==n[e]){s+=h[i];i++}for(var j=0;j<n.length;j++)s=s.replace(new RegExp(n[j],\"g\"),j);r+=String.fromCharCode(_0xe19c(s,e,10)-t)}return decodeURIComponent(escape(r))}(\"YbjaghVaghhagYbaYVVaYbjajbbaYVbajbYajjYajgVajbYajjVajjbajjbajbgajbgajjhajbYajjVajjgajbgajbgajbYajbgajjgajjjajjVajbhajgYabhbajjYaggYaggYabhba\",1,\"VbjgYhaEU\",33,6,28))",
+   "id": "p179134400813600106532"
+  },
+  "extra": [],
+  "msg": "获取成功",
+  "status": 1
+ },
+ "baseInfo": {
+  "company_id": "CO00003N5C",
+  "logo": "https://static.simuwang.com/Uploads/foreign/logopic/20231227/thumb_860ea22ecef3900ca6ea6399f17dd97d.jpg",
+  "company_name": "杭州博衍私募基金管理合伙企业(有限合伙)",
+  "company_short_name": "杭州博衍私募",
+  "register_number": "P1074267",
+  "company_asset_size": "20~50亿",
+  "company_type": 1,
+  "registered_capital": "1000.000000",
+  "establish_date": "2018-01-25",
+  "register_status": 2,
+  "cancel_type": null,
+  "company_profile": "杭州博衍私募基金管理合伙企业（有限合伙）是一家专注于公开二级市场投资的证券类私募基金管理公司，基金业协会登记编号P1074267。自成立以来，博衍持之以恒的秉持着长期主义的投资哲学，以客户利益为中心，致力于持续为客户创造价值。公司核心成员平均拥有15年以上的资本市场投资经验，主要来自于基金、证券、信托行业，具备深厚的金融、数学、计算机等复合学科背景，历经多轮市场周期考验，具备成熟的投资体系和风控体系。展望未来，博衍将始终坚守责任与初心，珍视每一份信任与托付，立足于自身专业优势，持续为客户创造价值，成为最值得信赖的资产管理机构。",
+  "base_currency_crc": 1,
+  "company_english_name": null,
+  "company_address": "浙江省杭州市富阳市东洲街道公望路3号613工位",
+  "company_address2": "浙江省杭州市上城区新业路300号中国人寿大厦2幢15A06室",
+  "employee_cnts": 35,
+  "fund_practitioners_count": 33,
+  "nature_business_type": 3,
+  "business_type": "私募证券投资基金,私募证券投资类FOF基金",
+  "has_consulting_qualification": 1,
+  "register_date": "2023-01-06",
+  "organization_number": "MA2B0J0A-4",
+  "paid_capital": "1000.000000",
+  "capital_paid_rate": "100.000000",
+  "credit_code": "91330183MA2B0J0A45",
+  "company_class": 1,
+  "key_figure_id": "PL00001WR0,PL00003RRG",
+  "key_figure_name": "唐琪伟,丁品之",
+  "amac_link": "https://gs.amac.org.cn/amac-infodisc/res/pof/manager/2110141409107427.html",
+  "cnt": 70,
+  "registered_city": "杭州",
+  "city": "杭州",
+  "rating_1y": 3,
+  "total_fund_nv": null,
+  "company_class_text": "私募",
+  "company_asset_size_text": "20~50亿",
+  "core_strategy": [],
+  "risk_warning": "B+",
+  "ret_1y": "--",
+  "ret_incep": "--",
+  "ret_incep_a": "--",
+  "ret_ytd": "--",
+  "is_link": 0,
+  "is_direct_sale_config": 0,
+  "is_super": 0,
+  "super_mode": 0,
+  "link_manager_list": [],
+  "link_config": [],
+  "manage_fund_list": [],
+  "is_both": 0,
+  "public_opinion_risk": "",
+  "has_onsale_fund": 1,
+  "xcx_share_image": "",
+  "xcx_share_text": "",
+  "delegateList": [
+   {
+    "fund_id": "HF0000A3Y0",
+    "fund_short_name": "博衍留芳1号",
+    "raise_type": 1,
+    "strategy_id": 100401,
+    "strategy": "宏观策略",
+    "first_strategy_id": 1004,
+    "second_strategy_id": 100401,
+    "third_strategy_id": -1,
+    "inception_date": "2023-02-03",
+    "price_date": "2026-09-29",
+    "special_tips": null,
+    "is_link_set": 0,
+    "primary_benchmark_id": "IN00000008",
+    "performance_start_date": null,
+    "is_show_index": 1,
+    "is_wealth": 0,
+    "subscription_fee_conf": "100",
+    "is_nav_missing": 0
+   }
+  ],
+  "integrityList": {
+   "integrity_list": [],
+   "integrity_string": ""
+  }
+ },
+ "profile_raw": {
+  "data": {
+   "company_profile": "杭州博衍私募基金管理合伙企业（有限合伙）是一家专注于公开二级市场投资的证券类私募基金管理公司，基金业协会登记编号P1074267。自成立以来，博衍持之以恒的秉持着长期主义的投资哲学，以客户利益为中心，致力于持续为客户创造价值。公司核心成员平均拥有15年以上的资本市场投资经验，主要来自于基金、证券、信托行业，具备深厚的金融、数学、计算机等复合学科背景，历经多轮市场周期考验，具备成熟的投资体系和风控体系。展望未来，博衍将始终坚守责任与初心，珍视每一份信任与托付，立足于自身专业优势，持续为客户创造价值，成为最值得信赖的资产管理机构。",
+   "company_name": "杭州博衍私募基金管理合伙企业(有限合伙)",
+   "company_short_name": "杭州博衍私募",
+   "establish_date": "2018-01-25",
+   "registered_capital": "1000.000000",
+   "is_member": 1,
+   "member_type": 3,
+   "join_date": "2025-04-08",
+   "philosopy": "多资产策略投资理念：基于长线思维的安全边际投资，本质是价值投资。即以低于内在价值的价格买入股票，长期持有，等待价值回归。<br/>CTA策略的投资理念：以数据为驱动，量化分析为核心，通过严格的风险控制和多元化的低相关性组合配置，追求长期稳健的收益。其核心在于科学决策、风险优先、分散投资，旨在适应多变市场，实现可持续增长。<br/>",
+   "base_currency_crc": 1,
+   "company_type": 1,
+   "manager_list": [
+    [
+     "PL00001WR0",
+     "唐琪伟"
+    ],
+    [
+     "PL00003RRG",
+     "丁品之"
+    ]
+   ],
+   "capital_paid": "1000.00",
+   "honer_list": [],
+   "delegate": [
+    {
+     "fund_id": "HF0000A3Y0",
+     "fund_short_name": "博衍留芳1号",
+     "raise_type": 1,
+     "strategy_id": 100401,
+     "strategy": "宏观策略",
+     "first_strategy_id": 1004,
+     "second_strategy_id": 100401,
+     "third_strategy_id": -1,
+     "inception_date": "2023-02-03",
+     "price_date": "2026-09-29",
+     "special_tips": null,
+     "is_link_set": 0,
+     "primary_benchmark_id": "IN00000008",
+     "performance_start_date": null,
+     "is_show_index": 1,
+     "is_wealth": 0,
+     "subscription_fee_conf": "100",
+     "is_nav_missing": 0
+    }
+   ]
+  },
+  "extra": [],
+  "msg": "获取成功",
+  "status": 1
+ },
+ "profile": {
+  "company_profile": "杭州博衍私募基金管理合伙企业（有限合伙）是一家专注于公开二级市场投资的证券类私募基金管理公司，基金业协会登记编号P1074267。自成立以来，博衍持之以恒的秉持着长期主义的投资哲学，以客户利益为中心，致力于持续为客户创造价值。公司核心成员平均拥有15年以上的资本市场投资经验，主要来自于基金、证券、信托行业，具备深厚的金融、数学、计算机等复合学科背景，历经多轮市场周期考验，具备成熟的投资体系和风控体系。展望未来，博衍将始终坚守责任与初心，珍视每一份信任与托付，立足于自身专业优势，持续为客户创造价值，成为最值得信赖的资产管理机构。",
+  "company_name": "杭州博衍私募基金管理合伙企业(有限合伙)",
+  "company_short_name": "杭州博衍私募",
+  "establish_date": "2018-01-25",
+  "registered_capital": "1000.000000",
+  "is_member": 1,
+  "member_type": 3,
+  "join_date": "2025-04-08",
+  "philosopy": "多资产策略投资理念：基于长线思维的安全边际投资，本质是价值投资。即以低于内在价值的价格买入股票，长期持有，等待价值回归。<br/>CTA策略的投资理念：以数据为驱动，量化分析为核心，通过严格的风险控制和多元化的低相关性组合配置，追求长期稳健的收益。其核心在于科学决策、风险优先、分散投资，旨在适应多变市场，实现可持续增长。<br/>",
+  "base_currency_crc": 1,
+  "company_type": 1,
+  "manager_list": [
+   [
+    "PL00001WR0",
+    "唐琪伟"
+   ],
+   [
+    "PL00003RRG",
+    "丁品之"
+   ]
+  ],
+  "capital_paid": "1000.00",
+  "honer_list": [],
+  "delegate": [
+   {
+    "fund_id": "HF0000A3Y0",
+    "fund_short_name": "博衍留芳1号",
+    "raise_type": 1,
+    "strategy_id": 100401,
+    "strategy": "宏观策略",
+    "first_strategy_id": 1004,
+    "second_strategy_id": 100401,
+    "third_strategy_id": -1,
+    "inception_date": "2023-02-03",
+    "price_date": "2026-09-29",
+    "special_tips": null,
+    "is_link_set": 0,
+    "primary_benchmark_id": "IN00000008",
+    "performance_start_date": null,
+    "is_show_index": 1,
+    "is_wealth": 0,
+    "subscription_fee_conf": "100",
+    "is_nav_missing": 0
+   }
+  ]
+ }
+}

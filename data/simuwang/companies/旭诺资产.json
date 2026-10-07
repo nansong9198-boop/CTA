@@ -1,0 +1,224 @@
+{
+ "company_id": "CO000001X3",
+ "baseInfo_raw": {
+  "data": {
+   "encode": 7,
+   "data": "aFc2aWF4d0cySC9abGYwMm81aDdPZlF0aGxMNGRqYXQvVk8vbG82VUpqa2c2c2w1bkQzSi9rWlJlS2tXNjNkUGFMTzc3VDdIVFg0WnoyOUNJQnNqQ21UbWNxTDRaN0hTNkdvL2RiaUdINytXcDNBR3puakMvTkltWFhacGxwMi9HM2RlQ29RQldJNGZqNmlBUUUvUllXR3pYTzYvZi9FZWNydnA0ODYvSmpvU3RVUEhNWGZsL0Jjdm1EbnpNTVg4YUY1QVVmeEJxcENYVzFtKzlSNzJkV0ZIUGs3cWxQMDE1bXdPV2hYeWkraUFMZE9YUXB6RmlROTloeElVc3hXRUQ3cWc0STNyUTd5eDJ4SGVvVTdmWlFTKzdwS3FYYy9zWXpiSzNHSGhiTzA4cWNRYytJTjh6Q0ZJV3RQaURKdkcyR0ljZStQN09QaTNFaTRIZG1ubUNYVmtmSDNCU0Q4T0hZVkJVNlF1OGJLSjYxVGZQZldSYUd3ZzJwZGs0WFZFWi8rTmhnN3dyTkw5WUFpYlo4MHdVQVhwZzNxWFpxcUx4aXZHOWxndXEzM2lwd2RqVks0REVDcmo0SHhLMjJaNC9UL29WVXVkTUFnK050RU9KY1VqM2h2VmVYQ1FaNCsreW5VU08ya2hGbDlJOS94Vk5DNlVwOGtLTHZFRkdXUm5GY3Q3a3V0M3VHSmFKa1NDTTd3WGZwQ3ZtSE1HVkxHRVpSS24zVVpjKzhITzkxSXpZOHNtQ09zS3FQWmRyZlhmVUtOYzlQa3k5WnlncVk0K0lJcjliemVQQlBRTUY5OC91cUJzRTQ0QWtDamtPT2FpNHNOU2RCWmFCbXhJMlJhVEtvWkZwVGVxQVd6akc2N0pnakFXQm1QekhXb0xTNm1iMkR5VnhtdXpkL1JhQ2grejQ5YVcxOWROWW5SYW1neEJMSTFieXZQcUs4QStKS2hLUFFLamZpdTIvQTZxRjZsSzJoWitXY0dENVE0bHJXWEQvVlpBajF5dmU5M0N5TVJtaXZBdzdkUjZmcDhnWUx2Sng1UGViTWg4ZndsbXNxV1J1V3cwS1VqS3U1ZEVkZGxOSEhDQTYwZXp4ZUVOeG5EZVc3b3MzMTNTM1o5L1lFcm1FZ2pPVitla2tWZ040NksyZDNwYy85SzZ1WXF6L0d0SDY1OXZrdGlkZC9vV2Erc08zOXNweDlIRkV5SVpKdHYvNEZwUVNkcjFVaG9sWWlvMVdGQ094SVB3TVYwOW5iSGZPbkk1eHBhUjFvVk9sMW04MThMdW9PNllWSkJvMTFTUXRwSFlyYWNPWW1sdk1rc0dHbjRodGhZWnNHWWtUWGU4QW5BT1dtQnBjalloYy9tQXVvNXBjb0RicDN0YzBlWUhHL004d3ovYzU1L3BGU3pwazBtenh5M0J6c2lIeE1uUU1ZQVBXVlMyb050K01LVkNzVXc4a2RWVlJkaGhJcUxwcU5oYytzcVZkbnpBVk9TRHpXL2ZHbzBMcjM3WHA2NVNYdkpyeW16WGttczVoSjJBQ0YyS016WERUVTBQMmZXTE82WEZoR2VBYXlzUVF5MWxvK1h2cTN6cVB2NHBVQ3RuMFljdTFNRFRESHE5amlwdUN1ZXVHYzZLeWUrcEh5T09LaThnNlRmWnV3RExxYm9VRy9hcHNrNkt1Y3M0YXdENldGWElmeXRsSm9aaktuc0dZYTVhdXRYSUZJN3QxZEdFWDBQSFl1ekdVZGlOdHpzcVN6T2JaSnlrL3Z5S0U0clV5NFZZamZXSUdXU3doV3NhVUgxTU1NYTFXTEx1T2JFKzdncngvTjI4cFcvYkIwSFQ3b3hhWSsyaVRtaytaQ2VUKyt2NE50Vjk2dVRESmVrWG5ZdTlRYVJHVWdXaUN1VjJNK3VLdzJzdHVKWGYvSVJ4eTRlTTE3dUZGejNlZWpZbXhsYzBUam1hVDNzdU9kdUdPVm5xZ3A1YWgwdVJVUE52VXVIME5qYm1yOGhQM0RmMDRGTXJEbGVZRmVwcElUV0ZBbjdLZmxKMGRGMlZseCtIUnV4cEU3aFJ0SGVKVkZ2NzBKc0wzMkdtMkJzSVFmMVdYREo0d21Yd2w4a3p4cXdFMStJNmk5VVY3UGVhTCs1ekYzcHk2NDYzK0dpaklRMlY0WkdNQVRONWdNVCtLdTArZFI3dU9xWU8raE15S0U1MkM4MWNUVFYxVDRCMEtGMGZDNkQ1Uk5yNGh1c0tlN1dCNXdqWklrUHJjNmY0OHZKV1VQNi8rM2tQc1VUbTJQWHhXTnBZMUZ3aHNRcWhrNzJCcmd5dHJ3NmdmMFpta0lQSGtjOGxMeXplSEpMeEVzRkNjV21WZk1KdnJUcVF1cURnQjJRV1FnMW1wYVcrdjRPZ2d2ZDZYSWhGVlIvYXhoU0c0ODBiYXU0aEFzbWVOWldUSm51TnhvQzFsV3NaOFc0YXNLY0EvK2Qya1FTcHhGeHBRTUEzM2JNWWZwNXR3THZhbjJtMGtnelVhN3JvbThGOVlzKzJhRXdBV1lxd2laRkZJZFR6bGs1VnJSTWpURTRCNHczRXduQnB2UG9TTXdYZ0xsekFWdCtkZ3g2U2V4bkY3dVpNRW9pZVp1a01hOThHYzJFeEx1YzNPRzBTQ3NlMnIwb0JEMmpieG5ub0h4aTZ1T0FpbjE0ZDlPZkQyM2dyQ2hleDFSYmRYU1NmUlNFWUVFTTV4NGV3NFBRNUc2dHdYMWJFYXAwMUlvSUpuUTY3T0JCc0N0aVJOazhvM3Ric0FzQzIwL09icHRWTlB0citzTnFkSVZIVk42SFB2cmIyUHVvaWdDWDVNRHBWRWVXK29HRmJqV0RUeTJINnVFOGY5OGRVaDc4ZmtWa3ZyQ0QrSFNPME01MHJheVJrb0hjdEhrck9QcmNSaWIxZnJITnd2bHI2cUlyeWt5Y3c2ZXJHWGwzL2FHRGs5eERKS2kwYktoSXFkTno0Qk1tbU9CMVFUK1hobGt6VXN5TVlqSTVZWGVNcXBYS2Z4NVFVYzNDSnFQbkd6WXJkeG15ODNhSDhjbVo5YWtwTlhhdTNRR3hqS1h3Z1ZPUVFWaThBQ3dSMTl3S09RS2xsRlcwYzJ1ZlFSNFUwWkJFeEpXS1BJN3oyOUM1UWRIbDBMdXR4dm0wMVdXTUNKT2JlUXBFRUxKTXhQc1JZTC8yRGE1Y2dwd25BUHZSaXVOSlNrckIrcXVES1RLSXN6Yk9xVlZZZHdWV1FabGdhVGp4SmRwV2c0S3puWjBiRmIxTUlWY29hRjRVWjYvVUlpN1FaVHpxbVA2Sm5JT21iTkRWUjZ3ckpCVFVUeDZicVVhbHZFRk1qNWorZmU5azZKdjFlRW1YbjM2MGttVnArSkhSTUxtbWFTakxBckxJOWMveHZOZmI0N0pCb25pYmZTRjhLRkdPTUsycXhHUFd1a2xzSWJJWGptQkF6Mll5dTlsMFR3K1AvREVyaDhrN2k1OCtJVVYvUUtsNWFaK2ZSQnVCMFJWeU1CSjVrcjBsN2lxeEtDdnZRQUVnazV0UWpobTFvY21ybitSNVIvc3FScEtMaTlXN3piR054alVSRWFZTWVSVGY0Rm5QcTREL3lFVWNCTnluR3k3WTFOWmV2Vyt6RHB2dENvdlc5dE9ZelBVQlRpY1VTdFM5ZDQ0RndJb2xsZ3loR2pPbjRtc1I4aFBzbDhqcDFKNFMxVFVKNlpBbGZxaEozVVZScHpoaUMxaEY4R0tZSURsK0ZiK1QzQXJPV05uWjRkNTF2eWpZUGtXRHY5S3BFZTdXWTBJUVAvY0RmQ0RYK2NmWWVoZVRUcnZZSlBlQTNKcEpMQlNPb1VYQ3NtS3Rwcm50UFFYNDFlTHJnZGlGYnVCOUpVVlk5U0xaK2xaWStWd2xORzlzV3dSNjlhSWxrQ0UrRUhiT3RBdlBVUUR5S25QV3RSazVlK1V2OWU4ZmRoUXRmWXRmaFBtTksyK0ozUkdVeWI0Q0lhR2xhazVPOGZvZ3lVQ2ZpNEttWHZNZTlMd1N1NGtTRTk0NVI4R0lzYXhvZ09hSUZDUXdDVUZDenZ4aUVaWXpLYjFRZ21XQ01aTVVMSCtFMkRyZERWV29vY1MzeWcwbyswSzlha2pYKzNIaDduRUtVdCtyejdFR2QrRTVZSG9VS0xsZlJQTzBtQ3VlZXZISThVWlRKbGhCTWtNcm1XbHR6SHlGL3ZvRFYySlc2OVIzRU1OdnE4RnBOSTE2am9ObUJaK2xVcHl6bWRPZVE3OW1OL1hheTZzcGRaZzZMeTkySDk1TEhnSCs3RSt5ZE13cjlyRHZoajBabXl1UEMwOUhZRFJuUjNidWd2Mk5NdDBPV3J5eE5sUTZWNmVDT3VzSHVPN3R6TURiU0VmNld2cHRDVDhzWk16emxDTi84djJwc0ZpR1hzSnlreEdJcGFncU8xNDhBcWVVVFJ1YXVidm1mVTlCSm03cTRQVjZad3RKTm5Yay93SDVENXUrRStqT1p0cnErazdUUUtaRWxHWjBOdEh1OEJJb3pOVWdQVEpEQnFINW5GbVNDVEVGNml4czNrY1FuNU5ra0REM29tbGUzS0ZoUngwSlE0NFFwbVBadGowbGc2QUpDZFZXZ0tTbEkzVnl1TWpzSjJGU09hekU0eFNWU3Y2bzQyK0ZGM3JlM0V2YlVRc1lxZ05JZzdjR1I3YjhvdHRMUHpzQjlGNWZETTF2bFg3RmtIZktRRlNkU0pyNXFmMytEaldmZWI3U3ppMUo1M2pwb2I3MWhwa0NHdjZOVUhtR2FnR3VZTFNESVhOQU8xK1VHZldxSFZyblQ1ZHZuZFJPMElNdVhSMnlIL2VPN2tPeVBBTFpSaXZ6V0E5QXBqTWFHcEdGNW5zdjNRTFhBWnQ2aExNNTFKM0hkeURqa2FOellCaHBkZGFkaHovbDhZcmZJWmJNcGtZS2U1T0hPMUNjVXRzbWQxUTd3b3NSTnBQZFR3U0J2ZmxLbHpERHV5dWl5blpVWVhyOWNPaWlrUkI2S2hZU1BVNTVFSThPS1Q0ZFZLbGJ6dEk2NW0wd2NTNjZZV01kbENVS0FxcHNHLytNbGpZbXQzczhlK1hkUXdRMGtqNkN1U3hkS2JOUDlMLzNqWWpnY1hQVHljUTBhYXFhbU1lYlJra2ZSdVFteFJ1d2RZTEpyMEJDSWlMaW5qSzZodW05Q3VOdHpTSkpPSnlkeTY5cDRKbi9BczdHOWVKYUk0YmkrM25FaFVjc3dBMkFMNVptUkEyRHlrOG92dXUxWDJhK3lBZ3FjMFJzb3VnRWRWNHdTRlVXK0o4K2lRcThXZGE0SHpoT284Kys0ZUw3SzNraU5ycmttbVBaZU4xYk1hd0ZNTUo2VUJ1MklpUlhlcHV2YWVxMHoxRWJhMFpQcnc4Y0NGcFpKekZWWTV6WkNtaUdIdi9mcXI4dW5sS25hYmdheit0V2MwbkZqdm9lamdMbVhsRUdteUpraFZET1FoWEhmMmxjd3pWbUpJYXlpVFBHMHlsQTBYNGFsdUFpc0xkR3RFRzlpUHZ3QlFtSXdweDEzWFVRRFphZ053L3NsbmRuQ05mZzdKWjZDYmIyS0ZIV0pGZ0xIbzF6dGJnMW5MSHhvRjZRUjI0ZStOZmNyNzNCazU1T1dicXhhRkt1UXFTT1V4dHZHbjB0WjFnd1ltaUl2V3pxcWN1ZGR1TlgyamVRbTVDK0htazBicHp0ZUVnUFpXcnI2TmNNNUExcUhSREhrQTBQUUVMc28rRmFxTkIvVUdyYUEvdDg0dnNMQU5wRUZ2Y0pMVzI4WXZyM2wyYXo3WVNramU2VXJrSE9LYVMzMzg5WjlYTUlyOG1XY2ZyUHVTa1hNT3RxdDg4dURITUxGZFdLN01yN2JETnU3cDBIMlp1VkdqZExkdlRiSFRxT1lBU0ZSVUw5cFhqTVNqa0VlK3liMThLRncrRGF2RXhtcjRXSGlSM0I4OWlXWjZjZXFOVTl4Q1dFb09JNEVqRlVYcGlycXZ6MnBNellPUEszc1p4RkdCR2NrRzRTTVJGTFExZStsYjZHcG81NWVxTGpORkYxVDJKODQyK0RkdXczRGpFQVVJaHlFUTJtYWpMR3Z1L3JycGxWVGhYL3hxbEVhZStabURaVkJjVnpxandZcGFydnZwdWFaVXNYenRCSkRWemZ6N1d3WVQ4ZTJ0TlVJYlZEWHoxWmI2MnlXcGgxUDl2NmxSQ2pGOENWQU1tT2twRW1XYngwd01sc3liOXVWUjNGK2wwdkFqbi9zT2xGSFVjQjBTbjFPVk9jb0hCUVZ4Q1BmT1VPSzdOL3Fraklua0ZKSU9QTUJCLy9aNUlsUFF3UXVDOXRlRWUyeGpVUXNzSXV3bXV4MlJUZzdnNGgwNTN4Rmh3SjFqSXpXYXJtcFB3UTFkcmdRSVZ5WURIOVhQcmNnMVQ2ZklaMGMzbGRJYmRlTkk4WDQ3ZzRrZzc0djI5ZDJrWXN3K0EvS3ZBS1dSUStPa3A0UElKMmdYTVdid2FQT252Tk9uajdzNnBaeFdJZTRZRjF1K1kwSHBuQlU=",
+   "key": "var _0xc31e=[\"\",\"split\",\"0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ+/\",\"slice\",\"indexOf\",\"\",\"\",\".\",\"pow\",\"reduce\",\"reverse\",\"0\"];function _0xe59c(d,e,f){var g=_0xc31e[2][_0xc31e[1]](_0xc31e[0]);var h=g[_0xc31e[3]](0,e);var i=g[_0xc31e[3]](0,f);var j=d[_0xc31e[1]](_0xc31e[0])[_0xc31e[10]]()[_0xc31e[9]](function(a,b,c){if(h[_0xc31e[4]](b)!==-1)return a+=h[_0xc31e[4]](b)*(Math[_0xc31e[8]](e,c))},0);var k=_0xc31e[0];while(j>0){k=i[j%f]+k;j=(j-(j%f))/f}return k||_0xc31e[11]}eval(function(h,u,n,t,e,r){r=\"\";for(var i=0,len=h.length;i<len;i++){var s=\"\";while(h[i]!==n[e]){s+=h[i];i++}for(var j=0;j<n.length;j++)s=s.replace(new RegExp(n[j],\"g\"),j);r+=String.fromCharCode(_0xe59c(s,e,10)-t)}return decodeURIComponent(escape(r))}(\"egeAWsAsWsssWswsWegggWegeAWwwgWeggeWwwAWwAsWwseWwwAWwAgWwAeWwAgWwseWwsgWwAsWwwAWwAAWwAgWwAsWwAgWwwAWwAgWwAgWwwwWwsgWwwsWAggWesAWsAsWwAsWwAeWwAgWeggeWesAW\",84,\"gewAsWoaL\",14,5,7))",
+   "id": "p179134398716373133082"
+  },
+  "extra": [],
+  "msg": "获取成功",
+  "status": 1
+ },
+ "baseInfo": {
+  "company_id": "CO000001X3",
+  "logo": "https://static.simuwang.com/Uploads/foreign/logopic/20170822/thumb_599bd809edffd.jpg",
+  "company_name": "上海旭诺资产管理有限公司",
+  "company_short_name": "旭诺资产",
+  "register_number": "P1002888",
+  "company_asset_size": "20~50亿",
+  "company_type": 1,
+  "registered_capital": "50000.000000",
+  "establish_date": "2009-08-03",
+  "register_status": 2,
+  "cancel_type": null,
+  "company_profile": "旭诺资本2005年创始于郑州， 2009年在上海注册成立上海旭诺资产管理有限公司，注册资金5亿，中国证券基金业协会备案登记编号为P1002888，旗下自主发行的证券基金包括： 旭诺成长对冲系列证券投资基金、旭诺价值成长系列私募基金、旭诺CTA系列私募基金、旭诺稳进选股私募基金、旭诺混合型1号私募基金等。创始人李旭东先生，拥有丰富的投资管理经验，敬畏市场，操盘风格谨慎，精细把握市场脉搏，始终将风险防范放在第一位。 <br/>",
+  "base_currency_crc": 1,
+  "company_english_name": "shanghai  xu nuo",
+  "company_address": "上海市浦东新区杨高南路729号1903单元",
+  "company_address2": "上海市浦东新区杨高南路729号陆家嘴世纪金融广场1号楼2103室",
+  "employee_cnts": 23,
+  "fund_practitioners_count": 21,
+  "nature_business_type": 3,
+  "business_type": "私募证券投资基金,私募证券投资类FOF基金",
+  "has_consulting_qualification": 1,
+  "register_date": "2014-06-04",
+  "organization_number": "69295754-X",
+  "paid_capital": "30000.000000",
+  "capital_paid_rate": "60.000000",
+  "credit_code": "9131000069295754XR",
+  "company_class": 1,
+  "key_figure_id": "PL0000046T,PL000010FT,PL00001N6U,PL000036KU,PL00003CSX",
+  "key_figure_name": "李旭东,赵瑞峰,吴云峰,罗晨,王雄姿",
+  "amac_link": "https://gs.amac.org.cn/amac-infodisc/res/pof/manager/101000003263.html",
+  "cnt": 33,
+  "registered_city": "上海",
+  "city": "上海",
+  "rating_1y": 3,
+  "total_fund_nv": null,
+  "company_class_text": "私募",
+  "company_asset_size_text": "20~50亿",
+  "core_strategy": [],
+  "risk_warning": "B+",
+  "ret_1y": "--",
+  "ret_incep": "--",
+  "ret_incep_a": "--",
+  "ret_ytd": "--",
+  "is_link": 0,
+  "is_direct_sale_config": 0,
+  "is_super": 0,
+  "super_mode": 0,
+  "link_manager_list": [],
+  "link_config": [],
+  "manage_fund_list": [],
+  "is_both": 0,
+  "public_opinion_risk": "",
+  "has_onsale_fund": 1,
+  "xcx_share_image": "",
+  "xcx_share_text": "",
+  "delegateList": [
+   {
+    "fund_id": "HF00005HY2",
+    "fund_short_name": "旭诺CTA三号",
+    "raise_type": 1,
+    "strategy_id": 10030201,
+    "strategy": "量化趋势",
+    "first_strategy_id": 1003,
+    "second_strategy_id": 100302,
+    "third_strategy_id": 10030201,
+    "inception_date": "2019-06-03",
+    "price_date": "2026-09-28",
+    "special_tips": null,
+    "is_link_set": 0,
+    "primary_benchmark_id": "IN0000008S",
+    "performance_start_date": null,
+    "is_show_index": 1,
+    "is_wealth": 1,
+    "subscription_fee_conf": "100",
+    "is_nav_missing": 0
+   }
+  ],
+  "integrityList": {
+   "integrity_list": [],
+   "integrity_string": ""
+  }
+ },
+ "profile_raw": {
+  "data": {
+   "company_profile": "旭诺资本2005年创始于郑州， 2009年在上海注册成立上海旭诺资产管理有限公司，注册资金5亿，中国证券基金业协会备案登记编号为P1002888，旗下自主发行的证券基金包括： 旭诺成长对冲系列证券投资基金、旭诺价值成长系列私募基金、旭诺CTA系列私募基金、旭诺稳进选股私募基金、旭诺混合型1号私募基金等。创始人李旭东先生，拥有丰富的投资管理经验，敬畏市场，操盘风格谨慎，精细把握市场脉搏，始终将风险防范放在第一位。 <br/>",
+   "company_name": "上海旭诺资产管理有限公司",
+   "company_short_name": "旭诺资产",
+   "establish_date": "2009-08-03",
+   "registered_capital": "50000.000000",
+   "is_member": 1,
+   "member_type": 3,
+   "join_date": "2015-03-03",
+   "philosopy": "长线人生：树立积极进取、诚实守信的人生价值观，孜孜以求。<br/>长线投资：以历史为背景，长期地看待投资生涯，赚取公正、合理、可持续的回报，有所为有所不为。始终坚持价值与成长投资策略，以增值为标准的投资理念。<br/>快乐工作：通过管理机制、管理方法营造快乐的工作氛围，最好的工作效率来自于高涨的工作热情，兴致勃勃会让人更好的发挥创造力。<br/>",
+   "base_currency_crc": 1,
+   "company_type": 1,
+   "manager_list": [
+    [
+     "PL0000046T",
+     "李旭东"
+    ],
+    [
+     "PL000010FT",
+     "赵瑞峰"
+    ],
+    [
+     "PL00001N6U",
+     "吴云峰"
+    ],
+    [
+     "PL000036KU",
+     "罗晨"
+    ],
+    [
+     "PL00003CSX",
+     "王雄姿"
+    ]
+   ],
+   "capital_paid": "30000.00",
+   "honer_list": [
+    "2021-上海证券报-金阳光奖-年度成长私募奖（CTA策略）"
+   ],
+   "delegate": [
+    {
+     "fund_id": "HF00005HY2",
+     "fund_short_name": "旭诺CTA三号",
+     "raise_type": 1,
+     "strategy_id": 10030201,
+     "strategy": "量化趋势",
+     "first_strategy_id": 1003,
+     "second_strategy_id": 100302,
+     "third_strategy_id": 10030201,
+     "inception_date": "2019-06-03",
+     "price_date": "2026-09-28",
+     "special_tips": null,
+     "is_link_set": 0,
+     "primary_benchmark_id": "IN0000008S",
+     "performance_start_date": null,
+     "is_show_index": 1,
+     "is_wealth": 1,
+     "subscription_fee_conf": "100",
+     "is_nav_missing": 0
+    }
+   ]
+  },
+  "extra": [],
+  "msg": "获取成功",
+  "status": 1
+ },
+ "profile": {
+  "company_profile": "旭诺资本2005年创始于郑州， 2009年在上海注册成立上海旭诺资产管理有限公司，注册资金5亿，中国证券基金业协会备案登记编号为P1002888，旗下自主发行的证券基金包括： 旭诺成长对冲系列证券投资基金、旭诺价值成长系列私募基金、旭诺CTA系列私募基金、旭诺稳进选股私募基金、旭诺混合型1号私募基金等。创始人李旭东先生，拥有丰富的投资管理经验，敬畏市场，操盘风格谨慎，精细把握市场脉搏，始终将风险防范放在第一位。 <br/>",
+  "company_name": "上海旭诺资产管理有限公司",
+  "company_short_name": "旭诺资产",
+  "establish_date": "2009-08-03",
+  "registered_capital": "50000.000000",
+  "is_member": 1,
+  "member_type": 3,
+  "join_date": "2015-03-03",
+  "philosopy": "长线人生：树立积极进取、诚实守信的人生价值观，孜孜以求。<br/>长线投资：以历史为背景，长期地看待投资生涯，赚取公正、合理、可持续的回报，有所为有所不为。始终坚持价值与成长投资策略，以增值为标准的投资理念。<br/>快乐工作：通过管理机制、管理方法营造快乐的工作氛围，最好的工作效率来自于高涨的工作热情，兴致勃勃会让人更好的发挥创造力。<br/>",
+  "base_currency_crc": 1,
+  "company_type": 1,
+  "manager_list": [
+   [
+    "PL0000046T",
+    "李旭东"
+   ],
+   [
+    "PL000010FT",
+    "赵瑞峰"
+   ],
+   [
+    "PL00001N6U",
+    "吴云峰"
+   ],
+   [
+    "PL000036KU",
+    "罗晨"
+   ],
+   [
+    "PL00003CSX",
+    "王雄姿"
+   ]
+  ],
+  "capital_paid": "30000.00",
+  "honer_list": [
+   "2021-上海证券报-金阳光奖-年度成长私募奖（CTA策略）"
+  ],
+  "delegate": [
+   {
+    "fund_id": "HF00005HY2",
+    "fund_short_name": "旭诺CTA三号",
+    "raise_type": 1,
+    "strategy_id": 10030201,
+    "strategy": "量化趋势",
+    "first_strategy_id": 1003,
+    "second_strategy_id": 100302,
+    "third_strategy_id": 10030201,
+    "inception_date": "2019-06-03",
+    "price_date": "2026-09-28",
+    "special_tips": null,
+    "is_link_set": 0,
+    "primary_benchmark_id": "IN0000008S",
+    "performance_start_date": null,
+    "is_show_index": 1,
+    "is_wealth": 1,
+    "subscription_fee_conf": "100",
+    "is_nav_missing": 0
+   }
+  ]
+ }
+}

@@ -1,0 +1,233 @@
+{
+ "company_id": "CO00000JPQ",
+ "baseInfo_raw": {
+  "data": {
+   "encode": 8,
+   "data": "dUVLcnJCeVVST3dXNVVQWnhNVHF3RU1wN2EwWU1YQkloL0ZtSDU0dTFETkZBUzhVQnZ2VFRFT3duRHZEZ2xVemhRcm0xL25TNW1tdXBhT0l2M2FiMnN6cHdJSGk1V3I4eW5pT09mV3UzcnFLMlIydHRoZVVhM2s5cldzRzgyTjhwT2FYVER6VHkwZ0YxK3g4SlM2UzE4elVoNDUyYmhvOWJWRjJrK3BDejBtdEtpZTlSd2JUTVEvRllZdG00QTIydlVYWWdadXYrZ3FXbDByODBIZTdWS1UxRTRLSERPZUpGb3NJTWdZY3NGSzBQM1d2ZnpYUllGbENHTEVSRmhUZjkzbjZwOGpNN085dUlJVGJCRE4vbjNYNHFSUis0aHhHRnZmbGJObVF2M0x0Z1RDd3lRdnRUbEw0OUNpOTBybENkY2FXNmJYQ1dFODdIWitSYXdodjk1K2tlRit6aUxJUWRRKzBZcm5YUUZQUHg3cGhjWHBpMzRlM2UzR25KM3VIN1JTay9RTW4rUXZyUkdOVGJiUlhmd1BPVC9hK1BKckxIeVUxcmFCK1lnREliY1A0R0tPczJtZWNmYlNNZ0ZqSnJQS2hXK2loTXhSZGpVaC9uQ2VZb3ZmRnp6NERJMGREMUEzZ3A1dkJ1eTY2dGllOFM3ZTR5OGFSSnExdlZpaDE4Y3BhWkt6VnVrbWtMdUUzTVYwYllheTlFLzgvVmx5YTI1WENJVGMxcmlYc01KRm5NNGxlczdLUDhXa2d3TEg2Zm11VStqUHVwRXRjL3ZWam1iMWdGVGV0TzFLeVdDWnJ2ZGJ3YVd4ekV3bVBKZktjMFI5UW9kUWQzWEZLOTA3MkpyVEROMEpXM3pSSTduK0IycWRjRTZaaEVNTk1EU1RyQk05eXNnV1lkYVdHRlFZUVJLeEhRZi8xVnBTNnFqNTFRTGwyZ1Y2cE0rWjZVSzVJV2FpVEFwRjZORWwzdTFqeVRRUWcvNzNvdXlYSkxkWmpoRXdKL0lTUWxBRVhKL0FteFdNZFBhak1IRlNxdnZpZnluZVpDVHV0ZDZlU3pwbkZacUZpVTBlN0xVN0srQjIrSkl4RllHMG1zSmEzM0lKblNyUnhFb29RL1U2dlNjZTNPQlRWU1hWTUNCNENEL25QOVc1eWg0VzMySUpueEJYM0hkdWJjQ0s5LzQ5Z3g5ayszdU1IYldpbVd4QU1hdWd3ajFoWHoyOUFyTStmVUFkSi9mMCtiaXhLeDNTaFVFVUZKY1NqMVpna0xGWGhlWFZuQnhac3hMWVRqWURxNnVhSS9mZ1o0aDREWHFyVmFYTytBeFlmTXFDNXBManNSblBXSDBxOEozM1FRVlQxcFA4M1U5eXY2RGdGV0p5WTB3dmY4bGRyS01NL2EzUi9aTEpVN3hha2x5SkV6YnRkYnFUdlFEOUNrTGc3WHUyWFg4NFZzZjJiZHBXOUw0dURia1QyUlc1cklTeWEycnR4dE5VVnBkdGVYbHBZZkJwZ1A4THRFclB4elVuRWhXTUJXUkdNSGgrRC9leUU1Z3c2aytOV08wK0kvTThsUVdTR2lpR3hZMkpVYlZOWDlrdUhDNUx5anJVZ3ZQekt3VTZFc01xSDVVNngxVWIrSVFpdG9zSWxkU1c0SFZaVHdvYURZTmJKdG1MTHd2cWJTNWp4Z3pCYldwSEFHT2V2NUNUS1hhcyt2VG5tVTRNQk1iRklmVHY5L29uWUduQ3c2aVpjTklWS2JYRXRMWURjTlFibEV0d0gyQUNoQVN1ZW5NUHJLUURwTG5HckNUWGF5YVV4bFFST0pCaFRHSTN1dUhFaGltRHZqa255UFl0ekJ0Y0J6TUppemdSbCs0QTZhUHl3LzFLVlpPUXlscXJ1S3RuditiOEY3SmpHVjJReTFIb0kwUHBPVGE0V0tpSVk2c3NwTWxmcnNRSUNieHdBVmpaOHpqS1NLUDliTlpJZCsxYmllZjdDZEpPYUlZcUJsV2g1ZVF2NTcyNlBaakZyUndsTEpTcDNDTHlxenRIUjQvN0RrNlAzWGpzcHhkNHpZVGNQMmx3UnJFR2hOUGZDSmVTaDVJZjFJWkc5dHZSYWxEc3RSdEhNZzdNbHpZZ29DYTNUZVJZYVBmeTBJdHA5bjV1blY2VU1MOEZXeCtyTFk2Ly9sV29CdTZEY3BCQy9XdktaczZrWTl1ZnIzWlY0NVg1bWRrVFNvMXNuUEdhOTMyNC84OURyQmdpa1ovYm96QkhZNWlKUjh4TGZ1RUxrRFhjNGJhaWx0VE02SFdKRXFjSkd0WjdMTEhTSTFQT3dlNHRuY1pjNEtwOVNuWDZkMzVibW51REV4Z0thVVFDWVFYblMrZ1dtUkwzTmF6dnRoQWljUk9Hem1KcVJydHZhRmJ5OHMrTGpLajBKRzJPV25ZRTF0dlZVOFJzMjFiQ2x4K0lXak9OUldJZXhHNXJMa3RqSW1ab2pvWjlUNkVnWUZHRUMzWTdIaDJtVDRXUFNZcGZLRnFqeHVjelYzNHdPZFN1QW96WStvV3RYeS9NM2ZoQ2dSQXRJQ0thS3RyWUh6czV1aFVScTluUHFCS2FCellPQmptYW1KbmJQOGlwckI4Y0tnNW5ScFpaWWpnS3JETUZKV3RSZ3BlZ2JpenVrOE9vT2dUbmpJbmdOWDBwK3M5VXA0VzJNelpUbS9nWlZEMFZjdlViYUprcHFxaDVDdExoNmFLQzhmODlDcjRVQlFrN1oycHpvNGZLREZEOEhHM2xLbEl1WUdKczVvamxtMkVVSElqWCtDWHQ5OTgzMnVwYWZGU1IwRHNZUjd3QldPK0wxV3NmS3BPLzlFeHFxcnBiYmZnbi93YUcxSlVLcmFiWGhRRktGcHZkSWRoQ0NnRGRmck4wRndaeFVRY0NuVmtoWXlRNC96YWNRcG9HcHo4c1UwcUxwa1hYRVE2TXM1YU5GTERaU2JySlZIcUlweGlxY2FuOVRDN2NDcGNzcjdWMTNLbDltY3NTOERJVk5TZHhnb01rcmlKWEhVRmNVR2NudlhjakdUMTVMdzJ3WEdUWWthd2VoSGJjWnpGMmMxNDFISDhJNGo2NjZicmc2ZWFySlpybTEyazFtNVZIV0hnVGUycGJqbjlnRzgxVXZObVlQQkZLODRpby9WQ1RyT2JyTmlET1AwbnpoNFJKYnU0aXBncVh1LzZxNHBqTDVrMitQMldDWTJ1TW1YSGE3bml5RnpnOW13ZzNPaTJaWXN5ck9hWURoOTRycjg4YSs3MlBaRG9abnVKK09PdmhoY0tHOERXcC9GOVVYRzRYTzJ3cW5HWTE1c3QydWRDbkszQlVZMHA3V2lsZXpSdkNFcSszVmxIdGlCbjhlT3hqNzZtcitQaHpkL2dHN3h0czBzRjJZYUduemlnR0FPalJ4elhieGhIWE9VVlNVY1IxaldBTklDQzZzUzExaERwS0prdEN4K2VOTkdqNzZvN00ySlVKNjZ4TURkb3pMSWI5UFpwaVY0MFQwb0hnVER2dmpFdEd5VXVwTFpFYXpkczJpV0ZSeklyTjE1OXZZUEMwNDBVY2duNEh1OVkyUTd2MnlTSHNpRk02RkI1bG0rK3pmSWswcGRRaXBENnhnOVU1STZaNEw4Y3ZjQm9RUHNsTmo0a0E5K2RqS25JS3JKNTY3ZTlhdCtHUk1PZ3dBN0hwTi93RHJrOHdYcFh3SXpGd0JQR3JFTE4yZXRkY1BZUXh4c1NXVmhNVUpxMk5tVk5LNThQdGpTOG5jWEx5RXhrbzZFaU93b0h3dENSYklldnd3aXpjMSszS3VJM204R2xBUk11amd5aXM2bndHRk1SVmJkMVJjY3pSS3psTHFGenFFdUVuNjVBN2Z4U25DRVZnUDNKZmFLNTErVExYRHpYbStKc0VRb1ZwM1g4SjhTaGlEQW56dzBqYWFIVTZCbGE5V3p1alJRd1Y1L0VwMXJJUURaSzBjTWVkMHZnZUpYNXNOYUF2VFk3dVNzUFY1VUpRRzlKR2VXdGhETW4rdU8zMmgyMmhCSXNpdjJvbG9vRFViTUlISGtPUVI4NnNXTm1ibVV2bERJN2VLbkhSVGdCV211Z0NnZlRBWTg2LzlnSnFQUW00M2crOUlEQ3hobVc4Rkh3V0VTaG5qYmZTYzY5b3lvOE9idkUxWCtLSmFlOEFwZzlYZXg2eVdLdWZ3QkN5clFNQUtKSFUrQ2JUdWl2UGp1dVFPVWF4Z0h5eStjL1V4aTRHVjFnWUdaOThSTmdRdnlTaWdOV0RPR3FMc0JJMmZoSzhqRVBGcXo1bEx3TzRVY0dJUVZCMWl2cVY5NjM3NW91dE9ZNnJKTHJrdXNFUlZqbUdBeUVZU2VWa2t2QzM2dll5cWNRYURWNjM3K1RDUk9zRXRKaHRDS2wxUitSNFFtN002Tk5KOXZRblRyN2VndUVXRFhkN2NuQ0I5YjQrbDFWNkFjRUZJWEJFa2dNQUgyR0gydGpyRS82UDhLazJ6TUxzVjFGRStsbWpzcktXMHBwcnQ4d3czK3VTU3hBTDU4VzFEL2dpTWRxZStvWDlRRWZSVC92UzJHMytHWFQ1OWtaQk14aENvRFljZkRxS0o2d3RvZFl4Rlc0LytEYXp3RlE2V1NURTd0NXRKQkNZZFlhbnZ6WlVQUThLTUtwSngwem45ZGpxbUwzS3g2Skh3SUdqSDNvd2JVM083cGhuaVpQd0R0OGI2aDNxbDYyWjJJSnp1QzAzbzJadTBGR281ajcvaUc4dkFqbmM5UFFCSk9oUFcraU1Ma0RwaCtNYXJCNncwdDZFakNuRlhuemRTL0luRW9aZFhwdUU4SmJLZk04d0RTSnFtejVCZjI3b1VaNVFtbHZabU1GeEJCQVNzU3kvSlAxY2w5K3hPK2cvelpKRk9PTnN2eXhjU1hMQmp3NTkrVnREUVE2aVBIVTN5T3NQQ1lINHRLbGc4OExrSlhFaHBRN0RqbTVxUGFPYXZyZnQ0Ykt0bzl0aU4vQm9hUENidllndDR4a1lNVHROM1ZqcnFSVy8xcEM3aHpZVktVMXIzMHNoeFdPQnVJaW1yaXJ4M2RRdGpvNGd2ZTJBelhoa3N1N2s5ajg5eEpuclRXeFZkM0VSL2ExMUM1YlIwV2oxWk1GTThHdElMS2xqb2UxRmJnWDB0QzVvQzlpQk5SUHIzRWVtbXhDNEQySzhJclBjTVh0V0lkNGFEbnQ5elVOQkFpb1NsRk4rV0g5cnRXWStoc2ljckNOeEVYeEFZRXlHd1NWQVd3cjJFd1ZqdlBHTW10MmVDeTBIbEdxNmJuR096WmRTYlpGL2VEcmlsN1VXQUMydzJER2pPYUZpK3ZVQ2FoZm1rM1l2VW9YNXFJVlYwSWZBajhMLzc0RlBETkJEWkd6MkdxRkgycHg1RTN0cjdvZ0p6eDk2Y0xGTXJweXFVd3hxQi9ucFh1ZmEvY2JYcTU0NkdDTUQ3MmNoRzRZdUQ1ekpHd29ZRTJmYW9UL1ZHY0FjSFFqb2NDOGV1R3dJRzdVdTZoR3VwU20vZUF4bDRMNGhxK3ZON3JyZUM5cndzY292U09ySHJFSWtBcHF0M0VBdFF6RnVuWlJFWXBRR0xrejcxSlFlU0VQSFJkUkJhcmlvMzNKSi9UejhMREhXU1pHdUtwSGdhMkI0L0hDYm1SbDBPZTF4enBKRy9LbTJ2ZFEwSVVPcmxYb0RaVVUvUXN2dDRUZ3pWZjV6eWJtekVOOC9QMWoxRWQ1WkxrOXA0bXdhM2lWMzQrWCtnVFFYQkd1dG1qaVNIemNoa09yOWtJenNaL2d2SDlOdk5MZ0d0RFFXUS9Kdkw3OTZvVnM0eFBuVElMRnlHUVhhT29LbjlIZnYyZnhWZTB1YzNCVUxJMFFTVHZKMHl0VENTK2VNMy9WRC90MlFKMm9idEtMR2lUbmZFT2tXc0ZzbXlVR0xXNWNVeFo5MlBsblZLbUhaVkR2MUl1eGFQYmM2MndhT3V2K2E3OUxTK25oNzZtNGcyemJYUlovUVBobkc2bk9MTWJXN1NTcUV6aERlb29wTXprNnZ6WUQxUTlMR2MvcUxJRnlWMlFGSUJVOHVab3lreGFtMHB6bjlzcWM0aXZUSzBYKzlSd0V3R3IwR29HKy80RjdiQ3JBT0V4cVI4KzBZVGZpMFdmVDdNVzM0d1pSSFZCU2JiOUcxemkydFZSZXVJY2txVkNHaGdMb0JQdEhqVHMrSHZvbEV6UnpoUk1ibVF1WkRab1ZwQVZHTUc5S1RSTjNDRHd6WU83dGQybWVYL0lrbHZCRXZFSXZnd3UvR1EwVWd6dDFSSGM5WkJlTWwzdlRpaDlEQWtINzh2ZEZHZnVVWmkrMW9ldWlUMFk3Uk93c2oxYW1VZjI2TTFQeUk4SU80R3ltNndONG5mL0FzUFo0N0Z5UlptandoRy9XaEhwR0hULzVka3o5MkVQV0lrRXZjWElFOXJOUlc1c2U3U1NlM1BlZHJEN291RWFsdldwbDUwSldXT003ekMwYTZTVkNhTTN4bUh4dG9xRWFBMEV0cnFrdk1GODZacGpmUE5aWXo5bnZUWFdTTUpCYU1nYXhJZVYvU3RlK0RTZ25DOVVCSFRWUEdlWWZLa3VJRnVZcHFkeHhzcGFTbUpkNkIxK3BGTEUrZDl3ODhjWTVDbUs0UXJiZGEvZzkzc0ptaUhIT3Foc3NjNWdmamhkT2NsVEF0NW95NjlZY3ZwN0h6YnV3Y2tUbzZ0UVBzdFMwZGFCamZUbUlqOWRIdWtCclBySXdleE54M2pWanBEMElTcFBjZFVRenduYTduYTVaU1dtQTVkQkVNNk53c29USmxGQXlObnJSeTVnSHRKTGhURUVIVWkzUS91U1FYQms5My9EUzFqUmw3dGNYZ0FTTmVKeFl2QmJrUVZjb09qOHBSakRGbVZ5c1ZTdUc5ci9OQXlnOXdmNFhCdENSalZNNUZONk85MDk4VTJvMHlNU3Z5VmROd2N3S0MvK29ZMzNua2NaK1hJL3NzL0IvMlB5UDdxd1oxNzFJQXMrMDA5U2dQRGJ5OEhUV3ZEMGs2UWU1VGFNcitKOHdrWHVrNkhubU5OVHdyTjdDVTZISjZDdkllN2wyblg1cGN4L3BiR1kyQytTeU9xeXpvZUswdkN1NVVtYUVKMTBVcC9MTVRpYXBGd0cxeVhnTytuSHowdVlpZnRZc0RYVjk3S0N2SWoyYUc0cCtMWkFMQUhWNjBOYXAzdVU2TDhiRXpDQmhFdkk2dXdDdlQ2RWdGU2srRktNZXl3blI1UUJrM0VJdjgxSzBwVnBIbDhYNTBGK3JEQm1ZZTdDRlBYNkJycjQxbzFiUGFwYnEvaTRGd3RSaVJHYlZPMlpkeWVqeXEvN2JkYTBOT2x1YkFIQWY2WXVNclh1dDZmdDZBUit0d1R3STJjc0FqbWZ4RVVrbFU0enhwUFErWlBVSVpaOTl5eHordXg5K1VmWGVka2NtMVk2Sml3bDlOTFZGZnZocHNleHdDTGh3M3J3RW00VEFGb1dXcm9Zek1zNExOaU9IZTlmNEtlZFJFUWZFYUlHYlJxQklROEVvSUJGZm9HdWtmM1l3aWFkNVdPdDlQVzVuRHpqWFZQR3JvYkw2M1VGOGw0QkF1Umt5M0RGeWhBZnE0TklJa2ZqanpISGladFlaRlN1SXFDUzFVdTFWWi8wYTRoSnNSaVkwVjREL2RDS1hUSG1lWDJBMEdLY3ZCUDAxcThWWWhvRXA4VjNLaDZFOVZiMW9xSVpNTGFBaUxNdlRPTmtlazFSNFVqTHZCeWpIV1JHcjgzRGxtUDJhTzM5UXpYYUwzZ0UxNy9DYlZLTk1LRlUxemFrcU50U0pkM1dncUhnb0VSL0tFeGVhWnN5bTBoelgzOG5td0k0YjVQaDR5blpyWEZLRTNlTi9vYmMxVWNPdnFyZkFPYUFSUVppTUZpVTdvb0Vjbz0=",
+   "key": "var _0xc83e=[\"\",\"split\",\"0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ+/\",\"slice\",\"indexOf\",\"\",\"\",\".\",\"pow\",\"reduce\",\"reverse\",\"0\"];function _0xe52c(d,e,f){var g=_0xc83e[2][_0xc83e[1]](_0xc83e[0]);var h=g[_0xc83e[3]](0,e);var i=g[_0xc83e[3]](0,f);var j=d[_0xc83e[1]](_0xc83e[0])[_0xc83e[10]]()[_0xc83e[9]](function(a,b,c){if(h[_0xc83e[4]](b)!==-1)return a+=h[_0xc83e[4]](b)*(Math[_0xc83e[8]](e,c))},0);var k=_0xc83e[0];while(j>0){k=i[j%f]+k;j=(j-(j%f))/f}return k||_0xc83e[11]}eval(function(h,u,n,t,e,r){r=\"\";for(var i=0,len=h.length;i<len;i++){var s=\"\";while(h[i]!==n[e]){s+=h[i];i++}for(var j=0;j<n.length;j++)s=s.replace(new RegExp(n[j],\"g\"),j);r+=String.fromCharCode(_0xe52c(s,e,10)-t)}return decodeURIComponent(escape(r))}(\"yWYtyeWtyyNtyeOtyyWtyWYtYWOtyNOtYWyteOyteOWtYWytYWWteOOtYWWteOWteOWteOytYWytYWNteOetYWNteOWteONteOYtYWNtYWyteONteOeteYytYyOtYWNtyeYtYWytYWeteOytyeOteONtyeytYWytYyOt\",15,\"OYeyNWtbg\",20,6,20))",
+   "id": "p179134399712629852186"
+  },
+  "extra": [],
+  "msg": "获取成功",
+  "status": 1
+ },
+ "baseInfo": {
+  "company_id": "CO00000JPQ",
+  "logo": "https://static.simuwang.com/Uploads/foreign/logopic/20260603/thumb_6a2006c558ffe.png",
+  "company_name": "广东横琴均成私募基金管理有限公司",
+  "company_short_name": "均成基金",
+  "register_number": "P1061222",
+  "company_asset_size": "50~100亿",
+  "company_type": 1,
+  "registered_capital": "1000.000000",
+  "establish_date": "2016-10-17",
+  "register_status": 2,
+  "cancel_type": null,
+  "company_profile": "横琴均成资产管理有限公司成立于2016年，具备私募基金管理人资格，是一家以量化投资为核心的专业资产管理公司。目前公司投资领域覆盖股票，股指期货以及商品期货，通过单边趋势，配对交易，宏观对冲，股票阿尔法等多种投资策略形成了多资产投资组合，以适应不同的市场环境并具有较大的资金容量。<br/>",
+  "base_currency_crc": 1,
+  "company_english_name": "Parigain Asset Management Co., Ltd.",
+  "company_address": "广东省珠海市香洲区横琴粤澳深度合作区琴朗道91号1911办公",
+  "company_address2": "广东省珠海市香洲区横琴粤澳深度合作区琴朗道91号1911办公",
+  "employee_cnts": 20,
+  "fund_practitioners_count": 20,
+  "nature_business_type": 3,
+  "business_type": "私募证券投资基金,私募证券投资类FOF基金",
+  "has_consulting_qualification": 1,
+  "register_date": "2017-01-25",
+  "organization_number": "MA4UWJAH-0",
+  "paid_capital": "1000.000000",
+  "capital_paid_rate": "100.000000",
+  "credit_code": "91440400MA4UWJAH0A",
+  "company_class": 1,
+  "key_figure_id": "PL00000MLP,PL00004152",
+  "key_figure_name": "司维,李晓珊",
+  "amac_link": "https://gs.amac.org.cn/amac-infodisc/res/pof/manager/1611302353100875.html",
+  "cnt": 99,
+  "registered_city": "珠海",
+  "city": "珠海",
+  "rating_1y": 3,
+  "total_fund_nv": null,
+  "company_class_text": "私募",
+  "company_asset_size_text": "50~100亿",
+  "core_strategy": [],
+  "risk_warning": "B+",
+  "ret_1y": "--",
+  "ret_incep": "--",
+  "ret_incep_a": "--",
+  "ret_ytd": "--",
+  "is_link": 0,
+  "is_direct_sale_config": 0,
+  "is_super": 0,
+  "super_mode": 0,
+  "link_manager_list": [],
+  "link_config": [],
+  "manage_fund_list": [],
+  "is_both": 0,
+  "public_opinion_risk": "",
+  "has_onsale_fund": 1,
+  "xcx_share_image": "",
+  "xcx_share_text": "",
+  "delegateList": [
+   {
+    "fund_id": "HF00002HED",
+    "fund_short_name": "均成CTA1号",
+    "raise_type": 1,
+    "strategy_id": 10030203,
+    "strategy": "量化多策略",
+    "first_strategy_id": 1003,
+    "second_strategy_id": 100302,
+    "third_strategy_id": 10030203,
+    "inception_date": "2017-03-01",
+    "price_date": "2026-09-24",
+    "special_tips": null,
+    "is_link_set": 0,
+    "primary_benchmark_id": "IN0000008S",
+    "performance_start_date": null,
+    "is_show_index": 1,
+    "is_wealth": 1,
+    "subscription_fee_conf": "100",
+    "is_nav_missing": 0
+   }
+  ],
+  "integrityList": {
+   "integrity_list": [
+    {
+     "date": null,
+     "date_sort": "2025-12-24",
+     "source": "",
+     "type": "纪律处分",
+     "info": "该机构于2025-12-24被出具了纪律处分决定书（广东横琴均成私募基金管理有限公司）",
+     "amac_link": null
+    },
+    {
+     "date": null,
+     "date_sort": "2025-08-01",
+     "type": "三年内行政监管措施",
+     "info": "三年内行政监管措施该机构于2025年8月1日被广东证监局采取出具警示函的行政监管措施。",
+     "source": "",
+     "amac_link": null
+    },
+    {
+     "date": null,
+     "date_sort": "2025-08-01",
+     "source": "",
+     "type": "监管措施",
+     "info": "该机构于2025-08-01被出具了关于对横琴均成资产管理有限公司采取出具警示函措施的决定〔2025〕81号",
+     "amac_link": null
+    }
+   ],
+   "integrity_string": "监管部门或自律组织"
+  }
+ },
+ "profile_raw": {
+  "data": {
+   "company_profile": "横琴均成资产管理有限公司成立于2016年，具备私募基金管理人资格，是一家以量化投资为核心的专业资产管理公司。目前公司投资领域覆盖股票，股指期货以及商品期货，通过单边趋势，配对交易，宏观对冲，股票阿尔法等多种投资策略形成了多资产投资组合，以适应不同的市场环境并具有较大的资金容量。<br/>",
+   "company_name": "广东横琴均成私募基金管理有限公司",
+   "company_short_name": "均成基金",
+   "establish_date": "2016-10-17",
+   "registered_capital": "1000.000000",
+   "is_member": 1,
+   "member_type": 3,
+   "join_date": "2022-04-15",
+   "philosopy": "分散投资是公司投资方法的根本，通过分散在不同的市场（股票，股指，商品，期权，债券）、不同的品种（2000支股票，3种股指期货，20种大宗商品）和不同的策略（价值，成长，事件驱动，趋势动量，技术分析，价差套利）来实现稳定的收益。<br/>",
+   "base_currency_crc": 1,
+   "company_type": 1,
+   "manager_list": [
+    [
+     "PL00000MLP",
+     "司维"
+    ],
+    [
+     "PL00004152",
+     "李晓珊"
+    ]
+   ],
+   "capital_paid": "1000.00",
+   "honer_list": [
+    "2023-中国证券报-中国私募金牛奖-年度金牛私募管理公司(管理期货策略)",
+    "2023-证券时报-第八届中国私募基金金长江奖-年度新锐私募基金经理（司维）",
+    "2023-新浪财经-2023第三届华曜奖-卓越私募基金管理人、最佳管理期货基金经理（司维）",
+    "2023-Wind私募-Wind 最强私募-五年期管理期货最强私募（均成CTA1号）三年期多策略最强私募（宏观对冲1号）三年期管理期货最强私募（均成博孚利1号）",
+    "2021-中国基金报-中国基金报 英华奖-最佳私募基金产品奖（三年期管理期货策略）"
+   ],
+   "delegate": [
+    {
+     "fund_id": "HF00002HED",
+     "fund_short_name": "均成CTA1号",
+     "raise_type": 1,
+     "strategy_id": 10030203,
+     "strategy": "量化多策略",
+     "first_strategy_id": 1003,
+     "second_strategy_id": 100302,
+     "third_strategy_id": 10030203,
+     "inception_date": "2017-03-01",
+     "price_date": "2026-09-24",
+     "special_tips": null,
+     "is_link_set": 0,
+     "primary_benchmark_id": "IN0000008S",
+     "performance_start_date": null,
+     "is_show_index": 1,
+     "is_wealth": 1,
+     "subscription_fee_conf": "100",
+     "is_nav_missing": 0
+    }
+   ]
+  },
+  "extra": [],
+  "msg": "获取成功",
+  "status": 1
+ },
+ "profile": {
+  "company_profile": "横琴均成资产管理有限公司成立于2016年，具备私募基金管理人资格，是一家以量化投资为核心的专业资产管理公司。目前公司投资领域覆盖股票，股指期货以及商品期货，通过单边趋势，配对交易，宏观对冲，股票阿尔法等多种投资策略形成了多资产投资组合，以适应不同的市场环境并具有较大的资金容量。<br/>",
+  "company_name": "广东横琴均成私募基金管理有限公司",
+  "company_short_name": "均成基金",
+  "establish_date": "2016-10-17",
+  "registered_capital": "1000.000000",
+  "is_member": 1,
+  "member_type": 3,
+  "join_date": "2022-04-15",
+  "philosopy": "分散投资是公司投资方法的根本，通过分散在不同的市场（股票，股指，商品，期权，债券）、不同的品种（2000支股票，3种股指期货，20种大宗商品）和不同的策略（价值，成长，事件驱动，趋势动量，技术分析，价差套利）来实现稳定的收益。<br/>",
+  "base_currency_crc": 1,
+  "company_type": 1,
+  "manager_list": [
+   [
+    "PL00000MLP",
+    "司维"
+   ],
+   [
+    "PL00004152",
+    "李晓珊"
+   ]
+  ],
+  "capital_paid": "1000.00",
+  "honer_list": [
+   "2023-中国证券报-中国私募金牛奖-年度金牛私募管理公司(管理期货策略)",
+   "2023-证券时报-第八届中国私募基金金长江奖-年度新锐私募基金经理（司维）",
+   "2023-新浪财经-2023第三届华曜奖-卓越私募基金管理人、最佳管理期货基金经理（司维）",
+   "2023-Wind私募-Wind 最强私募-五年期管理期货最强私募（均成CTA1号）三年期多策略最强私募（宏观对冲1号）三年期管理期货最强私募（均成博孚利1号）",
+   "2021-中国基金报-中国基金报 英华奖-最佳私募基金产品奖（三年期管理期货策略）"
+  ],
+  "delegate": [
+   {
+    "fund_id": "HF00002HED",
+    "fund_short_name": "均成CTA1号",
+    "raise_type": 1,
+    "strategy_id": 10030203,
+    "strategy": "量化多策略",
+    "first_strategy_id": 1003,
+    "second_strategy_id": 100302,
+    "third_strategy_id": 10030203,
+    "inception_date": "2017-03-01",
+    "price_date": "2026-09-24",
+    "special_tips": null,
+    "is_link_set": 0,
+    "primary_benchmark_id": "IN0000008S",
+    "performance_start_date": null,
+    "is_show_index": 1,
+    "is_wealth": 1,
+    "subscription_fee_conf": "100",
+    "is_nav_missing": 0
+   }
+  ]
+ }
+}

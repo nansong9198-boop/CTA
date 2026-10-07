@@ -2,8 +2,9 @@
 """抓取私募排排网(simuwang.com)产品数据,用于与蛋卷基金数据交叉验证。
 
 用法:
-    python3 fetch_simuwang.py                # 抓取全部目标产品
-    python3 fetch_simuwang.py 量派CTA七号C    # 只抓指定产品(可多个)
+    python3 fetch_simuwang.py                    # 抓取全部目标产品
+    python3 fetch_simuwang.py 量派CTA七号C        # 只抓指定产品(可多个)
+    python3 fetch_simuwang.py --rebuild-summary  # 离线从已存 JSON 重建 summary.csv
 
 Cookie:
     从 data/simuwang_cookie.txt 读取(已 gitignore,勿提交)。
@@ -229,6 +230,98 @@ def flat_metrics(index_info: dict) -> dict:
     return out
 
 
+def fee_text(fee_group) -> str:
+    """feeList 里的费率组 -> 可读文本, 如 '持有期限<180天:1%; 持有期限≥180天:0%'。"""
+    if not isinstance(fee_group, dict):
+        return ""
+    parts = [f"{f.get('limit')}:{f.get('fee')}" if f.get("limit") else str(f.get("fee"))
+             for f in fee_group.get("fee", []) if isinstance(f, dict)]
+    return "; ".join(parts)
+
+
+def element_fields(detail: dict) -> dict:
+    """从 detail.elementInfo / feeList / recentOpenDate 提取产品要素列。"""
+    if not detail:
+        return {}
+    ei = detail.get("elementInfo") or {}
+    fees = detail.get("feeList") or {}
+    rod = detail.get("recentOpenDate") or {}
+    return {
+        "管理费": ei.get("management_fee_text") or "",
+        "托管外包费": "".join(filter(None, [ei.get("managementfee_bank_text") or "",
+                                          ei.get("outsourcing_fee_text") or ""])),
+        "业绩报酬": ei.get("performance_fee_text") or "",
+        "认购费": fee_text(fees.get("subscription")),
+        "申购费": fee_text(fees.get("purchase")),
+        "赎回费": fee_text(fees.get("redeem")),
+        "封闭期": ei.get("lockup_period_text") or "",
+        "锁定期": ei.get("lock_period_text") or "",
+        "开放日": "; ".join(filter(None, [ei.get("open_day_text") or "",
+                                        ei.get("redemption_day_text") or ""])),
+        "近期开放日": ",".join((rod.get("recent") or [])[:4]),
+        "预警线": ei.get("guard_line_text") or "",
+        "止损线": ei.get("stop_loss_line_text") or "",
+        "起购金额": ei.get("min_investment_share_text") or "",
+    }
+
+
+def row_from_raw(raw: dict, target: str, company_kw: str, match_note: str = "") -> dict:
+    """从已保存的原始 JSON 重建汇总行(离线, 不发请求)。"""
+    row = {"产品名": target, "优先级公司关键词": company_kw}
+    detail = raw.get("detail")
+    if not detail:
+        row["状态"] = raw.get("error", "无数据")
+        return row
+    bi = detail.get("baseInfo", {})
+    mgr = (detail.get("relationManager") or [{}])[0]
+    comp = detail.get("companyInfo", {})
+    row.update({
+        "匹配说明": match_note,
+        "排排网ID": bi.get("fund_id"),
+        "排排网名称": bi.get("fund_short_name"),
+        "管理公司": comp.get("company_short_name"),
+        "成立日期": bi.get("inception_date"),
+        "净值频率": bi.get("nav_frequency"),
+        "基金经理": bi.get("managers_name") or mgr.get("personnel_name"),
+        "管理公司全称": comp.get("company_name") or bi.get("trust_name"),
+        "策略": "/".join(filter(None, [bi.get("first_strategy"), bi.get("second_strategy")])),
+        "最新净值日期": bi.get("full_price_date"),
+        "最新规模(万)": bi.get("fund_asset_size"),
+        "基金状态": bi.get("fund_status"),
+        "累计收益%": bi.get("ret_incep"),
+        "年化收益%": bi.get("ret_incep_a"),
+        "近1年收益%": bi.get("ret_1y"),
+        "今年来收益%": bi.get("ret_ytd"),
+        "最大回撤%": bi.get("maxdrawdown_incep"),
+        "夏普(成立来)": bi.get("sharperatio_incep"),
+        "夏普(近1年)": bi.get("sharperatio_1y"),
+    })
+    met = flat_metrics(raw.get("index_info"))
+    for k, label in [("stddev", "年化波动率%"), ("sortinoratio", "索提诺"),
+                     ("calmarratio", "卡玛比率"), ("alpha", "Alpha%")]:
+        if met.get(k) not in (None, "--"):
+            row[label] = met[k]
+    nav = raw.get("nav_trend")
+    if nav and nav.get("categories"):
+        cats = nav["categories"]
+        row["净值点数"] = len(cats)
+        row["净值起始"] = cats[0]
+        row["净值截止"] = cats[-1]
+    row.update(element_fields(detail))
+    row["状态"] = "成功"
+    return row
+
+
+def write_summary(rows: list, path: Path):
+    cols = []
+    for r in rows:
+        cols += [k for k in r if k not in cols]
+    with open(path, "w", newline="", encoding="utf-8-sig") as f:
+        w = csv.DictWriter(f, fieldnames=cols)
+        w.writeheader()
+        w.writerows(rows)
+
+
 def fetch_one(cli: Simuwang, target: str, company_kw: str) -> dict:
     row = {"产品名": target, "优先级公司关键词": company_kw}
     raw = {"target": target}
@@ -303,18 +396,31 @@ def fetch_one(cli: Simuwang, target: str, company_kw: str) -> dict:
         row["净值点数"] = len(nav_points)
         row["净值起始"] = cats[0]
         row["净值截止"] = cats[-1]
+    row.update(element_fields(detail))
     row["状态"] = "成功"
     return row, raw
 
 
 def main():
+    if "--rebuild-summary" in sys.argv:
+        # 离线模式: 从已保存的 data/simuwang/*.json 重建 summary.csv(补新列, 不发请求)
+        kw_map = {t: kw for t, kw, _ in TARGETS}
+        rows = []
+        for f in sorted(OUT_DIR.glob("*.json")):
+            raw = json.loads(f.read_text(encoding="utf-8"))
+            target = raw.get("target") or f.stem
+            rows.append(row_from_raw(raw, target, kw_map.get(target, "")))
+        write_summary(rows, OUT_DIR / "summary.csv")
+        print(f"已从 {len(rows)} 个本地 JSON 重建 {OUT_DIR/'summary.csv'}")
+        return
+
     if not COOKIE_FILE.exists():
         sys.exit(f"未找到 {COOKIE_FILE}, 请先写入登录 Cookie")
     cookie = COOKIE_FILE.read_text().strip()
     cli = Simuwang(cookie)
     print(f"已登录 uid={cli.uid}")
 
-    only = set(sys.argv[1:])
+    only = set(a for a in sys.argv[1:] if not a.startswith("--"))
     targets = [t for t in TARGETS if not only or t[0] in only]
     OUT_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -332,13 +438,7 @@ def main():
         print(f"  -> {row.get('状态')} | {row.get('匹配说明','')} | {row.get('排排网ID','')}")
 
     if rows:
-        cols = []
-        for r in rows:
-            cols += [k for k in r if k not in cols]
-        with open(OUT_DIR / "summary.csv", "w", newline="", encoding="utf-8-sig") as f:
-            w = csv.DictWriter(f, fieldnames=cols)
-            w.writeheader()
-            w.writerows(rows)
+        write_summary(rows, OUT_DIR / "summary.csv")
         ok = sum(1 for r in rows if r.get("状态") == "成功")
         print(f"\n完成: {ok}/{len(rows)} 成功, 汇总 -> {OUT_DIR/'summary.csv'}")
 

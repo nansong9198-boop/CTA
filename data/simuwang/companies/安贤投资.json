@@ -1,0 +1,204 @@
+{
+ "company_id": "CO00002O2R",
+ "baseInfo_raw": {
+  "data": {
+   "encode": 6,
+   "data": "Qm1ZREUybC9oL1pFUis2V2ZxRXpXcTcrVDIyWnRJcU5OditXYUZmMVVoTXFkTnJyVlpUM1BjTmZwQ0M2eVN0MDkvckU0aW9MYTNTRDBNdE0wZ2xjYmtuVkVDZWdaR3dQdms5azZTZmxIRDRKZ0dSaGpqNXJhVnFKMy9JKy94THNyYlhyd1dWUUk1ZXBIR1VJcTZIejRRWEpzc3VLZWFqL0EwNisrL1c2MC9HeG95bVBkaHNiZFRNZ25CSzZGR3lHMm5IUlRjZytIbzV4ZHQzb1p3NHBQMXBVOGEyVzVRR29IemFHYys0QkErYi9zNjhYWldrUEN2NXdVR0lVWUY4RVVlQ05aaFpSWThTdWlOcWN0NURQaU9KVHZGRXVHemUvb1ZQSXdZQnBXdEo0UmtKK0dHOHpWK3RrWFpxQkVZeVpBdUhIcG1RTzNNMUpRK0pWdHNFcXA4dWhCZms1Z2xEQ3FQWmdlczhiQU9LSGlyeDFaK3VSZ1JRMGF5SVZUVW94bXNmQ1RZSElWRWd2VHBocFVPOTJWWVpQUzVFWitlWWxhNmpVTTdGR2tFYmNoRmdGWTdROHNUNmlDYVB5NDBZNURMckF5WkFUalVrZW9kWWxzUXFFV0c0TXVJREtzV0RDOWF5cEtJdFBUZTM2Q2MxcGtEbUZodmU3cktmNTYzWTdjdlFndWdhWTY3NmlKay8zcXpkTHlkZ25oTTlnMzhqRFdtcmxOWTFQR2U5L3dtbWdMdFpnYjRueGRHSTZXMTY2NWg4Y1RoL2tRWWcwcWIyZlNWZzlxL3J0Z2VIa0NKM3BIZ09NYy9ubnJ0NkRwZTVGM1JEYm1zVk9aYVdjOFVaZzhoWGM4WldHdkZDMHFpVlIxN1RwNkYvaXdIenowcEo1SmwxMkpxdW5KejdaSGo0WTdBTUU3T1lGVW4rWTJKZDJhMk04UWRiUVBiYVhRdFVvRzN6TWo2M2R4TitMdUU4M0h5ZFpFYTlvM0NLMUYyeXdJNEVTdHM4Y29LbWhMdVZhMXpoMEcrN0JMV0VsUTJjckdPc25halh2K3lMQXJwb0hiQTdoZEh4Y1JpbWpHZnlRUDJJTytWNkJEVFZsMGVUdTlmM1dqRFZDQWh1MVRCaC9JaEl5bnRSekZKRm9VSWRQT3JCS3Awc3FIRHdWU0dVa1NHbXhTWnc0LzdMZzNld09HWTh5ZDhRTkN2R2hjTFV3WGp0WURhcHV5dHI5VlUrRUJQellYVnJuU3FIRkIwME81UXJBNkVBeVdjaDVDbkF6b1JGUy81Kzd0M2tiaWd0NXNGcUhqVUcrMVJKbnRMempUMUFSUXJuTVlmZndtdVVyQjkxcHlDenVlbWpjc05zQVQxYityZDVSUzBUbVRXaisra0tqSGkwK3JhR1h2ZjRvWU5IK3JQQ3B3M0drVVEzd2NLdmxBWnVDWFNzQ1IrdFNveXQwRkpSUmFNZm1Ba0JPQ3h1WXRnRVZnSVRjWWRxZnVudmJZYXpQQms3UUYxd0s4aytOS3QxTHZzZWdWclRLOE5zRG1kRlBKaXIreXlsRCtCbDN5QlNtL2ovbGZha1NxQU1SUVJ0ZTFsbVlOT2NaVWlVMDk1REpmSFNCMGVnVVNZNEw1UWIzOHFiNzl3elRBcEowUlRYZ2J6ekdsaVlnYyt5VkpmZCtkSDdlREpMSmdsUVU4Wm8vOUJCNnZDYjVTL2dXT1dvVjRiUFRBMVNmbUx2dUVJVjIwWGFPN0NIOHNxUkhPZHd4OUN2V0FOL0pKSzhlZm1qSmZQOWxrNHl2QkRIMjYvK1RLSDdTZmgvRHI4aVVTKzBxYTNuT2VsYUduVFgzRjNOaUVLZEU2bUlzbUxnZVhVZEM0ai9pZXBjRzRWQVh6MGhlOGsvOHBsVWNIVXhEdUptdlF6dWliM2Z5dzg4SDkyblpGem8rWndvVDd6d2svOUtCS0tyK1BsSzdCdkkxTDk3VHM2ekNPa2NEcjVnVkFMeUJ0dzlhSmJWOWZkdTJQVFJvVVUvd3VEZjVjRVVKUmMxcjZEbUxCU3dublRmWUtYY3M1Mk9MMFQ3SmZKdnVxd0JoOVVBbGlyVlNoWVlVQVFmVEdveFVhV1o5V25SZkZQT24xMzJ0TFNpc3M3ZHVzVTRUUmlQTUJvYzZ2U3FsMURJU1g5Q2p5WGFveit4eFhRTnFPSllWa1lFdW82YTI2cTVXbjdncVNldXU4Y0FJVTJERXNNWU9acWh6a1NNc3UvcmRWekU4WTgzVXQrc29oSnJrWEJTV1lnY3lnRnIzZUsyT0ZaOURQc3N6RlFMSWQ0aktqVE1remtiamRuOWIzWE5UNERxdmVZSkZEUDJidTdRVG9xZWpERVJqa0NBak9iMG85L1F0dGdmcUsyN1lwVDlmajJYQlN0Q3lWYnRpT0hyK0F3d0FWYlIrT3FONW54bFQxVkdFUW5SYWZpbyswTE93cFd0YUZOMmlrekhaQUozRlNqZHE5K1hpM1FvOCtTMmFRbnRoU0MyaHBiRjIxT3VvSWlnRTRvQU53V050cjlpdDNEZEtQNURZN0VaUis5MWZSVFdjTGxucVUwamE3dzBKcTkxV0ZabmxKWjl3S3NWMnlLa2JTN3R0SEJqQ003QjBZQnRLcERaSUc3WTlDMkRBTEVzbTVVNCtYSWVOZmtCNXFtWUk1T0gxNUxQSlpKTkI5OWtJWFdaRDRtMGN1Mi9HMVdoYTdKeHZqc0NlM3AvTWpMV1p0MHR6OTFzTVdDNVJoOHF6c3VwUEw3OVZSd2pJR1c3cE9VM0VmMEFJdnRGbDdPQ3BmTmtMRHpWZkdJdFNuYlNIMGJDNjhzUmoxaCtSSHZ6K0FVWHA2Y3FPdzZYd1JMdmNiOFM0b2NobVo0WVc0U2xuRk5RSWxoUWlRNGhZS3NGOUc5aE1IQXhxMkN1Z2U2V201TXJaTGRwM0VQaEhCcVF1czJSdGVZUDg3UG1xSUtwZ3NsUW4zTktWRUdneGJJZmJFanFiRE92Mm1nbUZxZTFlUWdaNFVVL05zQk1RRzhiREpUN3RCWmRzc1BYM2g0YmRlTFdHalJzdGs4ai9lVUdUUVcvMmdzSWVnMXFXQjFTbFVYcitrbmUydXc3OGpVV2hqL2ZGTWtTRlFqT3hqY0RycHB1ME04OWlZbXNrS0gvOUZlSFFwb1ZrcnVhaElpeEJ1N2JUYWJkT1FqTmFDamxlWVhvM0wxS3cxR1pvM2ZhcHdRcG1LU2lOL3daVm5aYnpWWnBvdVVpeUlMR1NkcG8zcnNzanMrLzltL0oyN09FdzRUZVZBRnVzbGkyeTVNbU93a2Rlcm11TTlIYTJsZkluSnE2N3BuSTBVM3pVbWtuZnBmaG9yTmVKdXl3ZkEyS2FsZkpZSnkwcjVnNmk0bXFZWXVsY3hpK0xuelBNUWdkakJWZVgwN1dGZDArSHRta2dMSnNsRktkMmhiVy9iclNVU1NWM3REVWs5aXhHRkNucm5xTmllK3VyaXpkSHdKdGIwWFNYRFhzU0JzaWpBZHM5aGdiNmZjSy9EUWt3aGYvellCQ2xGVTlEMi8zcjA5K1EvVHkveWc0SGJNVUNERkZCSFQ4UlVPZmNRMk5mOFc4ZzhUOHZsQW5ES09EWEhJUkk4UElBcWx4SWVaUVVWWEI1c2I1b3IrWVVlbDl6TEZkN3hQOHE5SWFSUkJTdWRGNnRWSWFvbjVKSTdJUzFCUXRFQm1UZDlCZUJQWlZWR2EzQkdQRU5mNklVMEUydFVXQ01HVUFKMStpZVJ6eEZZR3BDc3RzK2EyU1dxK3kyNkhQODJXRy9nZFhxY09CU1p5MitnUFp5OERnK3lGY29idVNVR25uZGFKZ0FZUzhNalBzZ0VYUG82YzFZMXpIZzJlTmp2Q0F1TW5UYXViVTdyMjM5eDFBaDVpRWtzTnRRc3JUaFNiaEh3L3AzTUdjVWtDU21FRG1FMXRVaC95WG5jbzUzSUJTd1BTVHBzYXp4N1N0SjRzQ1JMaDI5MzJ0ODYyOFZXSTZVNEpsWnEwKzdsSHJJZzMwS2VReEJGeVpoV0tGVS8vOG9GbllXMytlWVV5bzJoZ0JPa1Qwanp0dGVYckR1L1NSTXJXdDNibHBkcmVtRStBQXo5ZHhjUFJpWnZBaGg3Um13R2xKeFlTYlZhS2VMS2VGaGdobkJhMU8xL01RZWM5c1FWNlpBQ2NoVXI5TjYxMGRqdHdPclVuQTdaRExwenBoNmtmaUFCU3Bta2EzSXZvWTU3MzRHcldpMkVQaFh3QnlxNUkxRGZNZktRWVMySE1yTmtaZWNhd3g2MjZKLzBsTXo4NFdJbkl2MjM0V0lEV1VxOVRWdldoQmlmeDRpb0dWZ3B5bGRGNEc5NDJROFg0alFVWEcvNkh4UktORkVpN0tRR2xWRWJmaE5CSWI4OFliVGlnUUtTK2d5QXh5YlNZelZFZ0s3MEFLeU9KZm9BTXNybVlJQ083QjJFeUEwWGJ0cnhhZ21sS3VjOC9ES3RCaGNrWFZCK01rSG1lSnk3cHhBMWxRNSt1Sm93enZmblkrZU83a01JSXUvMmtzcUxKMGR1ZG1Yb0l1ekQyYmVHejJXQ3RVSjBPSHhoaXZzUDVLRnNEb0FXeC8vZXVWZFlxdENOOUhFaCtKelYyL0JXdTJNSnBKS2lzd0xwK2NhUktjZ0lJYUw2U1dhZlRzYUdCRWl3Y0pSSlFiVnAvVVhhY3ZNdkFVN2psSHVEMWs0SkNVeHRYc3RocE5CVXQ3aDZBWFZFaGJMOXRHNzJxdys4bkN0dkJLbEZHTDA5TGJQNEVPL0o5TXQ3TU5NZWlOUk1Mbk1ud20xZHRjNHF6OG1DaEVoVFJlZS95STEya09UYWpHQkZFUGw1RGdLRDBteXR3Qk1RR00rVk5QMTBVbkxEdkhpL243YXpRaWpNMHFDNGZCUDgvaVphNUVvdUxMbjdQam9IR0k1b01KNWRaejdxM25Qd3o4TmdveWZ3K2Z2QTErTzRZUEJlUHBlQkUzOG5qTVRvanR3WVJlRDVNZGtqN25BYzRUWis1ejloSzdydEdlUm43aEJNbXRPQWl3MjR1cUZTUVNlZGg4UEZSOFhKUTZlSXRPS0diSzFLbWVIRngrR09Md3I0aXNYMEpkY2Q2TGZ6aTd0TlE1Y2NDeDhlaGpKMG9xMXh3TWNUZk80Y3Z0bTdpTWpvRzFjNFZTSFY2S2RLc05GOGNIRFpCWVEyTVRmM1BBb3c0YnVBcUtPZVNrTWxoQXNWaUFGMUZjbEZjUklqeHdBSFZxcm56VXYyZHY5WVRXRnF3ZFpQTFBvdkdvZldzWTVrRXA0YWhJZ0dBL0JBK0FXWjUyZnE2bVMvL25teXY0RGdkL09uQWFxb29kZXNLY3diWnJWQ2tha1JSNEJUQXBPT1FlYTd0WGlDdUt2ZlR5TWVBcWNueDVpcUk1eW9FY2JWUEZEVHNtNzh6TG9tZHlZaXVPU3JCK25IMWYyQ2dhSVlBS2VlaFpCclRnOTRDbVp1d3BGRndkdXp6RVI4VnNnaXI1MWdnRENVaDN5cFgvRzh2UGNJYkxya3FlNFQzUHlOampHWlhlSU9NcTJ4RnJ3T1NVZzRhbWlVNEhocnZTT3crWGFnRDY2Q09KZTZ2VGNmOU5FZGoxU01nR3ZRSUliQStUNDc4WWhKQzBYcGxaQ3d2V3pZWkdMU2VQZTl2anN3QlQwQ3ZoVk52SW1vRXdURU1ONVhDMWlmNk84TzFXU3dURnFZSlZMR1dTVmtSdDZFUUdjMmNIL3RxVWNGVXRweDNhOFhPbGlNZS9DY0hrYldnMnRxTisydlN3RGxzaEtsS2hQWnRWZzRMbjg3aE0vaW9OdGxVelBjeVI0bUd3dlVNbnBTdFlDSTN1TEtEU00wWFVXdnJ4Tk13Q0pIaFFLSlBQK3ovM2RvZEMxM3ppbXZndTNPSjY0RHp5S0lGY3RjUys3aFE2R084TE5YSXZTZTMxa1hTZmJwMDdERlg5WUd4TWxGS1RXOU9IU3F3OE9ucU84ejFJandTd0xaMWg1c0hZckVNenZDS1RTbjdLdlZoUmRGais0UlJLdDZ6RURxTGtQbm1YSktmc2ZlcmdrL2FvcE5LbFJwdWFtcVZRUWlKZ2hIdXBFSkV6b0ZXY3Y4UT09",
+   "key": "var _0xc35e=[\"\",\"split\",\"0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ+/\",\"slice\",\"indexOf\",\"\",\"\",\".\",\"pow\",\"reduce\",\"reverse\",\"0\"];function _0xe51c(d,e,f){var g=_0xc35e[2][_0xc35e[1]](_0xc35e[0]);var h=g[_0xc35e[3]](0,e);var i=g[_0xc35e[3]](0,f);var j=d[_0xc35e[1]](_0xc35e[0])[_0xc35e[10]]()[_0xc35e[9]](function(a,b,c){if(h[_0xc35e[4]](b)!==-1)return a+=h[_0xc35e[4]](b)*(Math[_0xc35e[8]](e,c))},0);var k=_0xc35e[0];while(j>0){k=i[j%f]+k;j=(j-(j%f))/f}return k||_0xc35e[11]}eval(function(h,u,n,t,e,r){r=\"\";for(var i=0,len=h.length;i<len;i++){var s=\"\";while(h[i]!==n[e]){s+=h[i];i++}for(var j=0;j<n.length;j++)s=s.replace(new RegExp(n[j],\"g\"),j);r+=String.fromCharCode(_0xe51c(s,e,10)-t)}return decodeURIComponent(escape(r))}(\"XvUrXFvrXpXrXUDrXpvrXvUrFXDrXpDrFvprFDprFDvrFvprFvvrFvDrFvDrFvFrFvprFDprFDvrFvvrFvXrFvXrFvXrFvprFDprFvprFvprFvDrpUprFFDrXXvrFDUrXUvrXFFrXUprXvXrFFDr\",3,\"UFpXvDrBg\",13,6,54))",
+   "id": "p17913440179322217114"
+  },
+  "extra": [],
+  "msg": "获取成功",
+  "status": 1
+ },
+ "baseInfo": {
+  "company_id": "CO00002O2R",
+  "logo": "https://static.simuwang.com/Uploads/foreign/logopic/20250815/thumb_689efcd4933da.png",
+  "company_name": "北京安贤私募基金管理有限公司",
+  "company_short_name": "安贤投资",
+  "register_number": "P1070195",
+  "company_asset_size": "100亿以上",
+  "company_type": 1,
+  "registered_capital": "1000.000000",
+  "establish_date": "2018-05-25",
+  "register_status": 2,
+  "cancel_type": null,
+  "company_profile": "北京安贤私募基金管理有限公司是一家以技术和科学方法为主导的新锐投资公司。公司策略涵盖A股市场中性、指数增强、量化CTA、多资产策略等，在追求综合收益风险比最大的前提下，兼容包括多元投资策略。自2018年成立至今，安贤系统化的交易策略持续在国内外市场取得了卓越的投资业绩，我们的团队和管理规模正处于快速稳定的发展阶段。",
+  "base_currency_crc": 1,
+  "company_english_name": "Axiomquant Investment Management Co., Ltd.",
+  "company_address": "北京市房山区北京基金小镇大厦E座121",
+  "company_address2": "北京市朝阳区麦子店街37号盛福大厦430",
+  "employee_cnts": 41,
+  "fund_practitioners_count": 31,
+  "nature_business_type": 3,
+  "business_type": "私募证券投资基金,私募证券投资类FOF基金",
+  "has_consulting_qualification": 1,
+  "register_date": "2019-09-24",
+  "organization_number": "MA2AJY7K-4",
+  "paid_capital": "1000.000000",
+  "capital_paid_rate": "100.000000",
+  "credit_code": "91330201MA2AJY7K42",
+  "company_class": 1,
+  "key_figure_id": "PL00002Z65,PL00003AUR,PL00003T72",
+  "key_figure_name": "赖雨澄,郑搏萧,张宏达",
+  "amac_link": "https://gs.amac.org.cn/amac-infodisc/res/pof/manager/1812261533100661.html",
+  "cnt": 80,
+  "registered_city": "北京",
+  "city": "北京",
+  "rating_1y": 3,
+  "total_fund_nv": null,
+  "company_class_text": "私募",
+  "company_asset_size_text": "100亿以上",
+  "core_strategy": [],
+  "risk_warning": "B+",
+  "ret_1y": "--",
+  "ret_incep": "--",
+  "ret_incep_a": "--",
+  "ret_ytd": "--",
+  "is_link": 0,
+  "is_direct_sale_config": 0,
+  "is_super": 0,
+  "super_mode": 0,
+  "link_manager_list": [],
+  "link_config": [],
+  "manage_fund_list": [],
+  "is_both": 0,
+  "public_opinion_risk": "",
+  "has_onsale_fund": 1,
+  "xcx_share_image": "",
+  "xcx_share_text": "",
+  "delegateList": [
+   {
+    "fund_id": "HF000065KZ",
+    "fund_short_name": "安贤中证500指数增强2号",
+    "raise_type": 1,
+    "strategy_id": 10010202,
+    "strategy": "中证500指增",
+    "first_strategy_id": 1001,
+    "second_strategy_id": 100102,
+    "third_strategy_id": 10010202,
+    "inception_date": "2020-05-27",
+    "price_date": "2026-09-24",
+    "special_tips": null,
+    "is_link_set": 0,
+    "primary_benchmark_id": "IN0000007M",
+    "performance_start_date": "2020-07-01",
+    "is_show_index": 1,
+    "is_wealth": 0,
+    "subscription_fee_conf": "100",
+    "is_nav_missing": 0
+   }
+  ],
+  "integrityList": {
+   "integrity_list": [],
+   "integrity_string": ""
+  }
+ },
+ "profile_raw": {
+  "data": {
+   "company_profile": "北京安贤私募基金管理有限公司是一家以技术和科学方法为主导的新锐投资公司。公司策略涵盖A股市场中性、指数增强、量化CTA、多资产策略等，在追求综合收益风险比最大的前提下，兼容包括多元投资策略。自2018年成立至今，安贤系统化的交易策略持续在国内外市场取得了卓越的投资业绩，我们的团队和管理规模正处于快速稳定的发展阶段。",
+   "company_name": "北京安贤私募基金管理有限公司",
+   "company_short_name": "安贤投资",
+   "establish_date": "2018-05-25",
+   "registered_capital": "1000.000000",
+   "is_member": 1,
+   "member_type": 3,
+   "join_date": "2022-06-17",
+   "philosopy": "安贤以统计套利策略为投资核心，专注于「多资产、多市场」的低相关收益源优化组合，致力于实现较高的投资夏普比率。",
+   "base_currency_crc": 1,
+   "company_type": 1,
+   "manager_list": [
+    [
+     "PL00002Z65",
+     "赖雨澄"
+    ],
+    [
+     "PL00003AUR",
+     "郑搏萧"
+    ],
+    [
+     "PL00003T72",
+     "张宏达"
+    ]
+   ],
+   "capital_paid": "1000.00",
+   "honer_list": [],
+   "delegate": [
+    {
+     "fund_id": "HF000065KZ",
+     "fund_short_name": "安贤中证500指数增强2号",
+     "raise_type": 1,
+     "strategy_id": 10010202,
+     "strategy": "中证500指增",
+     "first_strategy_id": 1001,
+     "second_strategy_id": 100102,
+     "third_strategy_id": 10010202,
+     "inception_date": "2020-05-27",
+     "price_date": "2026-09-24",
+     "special_tips": null,
+     "is_link_set": 0,
+     "primary_benchmark_id": "IN0000007M",
+     "performance_start_date": "2020-07-01",
+     "is_show_index": 1,
+     "is_wealth": 0,
+     "subscription_fee_conf": "100",
+     "is_nav_missing": 0
+    }
+   ]
+  },
+  "extra": [],
+  "msg": "获取成功",
+  "status": 1
+ },
+ "profile": {
+  "company_profile": "北京安贤私募基金管理有限公司是一家以技术和科学方法为主导的新锐投资公司。公司策略涵盖A股市场中性、指数增强、量化CTA、多资产策略等，在追求综合收益风险比最大的前提下，兼容包括多元投资策略。自2018年成立至今，安贤系统化的交易策略持续在国内外市场取得了卓越的投资业绩，我们的团队和管理规模正处于快速稳定的发展阶段。",
+  "company_name": "北京安贤私募基金管理有限公司",
+  "company_short_name": "安贤投资",
+  "establish_date": "2018-05-25",
+  "registered_capital": "1000.000000",
+  "is_member": 1,
+  "member_type": 3,
+  "join_date": "2022-06-17",
+  "philosopy": "安贤以统计套利策略为投资核心，专注于「多资产、多市场」的低相关收益源优化组合，致力于实现较高的投资夏普比率。",
+  "base_currency_crc": 1,
+  "company_type": 1,
+  "manager_list": [
+   [
+    "PL00002Z65",
+    "赖雨澄"
+   ],
+   [
+    "PL00003AUR",
+    "郑搏萧"
+   ],
+   [
+    "PL00003T72",
+    "张宏达"
+   ]
+  ],
+  "capital_paid": "1000.00",
+  "honer_list": [],
+  "delegate": [
+   {
+    "fund_id": "HF000065KZ",
+    "fund_short_name": "安贤中证500指数增强2号",
+    "raise_type": 1,
+    "strategy_id": 10010202,
+    "strategy": "中证500指增",
+    "first_strategy_id": 1001,
+    "second_strategy_id": 100102,
+    "third_strategy_id": 10010202,
+    "inception_date": "2020-05-27",
+    "price_date": "2026-09-24",
+    "special_tips": null,
+    "is_link_set": 0,
+    "primary_benchmark_id": "IN0000007M",
+    "performance_start_date": "2020-07-01",
+    "is_show_index": 1,
+    "is_wealth": 0,
+    "subscription_fee_conf": "100",
+    "is_nav_missing": 0
+   }
+  ]
+ }
+}

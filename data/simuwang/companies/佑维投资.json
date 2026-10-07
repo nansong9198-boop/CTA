@@ -1,0 +1,212 @@
+{
+ "company_id": "CO00002NVB",
+ "baseInfo_raw": {
+  "data": {
+   "encode": 4,
+   "data": "UmNVWWpnZTBXYkdKK0ZMMkc2d3JOc01lSWxucGVHZFVRNjh3MVRIa2E2a2pYSFRRT2JBYzFSczhFcEFaNUthVEprN0ZvM2RBTlV5aWdSM3FQZUJoV0txdDM0YXl3UEJYSDQyNlhmQUtucE1mTGo1MXNkMWhvbzdEeG5hRW10M1B2OUZHS3NyYktjNTJKMitONkVHVjRhczc3dmNJVjlFMGl5bGJDTjZRODVhMVl1V204VkFjOVp5S0lqS2szUHpCQVBDSjhxTG1CT3lCa3lJZGp4cUMvdEdUM3FKOGZkckpzcjdJdlJPWFBYZmxDeEhNUlVzRzJVSjkrc3l0M1dmM1h1ZW05cE1MeXcrbmMramR0LzREYklUNjNSakhMbFJZdHBDZ1UwYmtCR3ArNW1pRzM1dVFudVFDSVg1UHN3Z20rSTg4Ni9uSnA2bHVkdy9ZdXVocFpjOGpaTnd4MWdmVFNTVWh0RWdwOENIbmsxWGRjdnUzOWFLTFNjOGtBL1BWeWh1bW1ZTGRuSFpoSFZTSUdyS09tcS9uOUcwSkVqRy8reHFJQ3dIYWVON2FvbXlRajl4R282S1gzM0NpNlJ4R3RuNTVTejdPMFZObTdhcGMvWFVUNGJ1OGtXb2cvY0lmMWhHYm50QU1oNk50OEVMRys5aTR6NWU2a2dWS0Y2a1h6Zm1vQzVtTjZzR29JZmFKbEFacnJSUlZvb0xib3kzc2QxaUY4eGVxOUVZbVRvWkZaTS9BalE1ejgyQW96SXhlKy9UV0ZhN0hKcFczaVlQNmhJd0tmMWkzQ1oxNk1DY2hkcGptYUk1bVNkVGZOeFNPckE1c0xaTGN5V0RRck5JcTBXRTg5cDJLcDFKeDFEVFZ4b0hsYm1oZm1UaTdOY3NXNVlKazRMbXJ2Z0NHTFptSFNYNnhYdWc3Tnllc0NCa3Q1TGFkaHVOckI3KzdFeUJoMDRlT1pTeW1HalZVWmVPbVQzYUhyZjUxZkVzOEhvMi8yaS9tSk1Jbmh0WFdkaXhjRUM1a0tmQnJXQnhQcEtSYmlxK2hHM094eUQyQ3duRkp0aHpUMVU2MWNRNkF1VHROZCs5L1V4R1RWd29UNTY3Z1VXLzVuc0p2Tk5QeUIxUUluajFTcENtK2taQStvbUl3SXQwaWlvOWdGMm5Pb01DR1BrOG9Na2I0enAzTFI1MG9kc0hUbDdPQmhkTnRKcTkzRXVLTGN2TG1FYjk1NnVGMDQvUXFhdHUyNlpXWTVEUnJjOTFuRm1kbGdHMVAvc0Q1VlFkc3RXMy95UTEraWhsTDNMdnhRd1lqbXBBTXFVMzAwZTcrMU9GMGNCWG1GN1hxbGNuZlZla0lmb3JWMHBQVTltdEF4MmlxRk9LeHMzVS8wd2RYbER0NUN2Q0Z1YlNOcEZlbVNHMTVqZUZkMUI5UllSa3cwTnk5QkpaS2ViMFk1Qy9SaXMzNms0aWRPQThCWE9vQVYybU5LYm91UEtIYTV2eENWdFFNMWVVRFBhWU81c0w4cU9JTnB5cmNTblcwYUxxdDc5M1RuQ3cwNmJ3UEU4RllId29VN0tBcE9NSjEyQzZRUWVDVzh0ODk5UmZORTJSYm9lRlJkUng3WE1HQzNUaVpoTlF6cERPV3BiUXJHSGZzTnNRT1liT3N5NWxISFFXRE9qdUxvSFhnNmhYaStRamZJNVM1WXNUM0RnbVhoTStkOHAyTWMySWJlckV1OEM5dS95K2dNcDNjMjVBVlF5aHRSRmUwc1lhN1l3OVRrV1JBNzZuQ20wdHFUWjA3M0J2LzRVZXYzT3U5Q1BGdHljM3IxUXA4QSszRFBZY2JGOEw3R1B0V3plQzV1YWtKcDFaMkVBeENaMXk5M0hiSEl3UjI0MFh6aTlKaEVaODNZVWN4VzdlV1R6OFlQUGpBb0V4T28yVGQ1VytDeE9NV0FmdGtOYlN3YWwxVU94UmdvWFAvZmR2TW16UmhkZzVmdktqamVRa0lXeWd3UDR4aXF3YXdTeWo5Mm9IY3VKZXZmWkFSVjRiRWdKOW8rRnB3blhLdnhtZHh4cTlmcEtRczcwaDBDbHJMWVJZS0JGdjVLRXV0V0lzYkVHMWlUY29UOUFZRW5xY3dQWUhQODU5VzFjZWdJWm9JY1ZQY0N1MGZsOHZESm9HVmRkRE1wYVo4RE5zbm9EQ2dBb1FJVFFtUW5DM09NaTVvNEZQS1Uway94SGN4YVBUSEl5cnZpZzd6WVkvYkRsQllqWmlXa3JhckxDZU5FMnRncVIxOVNiaisvNmloM0MwK1VHaldLR1FlZlB5V09mY1RZYTRBc1pMYlJwTUVwbTgzc3BtQmgxN05WVVp3cmpSc1F2Ti9zdXR5UnppbmtJbGxvUDBMWU5CeGNjUDJDTi94WjN2bjM0djlTa2ZPalY5MXNMSDVlTURVUG9wT0NhSmJQRlROMlNHUmdxUW5sSVBtUlpQcnBBTEd0S0k1RXRKL25yNlozVFZ6aGtCSXJxS0xMR1ZwK1FjbnovVkE0NW04alphd1p4Y1drd1lsUGloWnFaUGNTZmVQYkJLQ1FiMUtHME16dk5OYjBLcHJkNzAvL3lxdE9YY2FWVEFtd28vMW8vMzVNUHo0dFJ6U2dxYit3b1hTbldQNU9IajZJMnJ1dWIxbm4vSzc5ZXQ2MnVnU2tzZ1BXWVVNb1dYNUxhdEdvbW11Tkdpa1JIVUErMzlDaWZteGFTWEU1UW80Q3NnZG1zZWZ5WEtvY0tmOXVKVTM5U0VoNEtpSkhJNDlKVVZ0Z2N0QmJDNWhqTWdKZ3hrUWE4NWdrUUpFV3BGRVVEUjRLQW9lOTY2bUNqR1JTMy9MalFlQnhzV2ErdGJrdEEvRURCeFlZNnJVb29RY2JnWDJOdE40SFc0blE3amNLT21xT210bWprem5xbUZWZ0VUT0VGaUpUVVFjcnFjWW9neVVteGNJMVpYRHJSRzMyRWtTVGJ4S0NQY0lnMkJRUXY1WGRDb0Jqa210SEVMMFN0bkoveVd5RzBqSHlYYjMyN2duOTFJR0N5Qk9kWDJJZFdFZ3pybjcvOUlrcVlLMDYydnI3ZE5RZWFJcGd6VnZkcFBXaEgrRW5TS1lQRlJSbjNhRFNZUWo5N3VEYWJqQzZ6YUppSFljWXdRTHg2N0dHZ2owYW5rNWRqTGVNVFJOTVEzd01POW8wNVNVZ0dGZlhzWG9ZaEN1TVA1RnpVZURUK044Ymp2NENCekRwVzBCWDBVLzZ3enJ0d3BpNkRSL1plbHlGcXVXaWswdzRLRm11OTdEZG1JdnpEaDRvc1daQWk2RWdxWWV5TXRTRjVlUm5nY1lPVzFaVERhM080NVhCei9jQndodmc0czVUcEpDelNNUm9udWZvZnNna3dSSTZVQkZNaU9ESmx0QmRtQzFWSFRlanI3R09DaFNRZldReUk3Sk1Uc2xkUmFJRlJYNks3TUMyRXpBRGZVVlJ5ZW0wWmVQczh5bDVDVllXL0dLUW1sL0NNYWYvbnRuRHRGQ0M1VkE1elV6Y1YrZ0w1U1NjTnhjdVFPU0ZYazBQYTRLNjV4SGttM3pvbHlOcmk0dG54ZCttUlZ3WUUyS1ZJQVVmM0ZXNzA3OUtBYXNiR0RacFlkSFRQT1liRmFGaWgvanMzSHU2SEk5cWdDVW1pSVA1VlFHSnZLK2dSM2g2cG5VR3E3REZQdGlteXdTOU9qZHE3OVoxNlIvMHJ4dEhYdldsN0M4TGJjeWR3MGdXWWJyNEExcElWc0tPNE5TVVFIQ1FJYlQzemNIYko1VnUxRnB1c1V2TmJsTkRVemcxQklITVR4ZmdWSHBwMk8yMzdncG00WDcxaGQ5ZDVSUlF2TzVQZmdBZkM2R2orcjA2L2N6NXNtdnlNRU14YlllakdqWXRLdXFKT3lFQ0pyTHNUZW9Ma2M5Sm1QL1NKV2lkRDgrT3NHelRHY0tnN2FSM2tRNUg5Ukl3Y2ErY2t4OEVEdm54dGJyVEhHc2NEdktXWDR6aVY5NitUd2JCZTZTSHg2T0VGUVVXeUtzTnkva2tzaUlYMTlaWHRmQ1pRZmkyNUw4dE80cy9pTkFZbkpOaHZGVTNyaXRYWjc3LzNiUTYzNjVyNUNQNGM3ZEZNRXVRR1BEK2lKU3RHRGtTUUVyUDNMajJ1QVNXb250aVpZSUMwMlVIYWJUK085d0RYdWY4UDlXSnMzWlNzUG5DRDFuam41Mk9KeXk1MUNNS0NUSWdiRmlWZTVYNzVPQ2VrdVBGU2NYZUNoaEphOFZIbHZraCtUNWJwbElpV05SRHUvK0ZtaXJOaEM5cE1ZVVhrOFpwa25TSXpWZzhFQVJ2bzM0dmVtT2FSODN6M05xcEFYK253UEx3TXE4Tzh3dU1aNTFsU1hNc2JRbmR5dUJsd3l2V0dtZmxjbzJEZXgyR25ldHRheU9WVkhIWUp3V09WUU91SnZsN2hMaHlFYXA3Y0t0SEIweWg0T2tRcHJHMTRmNUZlY25SVlErQ3kwQnNWdVRjWTBjWTdpSG1nNE1XTmZNeTkvR1RFcHdjUDZEUnpMdGhRMFg3eCtoenliZDdJblF2aGFxQWJZMGZNR29BTzlrMGQzVFVPYWFlQmNFejI5dEo3MW9tNmE1RFpyUkhTWldzSHlyK0N4K1dYRlVLT2ZHdnZhd21Nc0YyZHptTUh1VmtLZGZYQ3EvUStyOW1VVGxkT21kVEI3MkxzbGVhVm9JQTkzeEt0NExIcUw0R3gzSEhCSHVyaGN1SHF0M09obnhTNTQyUnFBcmFwcTF2alBteXN5amVMK1VYNXluZ2dRKzU4MFp6QjhyN01UQjhCMEpGd1RQdmsrNlVseGpMNExZK3F0bGNObk1EdS9EdWd1aGZ1OEdrcjBnbHowRE4wM25CQW4rUmIrclhNbjBlWUJWUk5ncnhpUTJqUTFhMEhudzZJemI0VTdOS1NEcThtN0hkT240RXBaSktITGVXVENLUnY0RHhoUkVGUzFMR0NYU0hjZE10MWJtNTBVUnd1aXpqV1RSTGVyVXNzWlB4VmNRR01JK3VTRTRXdWd6Ynd4WjZGRE1ja2t0VjVBS0dtRHpJc2psa0E5MXE1NHJNL1kwRWsrUWd5WE5zR1FoNFVkNEtFVnZObmNzVCtHTnU2UlEvbDNjUitwekU5NzNCZkJyTjRHMXQ2bmQ4Zm9pcHQ3QWpSYkdVZ3BvejhLYVlEUEpUMFlYM0FaamNWUFZMOGNqeHVJZVBZQjI4TlZEcE1OaEFuUUpiNkpKQ2NHVDZ1N2RBMTRzRmlTOUtnYTNRZFlQQ3grbWxNVUtwdDZzNmdQSXAzZk9qckpSY3AvNW5HWExlb2FFL0tXWFZtVlJzN1VxYktzeVFXN2FSdDVucG1YME0rc2xxMFdmdUpPRHJJZTRVNXJZOGoydU9iMWxwbFhseXB2Y2x5ZzlBQTFaMzdCZkhaRXZlZTY4NGJZQ25QQS9PNktESWZXK0JnL1l3TUdYbklJUkwrSW83Z0lMSWxDU0Q4cEZJZGVzNnNYaVRDYS9lUEF2SWhQRzdGZHpEMnlXQ0NrN2d2T290R2pOMUJXWjR5K0pZQkZqOVBocm9sbFU2b0hvbGJ3SlJteFh4bVpyMGVMRUJGc2xLVHRBWThOVnNVdUl6UUhEVThvRzFIRGljQXdJeGJiWU9qNHJyMitndUtiSFQ0WXRObGczY1JMcDc0d2VyVllHcCtHRHQrR21JTDRwb2tEY2JBdkVLQkR0UE1nUnIxdklmS0lzSHlCK2Z2U1o2QUtrN0dJaWsvOGs5TlROT3pSbkhOQzhHNy96ZmZWYVVoVGR6ZjE5OVJaZWRDODE0TThUZzVOdnpQejkxclBMSjYxZUd0UTBGL0RGVjd5Z0FHWExkWXhUbDFKVmN1SHlIdmtLTi9YYjNFamRSUGwzQWpEenkwT0JKZG5UVEpVblRBSzZVZjVsaTdoRnFDQ2xLeDBNVVJZMzhJakduVWhRQVhRMnlFMS9UVUtNUGh2SWJzWWZsM0tjZTNkb29XcHVBeHJKTU1yNkpuazU0cTRsTkl3WkpCVDR0TGJocnJIcHhCeXpyZ1JUeUVOblA2WXFFR2I5dGVDN21DSXZ0TGtFRjZuS0hGWEZnRnZk",
+   "key": "var _0xc0e=[\"\",\"split\",\"0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ+/\",\"slice\",\"indexOf\",\"\",\"\",\".\",\"pow\",\"reduce\",\"reverse\",\"0\"];function _0xe95c(d,e,f){var g=_0xc0e[2][_0xc0e[1]](_0xc0e[0]);var h=g[_0xc0e[3]](0,e);var i=g[_0xc0e[3]](0,f);var j=d[_0xc0e[1]](_0xc0e[0])[_0xc0e[10]]()[_0xc0e[9]](function(a,b,c){if(h[_0xc0e[4]](b)!==-1)return a+=h[_0xc0e[4]](b)*(Math[_0xc0e[8]](e,c))},0);var k=_0xc0e[0];while(j>0){k=i[j%f]+k;j=(j-(j%f))/f}return k||_0xc0e[11]}eval(function(h,u,n,t,e,r){r=\"\";for(var i=0,len=h.length;i<len;i++){var s=\"\";while(h[i]!==n[e]){s+=h[i];i++}for(var j=0;j<n.length;j++)s=s.replace(new RegExp(n[j],\"g\"),j);r+=String.fromCharCode(_0xe95c(s,e,10)-t)}return decodeURIComponent(escape(r))}(\"mtzmNuuzNmttzNuGzNmttGNmtzmNzzGNmttuNzGmNzuzNzuuNzGmNzGGNzGuNzGuNzGtNzGtNzutNzuzNzGtNzGuNzuuNzumNzuzNzuuNzGmNzutNzGuNGtGNztmNmtmtNmtmGNzumNzuzNuGuNuzuNztmN\",10,\"tmzGuNKZb\",17,5,26))",
+   "id": "p17913440057049679154"
+  },
+  "extra": [],
+  "msg": "获取成功",
+  "status": 1
+ },
+ "baseInfo": {
+  "company_id": "CO00002NVB",
+  "logo": "https://static.simuwang.com/Uploads/foreign/logopic/20220726/thumb_0f12c9f12d414b505d685a465d13219f.jpg",
+  "company_name": "北京佑维投资管理有限公司",
+  "company_short_name": "佑维投资",
+  "register_number": "P1069947",
+  "company_asset_size": "0~5亿",
+  "company_type": 1,
+  "registered_capital": "1000.000000",
+  "establish_date": "2016-06-14",
+  "register_status": 2,
+  "cancel_type": null,
+  "company_profile": "北京佑维投资管理有限公司是一家新成立的私募基金管理公司。创始人在全球知名的对冲基金有超过十年的基金管理经验，AUM超过十亿美金。佑维投资致力于AI在传统量化体系中的应用，在实践中摸索各种模型和数据的有效结合点。佑维投资的运营理念是小而精的团队，希望每一位工作伙伴都在工作中发挥出最好的自我，并互相尊重，共同进步。<br/>",
+  "base_currency_crc": 1,
+  "company_english_name": null,
+  "company_address": "北京市房山区北京基金小镇大厦F座486",
+  "company_address2": "北京市丰台区金泽路161号院1号楼-4至43层101内26层09单元",
+  "employee_cnts": 14,
+  "fund_practitioners_count": 13,
+  "nature_business_type": 3,
+  "business_type": "私募证券投资基金,私募证券投资类FOF基金",
+  "has_consulting_qualification": 1,
+  "register_date": "2019-07-08",
+  "organization_number": "MA006950-6",
+  "paid_capital": "1000.000000",
+  "capital_paid_rate": "100.000000",
+  "credit_code": "91110105MA0069506D",
+  "company_class": 1,
+  "key_figure_id": "PL00002GWD,PL00002GWF,PL00003KY3,PL00003YQQ",
+  "key_figure_name": "王思达,龚晓雨,王昊彦,冉文玲",
+  "amac_link": "https://gs.amac.org.cn/amac-infodisc/res/pof/manager/1902271517107282.html",
+  "cnt": 25,
+  "registered_city": "北京",
+  "city": "北京",
+  "rating_1y": 2,
+  "total_fund_nv": null,
+  "company_class_text": "私募",
+  "company_asset_size_text": "0~5亿",
+  "core_strategy": [],
+  "risk_warning": "B+",
+  "ret_1y": "--",
+  "ret_incep": "--",
+  "ret_incep_a": "--",
+  "ret_ytd": "--",
+  "is_link": 0,
+  "is_direct_sale_config": 0,
+  "is_super": 0,
+  "super_mode": 0,
+  "link_manager_list": [],
+  "link_config": [],
+  "manage_fund_list": [],
+  "is_both": 0,
+  "public_opinion_risk": "",
+  "has_onsale_fund": 1,
+  "xcx_share_image": "",
+  "xcx_share_text": "",
+  "delegateList": [
+   {
+    "fund_id": "HF00005LJT",
+    "fund_short_name": "佑维CTA平衡一号",
+    "raise_type": 1,
+    "strategy_id": 10030203,
+    "strategy": "量化多策略",
+    "first_strategy_id": 1003,
+    "second_strategy_id": 100302,
+    "third_strategy_id": 10030203,
+    "inception_date": "2019-07-29",
+    "price_date": "2026-09-30",
+    "special_tips": null,
+    "is_link_set": 0,
+    "primary_benchmark_id": "IN0000008S",
+    "performance_start_date": null,
+    "is_show_index": 1,
+    "is_wealth": 1,
+    "subscription_fee_conf": "100",
+    "is_nav_missing": 0
+   }
+  ],
+  "integrityList": {
+   "integrity_list": [],
+   "integrity_string": ""
+  }
+ },
+ "profile_raw": {
+  "data": {
+   "company_profile": "北京佑维投资管理有限公司是一家新成立的私募基金管理公司。创始人在全球知名的对冲基金有超过十年的基金管理经验，AUM超过十亿美金。佑维投资致力于AI在传统量化体系中的应用，在实践中摸索各种模型和数据的有效结合点。佑维投资的运营理念是小而精的团队，希望每一位工作伙伴都在工作中发挥出最好的自我，并互相尊重，共同进步。<br/>",
+   "company_name": "北京佑维投资管理有限公司",
+   "company_short_name": "佑维投资",
+   "establish_date": "2016-06-14",
+   "registered_capital": "1000.000000",
+   "is_member": 1,
+   "member_type": 3,
+   "join_date": "2022-05-11",
+   "philosopy": "投资理念方面，公司秉承着“避免过拟，尽量保证样本内外一致，在策略稳定的情况下最小化人为干预”的理念，通过量化投资对冲风险，降低投资组合的风险。致力于打造多市场、多资产、多元化配置的量化私募机构，为投资者持续创造价值。",
+   "base_currency_crc": 1,
+   "company_type": 1,
+   "manager_list": [
+    [
+     "PL00002GWD",
+     "王思达"
+    ],
+    [
+     "PL00002GWF",
+     "龚晓雨"
+    ],
+    [
+     "PL00003KY3",
+     "王昊彦"
+    ],
+    [
+     "PL00003YQQ",
+     "冉文玲"
+    ]
+   ],
+   "capital_paid": "1000.00",
+   "honer_list": [],
+   "delegate": [
+    {
+     "fund_id": "HF00005LJT",
+     "fund_short_name": "佑维CTA平衡一号",
+     "raise_type": 1,
+     "strategy_id": 10030203,
+     "strategy": "量化多策略",
+     "first_strategy_id": 1003,
+     "second_strategy_id": 100302,
+     "third_strategy_id": 10030203,
+     "inception_date": "2019-07-29",
+     "price_date": "2026-09-30",
+     "special_tips": null,
+     "is_link_set": 0,
+     "primary_benchmark_id": "IN0000008S",
+     "performance_start_date": null,
+     "is_show_index": 1,
+     "is_wealth": 1,
+     "subscription_fee_conf": "100",
+     "is_nav_missing": 0
+    }
+   ]
+  },
+  "extra": [],
+  "msg": "获取成功",
+  "status": 1
+ },
+ "profile": {
+  "company_profile": "北京佑维投资管理有限公司是一家新成立的私募基金管理公司。创始人在全球知名的对冲基金有超过十年的基金管理经验，AUM超过十亿美金。佑维投资致力于AI在传统量化体系中的应用，在实践中摸索各种模型和数据的有效结合点。佑维投资的运营理念是小而精的团队，希望每一位工作伙伴都在工作中发挥出最好的自我，并互相尊重，共同进步。<br/>",
+  "company_name": "北京佑维投资管理有限公司",
+  "company_short_name": "佑维投资",
+  "establish_date": "2016-06-14",
+  "registered_capital": "1000.000000",
+  "is_member": 1,
+  "member_type": 3,
+  "join_date": "2022-05-11",
+  "philosopy": "投资理念方面，公司秉承着“避免过拟，尽量保证样本内外一致，在策略稳定的情况下最小化人为干预”的理念，通过量化投资对冲风险，降低投资组合的风险。致力于打造多市场、多资产、多元化配置的量化私募机构，为投资者持续创造价值。",
+  "base_currency_crc": 1,
+  "company_type": 1,
+  "manager_list": [
+   [
+    "PL00002GWD",
+    "王思达"
+   ],
+   [
+    "PL00002GWF",
+    "龚晓雨"
+   ],
+   [
+    "PL00003KY3",
+    "王昊彦"
+   ],
+   [
+    "PL00003YQQ",
+    "冉文玲"
+   ]
+  ],
+  "capital_paid": "1000.00",
+  "honer_list": [],
+  "delegate": [
+   {
+    "fund_id": "HF00005LJT",
+    "fund_short_name": "佑维CTA平衡一号",
+    "raise_type": 1,
+    "strategy_id": 10030203,
+    "strategy": "量化多策略",
+    "first_strategy_id": 1003,
+    "second_strategy_id": 100302,
+    "third_strategy_id": 10030203,
+    "inception_date": "2019-07-29",
+    "price_date": "2026-09-30",
+    "special_tips": null,
+    "is_link_set": 0,
+    "primary_benchmark_id": "IN0000008S",
+    "performance_start_date": null,
+    "is_show_index": 1,
+    "is_wealth": 1,
+    "subscription_fee_conf": "100",
+    "is_nav_missing": 0
+   }
+  ]
+ }
+}

@@ -1,0 +1,266 @@
+{
+ "company_id": "CO000001HJ",
+ "baseInfo_raw": {
+  "data": {
+   "encode": 5,
+   "data": "RlJzcFdBK09HazhPcEkyN1BFQWdQcWRWMWlzUjJkcGFFRjNpbm9IYkVqT0xpNHlIcWZlb0daQjdUWHhlWDFmakZKbXBmUS9uQmNsSjJsNmNLSmhTZW9TSkwrdzEwUEdSV08zcFFESExTeWQ0cUV6Y0lrQkJZV25zNmh2ZS9VYWhFaE9LbTc5YlBFa3FJRXFsRUlyOXhMRHlweEI3VUF6WWN2amJibnV5amdKU05XUW1zZEo1SS8zU0YrdTEzSzhsUUVBQTR1Tml3S09NS0FzTlFTbzJnT0FxdmhnekRMK0xBY0FtSlJWNFlVUzdmbVQ1RTdlTU9IK3c4VlBkRUk0NGxzeHl0Yjd3emJWTVVpbkVhZS9id3hkTTBvRzIwNFE4YnJ3RTZtTTh5M3IyRzZpR2djdzRTczExb0ppQlB6QjV2blNGbnFJMVVTVWt3U2ZIM2N3YlJYM29CUmN5TmplUWFDdlVaMWdkRHQ2Ui9JRGJvbWMyMWlScXVvM2ozYVlIYk5yQnV5Tkl2aVhTbFlFc0pEQ3VOR1NJQ2NxaDEwc0p6YlR0ZEtPa2tMVVAxUW1BMTdDQlhVayszR2U5blRLQU1jcHVCRDBISG82cWVRYkdwZUdla0o0RGtkTlNYcEFJbmRUL0toYytSVExubVFINit1a2ZHQzRIL3dLRjZMZmo3RWVUVkxuems5QktrbldIelFEQTVzdUZ2b3pSWXE0b0pOMytzTHhQSXhPREdBNVBGQUZvQ3dPRG1jK0g1bytENFlrQ1g3c0RwYmJiTnduejY2bUM3a2I0cmJRbjVGRGpadEpZN1h3aldxcWVTRzZnN1dQQU02b0RDdSs4cVRqQ2E1QmtZZE0yQzU4TzZDcWRSMk01QndReW53cktHVE5udC9VTWIrL2JyMThLWXlFNHlQT21lUWNCZXNrVXMyUXoyWjY1am8waTNxeHZiZmRTMGVaT09WYXhmeHNNaVdMQ3VqNzRxVmVweE4va2s1d1lJZ1BCcW1FcDU5dVR1V2RoU2IxcEdFYVJkOHFTbS9VcHVGS1g1VG94ODFoRkVxU3Y2OEswS2tBUm1qK3V5aW1qY1dHMG4vMitsanJXaVFVYWJDRno2eWR4NnZsak82cmNubmZVM2xMRGhoZFJocG5sWWJaRXg1NU9RYkpwRGlYelMwdmZYWU1GYnoraG9NekI2WmhSWHhnRVNtM0lyMnpNTU5wRjQ4a210M3YzaXBoQ3Fnbi84RmQrV0l1MXpmSk5qL2RoRE01VDdjV0lEY0E4b01BRUpvVUJYc1ZRSitHVHVPdlVNVENvdi84d3BMdk9xeU1QNzd1cE5PUit0SXFuR3BKZXBRUHNIY00vWVFnckNYa1NISjdyeHFYdExpYVBpK2RxakdLUTRvWTVYWlI0K3BjendsYXRxWEFZZnltSm9JZGtWaUVpeks2UGEvY2swT1VzODJGck9NdEVYREdvVWhqdGxJMEs5d0orQ3orYzRjeUZOOC9CUTlPWlBhK3JjMUZ6UXl2a1JtaldhZkVpcUJsRTU1blVOWksvK2dlZkNOaVIzQldMS1FzWkc5SEMwZmxydDBoZ0tlRHdLUVY4aUZmQVFyS0tkc0c2Mk1iazE5K2MydHZYaDZQdU5ha3hEOURGaWRuKzJZbTRZV0dLS1d2TGR4Y0QxZFlDU1lKdnU2c0NiMTFxSzBEajF5bUpaOURkY3Jxa1ZLRFlLdWw0M0FZdkpsY3J6Vlp1ejBPR25La1J6U2F3VHdtUms4MW5DMXJTU1N2TXg2Nm9KYy9rNlpYdk53aWtTY2VPT00wVmhhZ0gwSGRLMzdrVGZRQ2JwMmhhNURaWkFhVEwrcElpL3BGZ2pBMDFDRE16T1dkQUo0ZnVHWHdnOTB0L2xWSHlsR1BnaHNaaXVOY21TTlA4ekRyN0VmdGpIWG1QMytTNHliaVM3WWlGUVF1Y3hoMUlNWU5WNmlMeFpJcS9xclNCazN5eHgrUmhPNkhKMjF2U3RhZ0ZYK0VyU1k0NjVtQ3lnWnVLeXFJbmdTbmZxd2JiYUhIaW9aT0FsL2dyWmZyWE5JYWQ3dmp1SjBtaG4wYWpuSDdJb3IzRENNdEh0ZlRucFBkOXRZNkhDeER4aHFsa2JwVEdIU3YxMDFZc1lEQTNuZUQvUWJ5ZEl3Um9mNFRwaGpBOVFSd25ma3V6bk9RSzliY0FqVVVCUVZqQmc0US9qZ2JLWmRmNjRxeE9uVy9xeHpYd2dSN0VUdXhObVUxcFJHaHdJeUZ2NjZ2b1ZtckZTdEN0b0tlYWdQWkZtZzFXVG5GWmJ5ak8wZ0ZSeHVoUE13MERLOVFMcHpvZUd2bTlOZzQ2VUJzbURteUhENGNhMzludjdJYmdKaWpnNlRJTmQ4YkFXc0pNcGVRZ2JrQ2JmMlNIbW9JUE0rYW81ck5SRGpiQ2J5bEJiVkNzRmFuT2JXSTZZWXFycTlqT2M4ckxYa0tFRWpjMHNnRVo1K0VxdjFEZ1gzc0NsZ2ZWOWN6ZkRzNm9PTjRvdVZadStxUTk2QUNDZlJtSDhWZ1ZONUs3anptMFZUeTdYZDNFcHJhVVRMQ3dSOCsyc0k4TjFlSHh0S2hFeHcwVlNyZXMyaWZ3SjgrZ1ljN3RzRG1jcis0YjRZcnFYMDBJbFR5TTdiRXNMb3ltN3ZwQ000UW1ESXRZcDlhMmZZZHhPcTIrbm5kZTY4dTRkOU5YOXlrMXhxMFZPUUJuSTVlRVd0OXhqYUt2RFpXN3lZUXJOOC9kak9uZllTV1ZZb0dUT0ZESkRtN2tHQ3c0WnMxVnZFWTFLdCtucFYxWHN6djhWVnpBRGVRb0cxeFVYVDBSUHJGMVl2MTh3NU1FOWdjOTFCUzZBV013ZW5xSEFFUnFyV1NHSVpmM3BkZkN2QVZsTmtZWngwM2s3Yi9iaDJlZFVxYSt2a3VTaWtRNFRiZ0cyQmFoaGdYZFJRaE9mZXIrcHVvYnByZ1dxVkNyd2E3a3ZGeDdGMEh2ZDhKR09QYzFLb3ZvMGh3RmxBemY2L3cvdmhKRzhUK21Pd1RHeExxc1U2NWE0N2Z1ZERWSE9hZUZGVG1pU0o4NENXeDR0UEVJZmtITXIwY29BbThzR2xQaEtBYjBJVVllUjNUL216RFZUc3RpbnVXYTRPdlRxN0tVRlV6WlAxTjJsWG5TRWkzVXFhc0hOSCsycEJXRmhMeGRhMnhVVE5odjQrREVidE9HWWZBa3RSV01PYkJMOEkxVTV3RDlCWEVQWGhIUnZZUFRlcEpxcVBYOVBMMlgzbDBrK1dZM3RuNTlCYy9pQ3JWMWI3RXNWNHE2bjM2anJ3disvNitOV2FCa09wSTlBUTdkZjltTkR5UFZoVFIxbDhHTHRvaUFyQWM2SUJXdEtkMFFuSHAySlNWUkUxMmlJQjRkSzNYWjJuYmw3akFBRzJ5cFFCRkQ5YUlaMjdiS1JYNkIzODFpOEpnOUR5ZnJUWXd4UFBPUis1V3dHT1BtWGpnc1dKSFpTZUVVWUJsbnY4UWlNcXpaYWtGVWMraksvWndXYW1RU2JwZHRpK1dHU0wzT3NXWkczT3ZkYVFSckwwVmdqYVl6YnBHdEJRVW02RGhsNmtlamFlVUdiZ24wUGxDN1FvbGFueTAwaEd3K3pza21RTi9HUjVIbnlIRzF3Vkd3Y3kvTnFOWlZKUmJ4NGdRRWM2dDZjUEFZLzF5cXhsMXVhVVpiSEZGaVJuL29YM0tWU0gwUXlLU2U3aExUNGo1UVdENHRTMVNYMStlaUNYc1pzaGhhRC9GNCtYMnlEMitUVVJLdXE0cE5lRFp6ZUJwbFVtTXN4R3gwblBCVHhubDhxUVFxdk1xS0tIdW5wZGJqeHJiOUtyenZJTDgzRi90TjloNCtkYnhzTnE4SytCTGJKWDJ5Z3lXMFJmYmVFWUx6V2xXdGZiK1lHdGlCZEd4ZFBuNVkyd0hCTkgzUXNZcU1jRWJPVjhkbkdKajdIeFhKTThpVUVqYUxydkdGa0U3MFFwZUkrQTFUNXJqWXJocG9ZVmxVTk4zaTBZcXhBcXFxVWI5Q0tlL24xU3E5WnlkN0Z6WDNQbHJaYUlKZFV2NkpHVWlSTE42V2ZjeGdiWVFhRUFjdUwwSDN3ajM4RmVLS29BMCtEUFNoWnh2djQ5N21EelhKRmxBNEVxamsxMURFOHN6d0NVNFlSQ3oxM3FPb2QxcExhaWhYYUxOdFN0bVNHVlZkb1RWMzFXWWhubGp1cmp6c1hXMmdvWTd1VXd0dmhsMGRqQldNNll4UTFyU2lNK2xOMGxHV2RwNEZpU2hkZi8reDgyK2xZTi9HdmpnRUdBazc1VEkwa2xLZS9IM2JRb1JNMVNiSStBNExwem0xbUVtbDVPVDcxZ3NCcVhnVjJjczhVRFpCWHFoV2M5Y1JlME5zM01vUkMxT3hBWE9zNEFaQWpOTDcxbmJnaGZXSWRZa0p1enlqZHVaeFZlcCtpUWEyZ0Z4SlpxNGNrTW40U2xlTmF0WFhDKy8xNHRUbC9NaVJYMjJLenBuK2xpWmU4ZWFNaFZYUFYvY1JyMUhpQW1JY3ZVRENLZk95WWx0TGtzWFVodEVaeWtOWmV2VzJteDZ0SWxqUndFb1VLVGRXR01rTjNtZnNHOEd6QXc1TjEwc3hkUDNlYUxlcGgwNGxpNjZ6NVFNckRDUmpxMHFldlQwUFdMeHNXSmlRdEZ0YWw5MFM3RVZTYTkwUzIzMXRzNlovWkd2TUNNZW1QNGF5b3BwSms0cXNhVUF0YXhxcnpUNlArMWdhMGRiSnBCS0tPUTcwKzJpeXZLT29zT0xGZ1hLN1llVjY4NHo3VXdTSlVCUkpXQVF2cnJzNHgzTTJvNUNMMEhsem40WGQyM1FaWWsrNWx5T1FKbFE5aGJGOHlQOVN1ejAvVFJvNXFnbnlHV3VoTmdlYjB1dk5uTEFnMjI1M0UzL1cxd0hIejB6ZHJMUHBvUlFRVFAwbXo2SGtDMDBkQWVJZWZaTFhFYzhrYi9DT0V1MUdqM2psQWRLdU9ySnByMnZUYmlTZkFUTk1hTjdUUk5udEUxUWNSdElOVk90MFp3NzZJSitVLzVMaEZtVG9vQVNORVYzK1RTZDRZWWNoUjlscVJJak1ycVpmL0pGRU9jSmEya1BMeE1GOWZnY241ZTE3d2VlMnBUTzUxVjZIdFkwQ1BPUWRwMHcwajlScG5tWnZkaXg3TDdyNU1tK0JtdDZoditPVU5ZdkdhcWI2dnNOTHk5RTRGZ1grN1E1NnVsQy9QVkFQMHdsYzVzVFdlc25acU8wN3E5TmNETXl2Zm9TbkhYRVBESmYxN09BOEorWVhERkJ0T28vQzc4N1RmYzYzengrekxJdEM0eTBxeUhBTXRGYkFEL0hSOS9OdGUreXlGbHl2dG1mWkRBTWhDcUlrK3hLNEZLdFIwU3pIYjhhRG9YUFV3dHBTT1J1TnErc0tjR1lPcktHQU9ZRWl0VHA0eithMHZVem1vMVhxdVJPYVVhcllLZjRXL3ZOOGlxSEJ5d0taTW9BWFpRWG9veDdQVlVZeTM2VXBwNmlPQWtpczBZeDZOSThnV2lJRzVtWTFsUkRlRjVsaldIbWtjWGJRbCs5aFhjaGNHcnVhZUoyUDBFTTBya0RrdkJuWUtYR3JvV042RnRNTmJoUzRHZjRWOVdDYjEvakxuUmNNRjJPOTQzMHdqRnZCVEVGQXVER1MyMi9McVlFTmtCbldXZU5SeHBoRVJvUVNMdkxsTjVVSGRST3RNQ2E4VnVhMHZiQTRkTkdETWJIUHM0RHJsbDZEQ3dNNjR6WGV0a0lUcFk3cjd6elNFeVBsZlVkMVF6c0ZuM3FiVGViYU1CV2FrRDlJUjNBbzNUTUhQcmxQVkFwVXY0aE5jcUFXdkJTTjJuSkdxL0NKMzhxcUd2cmh6THFzVlZmY1ZKNUtQS21ZUDAvVW1Ud0FudUFhZkZKMjJ1Q3lxVmZPb2R3NXpWQVRtMDYrRHhvYklPNHIxS0tIbU1nTVpuK1lCalFDbjlNTUdMQkpmZ2FPanZDcnVrUlZSaEY0SDNWVmdvRFo1V0ZWMTZKWUw4U04xUTIzOC9IT3pNdFFtdEVoY2lRdXVidzhYMkR3RlFHTDZBU09JNmY3NUp2Z21ZWkVqZjhoblB3eHgxclpCaithM1JXbzgxVmd1SUxidXRoN09SOEUvSGJNVEk4K0gvTGNNdXZWYUd1eVQxN2VFT0RUb3BaamMvV1Voc0J1WmpYbGFRTEJKdHdYbytIVkJCODFWNUxCaHRRbHZTUWIwZmpVYkJOZkRQUHk0TWR4VEI1Q21qU0tzZmYvYWg2RERuTk40Mm9hMVRlWkVnSSs1cVFYNFhINUlkRFFJQXRJM1l1bm04YmtqYk5GMS9TK1VkbHlJU2VYcFJsRk5oNkg3VFZqNUxrZDZiNnZBTW5TVzZkRlQzNlpHTU82dG5IN3pkdlZSbG9GemhMbXYzK0NPaUlaQTh3ZHdZeTkyTTdPSytMWGx2WUJhYkt2U1g5VU5jTTJBTThoQkFXMk9MRWQ4YW5IbkdialQ4eERZK2NEaG5xdjlSQVpLWDdlRGlHNllHNkNLd3BqZ0RjQ1VVYXhJZkpnNlRqZEFuOG9zYTFyNm1BS0hSRlVBK0w4UEVaMXZLMUFQUjRwS1RheWRIbzIvS3pGWG9WWTVGZVg1QVUvUlpBOHZJYVVYb3pSaEJ4U3Zvckk1c2VjR2htVW1HQ1hRSVU5NU5zVWt3TDgyRFBqMDVxdVRPVkc2ZGZYdGFPdnlRNzQvZzA1MURPL1RVaFpPSEl1ajFuQndNR204RE9TZEF0eTRNN2p4RnVsbkdpN2JHVmdETjBoeUFBVS85RHgreXBtWklLdFBnRUs3WEtOY0ZhZEoxOVZtZnZkSmUxdXJqZDRodDBrZnpqWitCWlgxTXFKSTN3K0RjUkN5RkVRcVlPWmx3UjV2RUhtRGUwNDVJRnBjamVZcnh3eXIyZUplUnBqNFhNVWk3ZjlKS1pyVk5UT1RLK0VpMGtTSGM1OGRzR3AwR2F0a0lUYy9BY0xqNHRndWhzNFFSQm1Xc0R1ZVFhRlpJK3B1aGk1UE9xMkdSWGxWTHNXVlZicFVUMURRalkyRU5ydXN6Y2hFSWZ5RGJQMVpabkU0b0hCMS8yYmZPNGY2VEpOOW4rdGtrQjZaTTBKeG1jcXJKOFJPY3lydjBlN0pJd2RsVzRZa0wyWkJlVG05a1NZM0pIc0lIb0R0czRrU1BBN2xkT00raGhRaWlxNk1penhWZFlIQnhFYVFLMU1mUGo1VkZCVmtwaklrTlpVb3ZsSFZxTWhlSWplWExwYlpnbkwzTFBrM24zeU5oR1dPY1AzajJTRGlUL3IzRXczT3FOSGJMZkNqaTdlU3dBVnNPanhMTFhCUUNmT25MNmdZUDl5bWVYT25YSlFXY3NYcm5oV2JLWlJSbm9vWUhWVW1xT0tqWlRCV29tTmdwQm10aDFGcDVoSE93YWJZM0pOVk51M0VKbXl3OXkrUWJDVTVmU3hGbW5Ld2FhLzQ3UzFJdVZ6V2hoSmlXdGF0N3NWNkxtMG40aERBVUhRQ09IMTY3cmJxdVBKWS9LUW5YZC9mc3lVZVgzczNNQVVYYjlhVGRXN0JQMVVIQm82VTRTMnhUYk9DNnBHVHdiOXBaZ2JRVWo5emxsVlZHYkZSWkk5cnp3SnBRQmtkQjBUWlpwaE5iaFhmS0dndUp2OFdLRzNXNGNXbXZLZFErbDN2QTQ1QmRudEFXc0F1R2s2R09sNjNiT3FBcXJYTG15MmgwWlBkU1Z1dEUzSjJ1d1RDTXF3YmQrcTJ4Vlhka1pibnkwdTgwQnJOcjA3QytCeHhIUHdGNUhoUXNGTDExRUFjWEcrMTltazlraFJCbTIzRDMwUFBaYkxrWXBNeklKb1FveFprdXFrb0Z4YW00TWw4Z1Q1MHg1SjV5aUtRSDhVZWZWak1hUVBnVlhVMUJpTEw0YVRZSnhhQWo4d01XZW9sUXdoOVh6NW8vWmpYTnJYMWYwakNHcHVCUnhKb3VVRUJnSHArMWk4L3hGWWV5dUswanFFaUp4UDd5SFFJT2R6c0VnZGZTUjFPQWJEWjJHMm9ZN0pDZ0pSSUlIQ2xqZS9HeFZmbDBMUTNEcG5ZVTJaQ24zN0pCYlc5cmVEUEY4M3JXUWxhTzVyTENjYWJuSkJYSGVqY3E3dy9Na3dYanR2Z0pibEorakdlZ2xsc0R2Z2VITGpzWm12aVFKM2hXYWs3eGgwQW5RS3BxZlQ3VkJKdlRuYWdJbzA3Z2pMK0VZeXVQYmx0VFZwcEx0WitpVkk1LzJONERTSmNNeVBMOUs5SVMrTGJJcEh2UnBkcVNTVGZDRVJXazhyWnF0LzlGS08wc2liSUlFUG8zYklEK3NUUnJ3eUN5WTJHVnc1WWpFNTFFcHJMZytnR1NMajFPRVRzdmVsVElid3hqV05uUDQvejFsdmhhQVNQSHM2RW5yclNXeEVTMzVyTzA1bVJuaUZpSTduL2JOaWY2MExoWmQvcTFCYWI4d25FRU5Ic3A2VXhBeHUyMUhQcCthd0FXWHp1WGU2aXVBU1pEVkVkVmkyN3pBTTErWlhFSjNWR3BiOUQ5S3NqVlEzdVdFTHZyaEFEQVhFZ09MNWVZWklvZVBNeFowZFJRQ0hhZGp0dWFXek9Hbmk1TlpVTFFvTnhVeUJ0Y0ZIYUgzeTNEQWJOZHRGRWUwdTROWnpEb2J5RHVvNUo3VG1QV1VtOXBBQlc0UDZXK3hzR0VDeUVMd3c4dWNLcDJhZFZCV0xjTGJqUHR1c0ttSklRRVVjdk9YeDZuRFBGMTFROFR4VEZwVjc2OEM0SDNRWVpRNTQreTBCR29aaTdVbktoOXZFWVFrTlRWRkhUcGtKMmkwREw0YVZ3RTBKZjdMb3lxU3JxdG5OUi9ONVh1MkhtMGtIQlRhekE5cWNJai9ueGF3b3poND0=",
+   "key": "var _0xc52e=[\"\",\"split\",\"0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ+/\",\"slice\",\"indexOf\",\"\",\"\",\".\",\"pow\",\"reduce\",\"reverse\",\"0\"];function _0xe14c(d,e,f){var g=_0xc52e[2][_0xc52e[1]](_0xc52e[0]);var h=g[_0xc52e[3]](0,e);var i=g[_0xc52e[3]](0,f);var j=d[_0xc52e[1]](_0xc52e[0])[_0xc52e[10]]()[_0xc52e[9]](function(a,b,c){if(h[_0xc52e[4]](b)!==-1)return a+=h[_0xc52e[4]](b)*(Math[_0xc52e[8]](e,c))},0);var k=_0xc52e[0];while(j>0){k=i[j%f]+k;j=(j-(j%f))/f}return k||_0xc52e[11]}eval(function(h,u,n,t,e,r){r=\"\";for(var i=0,len=h.length;i<len;i++){var s=\"\";while(h[i]!==n[e]){s+=h[i];i++}for(var j=0;j<n.length;j++)s=s.replace(new RegExp(n[j],\"g\"),j);r+=String.fromCharCode(_0xe14c(s,e,10)-t)}return decodeURIComponent(escape(r))}(\"TaaaJTaOTJTaTmJTmaOJTaTaJTaaaJaTmJTamOJamTJaaaJTOOTJamTJamaJaaOJamaJTOOTJaamJaaaJammJamTJamTJaaaJTOOOJamOJaaTJamTJamTJTOOTJammJTOTTJmmmJTmaTJaaTJTaOTJmOOOJmmmJ\",68,\"OTmaJXNuI\",8,4,46))",
+   "id": "p179134396721178051192"
+  },
+  "extra": [],
+  "msg": "获取成功",
+  "status": 1
+ },
+ "baseInfo": {
+  "company_id": "CO000001HJ",
+  "logo": "https://static.simuwang.com/Uploads/foreign/logopic/20230524/thumb_646d8392d99dc.jpg",
+  "company_name": "上海千象资产管理有限公司",
+  "company_short_name": "千象资产",
+  "register_number": "P1006930",
+  "company_asset_size": "100亿以上",
+  "company_type": 1,
+  "registered_capital": "1571.000000",
+  "establish_date": "2014-07-04",
+  "register_status": 2,
+  "cancel_type": null,
+  "company_profile": "上海千象资产管理有限公司成立于2014年7月，专注于量化投资，通过数据挖掘、数学建模并结合计算机技术投资国内二级市场，是中国证券投资基金业协会会员单位，具备基金业协会批准的私募基金管理人资格。目前为多家大型银行、信托、券商、上市公司、FOF等提供净值化私募基金产品和投资顾问服务，管理规模超百亿。<br/>     <br/>我们坚信深度的数据分析、严格的交易执行和高端的IT系统将是长期盈利和风险控制的基石，我们崇尚“科研驱动投资、量化发现价值”，将更科学、更系统、更先进的技术、方法与投资结合起来，为客户带来长期可持续的回报。<br/>",
+  "base_currency_crc": 1,
+  "company_english_name": "Shanghai Qianxiang Asset Management Co., Ltd.",
+  "company_address": "上海市杨浦区上海市杨浦区军工路1076号031幢A62室",
+  "company_address2": "上海市浦东新区福山路500号城建国际中心8楼",
+  "employee_cnts": 63,
+  "fund_practitioners_count": 41,
+  "nature_business_type": 3,
+  "business_type": "私募证券投资基金,私募证券投资类FOF基金",
+  "has_consulting_qualification": 1,
+  "register_date": "2015-01-28",
+  "organization_number": "39875346-6",
+  "paid_capital": "1571.000000",
+  "capital_paid_rate": "100.000000",
+  "credit_code": "91310110398753466L",
+  "company_class": 1,
+  "key_figure_id": "PL000007OO,PL000003L9",
+  "key_figure_name": "马科超,陈斌",
+  "amac_link": "https://gs.amac.org.cn/amac-infodisc/res/pof/manager/101000008238.html",
+  "cnt": 214,
+  "registered_city": "上海",
+  "city": "上海",
+  "rating_1y": 3,
+  "total_fund_nv": null,
+  "company_class_text": "私募",
+  "company_asset_size_text": "100亿以上",
+  "core_strategy": [],
+  "risk_warning": "B+",
+  "ret_1y": "--",
+  "ret_incep": "--",
+  "ret_incep_a": "--",
+  "ret_ytd": "--",
+  "is_link": 1,
+  "is_direct_sale_config": 1,
+  "is_super": 1,
+  "super_mode": 0,
+  "link_manager_list": [
+   {
+    "company_id": "CO000001HJ",
+    "direct_type": "2",
+    "type": "6",
+    "personnel_id": "",
+    "position": "产品总监",
+    "personnel_name": "周嘉怡",
+    "link_name": "pp002976740",
+    "chat_num": "0",
+    "official_user_id": "OAv81JR596wd99rrbAeOdYYdNK5qr3g531dw",
+    "avatar": "https://static.simuwang.com/Uploads/service/Member/generateIcon/auto/6ca624d19321a8797e872e9b7ff91326.png",
+    "link_id": "OMva1vRe9gw09BrZbpePd6YyNX5Lrj5yrgpz"
+   },
+   {
+    "company_id": "CO000001HJ",
+    "direct_type": "2",
+    "type": "6",
+    "personnel_id": "",
+    "position": "渠道经理",
+    "personnel_name": "陈韵琳",
+    "link_name": "pp003292553",
+    "chat_num": "0",
+    "official_user_id": "Oqvn1dRy9gwn9xrmbjevd6Y7NB5ZrQrrdrf5",
+    "avatar": "https://static.simuwang.com/Uploads/service/Member/generateIcon/auto/1ace97ccbdcbde92bda50437bb78fbdb.png",
+    "link_id": "OyvZ10Rd9Rw49orrb0eldgY3Na5LrO4qigqr"
+   }
+  ],
+  "link_config": {
+   "company_id": "CO000001HJ",
+   "direct_type": 2,
+   "user_id_sort_set": null,
+   "auto_group_method": 1
+  },
+  "manage_fund_list": [],
+  "is_both": 0,
+  "public_opinion_risk": "",
+  "has_onsale_fund": 1,
+  "xcx_share_image": "https://static.simuwang.com/Uploads/MarketOperate/Topic/2025/10/2025103768f5ee4155a91.png",
+  "xcx_share_text": "",
+  "delegateList": [
+   {
+    "fund_id": "HF00006BZ1",
+    "fund_short_name": "千象卓越3号中证500指数增强A类份额",
+    "raise_type": 1,
+    "strategy_id": 100403,
+    "strategy": "复合策略",
+    "first_strategy_id": 1004,
+    "second_strategy_id": 100403,
+    "third_strategy_id": -1,
+    "inception_date": "2018-11-16",
+    "price_date": "2026-09-24",
+    "special_tips": null,
+    "is_link_set": 0,
+    "primary_benchmark_id": "IN00000008",
+    "performance_start_date": null,
+    "is_show_index": 1,
+    "is_wealth": 1,
+    "subscription_fee_conf": "100",
+    "is_nav_missing": 0
+   }
+  ],
+  "integrityList": {
+   "integrity_list": [],
+   "integrity_string": ""
+  }
+ },
+ "profile_raw": {
+  "data": {
+   "company_profile": "上海千象资产管理有限公司成立于2014年7月，专注于量化投资，通过数据挖掘、数学建模并结合计算机技术投资国内二级市场，是中国证券投资基金业协会会员单位，具备基金业协会批准的私募基金管理人资格。目前为多家大型银行、信托、券商、上市公司、FOF等提供净值化私募基金产品和投资顾问服务，管理规模超百亿。<br/>     <br/>我们坚信深度的数据分析、严格的交易执行和高端的IT系统将是长期盈利和风险控制的基石，我们崇尚“科研驱动投资、量化发现价值”，将更科学、更系统、更先进的技术、方法与投资结合起来，为客户带来长期可持续的回报。<br/>",
+   "company_name": "上海千象资产管理有限公司",
+   "company_short_name": "千象资产",
+   "establish_date": "2014-07-04",
+   "registered_capital": "1571.000000",
+   "is_member": 1,
+   "member_type": 3,
+   "join_date": "2015-12-02",
+   "philosopy": "我们坚信深度的数据分析、严格的交易执行和高端的IT系统将是长期盈利和风险控制的基石，我们崇尚“科研驱动投资、量化发现价值”，将更科学、更系统、更先进的技术、方法与投资结合起来，为客户带来长期可持续的回报。<br/>",
+   "base_currency_crc": 1,
+   "company_type": 1,
+   "manager_list": [
+    [
+     "PL000007OO",
+     "马科超"
+    ],
+    [
+     "PL000003L9",
+     "陈斌"
+    ]
+   ],
+   "capital_paid": "1571.00",
+   "honer_list": [
+    "2023-中国证券报-中国私募金牛奖-三年期金牛私募管理公司(管理期货策略)",
+    "2022-中国证券报-中国私募金牛奖-三年期金牛私募管理公司(管理期货策略)",
+    "2021-上海证券报-金阳光奖-五年卓越公司奖（CTA策略）",
+    "2020-上海证券报-金阳光奖-三年卓越公司奖（CTA策略）",
+    "2020-中国证券报-第十一届中国私募金牛奖-三年期金牛私募管理公司(管理期货策略)",
+    "2019-中国证券报-私募基金金牛奖-三年期金牛私募管理公司（宏观期货策略）",
+    "2019-上海证券报-第十届金阳光奖-金阳光·年度成长私募公司奖",
+    "2019-中国基金报-英华奖-中国私募基金综合实力50强（期货宏观策略）",
+    "2019-和讯网-2019年度（第十四届）中国私募基金风云榜年度榜单-优秀管理人奖",
+    "2018-中国证券报-金长江奖-稳健成长私募基金公司",
+    "2018-上海证券报-金阳光-三年卓越私募公司奖",
+    "2018-中国证券报-中国私募金牛奖-三年期宏观期货策略金牛私募管理公司",
+    "2018-Wind-Wind最强私募公司榜单-10-20亿",
+    "2017-证券时报-金长江奖-稳健发展私募基金公司",
+    "2017-中国证券报-中国私募金牛奖-宏观期货策略金牛私募管理公司",
+    "2016-东方财富网-东方财富风云榜-最受欢迎私募基金公司",
+    "2025-中国基金报-英华奖-50强示范机构-CTA策略",
+    "2024-中国基金报-英华奖-综合实力50强示范机构-其他策略"
+   ],
+   "delegate": [
+    {
+     "fund_id": "HF00006BZ1",
+     "fund_short_name": "千象卓越3号中证500指数增强A类份额",
+     "raise_type": 1,
+     "strategy_id": 100403,
+     "strategy": "复合策略",
+     "first_strategy_id": 1004,
+     "second_strategy_id": 100403,
+     "third_strategy_id": -1,
+     "inception_date": "2018-11-16",
+     "price_date": "2026-09-24",
+     "special_tips": null,
+     "is_link_set": 0,
+     "primary_benchmark_id": "IN00000008",
+     "performance_start_date": null,
+     "is_show_index": 1,
+     "is_wealth": 1,
+     "subscription_fee_conf": "100",
+     "is_nav_missing": 0
+    }
+   ]
+  },
+  "extra": [],
+  "msg": "获取成功",
+  "status": 1
+ },
+ "profile": {
+  "company_profile": "上海千象资产管理有限公司成立于2014年7月，专注于量化投资，通过数据挖掘、数学建模并结合计算机技术投资国内二级市场，是中国证券投资基金业协会会员单位，具备基金业协会批准的私募基金管理人资格。目前为多家大型银行、信托、券商、上市公司、FOF等提供净值化私募基金产品和投资顾问服务，管理规模超百亿。<br/>     <br/>我们坚信深度的数据分析、严格的交易执行和高端的IT系统将是长期盈利和风险控制的基石，我们崇尚“科研驱动投资、量化发现价值”，将更科学、更系统、更先进的技术、方法与投资结合起来，为客户带来长期可持续的回报。<br/>",
+  "company_name": "上海千象资产管理有限公司",
+  "company_short_name": "千象资产",
+  "establish_date": "2014-07-04",
+  "registered_capital": "1571.000000",
+  "is_member": 1,
+  "member_type": 3,
+  "join_date": "2015-12-02",
+  "philosopy": "我们坚信深度的数据分析、严格的交易执行和高端的IT系统将是长期盈利和风险控制的基石，我们崇尚“科研驱动投资、量化发现价值”，将更科学、更系统、更先进的技术、方法与投资结合起来，为客户带来长期可持续的回报。<br/>",
+  "base_currency_crc": 1,
+  "company_type": 1,
+  "manager_list": [
+   [
+    "PL000007OO",
+    "马科超"
+   ],
+   [
+    "PL000003L9",
+    "陈斌"
+   ]
+  ],
+  "capital_paid": "1571.00",
+  "honer_list": [
+   "2023-中国证券报-中国私募金牛奖-三年期金牛私募管理公司(管理期货策略)",
+   "2022-中国证券报-中国私募金牛奖-三年期金牛私募管理公司(管理期货策略)",
+   "2021-上海证券报-金阳光奖-五年卓越公司奖（CTA策略）",
+   "2020-上海证券报-金阳光奖-三年卓越公司奖（CTA策略）",
+   "2020-中国证券报-第十一届中国私募金牛奖-三年期金牛私募管理公司(管理期货策略)",
+   "2019-中国证券报-私募基金金牛奖-三年期金牛私募管理公司（宏观期货策略）",
+   "2019-上海证券报-第十届金阳光奖-金阳光·年度成长私募公司奖",
+   "2019-中国基金报-英华奖-中国私募基金综合实力50强（期货宏观策略）",
+   "2019-和讯网-2019年度（第十四届）中国私募基金风云榜年度榜单-优秀管理人奖",
+   "2018-中国证券报-金长江奖-稳健成长私募基金公司",
+   "2018-上海证券报-金阳光-三年卓越私募公司奖",
+   "2018-中国证券报-中国私募金牛奖-三年期宏观期货策略金牛私募管理公司",
+   "2018-Wind-Wind最强私募公司榜单-10-20亿",
+   "2017-证券时报-金长江奖-稳健发展私募基金公司",
+   "2017-中国证券报-中国私募金牛奖-宏观期货策略金牛私募管理公司",
+   "2016-东方财富网-东方财富风云榜-最受欢迎私募基金公司",
+   "2025-中国基金报-英华奖-50强示范机构-CTA策略",
+   "2024-中国基金报-英华奖-综合实力50强示范机构-其他策略"
+  ],
+  "delegate": [
+   {
+    "fund_id": "HF00006BZ1",
+    "fund_short_name": "千象卓越3号中证500指数增强A类份额",
+    "raise_type": 1,
+    "strategy_id": 100403,
+    "strategy": "复合策略",
+    "first_strategy_id": 1004,
+    "second_strategy_id": 100403,
+    "third_strategy_id": -1,
+    "inception_date": "2018-11-16",
+    "price_date": "2026-09-24",
+    "special_tips": null,
+    "is_link_set": 0,
+    "primary_benchmark_id": "IN00000008",
+    "performance_start_date": null,
+    "is_show_index": 1,
+    "is_wealth": 1,
+    "subscription_fee_conf": "100",
+    "is_nav_missing": 0
+   }
+  ]
+ }
+}

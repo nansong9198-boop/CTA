@@ -1,0 +1,188 @@
+{
+ "company_id": "CO00002913",
+ "baseInfo_raw": {
+  "data": {
+   "encode": 4,
+   "data": "TlBMNEt2aGYvZUd2dFAzWFN0dXRVcG56eFAwb0xlVUhvcHpiN3pEZ1RtdWlBcTNFNlhoUFdySTQwSUI5OVNpQjNhb0ZObEZNaDg1S1JmT3ZzZWNHUTlmaURJdllxaUs5eHNPVGV0cTJYMXhzQ2dZUCsxUlBlTys5TzlnRnZoR0JCVXVjME9GWjlNcnoyTFpSWm9IdGxnQm8xNGM3SDExdjVmenBGblJ5RXU2QXpRdHlyTStyWVhFVGF4Z3NjTm1HRGNLR25MSjlscDExb3U4cUd4d2N6MkhTK1JqUWhmcC9ib2JkelY0QmhWek05eUlLTEpnWXJ1c09LTUpkZ1I5OU5uUmRDVjEyQXk0b3lUOGhDVG53YUNrSERBdzZ2c3JVb1BIdVYydGZBQXN5WXBSUGltMktXQjIyYkxoenoxeTJnTmRFYVhxOXNtUzFlZS9oUHhUOWZtMHJZVlBTM0kyNXU3VVNoRG1UbWNxeEE0OHd5NW9lNm9pYi9URHJIUnI2SGtGdUNKcE96cVdNNko0Z0I1U0NLNVI3ckdUc1E0RldXSjJTZ3JhYVJxSXp4Q3IybG1uOTFYeE1ENzlXR1QwMlFWeFNtSGNIOEpwZ2JSZEhuK3RrVEpldVN3M0V4NVB3MmMyVUlGMStxZyszL1BVd0MzeWhCQ2Z3OWY5em12aXpVbEFoSlR3cStxN2VnSHZLNm9zWXF1T2hNRVpwWWNmT2NIOEg0bHB1UGxxZ3Mxa1pyanViMFJsc1VJSEdPZ1hmSVd5ZmdpckVYQjhNbXVzRERYNjQyeXFMNXUrWG5EY2VXMkR0RnZWazJhUmNMNkRYZW9ramxmOUxlUFk3bnVPSHArVU5qRE9icldrMUdVZGtqMEdpcUdYWk9NQ0ZMR1lKcjl1TlRKaHd0VzgzakxGN3d0aW9xMW1taDVYcVVRYmFQQU1nZFh2TU5XNVE0NWkvOE1LSTJUa0lGN0pZaUxXS2MwcThFeTE2TTV2a0kxekFHOE1LQ2w4RmtHZzUrOVFBVXNsZWt2WjVmY0lrRnYyTVNLVDhmY0pIYTBvVFkxdFhBWGNUMS91bnJIYXdSMnlqajZwT3JUTVJGdUZLT2c3dk03VmhMMGhtOGsvN1o5VkprUThUZXJtNDRzUFFrakFUZC9QNnFyRUFnTFNBZldQWFdSUVJ2RmtnZDdkTHY5Tm1QL1ZuT3k1UHh6RkxlS0RsazNpZ05WcldkZWRuNnd1NE5CQ216eEY2WVdLWm9sd3dBYVk0T3Y1Z3l2TjdldFA2Q2dJY0FSUEJBMXYvcFZ1MUxzN1dveUN1ajBleWwyMWdLZzdnK2xDVml2L2Z6RTFaU3BZeWd1b3kwT3E1ZWZmcjRha3RnUlluSmxkTzNxSytGV01zeWJTZEM0U2UvWE9paXBweHNpS2pyRW4rek1JNWFpbjVMWVRHNStkTERPd2RaSkhZMzJtR2NrMUVUcDhrdGJzZWdWZ0ZWWWJmUlB4d1FQanhqWjRQVWV3M0ZWY0NvaVE4Nk5vMVNQNWJseDA2aTZheWRiTXpRbU42S1RJZE9ZamVCcUtGbkpIVUJOQjFCVDdEYVFzNlhpUjk0cldQMCtUbzZwZkh2MXNUOVltSGxPUXdHQnNIei84cDU4U2E0bGlTdDh2MTF0ZjBobmJHMDU1WnM1am81cHI5RW5HZUl4UlJFK1VjWml4eG45YW1ETkNCRThCL1VlWEJwNWxRaVhlVUNYcDNBZnh3bkMweDMvb2Y3ZitSdVFvQXoyZitKZ2dLcld1YUdEY2dqZDdjMXFUOC9sY2lVeTBsT0RORi9EY0E3czhXcEhnNHJCWUNaWlpWTFNpVU1md2tRRlg1N2F3QytTbk9DSkhuUnF4YThEbVF4VE5mU29GME5WOXA3OEJEVEdYQlhFVGpSSkRIbkh5ZU9TUEFPMTV6TDc4N3c2WTRkVE45YWRRYVg0TFYwSzYvcUR6eVE1QjJWNmRib3lVL05jTkFoRk5DRGJkQXlRNDlHVFl3Rkg1aFBaZGl6dDhUYStycUhiWjZ1cUxQZ2VjaG1TSEVyYXFibVdueVdIZy9KVExiMjNzYVhUWE5VZG82WFpJUUNYVTFsRmVmOXZ3YW5QQ3F3bmxYbTN6TzNKL05nUVJrekorWFNnYXJ6dDVHWFAyd0xMeW9pT0poR0d4VmxOcGY0T3kvN2YxNGpOUkRCMm5lS20xbFFRTHZweFdLSURMUTJIREt4OFozSXBwTHc2dTJmYVZ4SzIvQ2VvUVh2TkRFaHZPMmxGLzlvMGk3Ly9TaCtycExLb2gxUU5Zakc3UytqVkRNcm9KOXVCMVAxYnJGaWF2azI3dnNacVR4ais0SlJZRURYMmlBU1dXZ3VQYjRJblNvSFhCUjczSHVtMldNa0dMT0Q4YW1YckNiQjNKYXJHRnI2VEVJenZaY2dNaDlqbjQybUZlQTdvK2lWSHdtY2Q0cW8vOHdCdFIyLzYvcmlCRE50dDFiOHQ5TEZNVjhSSFYySktvTUJlNndWZmpQY0MrUmdOL29jL1Q4VGdLZDdwdDFrbk9nbE1TOWlQYWcwQ3ZTRXBMUTY4RDBHNDRIR1NQVXJRYzkzS0tQcEZ4bytzZi9lT1E5U0xKOHI5Y2R1ZmEwWi8wcmp4a0hkalNhRi9rWUxNdjR2VmVWdXhOTVAzNHlXZUFQWW1hejRocGY0cG5aOWVDbzRlQmUwUGw1Mk0vY3hwVTRVQWw5VjAxekRUcHFtczRXdXFKcVA0c0VpdXV3YmNWMnptQzZWeGNEZDB6aURFYi9LbXd2MG9MazFCWXd1bWluSlRhcFVDN0J2UE9hTUhPSzRoZDdMSlptTXlKWEp0dnFCczV3SVR4aWN0M3pIQ0N5Tk1lU2Iwc2xhclhNVThMQVNkbDc3VlFVWS9iWlkxUk0ralk4MnRON2RMWTNaZmlVVVZhSXkxNy9TekhZQ0pPNVFkMXpKQzI3NHFTY2xiVnBzaHh2T2taaU5rUWZKTExzbnBmb2wrRzlJb1RWNVdOWndUQ3JGVEc1YmZaQWdGNnlhWFI3NFdzRFVaWWp0eWdidFBrRmxuTFhtV1dNQUN4bjNURzJoTXlGbTg4YW5KUi9kdVhnaEttWDgxekl5TElQeTlDL1dvYm15SjFuYWFrKzZlbDNVK3NtZjN3d0lER3pzVkdDRFJ2dzhocU5KZkpIUUNoZ0ZmVFRjL3FTNzMvRzZmc3FjR1pQYndXRXZFbnNlWFB6SFA2WjFKNlphRXZ6b1JqcGY0L2VZYTRWOVdNRko1aVl5cUpXRWI3VEJFZzdCbzAxS3ZoZzVFVU1EcWJuaTA3RC80VW56eWdGMGdGbnlkRWFOZHJ1T01BNFB5Unk5VXFXZm9rZ0w0cnE4dXcrL0ZLQ1g0MEpSallqRjUxMTdYa1pJWXRNSVR3NWdaYnBSUm5QdGp3OTk4QVpkeVE5ckt1TkRvbW1ZeVdUeE5jTTY1cmtFZ1Q1dVQrWmVQKzNmL2lqeTVYblNZZzIwU01lZ3pWNzB5U0xjYWw4SmxkdFZzUnpWdXJxVkRkQzJ4OUkrblVsT3NKWFY3bWVXTS9teUNVb0dEVHdSRGNZa2djWEdTYzd2NjhIajNBbHBpam9wdVBWRFp4cmNvRGcyWkh2QzNvei9haURscFBscFNRWjBtVUkya2lWb2U5WGlmNlRBWks2d2dVUmhOU0k4MDNmakRnLzVZMDNlNTRuZlM1YU9VRnZ2ZDFmUlg2bmc1azhPYlBPbU1sVlFmWUtuRi9IdXIvSUF2dE1vcm1GNmpJVnNHQkFrZ1krbHhYMmVnZGlDQnEwQnR0bGFUTk9tNXlUZGZkc0lubTlrRnhJK2sxa0l4ZjV6TFJLN0RGOG9jSEU2VDFuWnBqOWhPWUw3ZFdnbmtDOXhDeEJ0QzZ2R2F2aGFCYlFEa0pzd2F0bWx2YnVPMGI1a1lFN2FreVVWTlpqeU1CTUQwK0ZWejk1Q3JlY3VSb3pUVDFpbTZ1NXdJdEF2djVMS1loRkkxVHcyTFJTc0lmUXFRN09Hako3QXB4VVR6SWFzZWg3cTl5RFNTTjBqdi9OOWkwQk5oRDBYUjk0Vm1Gb1gzTTV0R2ZuVFQzSzBUbDlwa2lURStEczM3ME5NV0YyajV3RFJXeVVyU3Z2T0NycU0vMHl5SDlYKytmUFRFWloxZXJCV0RxbXNVdUtnNHNQL1NLTlcweTdZakF0Z2JJcnlGOS9YZThQTWZRWWhoRGlBdkZPZ3ZaNTFxRXdlRkd1S3V5Uk9tamNobSsrOHUyQ2tONDR0UEdLQjNhTmNjK2tMTkxWQTlwQ1dPMWt4T0tsdnZXVDlmay8vZ2lpSU5PN3hsMkVlcFViaGc4SHo2ajJPT2tidTJHTXIxbEdTbnlhV20rMDdsTmNCUVdXeXNGMnN6R1dCTG4xWUJmbVJWaEJvcG40YkZJR2w4SGpUbkJ4OUZTK1VXOE15RHYzSVVGZnlHNHVHVzUrTjFCWWJDWE5tVy83YURzVGQ2L3pnQmtYdWEvSlFjUi9ZZkF5MTlSbTYrS2lqamJuWG5yMWl1ekk1Z0thRUp3aHdVeGdSazlkQ1hrOE1qcm1sYzhwNXRiZ29DTDUzcEVGNGc3UkhJdXZuWWJlMkZxZnYvNnByQ3o2QzExSmV2WlI4ZGc0Z3JEaUxkQlFLNHFJV1BNQ1FqR3BMRkp0a2plQ2VvV2h4ZzBsYTRQblh1QWRvVGljTERZUnhCWVlCRzZyRm1yZTRkSDlEdHppbk1nNlQxNXFsMjc5YXpiYndmb0tEb0w0em5YbXV1WjEvUytsWG5BamxWdlptL0U1emhnQXU5YnRYc2hSRGNoT2M5V2FXZzI5aXpmY3UxTTgza01GWVUxSDV2Y1Q3cEkrN0FQZmlpdHhOQ05Lc1lJV0c4K2ppbEFBaGxsUG1lQnFXZnhub0ZIR0JBZU1CbEI1VjZNZmJ6Qy9ZNkVMdERKNkJmRmhkY2s2QWpPR0FxSjZ2T3ozSndsZmpzTzdQMXZmcWxoUWxUU1E3TkdrTXdVc1pVYVd0RnNMaE4vdXlHak1HTVhZbVBocXhQRTJTM2hTR2NtUE5rNlNtYmdFbFZTWWlRc3N3Uy9pcXZOOEs5VTdqaTgxRlRQUWRsUlF3NmZoRkVKMlZCTjRPclE0NnQ2ZkpNZ05hT0FzMWFKaGFRNHR0OFZvQTUybXF5U0E4UkUyNW04N3N4NmtMVmQxYm1QRmNGNGdZUytyRHJIZXcremJkZXZPZllWVGtPUmFyb1lQZ3lKQitlckY5UXNjeVdRYWNwZDVMVVY0NkcxU3ptcE03ek1XQ2dKUVdDUldzc3FaZ1M5YlNUREQ3WFkwYkUrZGVwdWR0MWNseXFBRnJrMGZjS2lBRG5wRFlHTUZ1bVo5aXhSbjhjV05vVkZsSDFwN3MyTT0=",
+   "key": "var _0xc15e=[\"\",\"split\",\"0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ+/\",\"slice\",\"indexOf\",\"\",\"\",\".\",\"pow\",\"reduce\",\"reverse\",\"0\"];function _0xe88c(d,e,f){var g=_0xc15e[2][_0xc15e[1]](_0xc15e[0]);var h=g[_0xc15e[3]](0,e);var i=g[_0xc15e[3]](0,f);var j=d[_0xc15e[1]](_0xc15e[0])[_0xc15e[10]]()[_0xc15e[9]](function(a,b,c){if(h[_0xc15e[4]](b)!==-1)return a+=h[_0xc15e[4]](b)*(Math[_0xc15e[8]](e,c))},0);var k=_0xc15e[0];while(j>0){k=i[j%f]+k;j=(j-(j%f))/f}return k||_0xc15e[11]}eval(function(h,u,n,t,e,r){r=\"\";for(var i=0,len=h.length;i<len;i++){var s=\"\";while(h[i]!==n[e]){s+=h[i];i++}for(var j=0;j<n.length;j++)s=s.replace(new RegExp(n[j],\"g\"),j);r+=String.fromCharCode(_0xe88c(s,e,10)-t)}return decodeURIComponent(escape(r))}(\"xUUqxxxqxtfqxftqxtxqxUUqiUtqxttqfLiqfiiqfixqfLiqfLxqfLtqfLxqfixqfifqfLtqfLfqfLiqfLLqfLLqfLLqfifqfLUqfLLqfLLqfiLqfLUqffiqixtqxUiqfLLqfixqfiiqxfxqfLxqfLLqixtq\",2,\"LifxtUqCs\",24,6,12))",
+   "id": "p179134398421000850065"
+  },
+  "extra": [],
+  "msg": "获取成功",
+  "status": 1
+ },
+ "baseInfo": {
+  "company_id": "CO00002913",
+  "logo": null,
+  "company_name": "上海会世私募基金管理有限公司",
+  "company_short_name": "会世私募",
+  "register_number": "P1068444",
+  "company_asset_size": "50~100亿",
+  "company_type": 1,
+  "registered_capital": "1000.000000",
+  "establish_date": "2018-02-08",
+  "register_status": 2,
+  "cancel_type": null,
+  "company_profile": "杭州会世资产管理有限公司（以下简称会世资产），成立于2018年2月，是中国证券投资基金业协会登记备案的私募基金管理机构，是协会观察会员，且已取得协会“3+3”投顾资格。会世资产专注于量化CTA策略，并在股票策略和多策略条线上拥有两年的深度积淀。",
+  "base_currency_crc": 1,
+  "company_english_name": "Shanghai Hilsian Asset Management Co., Ltd.",
+  "company_address": "上海市虹口区同心路723号13幢6113室",
+  "company_address2": "上海市浦东新区世纪大道1196号世纪汇二座905-906室",
+  "employee_cnts": 23,
+  "fund_practitioners_count": 22,
+  "nature_business_type": 3,
+  "business_type": "私募证券投资基金,私募证券投资类FOF基金",
+  "has_consulting_qualification": 1,
+  "register_date": "2018-06-19",
+  "organization_number": "MA2B0TAE-8",
+  "paid_capital": "1000.000000",
+  "capital_paid_rate": "100.000000",
+  "credit_code": "91330183MA2B0TAE88",
+  "company_class": 1,
+  "key_figure_id": "PL00001ZIV",
+  "key_figure_name": "张议夫",
+  "amac_link": "https://gs.amac.org.cn/amac-infodisc/res/pof/manager/1804101425103043.html",
+  "cnt": 91,
+  "registered_city": "上海",
+  "city": "上海",
+  "rating_1y": 3,
+  "total_fund_nv": null,
+  "company_class_text": "私募",
+  "company_asset_size_text": "50~100亿",
+  "core_strategy": [],
+  "risk_warning": "B+",
+  "ret_1y": "--",
+  "ret_incep": "--",
+  "ret_incep_a": "--",
+  "ret_ytd": "--",
+  "is_link": 0,
+  "is_direct_sale_config": 0,
+  "is_super": 0,
+  "super_mode": 0,
+  "link_manager_list": [],
+  "link_config": [],
+  "manage_fund_list": [],
+  "is_both": 0,
+  "public_opinion_risk": "",
+  "has_onsale_fund": 1,
+  "xcx_share_image": "",
+  "xcx_share_text": "",
+  "delegateList": [
+   {
+    "fund_id": "HF00005CG8",
+    "fund_short_name": "会世泰和CTA1号",
+    "raise_type": 1,
+    "strategy_id": 10030203,
+    "strategy": "量化多策略",
+    "first_strategy_id": 1003,
+    "second_strategy_id": 100302,
+    "third_strategy_id": 10030203,
+    "inception_date": "2019-02-28",
+    "price_date": "2026-09-24",
+    "special_tips": null,
+    "is_link_set": 0,
+    "primary_benchmark_id": "IN0000008S",
+    "performance_start_date": null,
+    "is_show_index": 1,
+    "is_wealth": 1,
+    "subscription_fee_conf": "100",
+    "is_nav_missing": 0
+   }
+  ],
+  "integrityList": {
+   "integrity_list": [],
+   "integrity_string": ""
+  }
+ },
+ "profile_raw": {
+  "data": {
+   "company_profile": "杭州会世资产管理有限公司（以下简称会世资产），成立于2018年2月，是中国证券投资基金业协会登记备案的私募基金管理机构，是协会观察会员，且已取得协会“3+3”投顾资格。会世资产专注于量化CTA策略，并在股票策略和多策略条线上拥有两年的深度积淀。",
+   "company_name": "上海会世私募基金管理有限公司",
+   "company_short_name": "会世私募",
+   "establish_date": "2018-02-08",
+   "registered_capital": "1000.000000",
+   "is_member": 1,
+   "member_type": 3,
+   "join_date": "2021-06-08",
+   "philosopy": "通过对海量数据的提取挖掘，以定量研究为导向，坚持量化交易投资理念，通过多元分散化的模型及标的，力争为投资人赚取绝对收益。",
+   "base_currency_crc": 1,
+   "company_type": 1,
+   "manager_list": [
+    [
+     "PL00001ZIV",
+     "张议夫"
+    ]
+   ],
+   "capital_paid": "1000.00",
+   "honer_list": [],
+   "delegate": [
+    {
+     "fund_id": "HF00005CG8",
+     "fund_short_name": "会世泰和CTA1号",
+     "raise_type": 1,
+     "strategy_id": 10030203,
+     "strategy": "量化多策略",
+     "first_strategy_id": 1003,
+     "second_strategy_id": 100302,
+     "third_strategy_id": 10030203,
+     "inception_date": "2019-02-28",
+     "price_date": "2026-09-24",
+     "special_tips": null,
+     "is_link_set": 0,
+     "primary_benchmark_id": "IN0000008S",
+     "performance_start_date": null,
+     "is_show_index": 1,
+     "is_wealth": 1,
+     "subscription_fee_conf": "100",
+     "is_nav_missing": 0
+    }
+   ]
+  },
+  "extra": [],
+  "msg": "获取成功",
+  "status": 1
+ },
+ "profile": {
+  "company_profile": "杭州会世资产管理有限公司（以下简称会世资产），成立于2018年2月，是中国证券投资基金业协会登记备案的私募基金管理机构，是协会观察会员，且已取得协会“3+3”投顾资格。会世资产专注于量化CTA策略，并在股票策略和多策略条线上拥有两年的深度积淀。",
+  "company_name": "上海会世私募基金管理有限公司",
+  "company_short_name": "会世私募",
+  "establish_date": "2018-02-08",
+  "registered_capital": "1000.000000",
+  "is_member": 1,
+  "member_type": 3,
+  "join_date": "2021-06-08",
+  "philosopy": "通过对海量数据的提取挖掘，以定量研究为导向，坚持量化交易投资理念，通过多元分散化的模型及标的，力争为投资人赚取绝对收益。",
+  "base_currency_crc": 1,
+  "company_type": 1,
+  "manager_list": [
+   [
+    "PL00001ZIV",
+    "张议夫"
+   ]
+  ],
+  "capital_paid": "1000.00",
+  "honer_list": [],
+  "delegate": [
+   {
+    "fund_id": "HF00005CG8",
+    "fund_short_name": "会世泰和CTA1号",
+    "raise_type": 1,
+    "strategy_id": 10030203,
+    "strategy": "量化多策略",
+    "first_strategy_id": 1003,
+    "second_strategy_id": 100302,
+    "third_strategy_id": 10030203,
+    "inception_date": "2019-02-28",
+    "price_date": "2026-09-24",
+    "special_tips": null,
+    "is_link_set": 0,
+    "primary_benchmark_id": "IN0000008S",
+    "performance_start_date": null,
+    "is_show_index": 1,
+    "is_wealth": 1,
+    "subscription_fee_conf": "100",
+    "is_nav_missing": 0
+   }
+  ]
+ }
+}

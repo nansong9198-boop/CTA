@@ -1,0 +1,157 @@
+{
+ "company_id": "CO000002GK",
+ "baseInfo_raw": {
+  "data": {
+   "encode": 7,
+   "data": "eFY5SU84Yzk4ZWNhMnd0T1ZiUlJzRHdHUXVwSmhFa3RUWko2S3hYQ3U2VFJDOHZzK3pBc1lVS1A0WlV6clpnVXZlZ3pGemtmMEFGNjgzeWROZ3BVbTg3YW9yd21tZWFQYjdmVk9zak90UnppTmlYTXIyOUJHdjRCT05VRVdyWTNUWVFyTG1HY0FEelA4OFU0anluK043VnVkdGNaNGN6L1ZJS0hrejZWQ0pZdWhNSXJIdHZrSnJZRXErZTZMUnk1NEl3OGcyNGdkUDFEdDQxdm51c0RBVkpKYzkxalhmdGc5VTVMRjQrajBmUERVR08rSWVwbnpQL1prVnN5RTVvYjRJQkdzc1BMZHpYclpsUTROcWFPTEdJOWR5aU5wWVppeHBhRTU1cUV5ZWJ0N25DejYzdlZ0Zmc1ZlhXdC9sZjVLYjc1TWFrV3FlUWNrWWNUSHhOS0duaTA1WVpLZHNrTERuR1U2R3JxKzI1YVVBMjNza1NKMlhJUkMraUFNTE1ORm56YUt3ZXYxbGhVTHFHWElqRkZ4bjJISTNuUjZsblB5UDhkNmE0RHlsemc3OFlENytOR3VnV0pHT09Sd0ptdGpsNWJFem4yc3gzTThzaVIzMXZQMWxSVXBlNkZoSGtoOVdmZTFzblJuOE11VzhrUGgzTHBjZUdIQVdvMnhPYmpzdWM2bmJTZml6Y2wxekVWS1FSZThyZTE0RFlicnZyTklOV3ladkl0NHJlVDlBNHhrVUVXeWFGUFFaYzRZZHhMUDBVZjJDL3pHQmw0THQzeW11NmpEeFBpRjA2ZVBTOG96N3FjdlRqcEJtOTFHdXpCRXdYQnJUN1ErY2FkNTZqWHovVHBjdFIxUDFVSzdxdXVoT0xZUFRUMGdxTmx3cGNRMzA2enFwL3VaUEtuZmZzR3l2aGQyV0F2eDZVaWdjMTdRK1RPYnh1YnFkV1A5dEVxQVpnR2VGR1BLb3g2WlJDOGJYckpuS3NZcWs5aXhkMHppU0pwblYrdGt1WWp6anZPbFczbUg4aWoxWWF5UFdwR0pEV2MyNVNFNXg3enU3OHEzUEpWYjV4ZkJHNXNtaDFyK1dwM3h0Y2V1RkJyNC9KODZIUGJQZVIrazk2MS9DUjVaUkhMc1hUTUpkdnVkL1B6amZmb3VOSEk4SzNGWHN6MDMzYmhzbHBRWkxlTWRhODhHL0FDcU9rZ2gwbFdMK09NdTF1czRLRS9oWTRWa2VFUm0zMjczR0QxalNPb01WT05CUjRtWHRrSG8xUjB6bkVoeEZ2NEVtcldPQUlzTUIyT0RLcGxmcUIxYXk0dTVNeDhYYmZGcGF3ZkhDRzhqMkp1SE4rVDd2a212MVR2QUh1TTI2UUR0VStDYVloa0dTQjU3T2M2Vkl3N084VU5hd1hFZHB1NXFsWXlQVDV0Zk0zbkJla3hMMDgvRmpHMlI1MjkrM1VtSVFPdFdzcTVDRDk5eG13ZVJsQlZoODgraGN3b1JvZ2xwMTAwQlh3Rno5aVl0cjlya09ZYXpBU3dyZ2NTMjNyYmh5VmpGTnRMNkZuNjZEdDRQMGo4NXl1cjVyUjBQZjEwa3FhWjZnSlVCWU01cHBtYVBFVWZqK3I1NHU4L3ZhSU1BWEFKOXRzdUNreFJtUU1ON2ZmNHpRb0xkMm5vTEJBSnduSTN2OHZnYlVZbkUzdzA5YjZ4Rnd4VmZhZDIrT0lPdTEvSlkxbkJwL3ROejNBTEcranJyK0lKdGoyR3lkQlh2NWtaS2J3R003SnAvTWxnSnJwT0xCTGZTNmFaM0pHRHphczk4elpkdm1sTTVOZk10b0hoQVJ4dHlKUUtxSzU1OTdmbzc5c0UwRnJmUTMvRmtkaEtJdDBGMHVKczhoaHBwdHpXWE5rYUxIVlVqTVAzNEJEQkZKa1pmNzVzNng1empLTE1hekpRVmlYWlNsN3VqN2U4Tys4UGFUK0dhSk1nNEtIQnJrUzR3RE52Y1Bja25Lb0cvUU4yU1RaUGVFYnU1WVNDYzh1cXlyTUsyMzF0MThOeHdlME51Y0FpLzhYMDJMVmhnZFJLK1VMcXJGbllhTnNmeSsrOGIrK04rZ0trdFhpUzF5RHRBdTNoWUplUGpvYTR2OWo0Q2pxOGRQMmk5YktaRnpmend3QXcxRk9yeU1SYm1yTms5V24xZlkxdjZNOTVqekRoRjR6clNWYTFQV056V3psOU1PQkhHUzdnZnBWUXh6eFFVQ3hRdHlwdmdpYTZSdzdoMW1LdEZQYktTbk9JL2Q1Ni9QVHVUYmVETWNWWWx3NEcwZUFuaS9ESG5LU1FBU2YzWS9SM0NaU0FOS1NES3NSbXBzcGUreG85RnhQdUlxakcyVEZNc3JaS1RDMW0rWEdwRlVGTGUzSGhVdlllbzV3K2FkRlJyN3A5ZzRMTnNwL3k2bU5MWU11dHRrV2taWkRCZEFQVEZrckpWTW1rTGxSZ2I2RDhhV0FYNmxhL3gzcU9nT0gzNjBBcVBXaDVsR0drSjJ0cS90WnJVVSswTDdXUFFiVEpUOFZDT1ZOOGUvOVQ1T0kxU3ptcSs0QzRselpUcTltMHVCYmxxbUZmUGxGLzJRRXkxanAyY1F1aFdOSEJaUk9oL0R3VjR5Ky93dk1DL2xyTU9LeUVkaGRneWpHUk1SdGpSaWpaTVpUMFd3amNpL250ZTV5a3BWYS9mQmZNdStHL0NnS3o3QlhucGV2dGMwNEJ2U0tYRkttUGxQdVZhT0MyOVR1UUlCMG9CNkpuaFZTK2lnYndmb0Q1aWErSVdXMU9vTUtta1BDLzhpSHd0M0VlNStGeVgyOWxNTGpQSExjdWhraUVsWS9iOUI4ZVgrb3FsWjcrVnhnWnpNVWRUOC85eHJsaGVLUFRkekt2NU9ZOCtwRFl3c3dmZ2xhc1l4bXBhd2RtNnhsN1BGbHU0cmhzV0RCZ2p3dVUzbVBvaGlmVFRab3J0elhUSWVjTkNFLzZJQloyUjRHcXVTUWtzV2JkUkJYenloK0NWTEhnSDlWaFh6NEc3WjZjYnRpRzFLT3dBa21kWk1nWGJ0UE9tN0NrTUx2a2t4ZCtINTNTWmRRZXpmajBjQk8yVlJiZjhEWEtsMzEwb1dIdWdaU2E1RG4zZmlCMFhoUnpvR1laaGlBeFpUV0JGclBTMnU1cTEvcWtRdU9WdEJBeGhsOGpsSlB5VS8veUVZTWg2VkJBOENCN3NmMVVxTHg1eGl4aE8xYytuaTRYZDR3WU5GL0JFRVcyZ045UmVqMnhVTkVYY0FtYit0ZktDVkN5V2NKM2NuUW5DNzhSQ08rd2hicS9tQnBML1RvRlhlKzlsZ3FoK0N5R2NsOTNLcEYwODZObTRYZzhJbnRyakRLb0NneXFXSzVaY3NwUkE2UlFuY0Fiem5YWm9hSE0zTFhZNENkMUtiU0JBNjZHT0RYYU5iemJhTkkzd3VmVnZrb0ozSy85R0M2VW01c09la3NvakRDWkRkbklSK1dYNVRuZ2ljVENhSDVsY0Nqa1JGYWM4ajRhTVlvRGh5TWIwcHBOT2lIMmJmRlhrUVVCRTZhSmk3UWZYTWhNeEdGWFVXUVRtOTkyVHZDbzlMbHV6emoyR1dMSDRhbDhaRGM5UjJZMEMyRksxcVV0eHhieGdXQ3gwVDRWQzZobUZybDVLZS93SGRnRUZDTHpWWENzMVM3ZjdTMk42dEp4eURYc2lxeEhQMmp5K080WTVoaUw4L0xpNE1zek1kYW1xN2dNSGVLMnpwSzJydDZnM0F1OU95WldkTHdpYjNpVk9aaUpJQmVkbS9HRlRscVMzZ2svN2w4WEJ2SEFTV2dxWmQrZVEzNjlITmZPaXFWcjhoaFRDamduVWFxSzhPTDVJRVFhcGdJVWZPSncwa05ySGZIRUNVWEtZWktGVmk4NHpaM2ZuMlJvS2RnNkkycEJuOWlWYUNTeUJsN3BNSC8yNk9RSERlYk55cmg5N0xkOFVDWWtuUmZiTmRWcGlja2lOTVBHcEVtbkNnbW55ZklqSUhkS01ndG1rOUNUaG0vRWp6V0k5b2RNMUNpTVc4TTlmbjJ1dXVtdUxtd2ZPV3llNFM5YmpXc3M2SGlsSXN0OE9EWDNPOFVUS1htWmUyZ3Q0cEFyOU5CMC82SkpWYTd6dVhsanRvTkgwOHE3c213UFpOandKTFVhaDFSb1lSS0FEY09hQlhVN09aUnh1bzZzN3NTWHQ4V0cvcjdCaUdDZXc4QWRBRldsUlZSeVJJcW0yb0wvdXhGRll4RVhrTWtxc1hFeTNYbEtVbW80a21XNFc5c3J3N3JQWm93azloUm0vWXE3OEwvUVdVYUVybm5JOUFjcWVMY25Ebm1CRGo3d0tHTFh1eWhLMm1XZm1KZzNTN0ZaYlJEUkd6NFQ4bmVaVE1ydDBHYkM2bHhrbXl3bFJVc2MwcHdJUys3Mnd6ZnRIWTd5cmJoRTBFVnJLeGVyNGR5QWFuTE1WMzhFTkQreUpQR3FnMVBmSkg1SHNhMytiRkgxcjBsMlk2ZWwreGtOZTkvdXhreGVZUXVXOXJlaXVkYjlQM3JkaDluT2NHKy90M0x4ZWViWVhRUHBpelQ0d2srUzJiRVJqa2dDTVJDSTI5NEhya3Jmay9ka2VaQ3NCK25jUGJscEFsZlllZjlhOTcrb2Z0TVh6NmV6ZHBZRkNzd2ZDemNLL0V0MU9Cbk1pWFM1c21VRFlFbUNnU2lLUUthTFh4TUQ5blNtQ05RWFFsQkIvK0l4SnQ0K09PeUcxaE4wMlhDOWZ5NGgvb2pmMDFBT2d2YjFPT1ZmdW5Dcyt5ajlXQ3Y5S1pqcmJvaFZYTjNXNHRXeHZYYUlDeG16ODI5SlIxS0RzRkcvWDNQZ3JCSW5UWWRTckRTdzFjM2ZCdHBpTkZsMlVoblphQTIvOGhuU3p3d04xYm9tanlaZE9mYzRYU1ExcXZ5THZBd2NJM29jV3NiUW5XQ0xua1B2ZlJNVVNDUHNHdUQ0b3FCT2NYT0NkTlo3TGx4Zzg5QU8rc0ZnNkV2K3VyN1F3QXBocHVXZVFLT3pRQVhDQ3IzYU1LUElxblZrdVFYM1d3aTZTV3lTb3pzdUNBWlUvM2lKS2VNSWhENlJPZnp6TG50R05FRlAzblBMZjZNNm1rUk1lT2NRZHgrNDJLNG5XUG1TQUYzZmdHZzhKMHZQTVZMbm8zR3NFTW94K2xBQTN0ejNhVXpVK2lJTTJlTmVCUEIvMXFwQUQ3M0xnOHdvbjRHaG5IL0IxWmZsVWpidlZ4Y1dEVjdFQWtlRWV5V2dzanhDVlhSUER5OFBuTG9FcmF1aVZmNUVzVStYMWR4ZnZ1SFRaRXJuOURDd0JmSjloeDJReGxTY3J6Y3JlMGhMWmRGMUFZRWxPdURDQnhMRnY0VEdkRUdYNjZCZEs1dTgySFZIWnNObFBKcncvMTNpYWlOM3lJOFBtVkdoTTcvc2VIbVpURkxyZHpXdUg5TCtTQVNhQXluWi9pWXV0VXBXNE5mV21weisxZ0NLekUxckRhM0wyb1JTU093Smc4MjZibGRrd01Cc1RHZVJha0JGSjRLY3l4WEo0UkM2aXJJQWRJMitvaXl4UC9kOGtxMmJSYzZoTk00MUxBNkVrZENJSnZSa1dTdmZRTTVWU3A4TC9JYkNrOTJ1djJIYTg2c1N2eUtRNXhIM1Fld1V1ZmdURkdzK3ZGNVF3cHowcDRYRmZyQU5CZnkyZGVLNGRva2RNdEg4bm5MRjUwdHdkRVZjbXNHc1pOeG8rRXZGZDlDMnNNbEd3Ykc4WWpEajAxOXJ2VGxPdFJXRDNCZXpwTHZ4bzF6YVZWcTd5K1FwNkJ4bURPcU9mY0orQ2NTSlRHdG1ISzJC",
+   "key": "var _0xc48e=[\"\",\"split\",\"0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ+/\",\"slice\",\"indexOf\",\"\",\"\",\".\",\"pow\",\"reduce\",\"reverse\",\"0\"];function _0xe46c(d,e,f){var g=_0xc48e[2][_0xc48e[1]](_0xc48e[0]);var h=g[_0xc48e[3]](0,e);var i=g[_0xc48e[3]](0,f);var j=d[_0xc48e[1]](_0xc48e[0])[_0xc48e[10]]()[_0xc48e[9]](function(a,b,c){if(h[_0xc48e[4]](b)!==-1)return a+=h[_0xc48e[4]](b)*(Math[_0xc48e[8]](e,c))},0);var k=_0xc48e[0];while(j>0){k=i[j%f]+k;j=(j-(j%f))/f}return k||_0xc48e[11]}eval(function(h,u,n,t,e,r){r=\"\";for(var i=0,len=h.length;i<len;i++){var s=\"\";while(h[i]!==n[e]){s+=h[i];i++}for(var j=0;j<n.length;j++)s=s.replace(new RegExp(n[j],\"g\"),j);r+=String.fromCharCode(_0xe46c(s,e,10)-t)}return decodeURIComponent(escape(r))}(\"WaNNazWWWaNzWWaNazWWWNWzWWaWNzWaNNazaWNWzWWaWWzaWWWzaaNWzaaWNzaWWWzaWaNzaWaWzaWaNzaaWNzaaNazaWWWzaWWWzaWaWzaaWNzaWaNzaaNNzaaNazaWaWzaWaNzaWWNzaWaWzaWWazaaaWzWaaWzWWaWazaaNWzaaNazWWWNWzaWaNzWaaWz\",58,\"NWazPlqhv\",18,3,39))",
+   "id": "p179134398114936843042"
+  },
+  "extra": [],
+  "msg": "获取成功",
+  "status": 1
+ },
+ "baseInfo": {
+  "company_id": "CO000002GK",
+  "logo": "https://static.simuwang.com/Uploads/foreign/logopic/20210730/thumb_c5b10e1c2ae3c9654cd5e469dead60ed.png",
+  "company_name": "杭州润洲私募基金管理有限公司",
+  "company_short_name": "润洲私募",
+  "register_number": "P1006059",
+  "company_asset_size": "50~100亿",
+  "company_type": 1,
+  "registered_capital": "2222.222000",
+  "establish_date": "2014-09-22",
+  "register_status": 2,
+  "cancel_type": null,
+  "company_profile": "主营业务范围为：受托企业资产管理、投资管理，法定代表人刘志葵。<br/>润洲投资是一支由国内多年从事期货交易投资者组织成立的团队，拥有丰富的交易经历和成熟的交易理念，并且团队拥有优秀的过往投资业绩。公司目前致力于资本市场私人高端财富管理，并希望借此打造一个资源平台，吸引市场上具有良好的教育背景和丰富经验的优秀投资研究团队以及市场销售服务队伍，以确保长期稳定地为客户追求资产保值增值的目标。 <br/>",
+  "base_currency_crc": 1,
+  "company_english_name": "Hangzhou Runzhou Private Fund  Management  Co., Ltd.",
+  "company_address": "浙江省杭州市上城区白云路26号195室",
+  "company_address2": "浙江省杭州市滨江区西兴街道科技馆街888号中海发展大厦T3幢15楼",
+  "employee_cnts": 38,
+  "fund_practitioners_count": 34,
+  "nature_business_type": 3,
+  "business_type": "私募证券投资基金,私募证券投资类FOF基金",
+  "has_consulting_qualification": 1,
+  "register_date": "2015-01-07",
+  "organization_number": "31139642-8",
+  "paid_capital": "2222.222000",
+  "capital_paid_rate": "100.000000",
+  "credit_code": "91330102311396428T",
+  "company_class": 1,
+  "key_figure_id": "PL0000163H,PL00001ZQB,PL00003CT0,PL00003P6Q,PL00003EGI",
+  "key_figure_name": "刘志葵,方岚,周凯,潘正寰,韦璐",
+  "amac_link": "https://gs.amac.org.cn/amac-infodisc/res/pof/manager/101000011413.html",
+  "cnt": 22,
+  "registered_city": "杭州",
+  "city": "杭州",
+  "rating_1y": 3,
+  "total_fund_nv": null,
+  "company_class_text": "私募",
+  "company_asset_size_text": "50~100亿",
+  "core_strategy": [],
+  "risk_warning": "A-",
+  "ret_1y": "--",
+  "ret_incep": "--",
+  "ret_incep_a": "--",
+  "ret_ytd": "--",
+  "is_link": 0,
+  "is_direct_sale_config": 0,
+  "is_super": 0,
+  "super_mode": 0,
+  "link_manager_list": [],
+  "link_config": [],
+  "manage_fund_list": [],
+  "is_both": 0,
+  "public_opinion_risk": "",
+  "has_onsale_fund": 1,
+  "xcx_share_image": "",
+  "xcx_share_text": "",
+  "delegateList": [],
+  "integrityList": {
+   "integrity_list": [],
+   "integrity_string": ""
+  }
+ },
+ "profile_raw": {
+  "data": {
+   "company_profile": "主营业务范围为：受托企业资产管理、投资管理，法定代表人刘志葵。<br/>润洲投资是一支由国内多年从事期货交易投资者组织成立的团队，拥有丰富的交易经历和成熟的交易理念，并且团队拥有优秀的过往投资业绩。公司目前致力于资本市场私人高端财富管理，并希望借此打造一个资源平台，吸引市场上具有良好的教育背景和丰富经验的优秀投资研究团队以及市场销售服务队伍，以确保长期稳定地为客户追求资产保值增值的目标。 <br/>",
+   "company_name": "杭州润洲私募基金管理有限公司",
+   "company_short_name": "润洲私募",
+   "establish_date": "2014-09-22",
+   "registered_capital": "2222.222000",
+   "is_member": 1,
+   "member_type": 3,
+   "join_date": "2018-05-02",
+   "philosopy": "构建具有安全边际的策略组合，对冲风险，稳定收益<br/>",
+   "base_currency_crc": 1,
+   "company_type": 1,
+   "manager_list": [
+    [
+     "PL0000163H",
+     "刘志葵"
+    ],
+    [
+     "PL00001ZQB",
+     "方岚"
+    ],
+    [
+     "PL00003CT0",
+     "周凯"
+    ],
+    [
+     "PL00003P6Q",
+     "潘正寰"
+    ],
+    [
+     "PL00003EGI",
+     "韦璐"
+    ]
+   ],
+   "capital_paid": "2222.22",
+   "honer_list": [],
+   "delegate": []
+  },
+  "extra": [],
+  "msg": "获取成功",
+  "status": 1
+ },
+ "profile": {
+  "company_profile": "主营业务范围为：受托企业资产管理、投资管理，法定代表人刘志葵。<br/>润洲投资是一支由国内多年从事期货交易投资者组织成立的团队，拥有丰富的交易经历和成熟的交易理念，并且团队拥有优秀的过往投资业绩。公司目前致力于资本市场私人高端财富管理，并希望借此打造一个资源平台，吸引市场上具有良好的教育背景和丰富经验的优秀投资研究团队以及市场销售服务队伍，以确保长期稳定地为客户追求资产保值增值的目标。 <br/>",
+  "company_name": "杭州润洲私募基金管理有限公司",
+  "company_short_name": "润洲私募",
+  "establish_date": "2014-09-22",
+  "registered_capital": "2222.222000",
+  "is_member": 1,
+  "member_type": 3,
+  "join_date": "2018-05-02",
+  "philosopy": "构建具有安全边际的策略组合，对冲风险，稳定收益<br/>",
+  "base_currency_crc": 1,
+  "company_type": 1,
+  "manager_list": [
+   [
+    "PL0000163H",
+    "刘志葵"
+   ],
+   [
+    "PL00001ZQB",
+    "方岚"
+   ],
+   [
+    "PL00003CT0",
+    "周凯"
+   ],
+   [
+    "PL00003P6Q",
+    "潘正寰"
+   ],
+   [
+    "PL00003EGI",
+    "韦璐"
+   ]
+  ],
+  "capital_paid": "2222.22",
+  "honer_list": [],
+  "delegate": []
+ }
+}

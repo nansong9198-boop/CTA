@@ -1,0 +1,242 @@
+{
+ "company_id": "CO00003KC1",
+ "baseInfo_raw": {
+  "data": {
+   "encode": 7,
+   "data": "VkNmcHBCelNDaTB1UncwbG1XZlJJZmQ2TjdwY0dtQlBaenVVMnhsazBaTVJpb3BwTlhsd080QVhJejVHSmRNSkJ0WjZmYk5LbXVabjVOdmZCYldaOU5IZEZJZDJEU3pHZ3lPMXZRMnNuS3lNQlJFbW1NRHZVRWFacXkvOTlpWnZwQmM0VHJMZ1JoOHNlbm5yc3kvTXBnWklkeXpvQ1U1d3BtRldHRkVkYmVGb0pIeTRSZ1ByRjV5Kzl0Wk5IUEpmL1BuNWliYnIzamE2MjIxY1BCc0tvZnZTSS9sMnY5UDQ3aU1aYnVpZDk5MjQyV0ZVanR0TVRXVU9nTTJjRzJYNmJ2bHE1SG1UWGJFUDJmWlpaUzNEUWswTkpLeFhDWXltc2M5YW5scU9SRG9nTzgvdjlqWEtkMExscnJJSGJpMHNwTGR6OEE1RjdsSDBVZWpFMHJhU0JXWmNzdEVsQlFndUswWnRKTjFtaVVIV3M2U2VHQUFJR0dGRmIxUXRvOCtqV2pqM1l6N0VJMkVwc21JSFRTYVJyQzhybUlSdHp6QkM3VnBnczREYUFjZXJjak1PWDBDT2VjU2RPZE5GMFAwUVZvS2pNMlY2N3pNckJrUUtoY0FJZ2t4L0pEd3RUV1NaYWVDYUpEL2ZsUGVpdnhDcmhmR3daNmJ6NHpyeFJ3YVlkKy84b1oyNnFWd2h5Smh2WElXcUxsbittalFybkJXSE16TWJKLzczQU0zWE1pSnV6bDJ0ZElEUUdFZEx4N3IySXUzM1NtNW5kbVd4UGhBYUc2aEYzaVNPdHY1alV0SDQ4SjV4Sm1xbGEyU2J1OVZOUlNnMTY1a0lGNDU3ZUN4bDNRNzlYb0xWOGo1SjhZd3hNWGNJYWtJVWNZRi85eEF3NkZPalNCSDMvMFdZWGpoQk8rT3FQUjR4WVRWZ25TVERHRmVVWjZCNGdFc0t5OER5Q0pPY0tnOEI0TDQ2U3d5SDBzRU8yazB5ZkRsaGc0QnFqUm8zZGF0QmhQNmJyUDNhR3FoMXA4M0RqQmZaZmR6SlNhazFCcnM1SUhYRytqNWNMaGpVb1NZUVAvY3lCaFhKU1dMUEhBQVdkK2owZE5qNnphSnN0NFd5WCtZRjgyMmJMaDZvVHNpK2Q5a1FMU3NidkUyYU1kajFDYkRTeE9ka1JJMGxRTnoveXFkLzEzSmZsdmdSMDdDYmd4b0tPK2dZbVY3ZWo2V29VUUQvNDhpYVpEZTZZcmxZMDd5TzZyMkRlTm1venIyalhIVjBYanR5dFpOcCtkQWFwL2JST05EZEcrbmdIV2x3ZlNuNUkxUEFTeUx2RGliQ09mb3Fkc3BENVM1U3o3OE9mOHVYQzIwUnZUOGdPam13Yy9VMHluV0ladXIyQlNZVWxNNWNpUmxXaXhjUTlZTjZiZ2Njd3prL3NVTVNzQy82NlBiZ1Y0SkN4WlIvd0xrNXdKZXNvOWJKSWJMcE5CM0d3eHVENlZoeSt1RFp2Y3JKQnpKRVJ2YlRPR3l4Ykx0eUd2Qy9keDdZL0wxK1hycWI1NnZQM0lJWEJSbEZHRTNMQy9NREZjZzhNL0xudy9EL1NtMC92VXhYWng3eUU1RzJRRVB2eFZ4NVcybkRRT29hSGZuSlcrc0JFR0J0MUtieVNYMml4emJUUUxnYm1DcDNzUWt3SW9XUWxGRVFPeHBUR2VwRWJxQVg0V1IwaTMvSUliaHZJd21XN2FtR2ZzOHJEdG81bGlmbXViaWtHdUlYdEd4ejV6aVdvL09hVWJRSTRjRWpzYk03aTViWHR1VXFEQzN0U21JWE5UbmtWblZ3Uy9ZVUdjZXJTb0ZGU1ArTHR5d0NtWjVyOStyUVBwcXd1Rit4citsK253NTdac0Y1R043MTJHYTM0NXRhd3p4V0svdUVkTEtEZThzeXgwOElZMWZMZEQ5dW9LZmErTXc2U0QrQVBzdXpzV3hGQmtHTzBOZ2l4RDA2QjRnTnJzQWdhRTNVQVkyQkZmRS90WXRwMGNVbERKTWVTNHk0TjI1TTlEbWQxTUk1QXBrc2xyUFU2cG5NRkpnMVdxMnZDZE5hbkQ3anNhMUVDQmpXRy9BVDlKOEdXRmJKbFBrbHowTHZydjlmWmlpRmR2amFiNkhaMTV1VHY0bkpUTGNTMkIxNnpYbUNyUU1SWkkwNXBVQ3BveDgrL3liZWdwQUFZbEIrWW1pT1JIOEtCVlI2RklEcTBTSGpvdGlkemJjWFNWeVRrc0R0T3h3WVVlZUo1VEFCd04yOUcxOHNNcnpwYTdTSVE4TWtialB1ZVhsNlNyVlRXWExqN1dZdzA4ei9WTXNQc3h2c3VITkNYUWhtS1JQL0hoeVFTKzhDUm5PT2ZENldFNHVsdEJxZ3VweGdrdy9ocTBkNjAxU0FOVnhWUEFHeDFFTlYrWml5OWF1UTl3RFRYbjhaRVFHcWhZTmVWT3FZZEpPOEJmc2lXUnBQbDQ1WENZNTFVa3ZxRXJFVFd2eFptUkZaR3pwd2p4RERaWDFnMm52Z0xwSVBDNXpSUWdDcnkzVjRmOFN4a2tqUVJWZzhVLzlxR2x4ZkhtUG1oWWtXU2phK2pmK0ZCM3FMVXQ1RzJlZFRKeXhqR2U3UDhIdEpNY2NlenJXZnpzQUgyU25VZmRzT1VVNlpvMlN1ZGs2UjhnSXdmSGk2UmQ3VkY3bXNSemptR2VHbkdoSUNnOXJHeG9Sb3M5elBLeUtTT0d2UjBLM1VZTEZSUk9GdERLaklmemdod0xUTmNpMXF2RmpaK0Rha2ZBQSswWjhRTk5DUEhVK2JWK2hIL1VXZmFPK3cvR2F5bm10WE52ajBzWUNTWWFwSjlqV2hrN0R1VzNvTjRZMENEZk4wTGhtbGdqQUFOOG5tb3kzbkQzR0RVbmtUT2lYM1F1dDMzUFdUWDdnNXdqcUF0VVhTSU1pdUlpOTNRVnk0a2xmWm9rNjZSL2w1UW5HTzdrWlNSTmdPTWxadkt5MkxZM2UwV2xaVWh4MTFMWmYweWZjNnZWOWdsUFFCL3Y3b09YN0w5T1MrVTludHl6SnVUTDhpRDFETGJjWWZ0Nyt4Zyt6eEhocVhkOTQ5T2lPUUsrWkFMa3MwbFFNckVZdEk3QXdyZ09GeFN6dnFFajM2NUJtdzNlOGhNaUQwS1ZZZTMxUUxtQk5aTlNlMUNKSGQ4VW5HaWUydnNxYytyU29vQVdzZCtOdEh6eHFtcERwTnluQlVqTWl0cE5QRUpiMmFYeUpHQUsrMU1lTWFLdS9EK1JmeFlwUFRFZTk0bW5MM3dqWUhpNk9TMVB5RzFaNlArVEIvUUxqMjNlVUQ2VlRyak5tMkQweXN0VmdMVTJnK1o2eG9GK2t2ekVkVVFkYmNEditBeEd5NUhRYmM2VW9JSk1FV1hWcStibit4Q2JlaWRjaGNackswNHZFM0JQYVZaVzBvR1hBWTkvejNwcVhOTTY3Kys1T0xLSXhqdUpMTGc2Y0ZQVHRSWThDT2ZNNm9zdGVrUUYrQ05wU0dISUlNRXlwSm15R2pWZjhvN3Q3cDdFV0JMek9ZOFhZN09GRFAvS09yRFhrakRMYVluUDBVQmlnWEE1ajFTelcwRUEveFdVQ1h5ZWZYTnEzeDFobUswMm9jdmZ2dDN1dEpqYlp3UmZUQUNHYjI4bTVQU1VWUy9SSmJZY3dXdU9XdkdiYnRFTzhVeVdNWjlFL2UrNEhGRjRhRlhkMU14SGk2c0pNamZNNGZFdEljM25xL29NTk4vbHJiR2ViR1k4WTZBaHgvak9HRmV4VjArNEljSzF1bUM3NmlCOUJudE4rNU1ZWkJ4VllhbG5pVGJIRSt3YnIweks4RkpMWmpIMXdzMXJuZVYxMG9KOXpXNUllZ1FBK2pyNXYwZFBZSkVnN1pSbFUrK1dJakl2MzJIanV0bDdIQVpBQS85dUtDQSsxb1VoV0VPcWlHOGNMT2lmV21oUGh1NVNrNTBBYmgrOVBPUTlISjlKYmk4azMrQVlzdWp1Q29iZFZGU3k5QWwvdUs1RmtENkVHUGhGZGNpSnUyZmo3czl4aWo2Tmk4a2FQZXZ6VjhrY042c3lBelZTeGxSbFFFVk9PWU5EMVJ2K0tDZ3MyT2V5RTJnMTIzOVdTZ0FWa0VGS3dlRzVGZVcrUFR5VnBsRnpqSThPVlV0L2tDMThRaERTMkYrNXZJSHhhamt1SFVwU0hkeVo4UFFkaUIxZklNYkJBd0RRWTI4RWlyR3lqQUNna01XN3dZZ0JGTW1QZ2lkbXkremMyZWlsMWduVlQwdEJXT2JpV2N3a2dkUk5mQ1RGRURMdGhjT2NQQkowUzRneUhrV0o0Z1p4SzFsU2pQZythTHY0Rm5yOHVMN1R5QmdaRk5mUkx6eENWYnUwZTZyVzh3ZklidkVaVDZNQzNYc3ZYSTdXTkVwenduUGtETExxMUtWMWNjRDVGNm5uSXhLUXdJb2xPaHR0Y0hQV1BhRVVtcWZKcXRSZUY2UXByd210aDVFTlRmOE8vTkRXcHltKzh3MzhBc0hYTkhkdVUvZlUvczJHWld4WGE0TlZKQUJWOFRlNVJFck8yd2JZWWkvU1pXNjNiV0oxR0RydjcwVHBYazFxRUJSVWxCUVhzTU5ZWHB3L09rNlpTOTR2UnV3WElib1VtekFxa2x4RXBhUGJNbDE5cEd4ZURMRlZ1bWd4K0VLVmFPbDBIbmR3cWwrNHlUVy9lZG9Gcm84SXN0cUpZdHZYUDJLM0p3K0p6Rjc4azJXNGtHZElhYzduMUxkclVoZG9NREZhK09xeGx1UTRSc013R1c1aFFmdVpreGVTTFczTVlUMTZhVFBodis0UGtyWWhvYVhiU3phOFgvUW5TcG9TVmx6UEZtbFNJL0FKd3hOZlpjMmlPOFpuaHlrVXN6aHA2b0pqK1JjZzNVQjhrSXAzMlgyV0ZEKy9PWURwMVN0YkhRZGtWOG1JQ0Iya2NlOEJVU0lDSFF3SEpKUnJIakxzaXFSYU9Yc3UySEZNaFNrOWdybnBIdVdrYnhOL3pMd1ZoVE12bEtjM09Fa2x6MGt5MUVuQkllYTQzV05MaEVBVFF3b0Q2aFRtZ0wyekp5cENXT0pYODlaOG90N1FzL0Y0VXdTeEV5OGhWVjBGaThYcFhNa1RKQk9ERzcvZHBKSWsxNkJoa1FTWnB4ZTlmbU95K3doT0M1ZkpWSTdQNXpmWEtVSVg1RWlEK2ZuaDZuTjM5eks0Vm1hSkdFc044UVBqK0NDdXlSY1g2a3YvVlhqUDh1Z2hMem82KzZEdnpCZVRaZ0RIU055eWRORGZmdXdwcEtOSDJDL1FLS2VRRGJubmdMSkEzdzIxZjd4VkdaU3d3dGo5NjA1dHNWL1hXQUZLUkh0ZGw4RDd2UkZTUlQyeXdqdjBNTW5Eamlnc0R1aXV4VExZT2hUQ2Jya2E2eEQwUFJZQmhaQ1lFZWZwOTJjNFlTZU9uNXJndFh2OEluakEyM21PRVJZeGMxTnovMEFiWTRuYklQVzVMSzU2NE1wZ1RvS2g2L2ExVFh5NUtLd01admhxbytNc2JPL3JVbzdjdnA2bmFnbGtiYk5CMkQrM0dLVjJtcVVYQU0rS0pKYllJMGxsa0hFNFBrdUlXMlBjc3V0SzA0eWY5NFY5TUE5d25OcVVJK0g1YWtibEhkSmw4ZkZwdUpQQ3JkcXJYVWNYL2U4UWpBVWo3akM3S0t3U0l2bkt3Nk9OZnI3NVNUdW4xWFNtb0JrVTJYVUFvM1RwQ1ZBYnhXN05Wb0pUbTlzTDBIM25UUzZnUlR5d2greGJUKytFZDZSakhhZ2I0VHg1dHYrY1pBR0k2V20rVlhrTTRhWVo2MzlxcHlnaStzTUhiM3p6cEN2RUM3VkVnV0tNa1ZJT0JwSldwSEhqeVU4M2lPdDdHY0tjSEcvV2hoK2JCT0ZtL2ZNNEU5ZzJOYXRHTjh0d2R6WjZUSWYxR1Fpb3BWMHorNEVzS2hiS2dQek1mT0p0OGlOdVhFRys5cnE2NjNFQW1PZW1WK0VrVW84b2xneUhmdFFvYW1RcTRxeERrQmhvRVJPOWl4SzRmVnF6NHl0d3h2Nk8xZkhYVzJjZFFmNHJDcEhtaVZsUUZZS2tvb2d3OTRzMit6MHRLaXlRbGIrTWZRczdSL1daRVgyM1JKNDJXT0FLZFBsenpVdzNqajZVaGgxVVNGaS96MXcvbFRiNVlVOEFPczFiNU9YOHl1a09uM1g0QVN1QzV4b29sMUJnUkhJRDJ4SzV3NGN6UVhRUUpIRkh1bmJhTUE5ZjFpTVdvb1J3S3hPM1A1b0w2TDdKUGZEL0taaFV1RVhaVG1zRkZGcjNpSUZKelFOZDlreVc5Wk1lcFRSdkJDdHllay9zMStnQkF6MUhrRmJFME13RFUzNEZWQVROVlg3NE41MHMwT0wrdmVKRktkRGlRbHpOaGt1VFpuZXhyK2t5V1NoOG4xR2ZQY2Q4VDkvbkVFV2kzcWErbnVXelczYWM4NU5RWFlaeDlHYkFrdUVRY0ZHbmRaOFBkY0ZCcEpIajQyQWpsMkIrbUVBbUIxQzVOUGRZMUkwSEtQQ1JWbVFKcWs1L3RuQXhCc2FBQ1BvMWRoSVVmbnZXRmhwN2RRUHhzNDdYUi9BQnNGTjlzcktZSmZDUkpLNnRZMG45ZCtHNWxwVDYvQWVSSCttSkxNUXBUN2RWazU4enE4VGJUMDBoR2xPcS9oZUV2TUNhS1Fjek5BdFNTMlMxQWh4eUZ3YU52RUJwMkhNOUhFdEpLQzZKODNqSW5JcnpKMjZjdHJRMUVZKzBVTm5UTER2MmhIUFpjajBTQmYzNEx2SC90NnVBb3daRlF0b2tLaHZCV0pXU0N4aTI1eFlvTytlRzMzQVBaY0Y2WHBBSGdjYUJab2V2enE5WGZtTXUycGlhQm9TRzBEcjNoMGlQaGE0UlFtVWxEdmRPeWh4cHZOWGR4c2UrM3hQZHJSMmV1MDdRVkE4Y1VpTVNHNG11M0lXWjNWcm9wZEppOWd3RXI2amgvamgzbGhlNk10enVYa21Ea1ltRXNrUWYwalZ4a1dITTNLUVZiS1FJQVo1RzdDTXR6bWJVVy81N1d0eHJiM01CNHV1djlDVE8xYWNDaWExY3A1RkNIbVhUT3RNS2xzQy90SVp0a2F6RXBzVWFGOVA3RzdzbGYwcU9QZko2UnNhaVFJdUdXMzBJeVk5UHkvVzBmTVhKRzlYU3hMdnZ1OHloenJuaktaazd2U1hRbmlvMElyMzhldDdlVnB1VTRQQlVUMzBiaXBqT2ZDZVpFc3FMQlljeEgyRW8vdklIMFBVVU80ZnoxNDhhVm1OWW41aXBRWnBvVEE5WGxETlJhL2lmVmF3dWxubXd4TE1wb2lUa3ZTTkRxV3lxaTZsaS9zVHlPcWh6VDR4VVc2S0Z3U0dYYmp6ckdic0E4Uzl4Umg1cVhuMm9ReGcwb0lsY095Wm5uWHNOYmQ4eU0yZ201M2duTExLYUxvckoxUU5RK3ZzR1JzaDJDS0QveEh5aFJIenZSYjdzeG1oMzk5MlJOaTEyaWlsS1JIdGhoTnNuWk91VGpTY3VZeFB3aUNsdnNzTHZFdWltUHFSVXVCYUw4Vyt1bEdJa2JPRmcyVUtLMU5nOFk1VXZtbTdhaUVuWTVIRUhoZklQa2Y4dGMzVk5lejRFVnYzVjJxWmlXSG9UdmZlSzZnOXg5dk04VHJObWZwWkE4TThJb0xmU2xTUnlPdUVNaHlyY1JLNDVZelBjcWdtQXZ1dDU1Rm5tMnZvZDdja29nRzRXNlRsQWxQQ3JuNHRDU0ZHSDB2ZjdZNnMwYkh6OUlxNko0bnd0b21HSkRTOFBiUkR4UGxrK090c2N4Nkc2QXpMZ3Y5b0h0RlVyM3BhWkRmcmJ6NU9YTFZMU1Fqd3JaMWJjVDVsMEl2aGk5U2QxUHc1TmhhWC9Eb09PUTBaK0JHZUVoT28wUWpoR210WllEcVJlUEZ4bjltbTJPQjV2aGFIMVBheVlqRVNyZ1QwZm9vTjNWa2JJbjZxTER0Y2NOOXNTU2hobGdVd09GK2pDSHJ2VlFERGN2c1FMTis1ZHNOUlp1K0lGZ2xhQ21xRkNta0JjOFRyVUdEY3MxWWNxL1hmTzZnQzlFOU1lbVY0bHI4ZGhIOGx5WFhSV0hwb2J1N1Q3cGUyc21rZHpDVXJXNzJ0Um9TVDJObmdsdm0wY05hQVdQSzNMdCs2UlEzTGJkdE0rQWQ3NlAybGE5RjA0VmRaRW5KaEtoUE9KMFcrNU9WUEN2SjFvdkRFRFhrVmFDbUJzM0lEOTZTK2k2aDM5LzdYTm5LSmZKTkhDY3A5d2JPenVwbzZZaytNN0VKN3drUWJWVWNGd3NQeUpSdFRQM1ROSDdJVkRNNjRlU0YzR1pRb1duTzFFRTZZSW1JRHhEVEpwRisxSnQ4M0NNK3lQYXpucUNCN1lFMExBUlpXbWJPcjVOZmdKckpXNmFyRWY5RWNmaHJLRVlXQi9vRkFUWForclhZQlgwdEJPb0gyVEVtWGFDZmNMY0VsSDZWSDVPMU9majZmWWxvQWlqNkcwRTRWOVF0aHY1c0haN1A4ejd3OVR4RVd3a2FEbmtPdzUvelNhT1lrSGFvcWoxUW5YNW1mYXZWOEVWa3Z1TFF1OVVDOGVDR21DYnluYmdKNGVURkdBVGI4R3ZGQXozZFFtczkvK243SVRNZUdIbz0=",
+   "key": "var _0xc44e=[\"\",\"split\",\"0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ+/\",\"slice\",\"indexOf\",\"\",\"\",\".\",\"pow\",\"reduce\",\"reverse\",\"0\"];function _0xe76c(d,e,f){var g=_0xc44e[2][_0xc44e[1]](_0xc44e[0]);var h=g[_0xc44e[3]](0,e);var i=g[_0xc44e[3]](0,f);var j=d[_0xc44e[1]](_0xc44e[0])[_0xc44e[10]]()[_0xc44e[9]](function(a,b,c){if(h[_0xc44e[4]](b)!==-1)return a+=h[_0xc44e[4]](b)*(Math[_0xc44e[8]](e,c))},0);var k=_0xc44e[0];while(j>0){k=i[j%f]+k;j=(j-(j%f))/f}return k||_0xc44e[11]}eval(function(h,u,n,t,e,r){r=\"\";for(var i=0,len=h.length;i<len;i++){var s=\"\";while(h[i]!==n[e]){s+=h[i];i++}for(var j=0;j<n.length;j++)s=s.replace(new RegExp(n[j],\"g\"),j);r+=String.fromCharCode(_0xe76c(s,e,10)-t)}return decodeURIComponent(escape(r))}(\"DrrQnnDQnDnQnNhQnDDQDrrQyhhQnDhQNrNQNyNQNyDQNrNQNrDQNrhQNrDQNyDQNyrQNyDQNrNQNyrQNrDQNrnQNyrQNrhQNrnQNyrQNyyQNrDQNrhQNNNQynhQnDDQDrrQNyyQNrhQNrhQNrDQDrNQynhQ\",56,\"ryNnDhQFb\",25,6,42))",
+   "id": "p179134395915325425634"
+  },
+  "extra": [],
+  "msg": "获取成功",
+  "status": 1
+ },
+ "baseInfo": {
+  "company_id": "CO00003KC1",
+  "logo": "https://static.simuwang.com/Uploads/foreign/logopic/20230717/thumb_41c72135e40b842452e370fd71b36091.png",
+  "company_name": "上海量派投资管理有限公司",
+  "company_short_name": "量派投资",
+  "register_number": "P1071253",
+  "company_asset_size": "100亿以上",
+  "company_type": 1,
+  "registered_capital": "1000.000000",
+  "establish_date": "2015-07-15",
+  "register_status": 2,
+  "cancel_type": null,
+  "company_profile": "上海量派投资管理有限公司（简称：量派投资）是一家运用科学技术，对二级市场进行量化投资研究的量化私募基金公司，于2020年底正式展业。<br/><br/>追求“高夏普、低回撤、低相关性”是量派投资最显著的特点。目前，量派投资拥有“指数增强策略”“中性策略”“CTA 策略”等产品线，管理规模于2024年10月突破百亿。<br/> <br/>扎实的研发能力是量派投资的基础。公司两位创始人孙林、余航均有丰富的海外知名量化机构从业经历，90%的核心投研成员毕业于美国常青藤、英国G5、清北复交等海内外知名高校，具备深厚的的数理背景，囊括数学、统计、计算机等领域资深专家，拥有良好的投研能力和自驱力。<br/> <br/>凭借超十年的策略积累，量派投资以全球知名对冲基金团队为班底，进行策略模型开发。目前，公司系统均为自研开发，在指数增强、量化中性、CTA等方面具有良好的研发与交易能力。<br/> <br/>量派投资致力于建立知名的国际量化资管品牌，为投资人提供长期可持续的投资回报。",
+  "base_currency_crc": 1,
+  "company_english_name": "Shanghai QuantPi Investment Limited",
+  "company_address": "上海市虹口区上海市虹口区哈尔滨路278号2幢202室",
+  "company_address2": "上海市虹口区公平路168号北外滩来福士西塔42F",
+  "employee_cnts": 63,
+  "fund_practitioners_count": 61,
+  "nature_business_type": 3,
+  "business_type": "私募证券投资基金,私募证券投资类FOF基金",
+  "has_consulting_qualification": 1,
+  "register_date": "2020-09-01",
+  "organization_number": "32462189-0",
+  "paid_capital": "1000.000000",
+  "capital_paid_rate": "100.000000",
+  "credit_code": "91310115324621890L",
+  "company_class": 1,
+  "key_figure_id": "PL00003P90,PL00003YBE,PL00003ZO5,PL00003I9K",
+  "key_figure_name": "孙林,黄芯蕊,王琪,余航",
+  "amac_link": "https://gs.amac.org.cn/amac-infodisc/res/pof/manager/2005291235108662.html",
+  "cnt": 274,
+  "registered_city": "上海",
+  "city": "上海",
+  "rating_1y": 3,
+  "total_fund_nv": null,
+  "company_class_text": "私募",
+  "company_asset_size_text": "100亿以上",
+  "core_strategy": [],
+  "risk_warning": "B-",
+  "ret_1y": "--",
+  "ret_incep": "--",
+  "ret_incep_a": "--",
+  "ret_ytd": "--",
+  "is_link": 0,
+  "is_direct_sale_config": 0,
+  "is_super": 0,
+  "super_mode": 0,
+  "link_manager_list": [],
+  "link_config": [],
+  "manage_fund_list": [],
+  "is_both": 0,
+  "public_opinion_risk": "",
+  "has_onsale_fund": 1,
+  "xcx_share_image": "",
+  "xcx_share_text": "",
+  "delegateList": [
+   {
+    "fund_id": "HF00006LFW",
+    "fund_short_name": "量派300增强2号",
+    "raise_type": 1,
+    "strategy_id": 10010201,
+    "strategy": "沪深300指增",
+    "first_strategy_id": 1001,
+    "second_strategy_id": 100102,
+    "third_strategy_id": 10010201,
+    "inception_date": "2020-11-17",
+    "price_date": "2026-09-29",
+    "special_tips": null,
+    "is_link_set": 0,
+    "primary_benchmark_id": "IN00000008",
+    "performance_start_date": "2020-12-07",
+    "is_show_index": 1,
+    "is_wealth": 0,
+    "subscription_fee_conf": "100",
+    "is_nav_missing": 0
+   }
+  ],
+  "integrityList": {
+   "integrity_list": [],
+   "integrity_string": ""
+  }
+ },
+ "profile_raw": {
+  "data": {
+   "company_profile": "上海量派投资管理有限公司（简称：量派投资）是一家运用科学技术，对二级市场进行量化投资研究的量化私募基金公司，于2020年底正式展业。<br/><br/>追求“高夏普、低回撤、低相关性”是量派投资最显著的特点。目前，量派投资拥有“指数增强策略”“中性策略”“CTA 策略”等产品线，管理规模于2024年10月突破百亿。<br/> <br/>扎实的研发能力是量派投资的基础。公司两位创始人孙林、余航均有丰富的海外知名量化机构从业经历，90%的核心投研成员毕业于美国常青藤、英国G5、清北复交等海内外知名高校，具备深厚的的数理背景，囊括数学、统计、计算机等领域资深专家，拥有良好的投研能力和自驱力。<br/> <br/>凭借超十年的策略积累，量派投资以全球知名对冲基金团队为班底，进行策略模型开发。目前，公司系统均为自研开发，在指数增强、量化中性、CTA等方面具有良好的研发与交易能力。<br/> <br/>量派投资致力于建立知名的国际量化资管品牌，为投资人提供长期可持续的投资回报。",
+   "company_name": "上海量派投资管理有限公司",
+   "company_short_name": "量派投资",
+   "establish_date": "2015-07-15",
+   "registered_capital": "1000.000000",
+   "is_member": 1,
+   "member_type": 1,
+   "join_date": "2023-04-27",
+   "philosopy": "凭借超过十年的策略积累，量派投资积累了扎实的方法论体系，致力于融合全周期市场信息与基本面信息，提升模型预测能力，优化策略组合收益风险比。<br/> <br/>量派投资坚持运用程序化交易技术，自建低延迟交易系统，在统一的策略架构下进行多模型有机叠加，并充分优化。在严控回撤及最大化夏普比率的前提下，致力于为投资人提供长期可持续的投资回报。",
+   "base_currency_crc": 1,
+   "company_type": 1,
+   "manager_list": [
+    [
+     "PL00003P90",
+     "孙林"
+    ],
+    [
+     "PL00003YBE",
+     "黄芯蕊"
+    ],
+    [
+     "PL00003ZO5",
+     "王琪"
+    ],
+    [
+     "PL00003I9K",
+     "余航"
+    ]
+   ],
+   "capital_paid": "1000.00",
+   "honer_list": [
+    "2024-上海证券报-第15届上证·金阳光-年度成长私募公司奖",
+    "2024-Wind-第八届“Wind最强私募”-服务创新私募管理人",
+    "2024-证券时报-第九届私募基金金长江奖-年度新锐私募基金经理",
+    "2025-财联社-首届资产管理华尊奖-管理期货优秀私募奖",
+    "2025-财联社-首届资产管理华尊奖-数字化创新优秀私募奖",
+    "2025-财联社-首届资产管理华尊奖-股票量化优秀私募奖",
+    "2025-上海证券报-第16届上证鹰·金阳光-三年卓越公司奖（中性策略组）",
+    "2025-中国证券报-金融科技·量化机构金牛奖-三年期指数增强策略",
+    "2025-中国证券报-第十六届私募金牛奖-三年期相对价值策略",
+    "2025-中国基金报-第十届英华证券私募示范案例-三年期量化中性策略",
+    "2025-中国基金报-第十届英华证券私募示范案例-私募50强示范机构",
+    "2025-证券时报-第十届私募基金金长江奖-资管先锋私募基金经理",
+    "2025-证券时报-第十届私募基金金长江奖-卓越风控私募基金产品（三年期）",
+    "2025-证券时报-第十届私募基金金长江奖-稳健发展私募基金公司"
+   ],
+   "delegate": [
+    {
+     "fund_id": "HF00006LFW",
+     "fund_short_name": "量派300增强2号",
+     "raise_type": 1,
+     "strategy_id": 10010201,
+     "strategy": "沪深300指增",
+     "first_strategy_id": 1001,
+     "second_strategy_id": 100102,
+     "third_strategy_id": 10010201,
+     "inception_date": "2020-11-17",
+     "price_date": "2026-09-29",
+     "special_tips": null,
+     "is_link_set": 0,
+     "primary_benchmark_id": "IN00000008",
+     "performance_start_date": "2020-12-07",
+     "is_show_index": 1,
+     "is_wealth": 0,
+     "subscription_fee_conf": "100",
+     "is_nav_missing": 0
+    }
+   ]
+  },
+  "extra": [],
+  "msg": "获取成功",
+  "status": 1
+ },
+ "profile": {
+  "company_profile": "上海量派投资管理有限公司（简称：量派投资）是一家运用科学技术，对二级市场进行量化投资研究的量化私募基金公司，于2020年底正式展业。<br/><br/>追求“高夏普、低回撤、低相关性”是量派投资最显著的特点。目前，量派投资拥有“指数增强策略”“中性策略”“CTA 策略”等产品线，管理规模于2024年10月突破百亿。<br/> <br/>扎实的研发能力是量派投资的基础。公司两位创始人孙林、余航均有丰富的海外知名量化机构从业经历，90%的核心投研成员毕业于美国常青藤、英国G5、清北复交等海内外知名高校，具备深厚的的数理背景，囊括数学、统计、计算机等领域资深专家，拥有良好的投研能力和自驱力。<br/> <br/>凭借超十年的策略积累，量派投资以全球知名对冲基金团队为班底，进行策略模型开发。目前，公司系统均为自研开发，在指数增强、量化中性、CTA等方面具有良好的研发与交易能力。<br/> <br/>量派投资致力于建立知名的国际量化资管品牌，为投资人提供长期可持续的投资回报。",
+  "company_name": "上海量派投资管理有限公司",
+  "company_short_name": "量派投资",
+  "establish_date": "2015-07-15",
+  "registered_capital": "1000.000000",
+  "is_member": 1,
+  "member_type": 1,
+  "join_date": "2023-04-27",
+  "philosopy": "凭借超过十年的策略积累，量派投资积累了扎实的方法论体系，致力于融合全周期市场信息与基本面信息，提升模型预测能力，优化策略组合收益风险比。<br/> <br/>量派投资坚持运用程序化交易技术，自建低延迟交易系统，在统一的策略架构下进行多模型有机叠加，并充分优化。在严控回撤及最大化夏普比率的前提下，致力于为投资人提供长期可持续的投资回报。",
+  "base_currency_crc": 1,
+  "company_type": 1,
+  "manager_list": [
+   [
+    "PL00003P90",
+    "孙林"
+   ],
+   [
+    "PL00003YBE",
+    "黄芯蕊"
+   ],
+   [
+    "PL00003ZO5",
+    "王琪"
+   ],
+   [
+    "PL00003I9K",
+    "余航"
+   ]
+  ],
+  "capital_paid": "1000.00",
+  "honer_list": [
+   "2024-上海证券报-第15届上证·金阳光-年度成长私募公司奖",
+   "2024-Wind-第八届“Wind最强私募”-服务创新私募管理人",
+   "2024-证券时报-第九届私募基金金长江奖-年度新锐私募基金经理",
+   "2025-财联社-首届资产管理华尊奖-管理期货优秀私募奖",
+   "2025-财联社-首届资产管理华尊奖-数字化创新优秀私募奖",
+   "2025-财联社-首届资产管理华尊奖-股票量化优秀私募奖",
+   "2025-上海证券报-第16届上证鹰·金阳光-三年卓越公司奖（中性策略组）",
+   "2025-中国证券报-金融科技·量化机构金牛奖-三年期指数增强策略",
+   "2025-中国证券报-第十六届私募金牛奖-三年期相对价值策略",
+   "2025-中国基金报-第十届英华证券私募示范案例-三年期量化中性策略",
+   "2025-中国基金报-第十届英华证券私募示范案例-私募50强示范机构",
+   "2025-证券时报-第十届私募基金金长江奖-资管先锋私募基金经理",
+   "2025-证券时报-第十届私募基金金长江奖-卓越风控私募基金产品（三年期）",
+   "2025-证券时报-第十届私募基金金长江奖-稳健发展私募基金公司"
+  ],
+  "delegate": [
+   {
+    "fund_id": "HF00006LFW",
+    "fund_short_name": "量派300增强2号",
+    "raise_type": 1,
+    "strategy_id": 10010201,
+    "strategy": "沪深300指增",
+    "first_strategy_id": 1001,
+    "second_strategy_id": 100102,
+    "third_strategy_id": 10010201,
+    "inception_date": "2020-11-17",
+    "price_date": "2026-09-29",
+    "special_tips": null,
+    "is_link_set": 0,
+    "primary_benchmark_id": "IN00000008",
+    "performance_start_date": "2020-12-07",
+    "is_show_index": 1,
+    "is_wealth": 0,
+    "subscription_fee_conf": "100",
+    "is_nav_missing": 0
+   }
+  ]
+ }
+}

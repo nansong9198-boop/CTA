@@ -1,0 +1,206 @@
+{
+ "company_id": "CO000000U1",
+ "baseInfo_raw": {
+  "data": {
+   "encode": 5,
+   "data": "dFJWbzFyZjZEQmNRdjVLS1YxZlVnNG95WWw5Ri91YWZBM012YThQZ0JwVWdybHduc2xaM3BGaEFmTXA2bndDdGhNZWpBaXkrQU9PSEo2NDhtYWk1WGhRMWFlWXU3Z3VQeS9lanFFbGx6KzJHSEdxaFF1M0wzV0xrWHkvN2hnaHdZRDNDQndNYTV5SzF3S05BSTRuTkh3cmpSTXoxZjVWeFY5ekRKdWk3OVU3YjBQY1k0QVFCc1NKRzBLcEVOZmhnVElBV2ZsdXRmcnBXRXRCWFN6S1FpenlmWUltajJZbmNZcndrL3RaaEVTZnMxSVB1cGlKVDZNblV4b0ZWbkNZaDZHNklkZldOR1dVRGFrcXRsYksxZWFDc084WE5TVWtLT3l3WW5JS25OdTVvanIrWlpTbmxPMWlUNGJXZVhjUDR4MjUvNkpNZE1OY0x4dVo5bklwTUJFa2xIRXpKYU1FcFlRUnowb09EOVMvaE9BRDRlQXBjOE1jREd3a3huMGZOcEhpMWlhQjN6OXVyTG1lMHVEazFCZ0txeGE3NkVtK3k2ZmNUY1ozRTF4Wm1yMFFSSjJSOWNVb1JIOGtiWjVGekhQRDdrZ3EwMmtZS2lYVDVwMEdFcCs5elJvY2JUVU9LYUJJQnUwSzI4djdhTkQvOW5jb2tFeXNnR2p4Sys4bDFuaVNBV2NnK2F4OElxd1BFa1lvQkhwd0VjUFJ4SDMyQ0xnT1FuQ0pQK3E3cVNudmswcE5xZnkrUlorQ0VFK1hNZXpJSWFOdEZhUHRzLzVONGV6Y2dFS05lcTJTVHIvazlnQUxldXZiZnY5NmpFK0Z2dnF0bW1xc2xUWkgrOThPZGdlcmhvTjJtMDZBQmJ0UjJsSVBXcVFmOWgvQnh4b2lZYlhqSlhIeEpxdGR6ak1MUWl2ekZaT2ttaTNIRFY3VzErbUJITzlHeVBsMElSRWQ0alFjVHVaLy9sMThIMC9LT1JHSmhna2lPbUtyUHhhZWxqYnJlZ3BzbVZrYzJGZW4zYXowcWpleXZPNmpQaGZ4c2dvMmZ3WVkrbTB1SmJNUTZDNzREQnV0elgyN2ZobnJYSXBab3RwaFdEZFZKUEhTT24wdDdlekIwS1dJYjluMlFRc2FGRHF0djdZSHdxZk1ubUkrSzh2bStFWkUxYnlTb3V5UUtqR3lCQ2JjKzJUV2cxWUR4Tmw0Q0ZmU2U0R004VFpqOHJ0MlNLbURyUVp4ODhJRmNGeVNpblJrUGt2RWllWWl0VnREY2RCY2YwaStzVGIwMWlVYzdYbzI0NGY4aG9naGU0Z2h1a0prSTBjNUpFTHRTR1VDVU5nREpuaFFHdUxQZDFNWDcyQ3o4WmpaNEwyYkw4T2hTN1o2eEp3MFJveE8wOU9vaTgybzl3SVVGelArbVpIYmZwdFhpVnNQT1QramlTd3JoQ0RGMmFZR2Z0RXJTMXRFSGZ6YmRwZGpxVFJTU0tsd3oxTDVrOWRvdk5BZHVjenZaR3lYZTE4RDYrZGkzNkY1R0tFeEk4cmIyNWlzbG1BeXdNdmphekJyNzRTaHFLSlNaM2M0eGczNmRjS2NYeks5OEZEVGxVU01uS0xUai83UmsrNFZPRUFQMGdTRHppV29YL0hEUit6Ni9PZnV5MUxLQzlKdTk0QzNwZ29yOE1WeXpZMjduWnFITk9ZcVgzaXI4VTNEOHNIRjNzSmJCS3A0Y3AzcW9MdmZ5eUsyUFNNSVdoN21BTVVYbGVqYlZXVFloektmRGF1VWZkODM5REd0V3Bwa1EwMlVVLy9qOWRUVnMwKytsWTJXeDRzRmZpWU9ocEwyZHdjVkhJeTJNeEJ3NFMwZmY1K3liTUlaQXNrL3pRMy90VDdyY3BGQUI0NFVsYVNBaXRWclV3QzZWMVZpcmFOUUFZSHJmekxUTGlYbUcvV3VmYWFlSmFBMFJDWTdMZmhSY3I2cS9ReTkrdWlFRmZJZ1JJa2QxTTdDblNubTVLR2xYMkxVSDlyYWNRRjBmNDd5SmZEdUYwZkFZQWl3aVhwM21TTVNWOFRYdWRiVk1MdHZNZmdEcXVEdWxucCtQWkFoRzR1WHZLT1N1Zit6ZWlxc1VHRFVmbkF0Z0hldGVTb05ZRElzVktxaDQ4NlkvQVozNGFMcnFRVHVFbnVScDg2VEM1SU1oaDNNbGgzVUpYTVorcUYvbkErZzNOK1ozZTA4V2h4dUs3SHRPd2pwZ2lUeTFSRng5QkFNdENpU0JWYnMwdERnYmZhYXZYTGJ0NDBVWWJ4U0c3SXhEWUQzZG9LTTlVbmppRnBidWZKV3l1MTIzbU9NS3AzSkhlT3VaUkhhVmtFVGxtbko0OVlvd0E4bXZJU2h4TVg0OXRyeWY0RGtPcm9ES29pdnJydGE2OWJabWdwOWdDQ1V3MURCSUR1d0czZWRzWUsxN0tzQmVsbkZUVmNVaWk2YVVKRHFyYUcrNmRaVVk0TkxxSlJlRWpFdkJyZFc2anBRNmZLamZSajgyTlJwcGo4QlowMUw2Yno2bWhDTkNCNktlMkNFM0pvTXlsY2V6MEhoV0s5dXFDeUxaSXAxTm9IdUNWM3M3RnF0dXdVc0Z4aGRhVU9JM0xrYU9VRGFBUU02UUxZOWhOZWNCanluUW1ha1Rzai9rRm9kS0wxZEMwR1NpMTkwUk9PZENDT1hJejM1Zzl5QnV3b0Z5UitCc21MbWFrVHNUeGJNckRxaWhGMlF3UjZxRXREK2ZMcFBKaWlVTktZR2JGWUxyb1VDTWtzYnQ4OTg1UVRIZXcxZ0Yrb1RSU3loMU5FYU9UODBvZENhVFRtbHNPYnhoK1dVd3lLVXVrUWxrcUdvalVNdFh0aHV1aUd3aHhrYlN0UzEwQmkwMWtmN2F1UmVCRkVyVGZpbkg3WnFnRDBYaDllRW83OTlkTFljREdCTjJ6TXJ6SEU5RHB2RW1mWlFBNDNJOEJ5UVY3Nm56aVJGa2cxZFNoS3l5QkVSRHgwRzd5S1ZwL1dhaENVaGY2MnBmakVCcnhrdUdEVDN2WStEWFNMVitKWDBrbG1QOEYwRDlMc29xUWx4bm5lU3h5NmtaWERVN0czWHlkZTViUHVTRm44K2xYWVJ3QmxVWncrWXV2S2ZNMWUvcWJVamVicFJrdmhFaHdHNERBVUJXaVBqZHBkOXZjYVdlY3pnNXVkUG9RbmZTMU0zVlZrekhZN0J0bjVOWkkxWnhjRjIvY0paeGk3NE5rWjNibXZCc1FvT0dFRGs0R1cydWg1Wk9FdVZ2RTQya2wvUjVqM3cvUU44OHh1bURRMkVldkVtdlRpOFNMa0crelVER3RqME5IdGphdkN6NkJiR01WYWJQTWtSWFVEc3MxOEpuWnZFNDJNV3FDZnFaQWI5UkdVYkt3R284YTRiSDE4a2MvMzc2Y2w5YXlsM0xZUE5BV0t1K283Vml4Z3ZWK1pIZ09EZUQyNzJjaFNqMVlHc0JYVytuaVBxWUtYQ1l1d1FwVng5ZVVTRHk5U2gxWnUzQmU2N0tDaExPL2xsYStUYkZVREMrbjNWeXF4cnVTc1NESHd2eFFSKzRGWWkwbVUza1o2QWVDQmlpc0lsY0ZWTURqeERzOThNTHRuMEIxTW85dDJNU0d6STdGd0xRTGI4MkViZDR1cGp2R1NYT0RWU09pem9TSzVGaUNBL2FoTUM3Q1M2aVZSUUFidmVLVHJsKzVySC94QUlqdHREeUw4czlHNFhnakd0NTRZYldrUDdoY29BeC90UGdpSEtITnhGYzZGaGRMUTJHemJ1Z2xydVJOY3lQWHowaDUvSEpOdWVqYkdva3ZZNTRwU3VOeUtXcjNLeFB2RjRnMzBpNkhqajdBbkpaNVd1cFdhTEVlSk5aclE2UVcyalh2Y09Pby9vaXZkeGMxV3hkNDZuMVVPdVZLK2t5dTk2OEVoZTBIcVhmYThJUjBYSEFiVjBRVDNJNTVLeDM1d2FUYXZySVVla3dVR0M4dU1pSHNlOHZwekFEVFg3bGMxZkJzaHJiaDRDaEVPVmdnUDl0QU1mKzFSbjEvVWJpclVUVjBDWmVXRDNQMzRnMjgwMm1XM0lzUU80YnlRdDZWRVhqKyszK2QvTGpWL1JHdnJTUXlmZVVFK0QzbGJlczJJRHFSWXRaeitPOTA4Zjd4d1lNeThOYVRJNDBkUnQwN3ZmWFF3OHVkT3AycmIrRXJMU0dQVzVKQXFBRGY4MERWcUNNb3NnS2RUeVAyOXcrNzV2d1RVVklFeDhKMU5yWWsrTlMrbGdKWkRYSUo4d1NSblgveEJIdzNnSmlOWGJPRnNUSE90eWVwMC9Wc1VRUlJyb0svZVJNZFA3UFd3N21pZkYreTBQVVJHdWlmOVJ2Z1k5NHpWNUJpWEVUazlrUHYxeWZ2TUl3MGxrUGcvOStkSkUrS3lCTWdmU0FsejR0NWZIOXE2ejE3UWJqMWRxOWVmTHpjcGZNRFBEOFVLZThoZkJ6cHVnR1p4Zlk3SHlkT3FuZURyZnV4VVRrOGRVdDBFVTlBYmFkMmFzejh0aXQ5RWpHK0VORjU3d013UjhoVjcvOGZUM0lzMGxsdkdxcUhzM3pPVFFGT2grc00yK2syZkcycmxrdHgvb25RTHA1SktjRStpVXFzVm1WY25HSnM4ZkRZZ0ZuNTBqbWVOZWttUUlwRjlkcEFIL1E3Z3RCSWt5aUwxczAxRGlvdWFlK2tCOWtsWUF6V1pKdWpGTzFNbUhxNFh5NzZoY1hKVHhDaG5JUzhiKzV4ZEVabm5VUVNzNGxLT2RicFQxODk2WXFzb2dDeXdXZXFMcXExaXlKUFErdEFEZkROSEtidkloWitGREdnYm41SW9MRjY1TkI2Y24xY3VvL3cwRHNIeGdCbTJGWTBQa240UjE4cVBJWWQwSC9MeUFIbnJ2TzI3dXdCdDRsUHBEbFRBT1pvT0ZidlpDelY1SU9CWnUzajF5TXd6bjRqcE1sbzFSMExXWGh5aEpIblJOVW1jMm5EODhzZDJ1WVVxUHk0ZXZQZHR6R2tkVUxZbzVRaTVaclNVUTRwcXl0N2FSNHIzajFCeEdHMUNqa1p5ZXhhdjVXcCtQb3g2aDZzRlNBTkltd29kY2VZVy9VeVBnVUZmdjFyam91M0dyUFFOTkJqSGNtMWdxOXBYK3llbVdEaTROM0RVd0lWb2ZqRHAyWGlSdGJid0R1L2I2OE1xMHZnekFzNU52Zk1TbnQycWhxZlBacTByWEFORTFyOVZKb3N2N3Y2V3VCRGFPbG9IeXQ2MEladkp5bExOL2dFbVAxZnVCdGhsMGYxYm9RV1BxQjcvTjZMTDR5d3ltYU5xMFF2QmF2U09YTkRFQUJNYXMyUzFXaGxTR3Bnek1EUzRIdEpDdzVDUE0vQUNmZlpVRVUrb1JyQjMxREI1N3FXdlhNNjI4VlFFdUVIZzNhbXc5M2orclJhQS93K3ZoaDNDL0JOVW03bzJIYVpCUFg1d2wwTWswMCtqMGwyNTNSZ0lPM3l4QTBPSTBxNU1sSWRGRzZ6KzFDUU83TTYrNit0Q3lhZy9aRmJ0WERXMDFhYmowdWpNZng2RFdIZk9zVndtdDBZYklRc3E3RVA0ZU9wdERYeWVJOUk2NE11RGJXRGVvdmJGdXc0bERpdjRBdy9USzdwYml2YUxiYlZKcUEzYXBVLzRzSUd5Tld4YjR2MEJzV0h5RDBxaEJMRkVzUHBFMHFscWw5OHB4UkFFTGF6VFplSkVRVUZ4UkZ0V3FQdGJkUXFPUjVTLzlNdGNWNVNvVWJQQUYwSUFvTHFOVkRsOHJac1pTZE03eDlvUytHbXBnd3J4Q2o4WWhnOGcydG1hdE01TkxyWEI1V3ZVeW55T3psMGw3WjVMSjlDMjV1SlVXQnlaeVFUKy96dERjWDdNTzA3SmQ0ZGl0UHhERDZ3NjlqOU1jVmxmZnRJRWxwQTNBQjVIVlZDd1BrLzY1ckRiV1ZJKzRoVzBIdTI2MkRIeG1RTjBqaVpRZVYxNDhLNm1pdXhmVTUvN2RBK1c1d1RmdFdWcHlYUGFVY0tTcmJsSmhZRGtuMmlEUXl6c29DV2h1WmZXcWp1dVIwcVNhSVBzQURwcHFnSVVVdEFjYTBRcG9sdmhzRHJjd0VDOXBmemJEcmxyVlp2SG9GTmJDcnlhNklYbXBjWERKL2txK3p3akkyeStRUDJNTWZPS1dXMitoQXhIZG83djZwb2g2ZEwvYkcyUTRrOUpYQVdqQjFuVFNGT2Z1QkVRNmpzMnVYTXBybnhaUGhZU0ZKUlVGQVFsdU0zSCsvN3VwVFBTSEhCUHNqOE8zb1RkTVhYQmRuOWZCR0tQUUE3UmE4c083WVZ4cmJKS1JHOFhmZXdsL0JMUmQyZHdBN25PK29WR2tiN2ZvUk5abUxZYk52Z1pIUllaTS9rUzZKY2JkbXlyUkQ5aXpKTXEyaUlhUC9IQnVGamlxc2U1OVVWMTYxbmt4Vk04MDhvZ3hqUjM2WE5Sa0k4Z0EvamkvelRyTXZ3VlA3d1d5Wm5aVXMzMlVBS3pIYmZMd3RHdjJ5bC8rNzNtRzI3RUlkMGVGdEYrdGNxTE1JNUtPZStqQjZndVNPMllFVFJJYTBkajRLSEJiSHZ2NXVCa0sxd3RXR2wrOTF2SitTUkpUVE5EMUVhRUp4T0FZK1daVDczVDR4bFpFbFJCMGMxMFdwajRjZ3o3YkpPUmV1M3JNclRnQjZPaWNDY1BaMGtOL3RYeTlyRExDUkFVYmhGNE5vSzRGRnJQUGhpTFRMZ3liZTNuWkZMekM0THFCeGV2bTNMZTBOMFMxSm5iOUg1cVlKQ0NQcExldjNsT0ZtR29xR3NrRnBQRTgza0Evc1JxSUV5S2NuckhhazdIUXp6NjN1ZUJmL1FtSEdCT1lMd0JJY1Y2aTNaQXQwTXJkNGszall6aGdLSXEvSklqdkwzUjlzOHdaT3RFNzEyOHliUi8vVGlUclV1OXFEVGZBaDkrMlBHQkg1VThNZkJsM3BtMVpjcFQ4WXloVkxlS0dZWlZKWnVPQS9OVnNkTFJDYzRzOGJFRVdPL3duenB4WnV5TnRHNWVuNWI4YUhTcTNTWHN3dXgxK2owQmNFUkFsVnRXWDdKMi9zN3J1Ti8wTGhTWGVqRnZnVGlCWEJCaDZqaXlPaUNkZGVKSTR6K2lxWm03MjNZd09QZXJVZmIxenhMeC81b0kxZ2p1WEdHbFNkc2MzL3NmWThIRGw5eHlBVm5OOVhMZisxbm9lZFkwcmlNdGgxMndkN0o5L1BYTzRmTnNERklJVWdYSm9LU0J4Ky9leGJ4MUk4WFhmRTloajZOMGhJejRCd1R5cENPUnFvTUdwWERWUnVIYzdMcDdJbkZHNGJPOER5ckdyN0xER1BjZXZ5MHc5T1JGaUNlOTZaSG5xdWZsY3oxUUoxZnZzRXBXc08wYzVYUzdZaHJuR1lGMllhTHN1RFk4ODJxcGlQVEJ0Y1N0bys0QUFDa2sweElCaXZWWVJMNmRFNUxDbkl0K1l2S0huY0MrUDRMaTBOc2hQbk95NVUrL3NpVm95UjJ0MXhxZFFDelBhWHZ6emZRREc5VXZRQ0pWYitSdVBQc3NuakRzMlJDN1orQmNOQ0gzOEJUVTNwTis3bUY2Y0JlbW9TalorSEpWaXF0aE5YZGdza1lyZk9kUm5BcVQ3WTFUQVNINHhVODkwNUlvVzFqWEdZUkxLTXRXRGJLM0VzcHRSNUpraGpNcTBKR09oTjV1M0FySVF2dncvSW8rT3pnRVA0MUtKcDdwb3U2ME9Jak5VNmFvNDkzVlloYTdEOE5RM3BVZThtNC9vS1NPNERCVVVJSUxxM0xGOUd1KzF1RE9CTHFKTjZRcHhrNUdPK1d6ZTljWXVJZm9oUm01T2tLUUtj",
+   "key": "var _0xc51e=[\"\",\"split\",\"0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ+/\",\"slice\",\"indexOf\",\"\",\"\",\".\",\"pow\",\"reduce\",\"reverse\",\"0\"];function _0xe10c(d,e,f){var g=_0xc51e[2][_0xc51e[1]](_0xc51e[0]);var h=g[_0xc51e[3]](0,e);var i=g[_0xc51e[3]](0,f);var j=d[_0xc51e[1]](_0xc51e[0])[_0xc51e[10]]()[_0xc51e[9]](function(a,b,c){if(h[_0xc51e[4]](b)!==-1)return a+=h[_0xc51e[4]](b)*(Math[_0xc51e[8]](e,c))},0);var k=_0xc51e[0];while(j>0){k=i[j%f]+k;j=(j-(j%f))/f}return k||_0xc51e[11]}eval(function(h,u,n,t,e,r){r=\"\";for(var i=0,len=h.length;i<len;i++){var s=\"\";while(h[i]!==n[e]){s+=h[i];i++}for(var j=0;j<n.length;j++)s=s.replace(new RegExp(n[j],\"g\"),j);r+=String.fromCharCode(_0xe10c(s,e,10)-t)}return decodeURIComponent(escape(r))}(\"CCZZCuCCCQZuCCCZCuCCQZQuCCCZZuCCZZCuZQZQuCCZQQuZCQQuZCZQuZCZZuZCQQuZCQZuZCCQuZCCQuZQZZuZCQCuZCZQuZCQQuZCCQuZCQQuZCCZuZCQQuZCQZuZCCQuZCQQuZCZQuZCZCuZCQZuZZCQuCZCQuCCQCZuZCQZuZQZZuCCCQCuCCZCQuCZCQu\",19,\"QCZuGAnBY\",14,3,26))",
+   "id": "p179134402714161341783"
+  },
+  "extra": [],
+  "msg": "获取成功",
+  "status": 1
+ },
+ "baseInfo": {
+  "company_id": "CO000000U1",
+  "logo": "https://static.simuwang.com/Uploads/foreign/logopic/20200827/thumb_d3fc37f7eb318fd2ba531802a8d42af0.jpg",
+  "company_name": "瑞达期货股份有限公司",
+  "company_short_name": "瑞达期货",
+  "register_number": null,
+  "company_asset_size": "--",
+  "company_type": 11,
+  "registered_capital": "47693.343000",
+  "establish_date": "1993-03-24",
+  "register_status": 0,
+  "cancel_type": null,
+  "company_profile": "公司主营业务包括商品期货经纪、金融期货经纪、资产管理和期货投资咨询业务，通过全资子公司瑞达新控开展风险管理服务业务，通过全资境外子公司瑞达国际开展境外期货业务。公司是大商所、郑商所、上期所的会员及中金所的交易结算会员，上海国际能源交易中心会员，是全国第三家、福建省首家获得金融期货经纪业务资格的期货公司，也是全国首批取得中金所会员资格的十家期货公司之一。经过多年的市场化经营，公司已形成“立足福建、面向全国”的发展布局。截至2019年8月5日，公司已设立了40家分支机构，网点布局基本覆盖了全国主要经济省份和地区，现有营业网点数量位居行业前列，渠道优势较为明显。公司在行业内具有一定的竞争优势，各项指标排名位于行业前列。根据中期协公布的期货公司分类评价结果，公司2016年分类评价结果均为A类A级，公司2017年分类评价结果为A类AA级，公司2018年分类评价结果为A类A级。<br/>",
+  "base_currency_crc": 1,
+  "company_english_name": "Ruida Futures Co.,Ltd",
+  "company_address": "福建省厦门市思明区桃园路18号26-29层",
+  "company_address2": "福建省厦门市思明区桃园路18号26-29层",
+  "employee_cnts": 425,
+  "fund_practitioners_count": null,
+  "nature_business_type": 3,
+  "business_type": "资产管理业务",
+  "has_consulting_qualification": null,
+  "register_date": null,
+  "organization_number": "20193480-3",
+  "paid_capital": null,
+  "capital_paid_rate": null,
+  "credit_code": "91350000201934803B",
+  "company_class": -1,
+  "key_figure_id": "PL00002R3G",
+  "key_figure_name": "林志斌",
+  "amac_link": "",
+  "cnt": 64,
+  "registered_city": "厦门",
+  "city": "厦门",
+  "rating_1y": 4,
+  "total_fund_nv": null,
+  "company_class_text": "其他",
+  "company_asset_size_text": "--",
+  "core_strategy": [],
+  "risk_warning": "--",
+  "ret_1y": "--",
+  "ret_incep": "--",
+  "ret_incep_a": "--",
+  "ret_ytd": "--",
+  "is_link": 0,
+  "is_direct_sale_config": 0,
+  "is_super": 0,
+  "super_mode": 0,
+  "link_manager_list": [],
+  "link_config": [],
+  "manage_fund_list": [],
+  "is_both": 0,
+  "public_opinion_risk": "",
+  "has_onsale_fund": 1,
+  "xcx_share_image": "",
+  "xcx_share_text": "",
+  "delegateList": [
+   {
+    "fund_id": "HF00005BRD",
+    "fund_short_name": "瑞达期货-瑞智无忧共赢7号",
+    "raise_type": 1,
+    "strategy_id": 10030103,
+    "strategy": "主观多策略",
+    "first_strategy_id": 1003,
+    "second_strategy_id": 100301,
+    "third_strategy_id": 10030103,
+    "inception_date": "2019-01-31",
+    "price_date": "2026-09-30",
+    "special_tips": null,
+    "is_link_set": 0,
+    "primary_benchmark_id": "IN0000008S",
+    "performance_start_date": null,
+    "is_show_index": 1,
+    "is_wealth": 1,
+    "subscription_fee_conf": "100",
+    "is_nav_missing": 0
+   }
+  ],
+  "integrityList": {
+   "integrity_list": [],
+   "integrity_string": ""
+  }
+ },
+ "profile_raw": {
+  "data": {
+   "company_profile": "公司主营业务包括商品期货经纪、金融期货经纪、资产管理和期货投资咨询业务，通过全资子公司瑞达新控开展风险管理服务业务，通过全资境外子公司瑞达国际开展境外期货业务。公司是大商所、郑商所、上期所的会员及中金所的交易结算会员，上海国际能源交易中心会员，是全国第三家、福建省首家获得金融期货经纪业务资格的期货公司，也是全国首批取得中金所会员资格的十家期货公司之一。经过多年的市场化经营，公司已形成“立足福建、面向全国”的发展布局。截至2019年8月5日，公司已设立了40家分支机构，网点布局基本覆盖了全国主要经济省份和地区，现有营业网点数量位居行业前列，渠道优势较为明显。公司在行业内具有一定的竞争优势，各项指标排名位于行业前列。根据中期协公布的期货公司分类评价结果，公司2016年分类评价结果均为A类A级，公司2017年分类评价结果为A类AA级，公司2018年分类评价结果为A类A级。<br/>",
+   "company_name": "瑞达期货股份有限公司",
+   "company_short_name": "瑞达期货",
+   "establish_date": "1993-03-24",
+   "registered_capital": "47693.343000",
+   "is_member": 1,
+   "member_type": 3,
+   "join_date": "2018-05-02",
+   "philosopy": "    勤奋  敬业  诚信  专业<br/>",
+   "base_currency_crc": 1,
+   "company_type": 11,
+   "manager_list": [
+    [
+     "PL00002R3G",
+     "林志斌"
+    ]
+   ],
+   "capital_paid": null,
+   "honer_list": [
+    "2019-证券日报-2019年中国证券市场金骏马奖-财富管理先锋奖",
+    "2019-和讯网-2019年和讯网第十七届中国财经风云榜金融峰会-期货业扶贫奖",
+    "2019-证券之星-2019年证券之星资本力量-卓越创新期货公司奖",
+    "2018-期货日报-第十二届全国期货实盘交易大赛-优秀资产管理奖冠军 、第二、三、五名",
+    "2017-期货日报-第十一届全国期货实盘交易大赛-优秀资产管理奖冠军、第四名、第五名、第九名",
+    "2017-证券时报-中国财富管理机构君鼎奖-优秀资管品牌君鼎奖",
+    "2017-和讯网 -第十五届中国财经风云榜-2017年度金牌资产管理奖",
+    "2015-证券时报-第九届全国实盘交易大赛-资管管理组 冠亚军"
+   ],
+   "delegate": [
+    {
+     "fund_id": "HF00005BRD",
+     "fund_short_name": "瑞达期货-瑞智无忧共赢7号",
+     "raise_type": 1,
+     "strategy_id": 10030103,
+     "strategy": "主观多策略",
+     "first_strategy_id": 1003,
+     "second_strategy_id": 100301,
+     "third_strategy_id": 10030103,
+     "inception_date": "2019-01-31",
+     "price_date": "2026-09-30",
+     "special_tips": null,
+     "is_link_set": 0,
+     "primary_benchmark_id": "IN0000008S",
+     "performance_start_date": null,
+     "is_show_index": 1,
+     "is_wealth": 1,
+     "subscription_fee_conf": "100",
+     "is_nav_missing": 0
+    }
+   ]
+  },
+  "extra": [],
+  "msg": "获取成功",
+  "status": 1
+ },
+ "profile": {
+  "company_profile": "公司主营业务包括商品期货经纪、金融期货经纪、资产管理和期货投资咨询业务，通过全资子公司瑞达新控开展风险管理服务业务，通过全资境外子公司瑞达国际开展境外期货业务。公司是大商所、郑商所、上期所的会员及中金所的交易结算会员，上海国际能源交易中心会员，是全国第三家、福建省首家获得金融期货经纪业务资格的期货公司，也是全国首批取得中金所会员资格的十家期货公司之一。经过多年的市场化经营，公司已形成“立足福建、面向全国”的发展布局。截至2019年8月5日，公司已设立了40家分支机构，网点布局基本覆盖了全国主要经济省份和地区，现有营业网点数量位居行业前列，渠道优势较为明显。公司在行业内具有一定的竞争优势，各项指标排名位于行业前列。根据中期协公布的期货公司分类评价结果，公司2016年分类评价结果均为A类A级，公司2017年分类评价结果为A类AA级，公司2018年分类评价结果为A类A级。<br/>",
+  "company_name": "瑞达期货股份有限公司",
+  "company_short_name": "瑞达期货",
+  "establish_date": "1993-03-24",
+  "registered_capital": "47693.343000",
+  "is_member": 1,
+  "member_type": 3,
+  "join_date": "2018-05-02",
+  "philosopy": "    勤奋  敬业  诚信  专业<br/>",
+  "base_currency_crc": 1,
+  "company_type": 11,
+  "manager_list": [
+   [
+    "PL00002R3G",
+    "林志斌"
+   ]
+  ],
+  "capital_paid": null,
+  "honer_list": [
+   "2019-证券日报-2019年中国证券市场金骏马奖-财富管理先锋奖",
+   "2019-和讯网-2019年和讯网第十七届中国财经风云榜金融峰会-期货业扶贫奖",
+   "2019-证券之星-2019年证券之星资本力量-卓越创新期货公司奖",
+   "2018-期货日报-第十二届全国期货实盘交易大赛-优秀资产管理奖冠军 、第二、三、五名",
+   "2017-期货日报-第十一届全国期货实盘交易大赛-优秀资产管理奖冠军、第四名、第五名、第九名",
+   "2017-证券时报-中国财富管理机构君鼎奖-优秀资管品牌君鼎奖",
+   "2017-和讯网 -第十五届中国财经风云榜-2017年度金牌资产管理奖",
+   "2015-证券时报-第九届全国实盘交易大赛-资管管理组 冠亚军"
+  ],
+  "delegate": [
+   {
+    "fund_id": "HF00005BRD",
+    "fund_short_name": "瑞达期货-瑞智无忧共赢7号",
+    "raise_type": 1,
+    "strategy_id": 10030103,
+    "strategy": "主观多策略",
+    "first_strategy_id": 1003,
+    "second_strategy_id": 100301,
+    "third_strategy_id": 10030103,
+    "inception_date": "2019-01-31",
+    "price_date": "2026-09-30",
+    "special_tips": null,
+    "is_link_set": 0,
+    "primary_benchmark_id": "IN0000008S",
+    "performance_start_date": null,
+    "is_show_index": 1,
+    "is_wealth": 1,
+    "subscription_fee_conf": "100",
+    "is_nav_missing": 0
+   }
+  ]
+ }
+}

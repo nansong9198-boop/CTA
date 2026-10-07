@@ -8,6 +8,12 @@
 - 季度频率, 年化波动=季度std*2, 夏普=(年化收益-RF)/年化波动, RF=1.5%
 - 最大回撤基于季度末累计净值(季度内回撤不可见, 实际值会更大)
 - 新高占比 = 季末净值创历史新高的季度数 / 总季度数
+- data_list 为最新季度在前(倒序), 已反转还原; 序列覆盖至当前季度2026Q3
+  (与排排网净值逐季核对确认, 修复前按正序对齐导致回撤形态/新高/危机阿尔法/相关性全部错位)
+- 分红口径风险: 蛋卷季度序列与排排网复权净值存在口径/份额类别不一致的产品
+  (远澜银杏1号 37季0匹配、均成CTA增强25号1期 0/13、因诺CTA2号B 仅3/16匹配,
+  排排网detail中无显式分红/复权字段, 疑为分红再投资处理或份额类别差异),
+  季度口径仅作辅助参考, 最终结论以排排网周频口径(simuwang_weekly_report.md)为准
 """
 import csv
 import json
@@ -144,10 +150,12 @@ def _reasons(r):
 def generate_report(pool, excluded):
     """每次评估自动生成报告: 每只产品的适配/排除理由(适配度框架, 不作买卖建议)"""
     L = ["# CTA 私募适配度评估报告",
-         f"> 生成时间: {date.today()} | 数据窗口: 截至2026Q2 | 评分池 {len(pool)} 只 / 排除 {len(excluded)} 只",
+         f"> 生成时间: {date.today()} | 数据窗口: 截至2026Q3 | 评分池 {len(pool)} 只 / 排除 {len(excluded)} 只",
          "> 方法见 cta_evaluation_plan.md（v3: 门槛过滤 + 指标加权 + 短样本可靠性折扣）",
          "> 分层为适配度评级（与投资者画像的匹配程度），不构成投资建议",
-         "> 注意: 最终首选以排排网同窗口高频验证为准（量派CTA七号C，见方案文档第五节）", ""]
+         "> 注意: 蛋卷季度序列存在分红口径/份额类别不一致风险（远澜银杏1号、均成CTA增强25号1期、"
+         "因诺CTA2号B 与排排网净值对不上），季度口径仅作辅助，以排排网周频口径为准"
+         "（量派CTA七号C，见方案文档第五节与 simuwang_weekly_report.md）", ""]
     tiers = [("高适配（核心候选）", 0.70, 99), ("中适配（备选）", 0.62, 0.70),
              ("观察", 0.50, 0.62), ("低适配", -1, 0.50)]
     # F3整改: 高适配层需同时过绝对阈值线, 避免纯相对排名失真
@@ -234,13 +242,13 @@ def main():
     # data/pm_tenure.json 格式: {"代码": {"pm": "姓名", "pm_start": "YYYY-MM-DD"}}
     pm_tenure = json.load(open("data/pm_tenure.json", encoding="utf-8")) \
         if os.path.exists("data/pm_tenure.json") else {}
-    # 危机季度: 沪深300/中证500/创业板指 任一个当季下跌
+    # 危机季度: 沪深300/中证500/中证1000/创业板指 任一个当季跌超-3%
     crisis_set = {k for k, v in hs300.items() if v < -0.03}
     for idx in multi.values():
         crisis_set |= {k for k, v in idx.items() if v < -0.03}
-    crisis_set = {k for k in crisis_set if k <= "2026Q2"}
-    print(f"危机季度(三指数并集): {len(crisis_set)} 个")
-    all_q = [k for k in hs300 if k <= "2026Q2"]  # 基金季度序列末项=2026Q2
+    crisis_set = {k for k in crisis_set if k <= "2026Q3"}
+    print(f"危机季度(四指数并集): {len(crisis_set)} 个")
+    all_q = [k for k in hs300 if k <= "2026Q3"]  # 基金季度序列末项=2026Q3
     today = date.today()
     rows = []
     excluded = []  # (名称, 代码, 理由)
@@ -278,7 +286,7 @@ def main():
             print(f"[剔除] {f['fund_name']}: {reason}")
             excluded.append((f["fund_name"], f["symbol"], reason))
             continue
-        rets = [float(x["percent"]) for x in dl]
+        rets = [float(x["percent"]) for x in dl][::-1]  # data_list为倒序(最新季度在前), 反转还原
         qkeys = all_q[-len(rets):]
         # 任职区间过滤: 有PM任职起点时, 仅统计其任职后的季度
         ten = pm_tenure.get(f["symbol"])
