@@ -29,6 +29,7 @@ CORR_LIMIT = 0.30  # 与股票指数最大相关性≥0.30 视为股票敞口过
 MIN_CRISIS_N = 4   # 危机季度样本门槛: 不足则危机指标按中性0.5处理
 MGR_MIN_AGE = 5    # 管理人成立不足5年剔除
 MGR_MIN_AUM = 10   # 管理规模不足10亿剔除(亿元)
+MAX_MIN_INV = 200  # 起购金额上限(万元, 2026-10-07用户拍板; 量派CTA七号C 500万起购触发此约束)
 
 
 def load_danjuan_symbols():
@@ -225,7 +226,17 @@ def extract_fees(detail):
         redeem_fee=fee_tiers(fl.get("redeem")),
         subscription_fee=fee_tiers(fl.get("subscription")),
         lock_period=lock.split("，")[0] if lock else "",
+        min_inv_text=ei.get("min_investment_share_text") or "",
     )
+
+
+def parse_min_inv(detail):
+    """elementInfo.min_investment_share -> 万元(float); '认证可见'/空/非数值 -> None(待确认)"""
+    v = (detail.get("elementInfo") or {}).get("min_investment_share")
+    try:
+        return float(v)
+    except (TypeError, ValueError):
+        return None
 
 
 def _reasons(r):
@@ -274,6 +285,8 @@ def generate_report(pool, excluded, siblings_note):
          "> 分层为适配度评级（与投资者画像的匹配程度），不构成投资建议",
          "> **注意: 本口径为周/日频净值（统一重采样为周频，年化按 n/52），回撤为真实回撤，"
          "与 danjuan_cta_report.md 的季度口径不可直接比分**",
+         "> 预算约束（2026-10-07 用户拍板）: 起购金额≤200万（单只预算100万、最高接受200万起购）；"
+         "量派CTA七号C/量派CTA八号C（500万起购）、瑞达瑞智进取共赢5号（300万起购）因此剔除",
          "> " + siblings_note, ""]
     tiers = [("高适配（核心候选）", 0.70, 99), ("中适配（备选）", 0.62, 0.70),
              ("观察", 0.50, 0.62), ("低适配", -1, 0.50)]
@@ -327,7 +340,10 @@ def generate_report(pool, excluded, siblings_note):
                 L.append(f"- 费率: 管理费{fees.get('mgmt_fee') or '-'} / 托管{fees.get('bank_fee') or '-'}"
                          f"+外包{fees.get('outsourcing_fee') or '-'} / 业绩报酬{fees.get('perf_fee') or '-'} / "
                          f"申购{fees.get('purchase_fee') or '-'} / 认购{fees.get('subscription_fee') or '-'} / "
-                         f"赎回{fees.get('redeem_fee') or '-'} / 锁定期{fees.get('lock_period') or '-'}")
+                         f"赎回{fees.get('redeem_fee') or '-'} / 锁定期{fees.get('lock_period') or '-'} / "
+                         f"起购{fees.get('min_inv_text') or '-'}")
+            if r.get("min_inv_pending"):
+                L.append("- ⚠ 起购金额待确认（排排网显示'认证可见'或空缺，申购前需向管理人/销售机构核实）")
             if r.get("_demoted"):
                 L.append(f"- ⚠ 得分达高适配线但未过绝对阈值（{r['_demoted']}），列入备选")
             L.append("- 适配理由: " + "；".join(pros))
@@ -402,6 +418,10 @@ def main():
         detail = d.get("detail") or {}
         ci = detail.get("companyInfo") or {}
         symbol = match_symbol(name, name2symbol)
+        if not symbol:
+            # 非蛋卷CTA货架产品(如用户股票类持仓国源/龙旗), 不属于本评估池
+            print(f"[跳过] {name}: 非蛋卷CTA货架产品，不参与CTA评估")
+            continue
         # 现任基金经理任职信息(无论净值是否可用都提取)
         cur_mgrs = [m for m in (detail.get("relationManager") or [])
                     if m.get("management_end_date") is None]
@@ -436,6 +456,15 @@ def main():
                                  f"管理人门槛: {mgr_name} 管理规模约{mi['aum_yi']}亿, "
                                  f"低于{MGR_MIN_AUM}亿, 抗风险能力与运营稳定性不足"))
                 continue
+        # 起购金额门槛(2026-10-07用户拍板): >200万剔除; 认证可见/空缺保留但标注待确认
+        min_inv = parse_min_inv(detail)
+        if min_inv is not None and min_inv > MAX_MIN_INV:
+            excluded.append((name, symbol,
+                             f"起购金额门槛: {min_inv:.0f}万起购 > {MAX_MIN_INV}万预算约束"
+                             f"（2026-10-07用户拍板，单只预算100万、最高接受200万起购）"))
+            print(f"[剔除] {name}: 起购{min_inv:.0f}万超预算")
+            continue
+        min_inv_pending = min_inv is None
         # 统一重采样为周频(每周最后一个净值点)
         weekly = resample_weekly(raw_ns)
         # 任职区间过滤: 仅统计现任基金经理任职以来的净值
@@ -454,6 +483,7 @@ def main():
             continue
         m.update(name=name, symbol=symbol, pm=pm, pm_start=pm_start,
                  mgr=mgr_name, fees=extract_fees(detail),
+                 min_inv_pending=min_inv_pending,
                  freq=resample_note(raw_ns),
                  strategy=(summary.get(name) or {}).get("策略", ""))
         if mi:
