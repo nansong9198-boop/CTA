@@ -532,6 +532,7 @@ def generate_report(pool, gated, excluded, idx_wk):
             L.append(f"- **{name}**：{reason}")
         L.append("")
     L += portfolio_section(pool, gated)
+    L += appendix_peer_section()
     L.append("---")
     L.append("> 免责声明： 本报告仅作信息整理与适配度分析，不构成任何投资建议、要约或收益承诺。"
              "私募证券基金过往业绩不预示未来表现，投资者应自行承担投资风险。"
@@ -616,6 +617,148 @@ def longqi_homogeneity(by, gated):
         return ("红利科技轮动平衡5号净值被门控，无法计算两只龙旗的周频相关性；"
                 "待数据可得后复算（>0.9 警告'重复持有同一赌注'）")
     return "数据不足"
+
+
+def appendix_peer_section():
+    """附录: 国源水下期(2021-12~2024-04)的市场环境与同业对比。
+
+    市场环境用 data/idx_daily.json 本地指数日K; 同业用 data/simuwang/peer/*.json
+    (fetch_peer_equity.py 抓取, 不存在则跳过本附录)。所有数字均由本地数据计算。
+    """
+    peer_dir = ROOT / "data" / "simuwang" / "peer"
+    peers = sorted(peer_dir.glob("*.json")) if peer_dir.exists() else []
+    if not peers:
+        return []
+    W0, W1 = "2021-12-01", "2024-04-30"
+    idx_daily = json.loads((ROOT / "data" / "idx_daily.json").read_text(encoding="utf-8"))
+
+    def window_stats(series):
+        """series: [(date_str, nav)] -> 窗口区间收益/窗口内最大跌幅(窗口起点为峰值起点)/
+        谷底日期/2024-04前是否创全历史新高(全历史高水位)/水下天数(高水位日期->修复或窗口末)"""
+        pts = sorted((d, v) for d, v in series)
+        pre = [(d, v) for d, v in pts if d < W0]
+        win = [(d, v) for d, v in pts if W0 <= d <= W1]
+        if not pre or not win:
+            return None
+        interval_ret = win[-1][1] / pre[-1][1] - 1
+        peak, mdd, trough_d = pre[-1][1], 0.0, None
+        for d, v in win:
+            if v > peak:
+                peak = v
+            dd = v / peak - 1
+            if dd < mdd:
+                mdd, trough_d = dd, d
+        # 全历史高水位: 创新高判定与水下天数(取窗口内最长水下段, 修复后重新计时)
+        hwm_d, hwm = pts[0]
+        uw_start, uw_best = None, (0, None, None)  # (天数, 峰值日, 修复日)
+        for d, v in pts:
+            if d > W1:
+                break
+            if v >= hwm:
+                if uw_start is not None:
+                    days = (date.fromisoformat(d) - date.fromisoformat(uw_start)).days
+                    if days > uw_best[0]:
+                        uw_best = (days, uw_start, d)
+                    uw_start = None
+                hwm_d, hwm = d, v
+            elif uw_start is None and d >= W0:
+                uw_start = hwm_d
+        if uw_start is not None:  # 窗口末仍未修复
+            days = (date.fromisoformat(W1) - date.fromisoformat(uw_start)).days
+            if days > uw_best[0]:
+                uw_best = (days, uw_start, None)
+        uw_days, _uw_from, repair_d = uw_best
+        repaired = repair_d is not None or uw_days == 0
+        return dict(interval_ret=interval_ret, mdd=mdd, trough=trough_d,
+                    repaired=repaired, repair_d=repair_d, uw_days=uw_days)
+
+    # 国源同窗口(先算, 供标题与结论引用)
+    _, gy_ns = load_nav("国源拾金3号")
+    gy = window_stats([(str(d), v) for d, v in gy_ns])
+    L = ["## 附录：国源水下期（2021-12~2024-04）的市场环境与同业对比\n",
+         f"> 问题：国源拾金3号最长水下{gy['uw_days']}天（2021-12~2024-04）是个案还是行业现象？"
+         "全部数字由本地数据计算（指数: 新浪日K；同业: 排排网周频净值）\n",
+         "### 同期市场行情\n",
+         "| 指数 | 区间收益 | 期间最大跌幅 | 谷底日期 | 2022 | 2023 | 2024前4月 |",
+         "|---|---|---|---|---|---|---|"]
+    for key, cn in [("hs300", "沪深300"), ("zz500", "中证500"), ("zz1000", "中证1000"),
+                    ("cyb", "创业板指"), ("cndiv", "红利ETF"), ("gold518880", "黄金ETF")]:
+        daily = idx_daily.get(key)
+        if not daily:
+            continue
+        st = window_stats(list(daily.items()))
+        def yret(y0, y1):
+            p = sorted((d, c) for d, c in daily.items() if y0 <= d <= y1)
+            b = [c for d, c in sorted(daily.items()) if d < y0][-1]
+            return p[-1][1] / b - 1
+        L.append(f"| {cn} | {st['interval_ret']*100:+.1f}% | {st['mdd']*100:.1f}% | "
+                 f"{st['trough']} | {yret('2022-01-01','2022-12-31')*100:+.1f}% | "
+                 f"{yret('2023-01-01','2023-12-31')*100:+.1f}% | "
+                 f"{yret('2024-01-01','2024-04-30')*100:+.1f}% |")
+    # 行情阶段佐证数字: 2024-01 微盘股流动性危机 + 2024-02 反弹
+    def mret(key, m0, m1):
+        daily = idx_daily[key]
+        p = sorted((d, c) for d, c in daily.items() if m0 <= d <= m1)
+        b = [c for d, c in sorted(daily.items()) if d < m0][-1]
+        return p[-1][1] / b - 1
+    L += ["",
+          f"行情阶段（数据佐证）: ①2022全年下跌（沪深300 {mret('hs300','2022-01-01','2022-12-31')*100:+.1f}%，"
+          f"创业板 {mret('cyb','2022-01-01','2022-12-31')*100:+.1f}%）；"
+          f"②2023阴跌（沪深300 {mret('hs300','2023-01-01','2023-12-31')*100:+.1f}%）；"
+          f"③2024年1月微盘股流动性危机（中证1000单月 {mret('zz1000','2024-01-01','2024-01-31')*100:+.1f}%，"
+          f"中证500 {mret('zz500','2024-01-01','2024-01-31')*100:+.1f}%）；"
+          f"④2024年2月国家队入场后反弹（中证1000 {mret('zz1000','2024-02-01','2024-02-29')*100:+.1f}%，"
+          f"沪深300 {mret('hs300','2024-02-01','2024-02-29')*100:+.1f}%）→ 4月新国九条。"
+          f"同期避险资产大涨（黄金ETF区间 {window_stats(list(idx_daily['gold518880'].items()))['interval_ret']*100:+.1f}%），"
+          "红利资产为正——国源的重仓方向（黄金+低估值）正是该窗口的强势资产，但其股票部分仍受大盘拖累",
+          ""]
+    # 国源同窗口(已在上方计算)
+    L += ["### 同业对比（2021-12-01 ~ 2024-04-30 窗口）\n",
+          "| 产品 | 管理人 | 区间收益 | 窗口最大回撤 | 谷底 | 2024-04前修复创新高 | 水下天数 |",
+          "|---|---|---|---|---|---|---|",
+          f"| **国源拾金3号** | 国源信达 | {gy['interval_ret']*100:+.1f}% | {gy['mdd']*100:.1f}% | "
+          f"{gy['trough']} | {'是（' + str(gy['repair_d']) + '）' if gy['repaired'] else '否'} | {gy['uw_days']} |"]
+    rows = []
+    for p in peers:
+        try:
+            d = json.loads(p.read_text(encoding="utf-8"))
+        except Exception:
+            continue
+        ns = [(x["date"], float(x["cum_nav"])) for x in (d.get("nav_series") or [])
+              if x.get("cum_nav") is not None]
+        st = window_stats(ns)
+        if not st:
+            continue
+        bi = (d.get("detail") or {}).get("baseInfo") or {}
+        comp = ((d.get("detail") or {}).get("companyInfo") or {}).get("company_short_name", "")
+        rows.append((p.stem, comp, st))
+    for name, comp, st in rows:
+        L.append(f"| {name} | {comp} | {st['interval_ret']*100:+.1f}% | {st['mdd']*100:.1f}% | "
+                 f"{st['trough']} | {'是（' + str(st['repair_d']) + '）' if st['repaired'] else '否'} "
+                 f"| {st['uw_days']} |")
+    L.append("")
+    # 结论
+    if rows:
+        mdds = [st["mdd"] for _, _, st in rows]
+        uws = [st["uw_days"] for _, _, st in rows]
+        n_rep = sum(1 for _, _, st in rows if st["repaired"])
+        med_mdd = statistics.median(mdds)
+        med_uw = statistics.median(uws)
+        L += [f"### 结论：国源水下{gy['uw_days']}天是个案还是行业现象\n",
+              f"- 同业（{len(rows)}只有数据）窗口最大回撤中位数 {med_mdd*100:.1f}%，"
+              f"水下天数中位数 {med_uw:.0f} 天，2024-04前修复创新高 {n_rep}/{len(rows)}；"
+              f"国源窗口最大回撤 {gy['mdd']*100:.1f}%，水下 {gy['uw_days']} 天，"
+              f"{'已于' + str(gy['repair_d']) + '修复' if gy['repaired'] else '窗口内未修复'}",
+              "- " + ("同业普遍回撤更深、修复更晚 → 国源的防守在同业中偏上，水下长主要是行业贝塔问题"
+                      if gy["mdd"] > med_mdd and gy["uw_days"] <= med_uw else
+                      "同业回撤与国源相当但修复时间相近/更晚 → 水下长是行业贝塔与个股选择的混合"
+                      if gy["uw_days"] <= med_uw else
+                      "同业明显更早修复 → 国源水下长更多是个体问题"),
+              f"- 与用户12个月水下容忍度（软指标）的关系: {gy['uw_days']}天≈{gy['uw_days']//30}个月，远超容忍度；"
+              f"即便属行业现象，该窗口主观股多普遍水下{med_uw:.0f}天量级，"
+              "说明'主观股多+长水下'是此类资产的系统性特征，配置比例应据此控制",
+              ""]
+    return L
 
 
 if __name__ == "__main__":
