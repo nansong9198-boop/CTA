@@ -134,6 +134,10 @@ def _reasons(r):
         cons.append(f"夏普{r['sharpe']:.2f}偏低")
     if "c_sharpe" in r and r["sharpe"] > 0 and r["c_sharpe"] < r["sharpe"] * 0.7:
         cons.append("近2年收益明显钝化（同周期窗口夏普低于全历史）")
+    if r.get("mgr_unverified") or (r.get("mgr") and r.get("mgr_aum") is None):
+        cons.append(f"管理人（{r.get('mgr', '?')}）成立年份/规模未核实，需补协会备案数据")
+    if r.get("mgr_note"):
+        cons.append(f"管理人合规关注: {r['mgr_note']}")
     return pros or ["各项指标均居中游"], cons
 
 
@@ -179,6 +183,14 @@ def generate_report(pool, excluded):
                      f"新高{r['new_high']*100:.0f}% / 危机均季{r.get('crisis_avg', float('nan'))*100:+.1f}% / "
                      f"危机胜率{r.get('crisis_win', float('nan'))*100:.0f}% / 最长水下{r['uw_max']}季 / "
                      f"与沪深300相关性{r.get('mkt_corr', 0):+.2f}")
+            if r.get("mgr"):
+                mgr_desc = r["mgr"]
+                extra = []
+                if r.get("mgr_found"):
+                    extra.append(f"{r['mgr_found']}年成立")
+                if r.get("mgr_aum_text"):
+                    extra.append(f"规模{r['mgr_aum_text']}")
+                L.append(f"- 管理人: {mgr_desc}" + (f"（{'，'.join(extra)}）" if extra else ""))
             if r.get("pm_start"):
                 L.append(f"- 指标统计区间: 现任基金经理 {r.get('pm', '?')} 任职期（{r['pm_start']} 起，{r['n']}个季度）")
             if r.get("_demoted"):
@@ -207,6 +219,17 @@ def main():
     info = {i["symbol"]: i for i in json.load(open("data/danjuan_cta_info.json", encoding="utf-8"))}
     hs300 = json.load(open("data/hs300_quarterly.json", encoding="utf-8"))
     multi = json.load(open("data/idx_quarterly_multi.json", encoding="utf-8"))
+    # 管理人(公司)层面信息: 成立年份/管理规模, 用于公司层面门槛过滤
+    # data/manager_info.json 格式: {"公司全名": {"found_year": 2014, "aum_yi": 100, "aum_text": "100亿+", "source": "URL"},
+    #   "_symbol_override": {"基金代码": "公司全名"}  # 货架 keeper 字段缺失/错误时按代码指定
+    mgr_info = {}
+    mgr_override = {}
+    if os.path.exists("data/manager_info.json"):
+        raw = json.load(open("data/manager_info.json", encoding="utf-8"))
+        mgr_override = raw.pop("_symbol_override", {})
+        mgr_info = raw
+    MGR_MIN_AGE = 5    # 管理人成立不足5年剔除
+    MGR_MIN_AUM = 10   # 管理规模不足10亿剔除(亿元); 规模未知不剔除但标记
     # 现任基金经理任职区间(who-is-the-best-manager 借鉴: 只统计在任期间业绩)
     # data/pm_tenure.json 格式: {"代码": {"pm": "姓名", "pm_start": "YYYY-MM-DD"}}
     pm_tenure = json.load(open("data/pm_tenure.json", encoding="utf-8")) \
@@ -229,6 +252,25 @@ def main():
         if kw:
             excluded.append((f["fund_name"], f["symbol"], NOT_PURE_CTA[kw]))
             continue
+        # 管理人(公司)门槛: 成立年份过短 / 规模过小 直接剔除
+        mgr_name = mgr_override.get(f["symbol"]) or (info.get(f["symbol"]) or {}).get("keeper", "")
+        mi = mgr_info.get(mgr_name)
+        if mi is None and mgr_name:
+            # 货架 keeper 字段可能截断(如"因诺（上海）资产管理有限"), 前缀匹配补全
+            k = next((k for k in mgr_info if k.startswith(mgr_name) or mgr_name.startswith(k)), None)
+            if k:
+                mgr_name, mi = k, mgr_info[k]
+        if mi:
+            if mi.get("found_year") and today.year - mi["found_year"] < MGR_MIN_AGE:
+                excluded.append((f["fund_name"], f["symbol"],
+                                 f"管理人门槛: {mgr_name} 成立于{mi['found_year']}年, "
+                                 f"不足{MGR_MIN_AGE}年, 公司存续期太短"))
+                continue
+            if mi.get("aum_yi") is not None and mi["aum_yi"] < MGR_MIN_AUM:
+                excluded.append((f["fund_name"], f["symbol"],
+                                 f"管理人门槛: {mgr_name} 管理规模约{mi['aum_yi']}亿, "
+                                 f"低于{MGR_MIN_AUM}亿, 抗风险能力与运营稳定性不足"))
+                continue
         dl = f["fund_index_info"]["data_list"]
         if dl and "percent" not in dl[0]:
             # fund_point 字段 = 新基金周度净值点, 口径不同, 剔除
@@ -259,6 +301,15 @@ def main():
         m.update(name=f["fund_name"], symbol=f["symbol"],
                  ta=f["ta_private_fund_code"],
                  summary=f["fund_summary_info"].get("first_format_value", ""))
+        m["mgr"] = mgr_name
+        if mi:
+            m["mgr_found"] = mi.get("found_year")
+            m["mgr_aum"] = mi.get("aum_yi")
+            m["mgr_aum_text"] = mi.get("aum_text", "")
+            if mi.get("note"):
+                m["mgr_note"] = mi["note"]
+        else:
+            m["mgr_unverified"] = True
         # 成立年数: 优先用接口的成立日期, 否则用季度数/4
         fd = (info.get(f["symbol"]) or {}).get("found", "")
         if fd:
