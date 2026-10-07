@@ -11,7 +11,8 @@
    "register_number": "S66679",
    "ret_incep": "",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": true
   },
   {
    "fund_id": "HF00002FIX",
@@ -21,7 +22,8 @@
    "register_number": "SR6767",
    "ret_incep": "",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF00002G1L",
@@ -31,7 +33,8 @@
    "register_number": "SR5087",
    "ret_incep": "",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF0000BN8E",
@@ -41,7 +44,8 @@
    "register_number": "",
    "ret_incep": "",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF00003HBI",
@@ -51,7 +55,8 @@
    "register_number": "ST4277",
    "ret_incep": "1.2181",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": true
   },
   {
    "fund_id": "HF000044Z8",
@@ -61,7 +66,8 @@
    "register_number": "SX9788",
    "ret_incep": "",
    "is_liquidate": true,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF00004CVN",
@@ -71,7 +77,8 @@
    "register_number": "SY0761",
    "ret_incep": "",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": true
   },
   {
    "fund_id": "HF00004IHC",
@@ -81,7 +88,8 @@
    "register_number": "SCN160",
    "ret_incep": "2.2234",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": true
   },
   {
    "fund_id": "HF00004NEP",
@@ -91,7 +99,8 @@
    "register_number": "SCL751",
    "ret_incep": "",
    "is_liquidate": true,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF00004S1P",
@@ -101,7 +110,8 @@
    "register_number": "SEA491",
    "ret_incep": "2.491851",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF0000CG0K",
@@ -111,7 +121,8 @@
    "register_number": "",
    "ret_incep": "",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF00004TR7",
@@ -121,7 +132,8 @@
    "register_number": "SEE646",
    "ret_incep": "",
    "is_liquidate": true,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF00004VDI",
@@ -131,7 +143,8 @@
    "register_number": "SCY930",
    "ret_incep": "",
    "is_liquidate": true,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF00006BZ1",
@@ -141,7 +154,8 @@
    "register_number": "",
    "ret_incep": "2.792821",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": true
   },
   {
    "fund_id": "HF000057CH",
@@ -151,7 +165,8 @@
    "register_number": "SES717",
    "ret_incep": "2.917708",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF00005B7P",
@@ -161,7 +176,8 @@
    "register_number": "SEN708",
    "ret_incep": "",
    "is_liquidate": true,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF00005CUE",
@@ -171,7 +187,8 @@
    "register_number": "SGC033",
    "ret_incep": "",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF00009183",
@@ -181,7 +198,8 @@
    "register_number": "",
    "ret_incep": "",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": true
   },
   {
    "fund_id": "HF00005FPB",
@@ -191,7 +209,8 @@
    "register_number": "SGM549",
    "ret_incep": "1.059928",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF00005G70",
@@ -201,7 +220,8 @@
    "register_number": "SGD595",
    "ret_incep": "",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": true
   },
   {
    "fund_id": "HF00005KKB",
@@ -211,7 +231,8 @@
    "register_number": "SGR918",
    "ret_incep": "",
    "is_liquidate": true,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF00005K3S",
@@ -221,7 +242,8 @@
    "register_number": "SGV070",
    "ret_incep": "",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF00005K8J",
@@ -231,7 +253,8 @@
    "register_number": "SGS795",
    "ret_incep": "",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF00005NHC",
@@ -241,7 +264,8 @@
    "register_number": "SGS401",
    "ret_incep": "",
    "is_liquidate": true,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF00005NV0",
@@ -251,7 +275,8 @@
    "register_number": "SGX407",
    "ret_incep": "",
    "is_liquidate": true,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF00005P56",
@@ -261,7 +286,8 @@
    "register_number": "SJD019",
    "ret_incep": "",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF00005TYB",
@@ -271,7 +297,8 @@
    "register_number": "SJG549",
    "ret_incep": "",
    "is_liquidate": true,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF00006BZ0",
@@ -281,7 +308,8 @@
    "register_number": "",
    "ret_incep": "",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": true
   },
   {
    "fund_id": "HF000071RV",
@@ -291,7 +319,8 @@
    "register_number": "",
    "ret_incep": "1.634951",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": true
   },
   {
    "fund_id": "HF0000656P",
@@ -301,7 +330,8 @@
    "register_number": "SLC715",
    "ret_incep": "1.641322",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF000067FO",
@@ -311,7 +341,8 @@
    "register_number": "SJX729",
    "ret_incep": "",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": true
   },
   {
    "fund_id": "HF00006AE4",
@@ -321,7 +352,8 @@
    "register_number": "SLK924",
    "ret_incep": "",
    "is_liquidate": true,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF00006GIF",
@@ -331,7 +363,8 @@
    "register_number": "SLS585",
    "ret_incep": "",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF0000A6LE",
@@ -341,7 +374,8 @@
    "register_number": "",
    "ret_incep": "",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": true
   },
   {
    "fund_id": "HF000088EM",
@@ -351,7 +385,8 @@
    "register_number": "",
    "ret_incep": "0.215047",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": true
   },
   {
    "fund_id": "HF000078SV",
@@ -361,7 +396,8 @@
    "register_number": "SNW396",
    "ret_incep": "",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF00007K5O",
@@ -371,7 +407,8 @@
    "register_number": "SSG712",
    "ret_incep": "",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF00007LBW",
@@ -381,7 +418,8 @@
    "register_number": "SSG719",
    "ret_incep": "",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF00007Q3J",
@@ -391,7 +429,8 @@
    "register_number": "SNK897",
    "ret_incep": "",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF0000ANLZ",
@@ -401,7 +440,8 @@
    "register_number": "",
    "ret_incep": "0.759524",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": true
   },
   {
    "fund_id": "HF00007SCU",
@@ -411,7 +451,8 @@
    "register_number": "SSW952",
    "ret_incep": "0.758124",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF00007P8V",
@@ -421,7 +462,8 @@
    "register_number": "SSX480",
    "ret_incep": "",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": true
   },
   {
    "fund_id": "HF00007WZ0",
@@ -431,7 +473,8 @@
    "register_number": "STD114",
    "ret_incep": "",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF00007ZQZ",
@@ -441,7 +484,8 @@
    "register_number": "STB661",
    "ret_incep": "",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF00008ZBO",
@@ -451,7 +495,8 @@
    "register_number": "",
    "ret_incep": "",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": true
   },
   {
    "fund_id": "HF00008A3K",
@@ -461,7 +506,8 @@
    "register_number": "SVH299",
    "ret_incep": "",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": true
   },
   {
    "fund_id": "HF00008YH5",
@@ -471,7 +517,8 @@
    "register_number": "SVE045",
    "ret_incep": "",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF00008ZUH",
@@ -481,7 +528,8 @@
    "register_number": "SVH452",
    "ret_incep": "",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF00008ZTL",
@@ -491,7 +539,8 @@
    "register_number": "STS456",
    "ret_incep": "",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF000090LJ",
@@ -501,7 +550,8 @@
    "register_number": "SVK353",
    "ret_incep": "",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF0000974E",
@@ -511,7 +561,8 @@
    "register_number": "SVT823",
    "ret_incep": "",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF00009CMC",
@@ -521,7 +572,8 @@
    "register_number": "STY443",
    "ret_incep": "",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF00009K48",
@@ -531,7 +583,8 @@
    "register_number": "SXF751",
    "ret_incep": "",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF0000BN8M",
@@ -541,7 +594,8 @@
    "register_number": "",
    "ret_incep": "",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF00009LF1",
@@ -551,7 +605,8 @@
    "register_number": "SXF206",
    "ret_incep": "",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF0000AH4C",
@@ -561,7 +616,8 @@
    "register_number": "SZQ316",
    "ret_incep": "",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF0000DR8S",
@@ -571,7 +627,8 @@
    "register_number": "",
    "ret_incep": "0.5472",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": true
   },
   {
    "fund_id": "HF0000AJFL",
@@ -581,7 +638,8 @@
    "register_number": "SZQ874",
    "ret_incep": "0.5158",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF0000AMD9",
@@ -591,7 +649,8 @@
    "register_number": "SZP403",
    "ret_incep": "",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF0000AMUZ",
@@ -601,7 +660,8 @@
    "register_number": "SZY712",
    "ret_incep": "",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF0000AVWX",
@@ -611,7 +671,8 @@
    "register_number": "",
    "ret_incep": "",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": true
   },
   {
    "fund_id": "HF0000BLTV",
@@ -621,7 +682,8 @@
    "register_number": "",
    "ret_incep": "0.440668",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": true
   },
   {
    "fund_id": "HF0000AYAG",
@@ -631,7 +693,8 @@
    "register_number": "SB7719",
    "ret_incep": "0.4145",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF0000BN8Q",
@@ -641,7 +704,8 @@
    "register_number": "",
    "ret_incep": "",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF0000B4XW",
@@ -651,7 +715,8 @@
    "register_number": "SAAE60",
    "ret_incep": "",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF0000B9PO",
@@ -661,7 +726,8 @@
    "register_number": "SAEX48",
    "ret_incep": "0.957304",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": true
   },
   {
    "fund_id": "HF0000BH4F",
@@ -671,7 +737,8 @@
    "register_number": "",
    "ret_incep": "0.148652",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": true
   },
   {
    "fund_id": "HF0000BH4E",
@@ -681,7 +748,8 @@
    "register_number": "SAMQ76",
    "ret_incep": "0.4249",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF0000BN8N",
@@ -691,7 +759,8 @@
    "register_number": "",
    "ret_incep": "",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF0000CPZM",
@@ -701,7 +770,8 @@
    "register_number": "",
    "ret_incep": "0.1182",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": true
   },
   {
    "fund_id": "HF0000BME4",
@@ -711,7 +781,8 @@
    "register_number": "SALJ54",
    "ret_incep": "0.1087",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF0000CKV5",
@@ -721,7 +792,8 @@
    "register_number": "",
    "ret_incep": "0.3654",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": true
   },
   {
    "fund_id": "HF0000C9PP",
@@ -731,7 +803,8 @@
    "register_number": "SARV36",
    "ret_incep": "0.3705",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF0000CHSG",
@@ -741,7 +814,8 @@
    "register_number": "",
    "ret_incep": "0.105454",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": true
   },
   {
    "fund_id": "HF0000DR8Q",
@@ -751,7 +825,8 @@
    "register_number": "",
    "ret_incep": "0.1252",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": true
   },
   {
    "fund_id": "HF0000CG2R",
@@ -761,7 +836,8 @@
    "register_number": "SAVW59",
    "ret_incep": "0.1148",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF0000CG0L",
@@ -771,7 +847,8 @@
    "register_number": "",
    "ret_incep": "0.414479",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": true
   },
   {
    "fund_id": "HF0000CGWL",
@@ -781,7 +858,8 @@
    "register_number": "SAYD30",
    "ret_incep": "",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF0000CI8T",
@@ -791,7 +869,8 @@
    "register_number": "SAYE42",
    "ret_incep": "",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF0000DWF7",
@@ -801,7 +880,8 @@
    "register_number": "",
    "ret_incep": "0.1165",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": true
   },
   {
    "fund_id": "HF0000DR8P",
@@ -811,7 +891,8 @@
    "register_number": "",
    "ret_incep": "",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": true
   },
   {
    "fund_id": "HF0000CIZI",
@@ -821,7 +902,8 @@
    "register_number": "SATX71",
    "ret_incep": "0.113",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF0000CJ7T",
@@ -831,7 +913,8 @@
    "register_number": "SATX72",
    "ret_incep": "",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF0000CLIW",
@@ -841,7 +924,8 @@
    "register_number": "SAZZ26",
    "ret_incep": "",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF0000DR8O",
@@ -851,7 +935,8 @@
    "register_number": "",
    "ret_incep": "0.2241",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": true
   },
   {
    "fund_id": "HF0000CM0H",
@@ -861,7 +946,8 @@
    "register_number": "SAZZ23",
    "ret_incep": "0.224",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF0000DR8R",
@@ -871,7 +957,8 @@
    "register_number": "",
    "ret_incep": "0.0567",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": true
   },
   {
    "fund_id": "HF0000D97B",
@@ -881,7 +968,8 @@
    "register_number": "SBEQ54",
    "ret_incep": "0.0516",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF0000DAH9",
@@ -891,7 +979,8 @@
    "register_number": "SBHX81",
    "ret_incep": "",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF0000DR8T",
@@ -901,7 +990,8 @@
    "register_number": "",
    "ret_incep": "0.078",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": true
   },
   {
    "fund_id": "HF0000DCTZ",
@@ -911,7 +1001,8 @@
    "register_number": "SBJD87",
    "ret_incep": "0.078",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF0000DD2Q",
@@ -921,7 +1012,8 @@
    "register_number": "SVG391",
    "ret_incep": "0.0407",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": true
   },
   {
    "fund_id": "HF0000DD33",
@@ -931,7 +1023,8 @@
    "register_number": "SBFX31",
    "ret_incep": "0.0658",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": true
   },
   {
    "fund_id": "HF0000DE65",
@@ -941,7 +1034,8 @@
    "register_number": "SBLE71",
    "ret_incep": "",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": true
   },
   {
    "fund_id": "HF0000DP9F",
@@ -951,7 +1045,8 @@
    "register_number": "SBUY99",
    "ret_incep": "",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF0000DQD6",
@@ -961,7 +1056,8 @@
    "register_number": "SABY42",
    "ret_incep": "",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF0000DVQS",
@@ -971,7 +1067,8 @@
    "register_number": "SAUT99",
    "ret_incep": "",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   }
  ]
 }

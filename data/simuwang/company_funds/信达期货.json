@@ -1,6 +1,271 @@
 {
  "company_id": "CO000000T9",
  "company_short_name": "信达期货",
- "n_funds": 0,
- "funds": []
+ "n_funds": 24,
+ "funds": [
+  {
+   "fund_id": "HF000025I4",
+   "name": "信达诚睿2号",
+   "inception_date": "2016-10-14",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SM6639",
+   "ret_incep": "0.923249",
+   "is_liquidate": false,
+   "is_nav_visible": false,
+   "is_daixiao": true
+  },
+  {
+   "fund_id": "HF00002EIX",
+   "name": "信达诚睿3号",
+   "inception_date": "2017-01-17",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SR6940",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false,
+   "is_daixiao": false
+  },
+  {
+   "fund_id": "HF00006JOG",
+   "name": "信达诚睿进取6号",
+   "inception_date": "2020-11-03",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SND145",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false,
+   "is_daixiao": false
+  },
+  {
+   "fund_id": "HF00007P45",
+   "name": "信达诚睿聚进1号",
+   "inception_date": "2021-09-14",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SSS115",
+   "ret_incep": "0.062642",
+   "is_liquidate": false,
+   "is_nav_visible": false,
+   "is_daixiao": true
+  },
+  {
+   "fund_id": "HF00007V5P",
+   "name": "信达永利6号",
+   "inception_date": "2021-11-03",
+   "strategy": "债券策略",
+   "register_number": "SSX574",
+   "ret_incep": "0.158132",
+   "is_liquidate": false,
+   "is_nav_visible": false,
+   "is_daixiao": true
+  },
+  {
+   "fund_id": "HF00009SZ9",
+   "name": "信达双周赢1号",
+   "inception_date": "2022-11-02",
+   "strategy": "债券策略",
+   "register_number": "SXP426",
+   "ret_incep": "0.261673",
+   "is_liquidate": false,
+   "is_nav_visible": false,
+   "is_daixiao": true
+  },
+  {
+   "fund_id": "HF00009UI8",
+   "name": "信达运时1号",
+   "inception_date": "2022-11-15",
+   "strategy": "债券策略",
+   "register_number": "SXP196",
+   "ret_incep": "0.226513",
+   "is_liquidate": false,
+   "is_nav_visible": false,
+   "is_daixiao": true
+  },
+  {
+   "fund_id": "HF0000A0O7",
+   "name": "信达永利7号FOF",
+   "inception_date": "2022-12-21",
+   "strategy": "组合基金",
+   "register_number": "SXY322",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false,
+   "is_daixiao": false
+  },
+  {
+   "fund_id": "HF0000A40D",
+   "name": "信达年年赢1号",
+   "inception_date": "2023-01-16",
+   "strategy": "债券策略",
+   "register_number": "SZE624",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false,
+   "is_daixiao": false
+  },
+  {
+   "fund_id": "HF0000AKKF",
+   "name": "信达常至1号",
+   "inception_date": "2023-04-13",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SZQ867",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false,
+   "is_daixiao": false
+  },
+  {
+   "fund_id": "HF0000BJGU",
+   "name": "信达添鑫1号",
+   "inception_date": "2024-04-19",
+   "strategy": "债券策略",
+   "register_number": "SAKA45",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false,
+   "is_daixiao": true
+  },
+  {
+   "fund_id": "HF0000CQ1G",
+   "name": "信达鼎元14号",
+   "inception_date": "2025-08-28",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBDJ20",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false,
+   "is_daixiao": false
+  },
+  {
+   "fund_id": "HF0000CQ1E",
+   "name": "信达鼎元15号",
+   "inception_date": "2025-08-28",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBDJ23",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false,
+   "is_daixiao": false
+  },
+  {
+   "fund_id": "HF0000CR9N",
+   "name": "信达恒兴13号",
+   "inception_date": "2025-09-05",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBEE06",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false,
+   "is_daixiao": false
+  },
+  {
+   "fund_id": "HF0000CR9O",
+   "name": "信达恒兴15号",
+   "inception_date": "2025-09-05",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBET35",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false,
+   "is_daixiao": false
+  },
+  {
+   "fund_id": "HF0000CR9L",
+   "name": "信达恒兴16号",
+   "inception_date": "2025-09-05",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBET40",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false,
+   "is_daixiao": false
+  },
+  {
+   "fund_id": "HF0000CR9K",
+   "name": "信达鼎元12号",
+   "inception_date": "2025-09-05",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBDJ16",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false,
+   "is_daixiao": false
+  },
+  {
+   "fund_id": "HF0000CRIH",
+   "name": "信达恒兴17号",
+   "inception_date": "2025-09-19",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBET42",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false,
+   "is_daixiao": false
+  },
+  {
+   "fund_id": "HF0000CRIE",
+   "name": "信达恒兴11号",
+   "inception_date": "2025-09-22",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBEE02",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false,
+   "is_daixiao": false
+  },
+  {
+   "fund_id": "HF0000CRZA",
+   "name": "信达福源12号",
+   "inception_date": "2025-09-29",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBEW90",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false,
+   "is_daixiao": false
+  },
+  {
+   "fund_id": "HF0000CRZ9",
+   "name": "信达福源15号",
+   "inception_date": "2025-09-29",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBEW96",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false,
+   "is_daixiao": false
+  },
+  {
+   "fund_id": "HF0000DETM",
+   "name": "信达福源18号",
+   "inception_date": "2025-12-04",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBEX07",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false,
+   "is_daixiao": false
+  },
+  {
+   "fund_id": "HF0000DETJ",
+   "name": "信达福源17号",
+   "inception_date": "2025-12-04",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBKT59",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false,
+   "is_daixiao": false
+  },
+  {
+   "fund_id": "HF0000DETN",
+   "name": "信达福源20号",
+   "inception_date": "2025-12-04",
+   "strategy": "期货及衍生品策略",
+   "register_number": "SBEX14",
+   "ret_incep": "",
+   "is_liquidate": false,
+   "is_nav_visible": false,
+   "is_daixiao": false
+  }
+ ]
 }

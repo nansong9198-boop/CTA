@@ -130,6 +130,7 @@ def enum_company(cli, cid, short):
             "ret_incep": m.get("ret_incep"),
             "is_liquidate": m.get("is_liquidate") == "1",
             "is_nav_visible": m.get("is_nav_visible") == 1,
+            "is_daixiao": str(m.get("is_daixiao")) == "1",  # 排排在售(2026-10-07验证)
         })
     return out
 

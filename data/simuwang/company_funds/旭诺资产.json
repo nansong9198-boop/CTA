@@ -11,7 +11,8 @@
    "register_number": "SJ2640",
    "ret_incep": "",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF00008YG2",
@@ -21,7 +22,8 @@
    "register_number": "SNK038",
    "ret_incep": "0.934607",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF0000E07I",
@@ -31,7 +33,8 @@
    "register_number": "",
    "ret_incep": "0.713045",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": true
   },
   {
    "fund_id": "HF0000CAT1",
@@ -41,7 +44,8 @@
    "register_number": "SASQ49",
    "ret_incep": "",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   }
  ]
 }

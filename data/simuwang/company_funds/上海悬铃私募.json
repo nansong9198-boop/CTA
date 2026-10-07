@@ -11,7 +11,8 @@
    "register_number": "SCH558",
    "ret_incep": "2.917",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": true
   },
   {
    "fund_id": "HF00004GPI",
@@ -21,7 +22,8 @@
    "register_number": "SCJ772",
    "ret_incep": "3.398938",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF000057AU",
@@ -31,7 +33,8 @@
    "register_number": "SEK201",
    "ret_incep": "1.461348",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF0000BGES",
@@ -41,7 +44,8 @@
    "register_number": "",
    "ret_incep": "1.101057",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": true
   },
   {
    "fund_id": "HF00005D0O",
@@ -51,7 +55,8 @@
    "register_number": "SGA921",
    "ret_incep": "1.647288",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF00005FJW",
@@ -61,7 +66,8 @@
    "register_number": "SGH126",
    "ret_incep": "",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF0000BGF1",
@@ -71,7 +77,8 @@
    "register_number": "",
    "ret_incep": "",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF00005FNS",
@@ -81,7 +88,8 @@
    "register_number": "SGH302",
    "ret_incep": "1.364912",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF00005FNT",
@@ -91,7 +99,8 @@
    "register_number": "SGH303",
    "ret_incep": "",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF000069PB",
@@ -101,7 +110,8 @@
    "register_number": "",
    "ret_incep": "",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": true
   },
   {
    "fund_id": "HF000069PC",
@@ -111,7 +121,8 @@
    "register_number": "",
    "ret_incep": "",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": true
   },
   {
    "fund_id": "HF000069OV",
@@ -121,7 +132,8 @@
    "register_number": "",
    "ret_incep": "0.832417",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": true
   },
   {
    "fund_id": "HF00006W7E",
@@ -131,7 +143,8 @@
    "register_number": "SNY736",
    "ret_incep": "",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF0000BGEU",
@@ -141,7 +154,8 @@
    "register_number": "",
    "ret_incep": "",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": true
   },
   {
    "fund_id": "HF0000777C",
@@ -151,7 +165,8 @@
    "register_number": "SQE874",
    "ret_incep": "",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF000083CL",
@@ -161,7 +176,8 @@
    "register_number": "STP551",
    "ret_incep": "",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": true
   },
   {
    "fund_id": "HF000088IJ",
@@ -171,7 +187,8 @@
    "register_number": "SVB806",
    "ret_incep": "",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": true
   },
   {
    "fund_id": "HF0000BGEZ",
@@ -181,7 +198,8 @@
    "register_number": "",
    "ret_incep": "",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": true
   },
   {
    "fund_id": "HF0000DJPC",
@@ -191,7 +209,8 @@
    "register_number": "",
    "ret_incep": "0.161534",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": true
   },
   {
    "fund_id": "HF00008BG2",
@@ -201,7 +220,8 @@
    "register_number": "STW103",
    "ret_incep": "0.161534",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF0000BGEW",
@@ -211,7 +231,8 @@
    "register_number": "",
    "ret_incep": "0.351",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": true
   },
   {
    "fund_id": "HF000090SG",
@@ -221,7 +242,8 @@
    "register_number": "SVH343",
    "ret_incep": "0.361",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF0000DBKG",
@@ -231,7 +253,8 @@
    "register_number": "",
    "ret_incep": "0.256442",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": true
   },
   {
    "fund_id": "HF00009KJ1",
@@ -241,7 +264,8 @@
    "register_number": "SXG898",
    "ret_incep": "",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF0000BEMF",
@@ -251,7 +275,8 @@
    "register_number": "",
    "ret_incep": "1.618362",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": true
   },
   {
    "fund_id": "HF0000BGF0",
@@ -261,7 +286,8 @@
    "register_number": "",
    "ret_incep": "1.5538",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": true
   },
   {
    "fund_id": "HF00009ZN7",
@@ -271,7 +297,8 @@
    "register_number": "SZA312",
    "ret_incep": "1.5579",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF0000BGF2",
@@ -281,7 +308,8 @@
    "register_number": "",
    "ret_incep": "0.935172",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": true
   },
   {
    "fund_id": "HF0000A0U9",
@@ -291,7 +319,8 @@
    "register_number": "SZD124",
    "ret_incep": "0.951162",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF0000DFIU",
@@ -301,7 +330,8 @@
    "register_number": "",
    "ret_incep": "0.0626",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": true
   },
   {
    "fund_id": "HF0000A1ZI",
@@ -311,7 +341,8 @@
    "register_number": "SZF450",
    "ret_incep": "0.091508",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF0000AH8M",
@@ -321,7 +352,8 @@
    "register_number": "SZF199",
    "ret_incep": "0.260818",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF0000DP0J",
@@ -331,7 +363,8 @@
    "register_number": "",
    "ret_incep": "0.0145",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": true
   },
   {
    "fund_id": "HF0000AN9Y",
@@ -341,7 +374,8 @@
    "register_number": "SZF196",
    "ret_incep": "0.534687",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": false
   },
   {
    "fund_id": "HF0000DFEI",
@@ -351,7 +385,8 @@
    "register_number": "",
    "ret_incep": "3.39894",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": true
   },
   {
    "fund_id": "HF0000DP0K",
@@ -361,7 +396,8 @@
    "register_number": "",
    "ret_incep": "",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": true
   },
   {
    "fund_id": "HF0000DWFO",
@@ -371,7 +407,8 @@
    "register_number": "SAFR16",
    "ret_incep": "",
    "is_liquidate": false,
-   "is_nav_visible": false
+   "is_nav_visible": false,
+   "is_daixiao": true
   }
  ]
 }

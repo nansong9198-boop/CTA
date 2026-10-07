@@ -17,6 +17,7 @@ import glob
 import json
 import math
 import os
+import re
 import statistics
 import sys
 from collections import defaultdict
@@ -251,6 +252,20 @@ def parse_min_inv(detail):
         return None
 
 
+def on_sale_info(name, detail, search_matches):
+    """排排在售判定(2026-10-07用户拍板, is_daixiao=1): 产品本身或同名份额(如C类)任一在售即可买。
+    返回 (是否可买, 在售份额名称)"""
+    def norm(n):
+        return re.sub(r"[ABC]?类份额$", "", n or "")
+    fid = (detail.get("baseInfo") or {}).get("fund_id")
+    for m in search_matches or []:
+        if str(m.get("is_daixiao")) != "1":
+            continue
+        if m.get("query_id") == fid or norm(m.get("fund_short_name")) == norm(name):
+            return True, m.get("fund_short_name", "")
+    return False, ""
+
+
 def _reasons(r):
     """根据指标自动生成适配理由(pros)与风险点(cons)"""
     pros, cons = [], []
@@ -366,6 +381,9 @@ def generate_report(pool, excluded, siblings_note):
                          f"起购{fees.get('min_inv_text') or '-'}")
             if r.get("min_inv_pending"):
                 L.append("- ⚠ 起购金额待确认（排排网显示'认证可见'或空缺，申购前需向管理人/销售机构核实）")
+            if r.get("sale_share"):
+                L.append(f"- 排排在售: 可买份额 = {r['sale_share']}"
+                         + ("" if r["sale_share"] == r["name"] else "（本评价基于同产品主份额净值，买入标的为该份额）"))
             # 回撤形态四指标(分布口径, 与股票类体系统一, 2026-10-07)
             dd_line = (f"前5大回撤均值{r['top5_mdd']*100:.1f}%（{r['n_episodes']}个独立episode"
                        f"{'，不足5个低置信度' if r['dd_low_conf'] else ''}） / "
@@ -507,6 +525,12 @@ def main():
             print(f"[剔除] {name}: 起购{min_inv:.0f}万超预算")
             continue
         min_inv_pending = min_inv is None
+        # 排排在售门槛(2026-10-07用户拍板): 本身或同名份额(如C类)任一在售(is_daixiao=1)才可买
+        on_sale, sale_share = on_sale_info(name, detail, d.get("search_matches"))
+        if not on_sale:
+            excluded.append((name, symbol, "无在售份额（可能无配额/已下架）——排排在售门槛"))
+            print(f"[剔除] {name}: 无在售份额")
+            continue
         # 统一重采样为周频(每周最后一个净值点)
         weekly = resample_weekly(raw_ns)
         # 任职区间过滤: 仅统计现任基金经理任职以来的净值
@@ -526,6 +550,7 @@ def main():
         m.update(name=name, symbol=symbol, pm=pm, pm_start=pm_start,
                  mgr=mgr_name, fees=extract_fees(detail),
                  min_inv_pending=min_inv_pending,
+                 on_sale=on_sale, sale_share=sale_share,
                  freq=resample_note(raw_ns),
                  strategy=(summary.get(name) or {}).get("策略", ""))
         if mi:
