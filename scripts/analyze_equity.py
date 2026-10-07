@@ -35,6 +35,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "scripts"))
 from analyze_weekly import resample_weekly  # 周频重采样与CTA体系一致
+from drawdown_utils import drawdown, drawdown_shape  # 回撤分布口径两体系共用
 
 RF = 0.015
 WEEKS_PER_YEAR = 52
@@ -107,75 +108,6 @@ def align_fund_bench(fund_points, bench_comp_rets, weights):
         fn *= 1 + a; bn *= 1 + b
         fnav.append(fn); bnav.append(bn)
     return dates, fr, br, fnav, bnav
-
-
-def drawdown(curve):
-    peak, mdd = curve[0], 0.0
-    for v in curve:
-        peak = max(peak, v)
-        mdd = min(mdd, v / peak - 1)
-    return mdd
-
-
-def drawdown_episodes(dates, curve):
-    """净值曲线 -> 独立回撤episode列表(峰值->谷底->修复创新高)。
-
-    每episode: depth(谷底/峰-1), peak_date/trough_date/recovery_date,
-    repair_weeks(谷底->创新高, 周), repaired(未修复=当前仍水下)
-    """
-    eps = []
-    peak, peak_date = curve[0], dates[0]
-    in_dd = False
-    ep = None
-    for d, v in zip(dates[1:], curve[1:]):
-        if v >= peak:
-            if in_dd:
-                ep["recovery_date"] = d
-                ep["repair_weeks"] = round((d - ep["trough_date"]).days / 7, 1)
-                ep["repaired"] = True
-                eps.append(ep)
-                in_dd = False
-            peak, peak_date = v, d
-        else:
-            if not in_dd:
-                in_dd = True
-                ep = dict(peak_date=peak_date, peak=peak,
-                          trough_date=d, trough=v, repaired=False)
-            if v < ep["trough"]:
-                ep["trough"], ep["trough_date"] = v, d
-    if in_dd:  # 未修复: 损失是现实的而非历史的
-        ep["depth"] = ep["trough"] / ep["peak"] - 1
-        eps.append(ep)
-    for ep in eps:
-        ep.setdefault("depth", ep["trough"] / ep["peak"] - 1)
-    return eps
-
-
-def drawdown_shape(dates, curve):
-    """回撤形态四指标(用户2026-10-07拍板: 回撤看分布, 不只看单次最大值)"""
-    eps = drawdown_episodes(dates, curve)
-    if not eps:
-        return dict(top5_mdd=0.0, dd_concentration=float("nan"), n_deep=0,
-                    avg_repair_weeks=None, n_episodes=0, n_unrepaired=0,
-                    dd_low_conf=True, top5=[])
-    by_depth = sorted(eps, key=lambda e: e["depth"])
-    top5 = by_depth[:5]
-    top5_mean = statistics.mean(e["depth"] for e in top5)
-    mdd = by_depth[0]["depth"]
-    repaired = [e for e in eps if e["repaired"]]
-    # 平均修复时间只统计实质回撤(谷底<-5%), 避免微小波动一周修复拉低均值
-    repaired_deep = [e for e in repaired if e["depth"] < -0.05]
-    return dict(
-        top5_mdd=top5_mean,                      # 前5大回撤均值
-        dd_concentration=mdd / top5_mean if top5_mean else float("nan"),  # ≈1: 深度回撤是常态
-        n_deep=sum(1 for e in eps if e["depth"] < -0.10),  # 深度回撤次数(谷底跌超-10%)
-        avg_repair_weeks=(round(statistics.mean(e["repair_weeks"] for e in repaired_deep), 1)
-                          if repaired_deep else None),
-        n_episodes=len(eps),
-        n_unrepaired=sum(1 for e in eps if not e["repaired"]),
-        dd_low_conf=len(eps) < 5,                # episode不足5个: 均值低置信度
-        top5=top5,
-    )
 
 
 def uw_stats(dates, curve):
@@ -567,7 +499,7 @@ def reasons(r):
         cons.append(f"前5大回撤均值{r['top5_mdd']*100:.1f}%超-20%容忍线"
                     + ("（episode不足5个，低置信度）" if r["dd_low_conf"] else ""))
     if r.get("dd_concentration") == r.get("dd_concentration") and r["dd_concentration"] <= 1.2 \
-       and r["n_episodes"] >= 5:
+       and r["n_episodes"] >= 5 and r.get("n_deep", 0) >= 2:
         cons.append(f"回撤集中度{r['dd_concentration']:.2f}≈1，深度回撤是常态，风控系统性偏弱")
     if r.get("n_unrepaired"):
         cons.append(f"当前仍有{r['n_unrepaired']}个回撤episode未修复，损失是现实的而非历史的")

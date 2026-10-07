@@ -18,8 +18,13 @@ import json
 import math
 import os
 import statistics
+import sys
 from collections import defaultdict
 from datetime import date
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from drawdown_utils import drawdown_shape  # 回撤分布口径与股票类体系共用(2026-10-07统一)
 
 RF = 0.015  # 无风险利率(年化)
 WEEKS_PER_YEAR = 52
@@ -143,7 +148,8 @@ def metrics(points):
                 sharpe=sharpe, mdd=mdd, calmar=calmar, sortino=sortino, dd_ann=dd_ann,
                 win=win, new_high=new_high, skew=skew, var5=var5, es5=es5,
                 worst=srt[0], pl_ratio=pl_ratio, uw_max=uw_max, uw_cur=cu,
-                uw_days_max=uw_days_max, streak_max=max_streak)
+                uw_days_max=uw_days_max, streak_max=max_streak,
+                **drawdown_shape([d for d, _ in points], curve))  # 回撤分布口径
 
 
 def quarterly_returns(points):
@@ -268,8 +274,17 @@ def _reasons(r):
         cons.append(f"成立仅{r['age']}年，未经历完整商品周期，可靠性折扣后排名被压低")
     if r["uw_max"] >= 39:
         cons.append(f"最长{r['uw_max']}周（约{r['uw_max']//4}个季度）未创新高，持有体验差")
-    if r["mdd"] <= -0.15:
-        cons.append(f"周频真实最大回撤已达{r['mdd']*100:.0f}%，超-15%阈值")
+    # 回撤分布口径(2026-10-07统一): 前5大回撤均值/集中度/未修复
+    if r.get("top5_mdd", 0) > -0.20 and not r.get("dd_low_conf"):
+        pros.append(f"前5大回撤均值{r['top5_mdd']*100:.1f}%，分布在-20%容忍度内")
+    if r.get("top5_mdd", 0) < -0.20:
+        cons.append(f"前5大回撤均值{r['top5_mdd']*100:.1f}%超-20%容忍线"
+                    + ("（episode不足5个，低置信度）" if r.get("dd_low_conf") else ""))
+    if r.get("dd_concentration") == r.get("dd_concentration") and r["dd_concentration"] <= 1.2 \
+       and r.get("n_episodes", 0) >= 5 and r.get("n_deep", 0) >= 2:
+        cons.append(f"回撤集中度{r['dd_concentration']:.2f}≈1，深度回撤是常态而非单次尾部")
+    if r.get("n_unrepaired"):
+        cons.append(f"当前仍有{r['n_unrepaired']}个回撤episode未修复，损失是现实的而非历史的")
     if r.get("crisis_win", 1) < 0.55:
         cons.append(f"危机胜率仅{r['crisis_win']*100:.0f}%，危机保护能力弱")
     if r["pl_ratio"] < 1.5:
@@ -298,11 +313,12 @@ def generate_report(pool, excluded, siblings_note):
              ("观察", 0.50, 0.62), ("低适配", -1, 0.50)]
 
     # 高适配层需同时过绝对阈值线(周频口径), 避免纯相对排名失真
+    # 回撤为分布口径(2026-10-07用户拍板, 与股票类体系统一): 前5大回撤episode均值 ≥ -20%
     def pass_absolute(r):
         if r["sharpe"] <= 1.0:
             return False, f"夏普{r['sharpe']:.2f}未达1.0"
-        if r["mdd"] < -0.15:
-            return False, f"周频真实回撤{r['mdd']*100:.0f}%超-15%"
+        if r.get("top5_mdd", r["mdd"]) < -0.20:
+            return False, f"前5大回撤均值{r.get('top5_mdd', r['mdd'])*100:.0f}%超-20%"
         if not r.get("crisis_low_n") and r.get("crisis_win", 0) < 0.6:
             return False, f"危机胜率{r.get('crisis_win',0)*100:.0f}%未达60%"
         return True, ""
@@ -350,6 +366,20 @@ def generate_report(pool, excluded, siblings_note):
                          f"起购{fees.get('min_inv_text') or '-'}")
             if r.get("min_inv_pending"):
                 L.append("- ⚠ 起购金额待确认（排排网显示'认证可见'或空缺，申购前需向管理人/销售机构核实）")
+            # 回撤形态四指标(分布口径, 与股票类体系统一, 2026-10-07)
+            dd_line = (f"前5大回撤均值{r['top5_mdd']*100:.1f}%（{r['n_episodes']}个独立episode"
+                       f"{'，不足5个低置信度' if r['dd_low_conf'] else ''}） / "
+                       f"回撤集中度{r['dd_concentration']:.2f} / "
+                       f"深度回撤(谷底<-10%)次数{r['n_deep']} / "
+                       + (f"实质回撤(<-5%)平均修复{r['avg_repair_weeks']:.0f}周"
+                          if r.get("avg_repair_weeks") is not None else "实质回撤(<-5%)均无已修复样本"))
+            L.append(f"- 回撤形态: {dd_line}")
+            if r.get("n_unrepaired"):
+                cur = next((e for e in r["top5"] if not e["repaired"]), None)
+                L.append(f"- ⚠ 未修复回撤: {r['n_unrepaired']}个episode仍在水下"
+                         + (f"（当前回撤最深{cur['depth']*100:.1f}%，始于{cur['peak_date']}，"
+                            f"谷底{cur['trough_date']}）——未修复意味着损失是现实的而非历史的"
+                            if cur else ""))
             if r.get("_demoted"):
                 L.append(f"- ⚠ 得分达高适配线但未过绝对阈值（{r['_demoted']}），列入备选")
             L.append("- 适配理由: " + "；".join(pros))
