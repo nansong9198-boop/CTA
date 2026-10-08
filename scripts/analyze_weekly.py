@@ -44,13 +44,16 @@ SAME_STRATEGY_PAIRS = [("量派CTA十号2期", "量派CTA七号C"),
                        ("量派CTA十号2期C类份额", "量派CTA十号2期"),
                        ("量派CTA十号2期C类份额", "量派CTA七号C"),
                        ("博衍九溪CTA2号A", "博衍九溪CTA1号"),
-                       ("宏锡量化CTA7号二期", "宏锡量化CTA7号")]
+                       ("宏锡量化CTA7号二期", "宏锡量化CTA7号"),
+                       ("博衍九溪CTA5号A类份额", "博衍九溪CTA1号")]
 # 同策略嫁接(2026-10-08用户拍板): 实锤(相关性>0.9且std比0.9~1.1)的短样本产品,
 # 评分时用长样本兄弟产品的净值序列(费率差量折算), 得分乘嫁接折扣
 GRAFT_PAIRS = [("量派CTA十号2期", "量派CTA七号C"),
                ("量派CTA十号2期C类份额", "量派CTA七号C"),
                ("博衍九溪CTA2号A", "博衍九溪CTA1号"),
-               ("宏锡量化CTA7号二期", "宏锡量化CTA7号")]
+               ("宏锡量化CTA7号二期", "宏锡量化CTA7号"),
+               ("博衍九溪CTA5号A类份额", "博衍九溪CTA1号"),
+               ("博衍九溪CTA5号", "博衍九溪CTA1号")]
 GRAFT_DISCOUNT = 0.9  # 嫁接折扣: 平移逻辑有推断成分, 不等同原生数据
 
 
@@ -372,10 +375,15 @@ def generate_report(pool, excluded, siblings_note):
             L.append(f"### {r['name']}（{r['symbol']}，{r['age']}年，适配度得分{r['score_v3']:.2f}）")
             if r.get("grafted_from"):
                 L.append(f"- **⚠ 同策略嫁接评估: {r['graft_note']}**")
+            elif r.get("graft_note"):
+                L.append(f"- {r['graft_note']}")
+
+            def _pct(v, fmt="+.1f"):
+                return f"{v*100:{fmt}}%" if v is not None and v == v else "--"
             L.append(f"- 年化{r['ann_ret']*100:+.1f}% / 真实回撤{r['mdd']*100:.1f}% / 夏普{r['sharpe']:.2f} / "
                      f"索提诺{r['sortino']:.2f} / 胜率{r['win']*100:.0f}% / 盈亏比{r['pl_ratio']:.2f} / "
-                     f"新高{r['new_high']*100:.0f}% / 危机均季{r.get('crisis_avg', float('nan'))*100:+.1f}% / "
-                     f"危机胜率{r.get('crisis_win', float('nan'))*100:.0f}% / 最长水下{r['uw_max']}周"
+                     f"新高{r['new_high']*100:.0f}% / 危机均季{_pct(r.get('crisis_avg'))} / "
+                     f"危机胜率{_pct(r.get('crisis_win'), '.0f')} / 最长水下{r['uw_max']}周"
                      f"（最长{r['uw_days_max']}天未创新高） / 与股票指数最大相关性{r.get('mkt_corr', 0):+.2f}")
             if r.get("mgr"):
                 extra = []
