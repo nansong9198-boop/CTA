@@ -323,6 +323,9 @@ def generate_report(pool, excluded, siblings_note):
          "与 danjuan_cta_report.md 的季度口径不可直接比分**",
          "> 预算约束（2026-10-07 用户拍板）: 起购金额≤200万（单只预算100万、最高接受200万起购）；"
          "量派CTA七号C/量派CTA八号C（500万起购）、瑞达瑞智进取共赢5号（300万起购）因此剔除",
+         "> 股票敞口判定（2026-10-08 修正为不对称口径）: 对称全周期相关性会错杀'涨时跟涨、跌时不跟跌'的凸性产品；"
+         "现为 危机季实测不合格（均季<0或胜率<50%）且下行相关性≥0.30 两条同时满足才剔除，"
+         "全周期相关性≥0.30 降级为疑点标记",
          "> " + siblings_note, ""]
     tiers = [("高适配（核心候选）", 0.70, 99), ("中适配（备选）", 0.62, 0.70),
              ("观察", 0.50, 0.62), ("低适配", -1, 0.50)]
@@ -384,6 +387,8 @@ def generate_report(pool, excluded, siblings_note):
             if r.get("sale_share"):
                 L.append(f"- 排排在售: 可买份额 = {r['sale_share']}"
                          + ("" if r["sale_share"] == r["name"] else "（本评价基于同产品主份额净值，买入标的为该份额）"))
+            if r.get("corr_action") in ("疑点标记", "待观察"):
+                L.append(f"- ⚠ 股指相关性{r['corr_action']}: {r['corr_evid']}")
             # 回撤形态四指标(分布口径, 与股票类体系统一, 2026-10-07)
             dd_line = (f"前5大回撤均值{r['top5_mdd']*100:.1f}%（{r['n_episodes']}个独立episode"
                        f"{'，不足5个低置信度' if r['dd_low_conf'] else ''}） / "
@@ -575,6 +580,19 @@ def main():
         m["qrets"] = qrets
         m.update(crisis_metrics(qrets, crisis_set))
         m["mkt_corr"], m["mkt_corr_detail"] = max_index_corr(qrets, indices)
+        # 下行相关性(2026-10-08规则修正): 仅在股指下跌的季度里计算, 取四指数最大
+        dc_detail, dc_n = {}, {}
+        for iname, idata in indices.items():
+            al = [(r, idata[q]) for q, r in qrets.items() if q in idata and idata[q] < 0]
+            dc_n[iname] = len(al)
+            if len(al) >= 4:
+                fr = [a for a, _ in al]; mr = [b for _, b in al]
+                mf, mm = statistics.mean(fr), statistics.mean(mr)
+                sd = statistics.pstdev(fr) * statistics.pstdev(mr)
+                if sd:
+                    dc_detail[iname] = sum((a - mf) * (b - mm) for a, b in al) / len(al) / sd
+        m["down_corr_detail"], m["down_corr_n"] = dc_detail, dc_n
+        m["down_corr"] = max(dc_detail.values()) if dc_detail else 0.0
         # 同系长样本参照: 成立不足3年的产品找同管理人长样本
         if m["age"] < 3 and siblings_by_company:
             refs = []
@@ -637,43 +655,57 @@ def main():
 
     # ===== 优化方案 v3: 门槛 + 加权 + 可靠性折扣(权重同 analyze_cta.py) =====
     IDX_CN = {"hs300": "沪深300", "zz500": "中证500", "zz1000": "中证1000", "cyb": "创业板指"}
-    # 相关性剔除的产品级核实注释(逐季对照+留一法验证, 见 docs/cta_evaluation_plan.md)
-    EXCL_NOTES = {
-        "因诺CTA2号B": "核实: 相关性主要由股市大涨季同涨贡献（2024Q3/2025Q3/2026Q2 股指+16%~+50%时基金+3%~+10%），"
-                       "危机季度保护尚可（任职以来7个危机季度4正，负季仅-1.4%~-2.8%；"
-                       "2026Q3 股指-12%~-28%时仅-1.4%）；按规则剔除，但风险性质偏'牛市同涨'而非'危机跟跌'",
-    }
 
-    def loo_min_corr(qrets, idata):
-        """留一法: 去掉贡献最大的单个季度后的相关性(相关性稳健性检验)"""
-        qs = [q for q in qrets if q in idata]
+    def loo_min_down_corr(r):
+        """留一法作用于下行相关性: 去掉贡献最大的单个下跌季度后的下行相关性"""
+        detail = r.get("down_corr_detail", {})
+        if not detail:
+            return float("nan"), None
+        top_idx = max(detail, key=lambda k: detail[k])
+        idata = indices.get(top_idx, {})
+        qs = [q for q in r.get("qrets", {}) if q in idata and idata[q] < 0]
         if len(qs) < 5:
-            return float("nan")
+            return float("nan"), top_idx
         vals = []
         for drop in qs:
-            al = [(qrets[q], idata[q]) for q in qs if q != drop]
+            al = [(r["qrets"][q], idata[q]) for q in qs if q != drop]
             fr = [a for a, _ in al]; mr = [b for _, b in al]
             mf, mm = statistics.mean(fr), statistics.mean(mr)
             sd = statistics.pstdev(fr) * statistics.pstdev(mr)
             if sd:
                 vals.append(sum((a - mf) * (b - mm) for a, b in al) / len(al) / sd)
-        return min(vals) if vals else float("nan")
+        return (min(vals) if vals else float("nan")), top_idx
+
+    def corr_judgment(r):
+        """不对称股票敞口判定(2026-10-08规则修正: 对称相关性错杀凸性产品)。
+        返回 (动作, 说明): 剔除/待观察/疑点标记/通过"""
+        full = r.get("mkt_corr", 0)
+        dc = r.get("down_corr", 0.0)
+        avg, win = r.get("crisis_avg"), r.get("crisis_win")
+        crisis_bad = (avg is not None and avg < 0) or (win is not None and win < 0.5)
+        evid = (f"全周期相关性{full:+.2f} / 下行相关性{dc:+.2f} / "
+                f"危机季均收益{(avg or 0)*100:+.1f}%（胜率{(win or 0)*100:.0f}%）")
+        if full < CORR_LIMIT and dc < CORR_LIMIT:
+            return "通过", evid
+        if r.get("crisis_low_n"):
+            return "待观察", evid + " → 危机季样本<4个，低置信度，不做硬剔除，归入待观察"
+        loo, top_idx = loo_min_down_corr(r)
+        robust = (f"，留一法剔除最大贡献下跌季后{loo:+.2f}" if loo == loo else "")
+        if crisis_bad and dc >= CORR_LIMIT:
+            return "剔除", (evid + f" → 判定: 下行场景实测不合格（危机季均收益为负或胜率<50%）"
+                          f"且下行相关性≥{CORR_LIMIT}（{IDX_CN.get(top_idx, '?')}贡献{robust}），剔除")
+        return "疑点标记", evid + " → 危机季实测合格（涨时跟涨、跌时不跟跌的凸性特征），保留但标记"
 
     pool = []
     for r in rows:
-        if r.get("mkt_corr", 0) >= CORR_LIMIT:
-            detail = r.get("mkt_corr_detail", {})
-            top_idx = max(detail, key=lambda k: detail[k]) if detail else None
-            loo = loo_min_corr(r.get("qrets", {}), indices.get(top_idx, {})) if top_idx else float("nan")
-            robust = (f"剔除贡献最大单季后仍{loo:+.2f}≥{CORR_LIMIT}，剔除稳健"
-                      if loo == loo and loo >= CORR_LIMIT else
-                      f"剔除贡献最大单季后降至{loo:+.2f}，处于临界"
-                      if loo == loo else "样本过少无法做留一检验")
-            reason = (f"股票敞口过高: 与股票指数(沪深300/中证500/中证1000/创业板)最大相关性 "
-                      f"{r['mkt_corr']:+.2f} ≥ {CORR_LIMIT}（主要由{IDX_CN.get(top_idx, '?')}贡献，{robust}）, "
-                      f"危机场景下可能跟随股市亏损")
-            if r["name"] in EXCL_NOTES:
-                reason += "。" + EXCL_NOTES[r["name"]]
+        action, evid = corr_judgment(r)
+        r["corr_action"], r["corr_evid"] = action, evid
+        if action == "疑点标记":
+            print(f"[疑点] {r['name']}: {evid}")
+        elif action == "待观察":
+            print(f"[待观察] {r['name']}: {evid}")
+        elif action == "剔除":
+            reason = f"股票敞口过高（不对称判定）: {evid}"
             print(f"[剔除] {r['name']}: {reason}")
             excluded.append((r["name"], r["symbol"], reason))
             continue

@@ -2,7 +2,7 @@
 """宏锡全系CTA横评: 与当前候选池前3对比(用户嫌量派十号2期低波, 找收益更高且回撤在-20%内的)。
 
 口径与 analyze_weekly.py 完全一致(直接import其函数): 周频重采样、任职区间过滤、
-危机阿尔法(15个危机季度)、股指相关性(≥0.30剔除, 临界=剔除最大贡献单季后≤0.30单独讨论)、
+危机阿尔法(15个危机季度)、股指相关性(2026-10-08不对称口径: 危机季实测不合格且下行相关性≥0.30才剔除)、
 回撤分布形态(drawdown_utils)。
 数据: data/simuwang/hongxi/*.json(fetch_hongxi.py) + 主目录已有的宏锡产品。
 """
@@ -34,7 +34,8 @@ def load_product(path):
 
 
 def loo_min_corr(qrets, idata):
-    qs = [q for q in qrets if q in idata]
+    """留一法作用于下行相关性: 仅在股指下跌季度集合内留一"""
+    qs = [q for q in qrets if q in idata and idata[q] < 0]
     if len(qs) < 5:
         return float("nan")
     vals = []
@@ -88,9 +89,32 @@ def main():
             continue
         qrets = quarterly_returns(weekly)
         mc, mc_detail = max_index_corr(qrets, indices)
+        # 下行相关性(2026-10-08不对称口径): 仅股指下跌季度
+        dc_detail, dc_n = {}, {}
+        for iname, idata in indices.items():
+            al = [(r, idata[q]) for q, r in qrets.items() if q in idata and idata[q] < 0]
+            dc_n[iname] = len(al)
+            if len(al) >= 4:
+                fr = [a for a, _ in al]; mr = [b for _, b in al]
+                mf, mm = statistics.mean(fr), statistics.mean(mr)
+                sd = statistics.pstdev(fr) * statistics.pstdev(mr)
+                if sd:
+                    dc_detail[iname] = sum((a - mf) * (b - mm) for a, b in al) / len(al) / sd
+        down_corr = max(dc_detail.values()) if dc_detail else 0.0
         top_idx = max(mc_detail, key=lambda k: mc_detail[k]) if mc_detail else None
-        loo = loo_min_corr(qrets, indices.get(top_idx, {})) if top_idx else float("nan")
         cm = crisis_metrics(qrets, crisis_set)
+        # 不对称判定: 危机季实测不合格 且 下行相关性>=0.30 才剔除
+        crisis_bad = (cm.get("crisis_avg") is not None and cm["crisis_avg"] < 0) or \
+                     (cm.get("crisis_win") is not None and cm["crisis_win"] < 0.5)
+        low_conf = cm.get("crisis_n", 0) < 4
+        if down_corr >= CORR_LIMIT and crisis_bad and not low_conf:
+            top_dn = max(dc_detail, key=lambda k: dc_detail[k]) if dc_detail else None
+            loo_dn = loo_min_corr(qrets, indices.get(top_dn, {})) if top_dn else float("nan")
+            verdict = "剔除" + (f"（留一后{loo_dn:+.2f}）" if loo_dn == loo_dn else "")
+        elif mc >= CORR_LIMIT or down_corr >= CORR_LIMIT:
+            verdict = "待观察" if low_conf else "疑点标记"
+        else:
+            verdict = "通过"
         min_inv = parse_min_inv(detail)
         fees = extract_fees(detail)
         fd = bi.get("inception_date")
@@ -101,7 +125,7 @@ def main():
             ann=m["ann_ret"], mdd=m["mdd"], top5=m["top5_mdd"], sharpe=m["sharpe"],
             sortino=m["sortino"], calmar=m["calmar"],
             crisis_win=cm.get("crisis_win"), crisis_avg=cm.get("crisis_avg"),
-            mkt_corr=mc, loo=loo, top_idx=top_idx,
+            mkt_corr=mc, down_corr=down_corr, verdict=verdict, top_idx=top_idx,
             min_inv=min_inv, lock=fees.get("lock_period", ""),
             perf=fees.get("perf_fee", ""),
         ))
@@ -110,18 +134,15 @@ def main():
     print(f"=== 宏锡全系CTA横评（{len(rows)}只有净值，{len(skipped)}只不可得）===")
     print(f"管理人门槛: 宏锡2015年成立/100亿+，过20亿线")
     print(f"{'产品':<18}{'年数':>5}{'周数':>5} {'年化':>7} {'真实回撤':>7} {'前5均值':>7} {'夏普':>6} "
-          f"{'索提诺':>6} {'卡玛':>6} {'危机胜率':>6} {'股指相关':>7} {'临界?':>5} {'起购':>5} {'在售':>4}")
+          f"{'索提诺':>6} {'卡玛':>6} {'危机胜率':>6} {'全周期':>6} {'下行':>6} {'判定':>6} {'起购':>5} {'在售':>4}")
     for r in rows:
-        borderline = "临界" if (r["mkt_corr"] >= CORR_LIMIT and r["loo"] == r["loo"]
-                              and r["loo"] < CORR_LIMIT) else (
-                      "超限" if r["mkt_corr"] >= CORR_LIMIT else "")
         mi = f"{r['min_inv']:.0f}万" if r["min_inv"] is not None else "待确认"
         sale = {True: "在售", False: "不在售", None: "未知"}[r["on_sale"]]
         cw = f"{r['crisis_win']*100:.0f}%" if r["crisis_win"] is not None else "--"
         print(f"{r['name'][:16]:<18}{r['age'] or 0:>5.1f}{r['n']:>5d} "
               f"{r['ann']*100:>6.1f}% {r['mdd']*100:>6.1f}% {r['top5']*100:>6.1f}% "
               f"{r['sharpe']:>6.2f} {r['sortino']:>6.2f} {r['calmar']:>6.2f} {cw:>6} "
-              f"{r['mkt_corr']:>+6.2f} {borderline:>5} {mi:>5} {sale:>4}")
+              f"{r['mkt_corr']:>+6.2f} {r['down_corr']:>+6.2f} {r['verdict']:>6} {mi:>5} {sale:>4}")
     print("\n不可得:", "、".join(n for n, _ in skipped) or "无")
 
     # 与现池前3同口径对比(直接重算)
@@ -132,8 +153,7 @@ def main():
         wk = resample_weekly(ns)
         m = metrics(wk)
         ref.append((n, m))
-    best = [r for r in rows if r["mdd"] >= -0.20 and (r["mkt_corr"] < CORR_LIMIT or (
-        r["loo"] == r["loo"] and r["loo"] < CORR_LIMIT))]
+    best = [r for r in rows if r["top5"] >= -0.20 and r["verdict"] != "剔除"]
     best = best[:3]
     print(f"{'产品':<18}{'年化':>7} {'真实回撤':>7} {'夏普':>6} {'卡玛':>6} {'索提诺':>6}")
     for n, m in ref:
@@ -153,21 +173,19 @@ def write_report(rows, skipped, ref, best):
          "管理人门槛: 宏锡2015年成立/100亿+（2026-02），过20亿线",
          "> 适配度框架，不构成投资建议", ""]
     L.append(f"## 横评表（{len(rows)}只有净值数据，{len(skipped)}只不可得）\n")
-    L.append("| 产品 | 成立年数 | 年化 | 真实回撤 | 前5大回撤均值 | 夏普 | 卡玛 | 危机胜率 | 股指相关性 | 起购 | 在售 |")
-    L.append("|---|---|---|---|---|---|---|---|---|---|---|")
+    L.append("| 产品 | 成立年数 | 年化 | 真实回撤 | 前5大回撤均值 | 夏普 | 卡玛 | 危机胜率 | 全周期相关性 | 下行相关性 | 不对称判定 | 起购 | 在售 |")
+    L.append("|---|---|---|---|---|---|---|---|---|---|---|---|---|")
     for r in rows:
-        bl = ("临界*" if r["mkt_corr"] >= CORR_LIMIT and r["loo"] == r["loo"] and r["loo"] < CORR_LIMIT
-              else ("超限" if r["mkt_corr"] >= CORR_LIMIT else "通过"))
         mi = f"{r['min_inv']:.0f}万" if r["min_inv"] is not None else "待确认"
         sale = {True: "在售", False: "不在售", None: "未知"}[r["on_sale"]]
         cw = f"{r['crisis_win']*100:.0f}%" if r["crisis_win"] is not None else "--"
         L.append(f"| {r['name']} | {r['age']} | {r['ann']*100:+.1f}% | {r['mdd']*100:.1f}% | "
                  f"{r['top5']*100:.1f}% | {r['sharpe']:.2f} | {r['calmar']:.2f} | {cw} | "
-                 f"{r['mkt_corr']:+.2f}（{bl}） | {mi} | {sale} |")
+                 f"{r['mkt_corr']:+.2f} | {r['down_corr']:+.2f} | {r['verdict']} | {mi} | {sale} |")
     L.append("")
-    L.append("\\* 临界 = 全周期相关性≥0.30，但剔除贡献最大单个季度后≤0.30（多为创业板大涨季同涨贡献），"
-             "不一刀切剔除，单独讨论。宏锡全系相关性系统性偏高（+0.35~+0.43），"
-             "与其策略含股票/股指敞口或趋势季同涨有关，申购前建议向管理人核实敞口来源")
+    L.append("注: 不对称判定（2026-10-08 规则修正）= 危机季实测不合格（均季<0或胜率<50%）且"
+             "下行相关性（仅股指下跌季度计算）≥0.30 才剔除；全周期相关性≥0.30 仅作疑点标记。"
+             "宏锡全系全周期相关性偏高（+0.35~+0.43）主要由上涨季跟涨贡献，下行相关性普遍低——凸性特征")
     L.append("")
     if skipped:
         L.append("净值不可得（排排网门控）: " + "、".join(n for n, _ in skipped))
@@ -194,7 +212,8 @@ def write_report(rows, skipped, ref, best):
              "但年化仅 +10%~+15%、卡玛 ≤0.95，全面低于现池博衍九溪CTA2号A（+26.0%/-12.5%，卡玛2.08）")
     L.append("- **结论：宏锡无综合优于现首选/备选的产品，首选不变更**——"
              "量派CTA十号2期C类份额（同策略验证）仍为首选，博衍九溪CTA2号A 为高收益备选；"
-             "宏锡产品全系处于股指相关性临界区，且收益-回撤比不占优")
+             "宏锡产品的不对称相关性判定多为疑点标记/通过（涨时跟涨、跌时不跟跌），"
+             "但收益-回撤比不占优")
     L.append("")
     L.append("---")
     L.append("> 免责声明： 本报告仅作信息整理与适配度分析，不构成任何投资建议、要约或收益承诺。"
