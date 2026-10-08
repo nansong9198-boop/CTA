@@ -41,7 +41,17 @@ NON_CTA_HOLDINGS = {"国源拾金3号", "龙旗红利科技轮动平衡5号",
                     "龙旗X计划12号1期", "龙旗红利科技轮动平衡5号1期"}
 # 同策略验证对(货架外候选 vs 已验证基准产品): 重叠窗口周频相关性>0.9视为同策略实锤
 SAME_STRATEGY_PAIRS = [("量派CTA十号2期", "量派CTA七号C"),
-                       ("量派CTA十号2期C类份额", "量派CTA十号2期")]
+                       ("量派CTA十号2期C类份额", "量派CTA十号2期"),
+                       ("量派CTA十号2期C类份额", "量派CTA七号C"),
+                       ("博衍九溪CTA2号A", "博衍九溪CTA1号"),
+                       ("宏锡量化CTA7号二期", "宏锡量化CTA7号")]
+# 同策略嫁接(2026-10-08用户拍板): 实锤(相关性>0.9且std比0.9~1.1)的短样本产品,
+# 评分时用长样本兄弟产品的净值序列(费率差量折算), 得分乘嫁接折扣
+GRAFT_PAIRS = [("量派CTA十号2期", "量派CTA七号C"),
+               ("量派CTA十号2期C类份额", "量派CTA七号C"),
+               ("博衍九溪CTA2号A", "博衍九溪CTA1号"),
+               ("宏锡量化CTA7号二期", "宏锡量化CTA7号")]
+GRAFT_DISCOUNT = 0.9  # 嫁接折扣: 平移逻辑有推断成分, 不等同原生数据
 
 
 def load_danjuan_symbols():
@@ -285,7 +295,7 @@ def _reasons(r):
         pros.append(f"新高占比 {r['new_high']*100:.0f}%，持有体验好")
     if r["age"] >= 7:
         pros.append(f"{r['age']}年长样本，业绩可信度高")
-    if r["age"] < 3:
+    if r["age"] < 3 and not r.get("grafted_from"):
         cons.append(f"成立仅{r['age']}年，未经历完整商品周期，可靠性折扣后排名被压低")
     if r["uw_max"] >= 39:
         cons.append(f"最长{r['uw_max']}周（约{r['uw_max']//4}个季度）未创新高，持有体验差")
@@ -360,6 +370,8 @@ def generate_report(pool, excluded, siblings_note):
         for r in grp:
             pros, cons = _reasons(r)
             L.append(f"### {r['name']}（{r['symbol']}，{r['age']}年，适配度得分{r['score_v3']:.2f}）")
+            if r.get("grafted_from"):
+                L.append(f"- **⚠ 同策略嫁接评估: {r['graft_note']}**")
             L.append(f"- 年化{r['ann_ret']*100:+.1f}% / 真实回撤{r['mdd']*100:.1f}% / 夏普{r['sharpe']:.2f} / "
                      f"索提诺{r['sortino']:.2f} / 胜率{r['win']*100:.0f}% / 盈亏比{r['pl_ratio']:.2f} / "
                      f"新高{r['new_high']*100:.0f}% / 危机均季{r.get('crisis_avg', float('nan'))*100:+.1f}% / "
@@ -374,7 +386,9 @@ def generate_report(pool, excluded, siblings_note):
                 L.append(f"- 管理人: {r['mgr']}" + (f"（{'，'.join(extra)}）" if extra else ""))
             if r.get("pm_start"):
                 L.append(f"- 基金经理: {r.get('pm', '?')}（任职 {r['pm_start']} 起至今，"
-                         f"指标统计区间为其任职以来 {r['n']} 周）")
+                         f"指标统计区间为其任职以来 {r.get('own_n', r['n'])} 周"
+                         + (f"；嫁接评估使用 {r['grafted_from']} 的 {r['n']} 周长样本"
+                            if r.get("grafted_from") else "") + "）")
             fees = r.get("fees", {})
             if any(fees.get(k) for k in ("mgmt_fee", "perf_fee", "purchase_fee", "redeem_fee")):
                 L.append(f"- 费率: 管理费{fees.get('mgmt_fee') or '-'} / 托管{fees.get('bank_fee') or '-'}"
@@ -652,6 +666,79 @@ def main():
         print(f"[同策略验证] {a} vs {b}: {c:+.3f} ({len(common)}周) {verdict}")
         if a in by_name:
             by_name[a]["same_strategy_note"] = note
+            # 记录结构化验证结果供嫁接判定(std比基于重叠窗口周收益)
+            std_r = statistics.pstdev(fa) / statistics.pstdev(fb) if statistics.pstdev(fb) else float("nan")
+            by_name[a].setdefault("_pair_verify", {})[b] = dict(corr=c, std_ratio=std_r)
+
+    # ===== 同策略嫁接(2026-10-08用户拍板): 实锤且同杠杆的短样本产品,
+    # 评分用长样本兄弟产品净值序列(管理费差量按年折算), 可靠性折扣按长样本长度, 得分再乘0.9嫁接折扣 =====
+    def _mgmt_fee(prod):
+        d = json.load(open(f"data/simuwang/{prod}.json", encoding="utf-8"))
+        ei = (d.get("detail") or {}).get("elementInfo") or {}
+        t = ei.get("management_fee_text") or ""
+        m_ = re.search(r"([\d.]+)%", t)
+        return float(m_.group(1)) / 100 if m_ else None
+
+    for short_name, anchor_name in GRAFT_PAIRS:
+        r = by_name.get(short_name)
+        if not r:
+            continue
+        ver = (r.get("_pair_verify") or {}).get(anchor_name)
+        if not ver or not (ver["corr"] > 0.9 and 0.9 <= ver["std_ratio"] <= 1.1):
+            note = (f"{anchor_name} 相关性/杠杆不达标"
+                    f"（corr={ver['corr']:+.2f}，std比{ver['std_ratio']:.2f}），不嫁接" if ver
+                    else f"{anchor_name} 未验证，不嫁接")
+            r["graft_note"] = f"同策略嫁接: {note}"
+            print(f"[嫁接] {short_name}: {note}")
+            continue
+        anchor_wk = _weekly_points(anchor_name)
+        fa, fs = _mgmt_fee(anchor_name), _mgmt_fee(short_name)
+        fee_diff = (fa - fs) if (fa is not None and fs is not None) else 0.0  # 费率差量(正=本产品更便宜,收益上调)
+        # 费率折算: 周收益乘性加差量 (1+r)*(1+diff/52)-1
+        adj = [(anchor_wk[0][0], 1.0)]
+        for i in range(1, len(anchor_wk)):
+            ra = anchor_wk[i][1] / anchor_wk[i - 1][1] - 1
+            adj.append((anchor_wk[i][0], adj[-1][1] * (1 + ra) * (1 + fee_diff / WEEKS_PER_YEAR)))
+        gm = metrics(adj)
+        if not gm:
+            continue
+        qg = quarterly_returns(adj)
+        r["own_n"] = r["n"]
+        r["own_window"] = f"产品自身仅{r['own_n']}周"
+        keep = {k: r[k] for k in ("name", "symbol", "pm", "pm_start", "mgr", "fees",
+                                  "min_inv_pending", "on_sale", "sale_share", "age",
+                                  "strategy", "freq") if k in r}
+        for k in ("mgr_found", "mgr_aum", "mgr_aum_text", "mgr_note"):
+            if k in r:
+                keep[k] = r[k]
+        r.update(gm)
+        r.update(keep)
+        r["qrets"] = qg
+        # 嫁接序列重算危机阿尔法与相关性(供不对称判定)
+        r.pop("crisis_low_n", None)
+        for k in ("crisis_n", "crisis_avg", "crisis_win"):
+            r.pop(k, None)
+        r.update(crisis_metrics(qg, crisis_set))
+        r["mkt_corr"], r["mkt_corr_detail"] = max_index_corr(qg, indices)
+        dc_detail, dc_n = {}, {}
+        for iname, idata in indices.items():
+            al = [(x, idata[q]) for q, x in qg.items() if q in idata and idata[q] < 0]
+            dc_n[iname] = len(al)
+            if len(al) >= 4:
+                fr = [a for a, _ in al]; mr = [b for _, b in al]
+                mf, mm = statistics.mean(fr), statistics.mean(mr)
+                sd = statistics.pstdev(fr) * statistics.pstdev(mr)
+                if sd:
+                    dc_detail[iname] = sum((a - mf) * (b - mm) for a, b in al) / len(al) / sd
+        r["down_corr_detail"], r["down_corr_n"] = dc_detail, dc_n
+        r["down_corr"] = max(dc_detail.values()) if dc_detail else 0.0
+        r["grafted_from"] = anchor_name
+        r["graft_fee_diff"] = fee_diff
+        r["graft_note"] = (f"评估基于同策略长样本产品 {anchor_name} 的净值"
+                           f"（{r['n']}周，管理费差量{fee_diff*100:+.1f}%/年已折算），"
+                           f"产品自身仅{r['own_n']}周；可靠性按长样本计，得分×{GRAFT_DISCOUNT}嫁接折扣")
+        print(f"[嫁接] {short_name} <- {anchor_name}: {r['n']}周(自身{r['own_n']}周), "
+              f"费率差量{fee_diff*100:+.2f}%/年")
 
     # ===== 优化方案 v3: 门槛 + 加权 + 可靠性折扣(权重同 analyze_cta.py) =====
     IDX_CN = {"hs300": "沪深300", "zz500": "中证500", "zz1000": "中证1000", "cyb": "创业板指"}
@@ -694,6 +781,9 @@ def main():
         if crisis_bad and dc >= CORR_LIMIT:
             return "剔除", (evid + f" → 判定: 下行场景实测不合格（危机季均收益为负或胜率<50%）"
                           f"且下行相关性≥{CORR_LIMIT}（{IDX_CN.get(top_idx, '?')}贡献{robust}），剔除")
+        if dc >= CORR_LIMIT:
+            return "疑点标记", (evid + " → 危机季实测合格故保留，但下行相关性偏高"
+                              "（下跌季存在跟随迹象），需关注下跌季风险")
         return "疑点标记", evid + " → 危机季实测合格（涨时跟涨、跌时不跟跌的凸性特征），保留但标记"
 
     pool = []
@@ -742,6 +832,8 @@ def main():
                + 0.05 * r["_v3_win"])
         reliability = min(1.0, r["n"] / FULL_RELIABILITY_WEEKS)  # 6年(312周)满信度
         r["score_v3"] = raw * reliability + 0.5 * (1 - reliability)
+        if r.get("grafted_from"):  # 嫁接折扣: 平移逻辑有推断成分(2026-10-08用户拍板)
+            r["score_v3"] *= GRAFT_DISCOUNT
         r["raw_v3"] = raw
     pool.sort(key=lambda r: -r["score_v3"])
 
